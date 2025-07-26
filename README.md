@@ -4,8 +4,8 @@ This repository contains food resource data collected by Pantry Pirate Radio.
 
 ## Last Update
 
-- **Date**: 2025-07-26 06:59:45 UTC
-- **Total Records**: 11547
+- **Date**: 2025-07-26 07:04:53 UTC
+- **Total Records**: 11565
 - **Data Sources**: 9
 - **Date Range**: 2025-07-23 to 2025-07-26
 
