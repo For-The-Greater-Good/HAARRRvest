@@ -1,15 +1,9 @@
-# Data Repository Statistics
+# Data Statistics
 
-Generated: Thu Jul 24 11:52:13 EDT 2025
+Generated: 2025-07-26 06:59:45 UTC
 
 ## Summary
-- Total days of data:        2
-- Total JSON files:    11544
-- Total size: 617M
 
-## Scrapers
-
-
-## Recent Updates
-    8657 files updated in last 24 hours
-   11544 files updated in last 7 days
+- **Total Records**: 11547
+- **Sources**: 9
+- **Date Range**: 2025-07-23 to 2025-07-26

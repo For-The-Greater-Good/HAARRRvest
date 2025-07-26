@@ -1,25 +1,17 @@
 {
-  "title": "Pantry Pirate Radio Food Resources",
-  "description": "Open data from food resource aggregation system",
-  "license": "MIT",
-  "license_url": "https://github.com/For-The-Greater-Good/pantry-pirate-radio/blob/main/LICENSE",
-  "source": "Pantry Pirate Radio",
-  "source_url": "https://github.com/For-The-Greater-Good/pantry-pirate-radio",
+  "title": "Pantry Pirate Radio - Food Resource Data",
+  "description": "Food resource data following OpenReferral HSDS specification",
   "databases": {
     "pantry_pirate_radio": {
-      "description": "Food resource locations following HSDS specification",
       "tables": {
-        "organizations": {
-          "description": "Organizations providing food assistance"
+        "organization": {
+          "description": "Organizations providing food resources"
         },
-        "locations": {
+        "location": {
           "description": "Physical locations of food resources"
         },
-        "services": {
+        "service": {
           "description": "Services offered by organizations"
-        },
-        "service_at_locations": {
-          "description": "Links between services and locations"
         }
       }
     }
