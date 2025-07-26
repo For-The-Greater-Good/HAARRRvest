@@ -1,0 +1,670 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Food Near You - HAARRRvest Map</title>
+    <meta name="description" content="Find food pantries and assistance locations near you with our interactive map">
+    
+    <!-- Open Graph / Social Media Tags -->
+    <meta property="og:title" content="Find Food Near You - HAARRRvest">
+    <meta property="og:description" content="Interactive map to find food assistance locations">
+    <meta property="og:type" content="website">
+    
+    <!-- Leaflet CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    
+    <!-- Leaflet MarkerCluster CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+    <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #f5f5f5;
+            height: 100vh;
+            overflow: hidden;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #2c3e50 0%, #34495e 100%);
+            color: white;
+            padding: 1rem;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            z-index: 1000;
+            position: relative;
+        }
+        
+        .header-content {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .header h1 {
+            font-size: 1.5rem;
+            display: flex;
+            align-items: center;
+            gap: 0.5rem;
+        }
+        
+        .nav-links {
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+        }
+        
+        .nav-links a {
+            color: white;
+            text-decoration: none;
+            padding: 0.5rem 1rem;
+            border-radius: 4px;
+            transition: background-color 0.2s;
+        }
+        
+        .nav-links a:hover {
+            background-color: rgba(255,255,255,0.1);
+        }
+        
+        .search-container {
+            background: white;
+            padding: 1rem;
+            border-bottom: 1px solid #e0e0e0;
+            z-index: 1000;
+            position: relative;
+        }
+        
+        .search-box {
+            max-width: 1200px;
+            margin: 0 auto;
+            display: flex;
+            gap: 1rem;
+            align-items: center;
+            flex-wrap: wrap;
+        }
+        
+        .search-input {
+            flex: 1;
+            min-width: 250px;
+            padding: 0.75rem;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            font-size: 1rem;
+        }
+        
+        .search-input:focus {
+            outline: none;
+            border-color: #3498db;
+        }
+        
+        .btn {
+            padding: 0.75rem 1.5rem;
+            border: none;
+            border-radius: 6px;
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.2s;
+            white-space: nowrap;
+        }
+        
+        .btn-primary {
+            background: #3498db;
+            color: white;
+        }
+        
+        .btn-primary:hover {
+            background: #2980b9;
+        }
+        
+        .btn-secondary {
+            background: #95a5a6;
+            color: white;
+        }
+        
+        .btn-secondary:hover {
+            background: #7f8c8d;
+        }
+        
+        .state-filter {
+            padding: 0.75rem;
+            border: 2px solid #ddd;
+            border-radius: 6px;
+            font-size: 1rem;
+            background: white;
+        }
+        
+        #map {
+            height: calc(100vh - 140px);
+            background: #f8f9fa;
+        }
+        
+        .leaflet-popup-content {
+            margin: 8px 12px;
+            line-height: 1.4;
+        }
+        
+        .popup-title {
+            font-size: 1.1rem;
+            font-weight: bold;
+            color: #2c3e50;
+            margin-bottom: 0.5rem;
+        }
+        
+        .popup-org {
+            color: #7f8c8d;
+            font-size: 0.9rem;
+            margin-bottom: 0.5rem;
+        }
+        
+        .popup-address {
+            margin-bottom: 0.5rem;
+        }
+        
+        .popup-contact {
+            margin-top: 0.5rem;
+            padding-top: 0.5rem;
+            border-top: 1px solid #eee;
+        }
+        
+        .popup-contact a {
+            color: #3498db;
+            text-decoration: none;
+            margin-right: 1rem;
+        }
+        
+        .popup-contact a:hover {
+            text-decoration: underline;
+        }
+        
+        .popup-phone {
+            display: inline-block;
+            background: #2ecc71;
+            color: white;
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        
+        .popup-phone:hover {
+            background: #27ae60;
+            text-decoration: none;
+        }
+        
+        .loading {
+            position: fixed;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            background: white;
+            padding: 2rem;
+            border-radius: 8px;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+            text-align: center;
+            z-index: 2000;
+        }
+        
+        .loading-spinner {
+            border: 3px solid #f3f3f3;
+            border-top: 3px solid #3498db;
+            border-radius: 50%;
+            width: 40px;
+            height: 40px;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+        
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+        
+        .info-panel {
+            position: fixed;
+            bottom: 1rem;
+            right: 1rem;
+            background: white;
+            padding: 1rem;
+            border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+            max-width: 300px;
+            z-index: 1000;
+        }
+        
+        .info-panel h3 {
+            margin: 0 0 0.5rem 0;
+            color: #2c3e50;
+        }
+        
+        .stats {
+            font-size: 0.9rem;
+            color: #7f8c8d;
+        }
+        
+        @media (max-width: 768px) {
+            .header-content {
+                flex-direction: column;
+                gap: 1rem;
+            }
+            
+            .search-box {
+                flex-direction: column;
+                gap: 0.5rem;
+            }
+            
+            .search-input {
+                min-width: auto;
+            }
+            
+            .nav-links {
+                gap: 0.5rem;
+            }
+            
+            .info-panel {
+                bottom: 0.5rem;
+                right: 0.5rem;
+                left: 0.5rem;
+                max-width: none;
+            }
+            
+            #map {
+                height: calc(100vh - 200px);
+            }
+        }
+        
+        /* Custom marker styles */
+        .food-marker {
+            background: #e74c3c;
+            border: 2px solid white;
+            border-radius: 50%;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        /* Hide loading once map is ready */
+        .map-loaded .loading {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <div class="header-content">
+            <h1>
+                <span>🏴‍☠️</span>
+                <span>Find Food Near You</span>
+            </h1>
+            <div class="nav-links">
+                <a href="index.html">📊 Database</a>
+                <a href="https://github.com/For-The-Greater-Good/HAARRRvest" target="_blank">📂 Data</a>
+            </div>
+        </div>
+    </div>
+    
+    <div class="search-container">
+        <div class="search-box">
+            <input 
+                type="text" 
+                id="search-input" 
+                class="search-input" 
+                placeholder="Enter zip code, city, or address to find food assistance..."
+                autocomplete="off"
+            >
+            <button id="search-btn" class="btn btn-primary">Search</button>
+            <button id="locate-btn" class="btn btn-secondary">📍 Near Me</button>
+            <select id="state-filter" class="state-filter">
+                <option value="">All States</option>
+            </select>
+        </div>
+    </div>
+    
+    <div id="map"></div>
+    
+    <div class="loading" id="loading">
+        <div class="loading-spinner"></div>
+        <p>Loading food assistance locations...</p>
+        <p style="font-size: 0.9rem; color: #999; margin-top: 0.5rem;">This may take a moment</p>
+    </div>
+    
+    <div class="info-panel" id="info-panel" style="display: none;">
+        <h3>📍 Map Information</h3>
+        <div class="stats" id="stats">
+            <div>Loading statistics...</div>
+        </div>
+    </div>
+    
+    <!-- Leaflet JavaScript -->
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    
+    <!-- Leaflet MarkerCluster JavaScript -->
+    <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    
+    <!-- Map JavaScript -->
+    <script>
+        // Global variables
+        let map;
+        let markersLayer;
+        let allLocations = [];
+        let filteredLocations = [];
+        let userLocation = null;
+        
+        // Initialize map when page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            initializeMap();
+            loadLocationData();
+            setupEventListeners();
+        });
+        
+        function initializeMap() {
+            // Create map centered on US
+            map = L.map('map').setView([39.8283, -98.5795], 4);
+            
+            // Add OpenStreetMap tiles
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                attribution: '© OpenStreetMap contributors',
+                maxZoom: 19,
+                minZoom: 3
+            }).addTo(map);
+            
+            // Initialize marker cluster group
+            markersLayer = L.markerClusterGroup({
+                chunkedLoading: true,
+                chunkInterval: 200,
+                maxClusterRadius: 50
+            });
+            
+            map.addLayer(markersLayer);
+        }
+        
+        async function loadLocationData() {
+            try {
+                const response = await fetch('data/locations.json');
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const data = await response.json();
+                allLocations = data.locations;
+                filteredLocations = [...allLocations];
+                
+                // Update info panel
+                updateInfoPanel(data.metadata);
+                
+                // Populate state filter
+                populateStateFilter();
+                
+                // Add markers to map
+                addMarkers(filteredLocations);
+                
+                // Hide loading indicator
+                document.body.classList.add('map-loaded');
+                document.getElementById('info-panel').style.display = 'block';
+                
+                console.log(`Loaded ${allLocations.length} locations`);
+                
+            } catch (error) {
+                console.error('Error loading location data:', error);
+                showError('Failed to load location data. Please try refreshing the page.');
+            }
+        }
+        
+        function addMarkers(locations) {
+            // Clear existing markers
+            markersLayer.clearLayers();
+            
+            locations.forEach(location => {
+                // Create custom marker
+                const marker = L.circleMarker([location.lat, location.lng], {
+                    radius: 8,
+                    fillColor: '#e74c3c',
+                    color: 'white',
+                    weight: 2,
+                    opacity: 1,
+                    fillOpacity: 0.8
+                });
+                
+                // Create popup content
+                const popupContent = createPopupContent(location);
+                marker.bindPopup(popupContent, {
+                    maxWidth: 300,
+                    className: 'custom-popup'
+                });
+                
+                // Add to cluster group
+                markersLayer.addLayer(marker);
+            });
+        }
+        
+        function createPopupContent(location) {
+            const distance = userLocation ? 
+                calculateDistance(userLocation.lat, userLocation.lng, location.lat, location.lng) : null;
+            
+            let content = `
+                <div class="popup-title">${escapeHtml(location.name)}</div>
+                <div class="popup-org">${escapeHtml(location.org)}</div>
+                <div class="popup-address">📍 ${escapeHtml(location.address)}</div>
+            `;
+            
+            if (location.description) {
+                content += `<div style="margin: 0.5rem 0; font-size: 0.9rem; color: #555;">${escapeHtml(location.description)}</div>`;
+            }
+            
+            if (distance) {
+                content += `<div style="margin: 0.5rem 0; font-weight: bold; color: #2ecc71;">📏 ${distance.toFixed(1)} miles away</div>`;
+            }
+            
+            content += '<div class="popup-contact">';
+            
+            if (location.phone) {
+                content += `<a href="tel:${location.phone}" class="popup-phone">📞 Call ${location.phone}</a>`;
+            }
+            
+            if (location.website) {
+                content += `<a href="${location.website}" target="_blank">🌐 Website</a>`;
+            }
+            
+            if (location.email) {
+                content += `<a href="mailto:${location.email}">✉️ Email</a>`;
+            }
+            
+            // Add directions link
+            const directionsUrl = `https://www.google.com/maps/dir/?api=1&destination=${location.lat},${location.lng}`;
+            content += `<a href="${directionsUrl}" target="_blank">🧭 Directions</a>`;
+            
+            content += '</div>';
+            
+            return content;
+        }
+        
+        function populateStateFilter() {
+            const states = [...new Set(allLocations.map(loc => loc.state))].filter(Boolean).sort();
+            const stateFilter = document.getElementById('state-filter');
+            
+            states.forEach(state => {
+                const option = document.createElement('option');
+                option.value = state;
+                option.textContent = state;
+                stateFilter.appendChild(option);
+            });
+        }
+        
+        function updateInfoPanel(metadata) {
+            const stats = document.getElementById('stats');
+            stats.innerHTML = `
+                <div><strong>Total Locations:</strong> ${metadata.total_locations.toLocaleString()}</div>
+                <div><strong>Coverage:</strong> ${metadata.coverage}</div>
+                <div><strong>Last Updated:</strong> ${new Date(metadata.generated).toLocaleDateString()}</div>
+                <div style="margin-top: 0.5rem; font-size: 0.8rem;">
+                    Click markers for details • Use search to find locations
+                </div>
+            `;
+        }
+        
+        function setupEventListeners() {
+            // Search functionality
+            document.getElementById('search-btn').addEventListener('click', performSearch);
+            document.getElementById('search-input').addEventListener('keypress', function(e) {
+                if (e.key === 'Enter') {
+                    performSearch();
+                }
+            });
+            
+            // Geolocation
+            document.getElementById('locate-btn').addEventListener('click', getUserLocation);
+            
+            // State filter
+            document.getElementById('state-filter').addEventListener('change', filterByState);
+        }
+        
+        function performSearch() {
+            const query = document.getElementById('search-input').value.trim();
+            if (!query) return;
+            
+            // Simple geocoding using Nominatim (OpenStreetMap)
+            const url = `https://nominatim.openstreetmap.org/search?format=json&q=${encodeURIComponent(query)}&countrycodes=us&limit=1`;
+            
+            fetch(url)
+                .then(response => response.json())
+                .then(data => {
+                    if (data && data.length > 0) {
+                        const result = data[0];
+                        const lat = parseFloat(result.lat);
+                        const lng = parseFloat(result.lon);
+                        
+                        // Center map on search result
+                        map.setView([lat, lng], 12);
+                        
+                        // Store user location for distance calculations
+                        userLocation = { lat, lng };
+                        
+                        // Show nearby locations
+                        showNearbyLocations(lat, lng, 25); // 25 mile radius
+                        
+                    } else {
+                        alert('Location not found. Please try a different search term.');
+                    }
+                })
+                .catch(error => {
+                    console.error('Search error:', error);
+                    alert('Search failed. Please try again.');
+                });
+        }
+        
+        function getUserLocation() {
+            if (!navigator.geolocation) {
+                alert('Geolocation is not supported by this browser.');
+                return;
+            }
+            
+            navigator.geolocation.getCurrentPosition(
+                function(position) {
+                    const lat = position.coords.latitude;
+                    const lng = position.coords.longitude;
+                    
+                    userLocation = { lat, lng };
+                    
+                    // Center map on user location
+                    map.setView([lat, lng], 12);
+                    
+                    // Add marker for user location
+                    L.marker([lat, lng], {
+                        icon: L.divIcon({
+                            className: 'user-location-marker',
+                            html: '📍',
+                            iconSize: [20, 20],
+                            iconAnchor: [10, 10]
+                        })
+                    }).addTo(map).bindPopup('You are here');
+                    
+                    // Show nearby locations
+                    showNearbyLocations(lat, lng, 25);
+                },
+                function(error) {
+                    console.error('Geolocation error:', error);
+                    alert('Unable to get your location. Please try searching instead.');
+                },
+                {
+                    enableHighAccuracy: true,
+                    timeout: 10000,
+                    maximumAge: 300000 // 5 minutes
+                }
+            );
+        }
+        
+        function showNearbyLocations(lat, lng, radiusMiles) {
+            const nearby = allLocations.filter(location => {
+                const distance = calculateDistance(lat, lng, location.lat, location.lng);
+                return distance <= radiusMiles;
+            });
+            
+            // Sort by distance
+            nearby.sort((a, b) => {
+                const distA = calculateDistance(lat, lng, a.lat, a.lng);
+                const distB = calculateDistance(lat, lng, b.lat, b.lng);
+                return distA - distB;
+            });
+            
+            filteredLocations = nearby;
+            addMarkers(filteredLocations);
+            
+            if (nearby.length === 0) {
+                alert(`No food assistance locations found within ${radiusMiles} miles. Try expanding your search area.`);
+            }
+        }
+        
+        function filterByState() {
+            const selectedState = document.getElementById('state-filter').value;
+            
+            if (selectedState) {
+                filteredLocations = allLocations.filter(location => location.state === selectedState);
+            } else {
+                filteredLocations = [...allLocations];
+            }
+            
+            addMarkers(filteredLocations);
+            
+            // Fit map to filtered locations
+            if (filteredLocations.length > 0) {
+                const group = new L.featureGroup(markersLayer.getLayers());
+                map.fitBounds(group.getBounds(), { padding: [10, 10] });
+            }
+        }
+        
+        function calculateDistance(lat1, lng1, lat2, lng2) {
+            // Haversine formula for distance calculation
+            const R = 3959; // Earth's radius in miles
+            const dLat = (lat2 - lat1) * Math.PI / 180;
+            const dLng = (lng2 - lng1) * Math.PI / 180;
+            const a = Math.sin(dLat/2) * Math.sin(dLat/2) +
+                      Math.cos(lat1 * Math.PI / 180) * Math.cos(lat2 * Math.PI / 180) *
+                      Math.sin(dLng/2) * Math.sin(dLng/2);
+            const c = 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+            return R * c;
+        }
+        
+        function escapeHtml(text) {
+            const div = document.createElement('div');
+            div.textContent = text;
+            return div.innerHTML;
+        }
+        
+        function showError(message) {
+            const loading = document.getElementById('loading');
+            loading.innerHTML = `
+                <div style="color: #e74c3c;">⚠️ ${message}</div>
+                <button onclick="location.reload()" style="margin-top: 1rem; padding: 0.5rem 1rem; border: none; background: #3498db; color: white; border-radius: 4px; cursor: pointer;">
+                    Retry
+                </button>
+            `;
+        }
+    </script>
+</body>
+</html>

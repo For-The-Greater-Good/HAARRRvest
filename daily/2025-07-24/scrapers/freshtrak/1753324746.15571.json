@@ -1,0 +1,1027 @@
+{
+  "job_id": "1753324746.15571",
+  "job": {
+    "id": "1753324746.15571",
+    "prompt": "You are a language model converting food pantry data into JSON that complies with HSDS 3.1.1. Follow these guidelines:\n\n\u2022 Output must be valid JSON only (no commentary or extra text)\n\u2022 Dates/times must follow RFC 3339 and recurrence rules:\n  - Dates should be in format: YYYY-MM-DDThh:mm:ssZ (e.g., 2024-01-20T14:30:00Z)\n  - Times should be in 24-hour format: hh:mm (e.g., 14:30)\n  - Schedule objects must include:\n    * freq: One of [\"WEEKLY\", \"MONTHLY\"]\n    * wkst: One of [\"MO\", \"TU\", \"WE\", \"TH\", \"FR\", \"SA\", \"SU\"]\n    * opens_at: Time in HH:MM format\n    * closes_at: Time in HH:MM format\n\u2022 Do not include UUIDs or unique identifiers; these are generated externally\n\u2022 DO NOT include data not found in the input. Do not make assumptions.\n\nRequired Fields and Relationships:\n\n1. Organization objects (in top-level \"organization\" array):\n   Required by schema:\n   - id (auto-generated, do not include)\n   - name: Organization's official name\n   - description: Brief summary about the organization\n   Optional fields (include if in input):\n   - website: Organization's website URL\n   - email: Organization's email address\n   - year_incorporated: Year organization was formed\n   - legal_status: Operating conditions (e.g., non-profit, private, government)\n   - uri: Persistent identifier for the organization\n   - parent_organization_id: Parent organization's ID\n   Required relationships:\n   - services: Array of service objects\n   - phones: Array of phone objects with number and type\n   - organization_identifiers: Array of organization identifier objects with:\n     * identifier_type: Type of identifier\n     * identifier: The identifier value\n   - contacts: Array of contact objects\n   - metadata: Array of metadata objects with:\n     * resource_id: ID of the resource\n     * resource_type: Type of resource\n     * last_action_date: Date of last action\n     * last_action_type: One of [\"create\", \"update\", \"delete\"]\n     * field_name: Name of modified field\n     * previous_value: Previous field value\n     * replacement_value: New field value\n     * updated_by: Name of updater\n\n2. Service objects (in both top-level \"service\" array and organization.services):\n   Required by schema:\n   - id (auto-generated, do not include)\n   - name: Name of the service\n   - description: Brief description of the service\n   - status: One of [\"active\", \"inactive\", \"defunct\", \"temporarily closed\"]\n   Optional fields (include if in input):\n   - url: Service's website URL\n   - email: Service's email address\n   - interpretation_services: Available interpretation services\n   - application_process: Steps to access service\n   - fees_description: Service charges details\n   - eligibility_description: Target audience description\n   - minimum_age: Minimum age requirement\n   - maximum_age: Maximum age requirement\n   - alert: Short term service alerts\n   Required relationships:\n   - phones: Array of phone objects\n   - schedules: Array of schedule objects\n\n3. Location objects (in top-level \"location\" array):\n   Required by schema:\n   - id (auto-generated, do not include)\n   - name: Name of the location\n   - location_type: One of [\"physical\", \"postal\", \"virtual\"]\n   - latitude: Latitude coordinate as a number\n   - longitude: Longitude coordinate as a number\n   Optional fields (include if in input):\n   - url: Virtual location URL\n   - alternate_name: Alternative location name\n   - description: Location description\n   - transportation: Public/private transport access details\n   - external_identifier: Third-party location identifier\n   - external_identifier_type: Type of third-party identifier\n   Required relationships:\n   - addresses: Array of address objects with:\n     * address_1: Street address\n     * city: City name\n     * state_province: State/province\n     * postal_code: ZIP/postal code\n     * country: Two-letter country code (e.g., \"US\")\n     * address_type: One of [\"physical\", \"postal\", \"virtual\"]\n     * metadata: Array of metadata objects\n     * attribute: Array of attribute objects\n   - phones: Array of phone objects\n   - accessibility: Array of accessibility objects\n   - contacts: Array of contact objects\n   - schedules: Array of schedule objects\n   - languages: Array of language objects\n   - metadata: Array of metadata objects\n\n4. Phone objects (in organization.phones, service.phones, location.phones):\n   Required by schema:\n   - id (auto-generated, do not include)\n   - number: Phone number\n   Required relationships:\n   - type: One of [\"text\", \"voice\", \"fax\", \"cell\", \"video\", \"pager\", \"textphone\"]\n   - languages: Array of language objects, must contain at least one object with:\n     * name: Language name (e.g., \"English\")\n\n5. Organization objects must also include:\n   - attribute: Array of attribute objects\n\n\nInput Data:\n{\"id\": 611, \"name\": \"San Antonio Food Bank\", \"nickname\": \"San Antonio Food Bank\", \"address\": \"5200 Historic Old Hwy 90\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78227\", \"phone\": \"210-337-3663\", \"latitude\": 29.41762, \"longitude\": -98.5941, \"estimated_distance\": 723.48, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6308, \"name\": \"South San Antonio ISD\", \"address\": \"7800 Kindred St\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78224\", \"latitude\": 29.35163503, \"longitude\": -98.55077276, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 728.1, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 6527, \"name\": \"Fort Sam Base Vogel Res Kitchen -MUST HAVE MILITARY ACCESS TO ENTER BASE\", \"address\": \"2490 STANLEY RD\", \"city\": \"JBSA FT SAM HOUSTON\", \"state\": \"TX\", \"zip\": \"78234\", \"latitude\": 29.4499027, \"longitude\": -98.4545143, \"event_details\": \"Families NEED to have access to Fort Sam Houston base. Refer back to Fresh Trak for Event Updates. Distribution will be on base. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 721.3, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 6679, \"name\": \"Lakehills Civic Center\", \"address\": \"11225 PR 37\", \"city\": \"PIPE CREEK\", \"state\": \"TX\", \"zip\": \"78063\", \"latitude\": 29.6568, \"longitude\": -98.90754, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 707.13, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 6759, \"name\": \"Yancey Immaculate Heart Church\", \"address\": \"213 Co Rd 743\", \"city\": \"YANCEY\", \"state\": \"TX\", \"zip\": \"78886\", \"latitude\": 29.139067, \"longitude\": -99.141918, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 743.56, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309584, \"event_id\": 6759, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-07\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 6885, \"name\": \"Atascosa County- Poteet Strawberry Festival Fairgrounds\", \"address\": \"9199 N State Hwy 16\", \"city\": \"POTEET\", \"state\": \"TX\", \"zip\": \"78065\", \"latitude\": 29.0431521, \"longitude\": -98.5856527, \"event_details\": \"Registration will be done onsite on the day of the event.\\nPlease arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 749.53, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 6892, \"name\": \"Somerset Senior Center\", \"address\": \"19375 K St\", \"city\": \"SOMERSET\", \"state\": \"TX\", \"zip\": \"78069\", \"latitude\": 29.2320352, \"longitude\": -98.6610789, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 736.42, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 6903, \"name\": \"Sabinal Methodist Church\", \"address\": \"200 W Fisher Ave\", \"city\": \"SABINAL\", \"state\": \"TX\", \"zip\": \"78881\", \"latitude\": 29.3173462, \"longitude\": -99.46988758, \"event_details\": \"Pre-register at Sabinal Library. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed. Refer back to Fresh Trak for Event Updates.\", \"estimated_distance\": 732.24, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309399, \"event_id\": 6903, \"capacity\": 250, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-15\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 6984, \"name\": \"SAFB Curbside Pantry\", \"address\": \"5200 ENRIQUE M BARRERA PKWY , ENTRANCE #3\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78227\", \"latitude\": 29.418014, \"longitude\": -98.5918673, \"event_details\": \"Appointment required event. Please arrive at your chosen time slot and clean out your vehicle before arriving. Families will ONLY be served during their designated time window. Families can utilize curbside service once every two weeks. \\nThe program is new and terms are subject to change.\", \"estimated_distance\": 723.48, \"exception_note\": \"\", \"event_dates\": [{\"id\": 354209, \"event_id\": 6984, \"capacity\": 432, \"accept_walkin\": 0, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-07-26\"}, {\"id\": 354188, \"event_id\": 6984, \"capacity\": 432, \"accept_walkin\": 0, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-07-28\"}, {\"id\": 354193, \"event_id\": 6984, \"capacity\": 432, \"accept_walkin\": 0, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-07-29\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7043, \"name\": \"Real County- Leakey\", \"address\": \"429 US-83\", \"city\": \"LEAKEY\", \"state\": \"TX\", \"zip\": \"78873\", \"latitude\": 29.861693, \"longitude\": -99.800137, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 696.12, \"exception_note\": \"\", \"event_dates\": [{\"id\": 332284, \"event_id\": 7043, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7044, \"name\": \"Kerr County- Mt Wesley Conference Center\", \"address\": \"610 METHODIST ENCAMPMENT RD\", \"city\": \"KERRVILLE\", \"state\": \"TX\", \"zip\": \"78028\", \"latitude\": 30.07322557, \"longitude\": -99.16274763, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 678.76, \"exception_note\": \"\", \"event_dates\": [{\"id\": 350489, \"event_id\": 7044, \"capacity\": 500, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-07-28\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7045, \"name\": \"Karnes County\", \"address\": \"County Road 345\", \"city\": \"KARNES CITY\", \"state\": \"TX\", \"zip\": \"78118\", \"latitude\": 28.891304, \"longitude\": -97.900158, \"event_details\": \"Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 761.08, \"exception_note\": \"\", \"event_dates\": [{\"id\": 346578, \"event_id\": 7045, \"capacity\": 150, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-04\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7064, \"name\": \"Redwood Community Center\", \"address\": \"2045 SPRUCE ST\", \"city\": \"SAN MARCOS\", \"state\": \"TX\", \"zip\": \"78666\", \"latitude\": 29.8187602, \"longitude\": -97.9109538, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 696.67, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309294, \"event_id\": 7064, \"capacity\": 300, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11:30 AM\", \"date\": \"2025-08-02\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7133, \"name\": \"St. John's Baptist Church\", \"address\": \"6800 EVERS RD\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78240\", \"latitude\": 29.5059134, \"longitude\": -98.6210613, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 717.38, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7227, \"name\": \"Resurrection UMC\", \"address\": \"7709 Knowlton Rd\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78263\", \"latitude\": 29.3470838, \"longitude\": -98.2981328, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 728.59, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7306, \"name\": \"True Vine Baptist Church\", \"address\": \"435 S ELLISON DR\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78245\", \"latitude\": 29.4362902, \"longitude\": -98.68542358, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 722.24, \"exception_note\": \"\", \"event_dates\": [{\"id\": 274026, \"event_id\": 7306, \"capacity\": 350, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-02\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7331, \"name\": \"Colonial Hills United Methodist Church\", \"address\": \"5247 VANCE JACKSON RD\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78230\", \"latitude\": 29.52743027, \"longitude\": -98.53910398, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 715.88, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7354, \"name\": \"VFW Post 3966\", \"address\": \"211 W COLLEGE AVE\", \"city\": \"DEVINE\", \"state\": \"TX\", \"zip\": \"78016\", \"latitude\": 29.13973432, \"longitude\": -98.90749477, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 743.06, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309596, \"event_id\": 7354, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-04\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7357, \"name\": \"YMCA D.R. Semmes Family\", \"address\": \"3233 N SAINT MARYS ST\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78212\", \"latitude\": 29.45464805, \"longitude\": -98.48220832, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 720.96, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7376, \"name\": \"Templo Cristiano\", \"address\": \"700 N High St.\", \"city\": \"UVALDE\", \"state\": \"TX\", \"zip\": \"78801\", \"latitude\": 29.2185005, \"longitude\": -99.7915522, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 740.58, \"exception_note\": \"\", \"event_dates\": [{\"id\": 316425, \"event_id\": 7376, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-07-28\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7381, \"name\": \"Temple of Praise Ministries\", \"address\": \"10050 LOOP 106\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78263\", \"latitude\": 29.28578, \"longitude\": -98.29313, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 732.85, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7383, \"name\": \"Metzger Middle School\", \"address\": \"7475 BINZ ENGLEMAN RD\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78244\", \"latitude\": 29.46594881, \"longitude\": -98.34964511, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 720.27, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7385, \"name\": \"Uvalde County Mega\", \"address\": \"224 N BENSON RD\", \"city\": \"UVALDE\", \"state\": \"TX\", \"zip\": \"78801\", \"latitude\": 29.22507649, \"longitude\": -99.79594091, \"event_details\": \"Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 740.15, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357428, \"event_id\": 7385, \"capacity\": 400, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7400, \"name\": \"Medina County Fair Hall\", \"address\": \"FM 462\", \"city\": \"HONDO\", \"state\": \"TX\", \"zip\": \"78861\", \"latitude\": 29.35692, \"longitude\": -99.10158, \"event_details\": \"Location is at Medina County Fair Hall. Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 728.34, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357700, \"event_id\": 7400, \"capacity\": 500, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-12\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7438, \"name\": \"Seguin ISD\", \"address\": \"1221 E KINGSBURY ST\", \"city\": \"SEGUIN\", \"state\": \"TX\", \"zip\": \"78155\", \"latitude\": 29.58098786, \"longitude\": -97.94972164, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 713.06, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7449, \"name\": \"Edwards County- Fairgrounds\", \"address\": \"903 US-377 N\", \"city\": \"ROCKSPRINGS\", \"state\": \"TX\", \"zip\": \"78880\", \"latitude\": 30.004685, \"longitude\": -100.313091, \"event_details\": \"Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 689.78, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357716, \"event_id\": 7449, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-08\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7454, \"name\": \"Frio County- Dilley\", \"address\": \"101 N COMMERCE ST\", \"city\": \"DILLEY\", \"state\": \"TX\", \"zip\": \"78017\", \"latitude\": 28.66906202, \"longitude\": -99.16901108, \"event_details\": \"Registration will be done onsite on the day of the event. Refer back to Fresh Trak for Event Updates. \\nPlease arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 776.27, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7455, \"name\": \"La Salle County- Encinal\", \"address\": \"602 Nopal St\", \"city\": \"ENCINAL\", \"state\": \"TX\", \"zip\": \"78019\", \"latitude\": 28.038753, \"longitude\": -99.353485, \"event_details\": \"Registration will be done onsite on the day of the event.\\nPlease arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 820.54, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7456, \"name\": \"La Salle County- Cotulla\", \"address\": \"906 Huddleston\", \"city\": \"COTULLA\", \"state\": \"TX\", \"zip\": \"78014\", \"latitude\": 28.424112, \"longitude\": -99.237016, \"event_details\": \"Registration will be done onsite on the day of the event.\\nPlease arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 793.45, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7457, \"name\": \"Zavala County- La Pryor\", \"address\": \"121 HWY 57\", \"city\": \"LA PRYOR\", \"state\": \"TX\", \"zip\": \"78872\", \"latitude\": 28.951466, \"longitude\": -99.848475, \"event_details\": \"Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 759.38, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357721, \"event_id\": 7457, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8:30 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-05\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7458, \"name\": \"Zavala County- Batesville\", \"address\": \"210 S FM 117\", \"city\": \"BATESVILLE\", \"state\": \"TX\", \"zip\": \"78829\", \"latitude\": 28.682775, \"longitude\": -99.829297, \"event_details\": \"Registration will be done onsite on the day of the event.\\nPlease arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 777.87, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357722, \"event_id\": 7458, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-05\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7459, \"name\": \"Zavala County- Crystal City\", \"address\": \"1700 US-83\", \"city\": \"CRYSTAL CITY\", \"state\": \"TX\", \"zip\": \"78839\", \"latitude\": 28.682775, \"longitude\": -99.829297, \"event_details\": \"Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 777.87, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7545, \"name\": \"YMCA Davis-Scott\", \"address\": \"1213 IOWA ST\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78203\", \"latitude\": 29.41210434, \"longitude\": -98.46306553, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 723.92, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7546, \"name\": \"YMCA  Harvey\", \"address\": \"3122 ROOSEVELT AVE\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78214\", \"latitude\": 29.3659055, \"longitude\": -98.48116524, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 727.12, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7713, \"name\": \"First Baptist Church Devine\", \"address\": \"308 W HONDO AVE\", \"city\": \"DEVINE\", \"state\": \"TX\", \"zip\": \"78016\", \"latitude\": 29.14176577, \"longitude\": -98.90838103, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 742.92, \"exception_note\": \"\", \"event_dates\": [{\"id\": 316532, \"event_id\": 7713, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-07-28\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7722, \"name\": \"First Baptist Church Seguin\", \"address\": \"1314 E CEDAR ST\", \"city\": \"SEGUIN\", \"state\": \"TX\", \"zip\": \"78155\", \"latitude\": 29.57967882, \"longitude\": -97.94574609, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive by start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 713.16, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7723, \"name\": \"Family Life Center\", \"address\": \"5513 S INTERSTATE 35\", \"city\": \"NEW BRAUNFELS\", \"state\": \"TX\", \"zip\": \"78132\", \"latitude\": 29.6674, \"longitude\": -98.1572, \"event_details\": \"Reservations for this distribution are highly encouraged to ensure accurate food allocation. To make a reservation, please call the Family Life Center at (830) 625-7100. If you cannot reach a representative because our lines are busy, please call back and leave a voicemail with your name, number, and date of birth so our team may get back to you as soon as possible to make your reservation.\\u00a0Thank you.\\n\\nRefer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 706.56, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7737, \"name\": \"Holy Redeemer\", \"address\": \"231 Vargas Alley\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78203\", \"latitude\": 0.0, \"longitude\": 0.0, \"event_details\": \"Directions: To enter the Holy Redeemer Food Bank Pop Up line of cars: approaching from Nevada Street drive north on Connelly Street turn right on Hedges Street then right on Vargas Alley. The distribution will be in the parking lot on you right at 231 Vargas Alley. Please remain in your car.\\nRegistration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed. Refer back to Fresh Trak for Event Updates.\", \"estimated_distance\": 6711.91, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7791, \"name\": \"Hope for the Hurting\", \"address\": \"4475 S Flores Rd\", \"city\": \"ELMENDORF\", \"state\": \"TX\", \"zip\": \"78112\", \"latitude\": 29.21484056, \"longitude\": -98.40569602, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 737.67, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309501, \"event_id\": 7791, \"capacity\": 350, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-07-25\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7797, \"name\": \"Guadalupe Regional Medical Foundation\", \"address\": \"1215 E COURT ST\", \"city\": \"SEGUIN\", \"state\": \"TX\", \"zip\": \"78155\", \"latitude\": 29.54493263, \"longitude\": -98.00360756, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 715.41, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309376, \"event_id\": 7797, \"capacity\": 250, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7833, \"name\": \"Masjid Ar-Rayhan\", \"address\": \"6126 MONTGOMERY DR\", \"city\": \"San Antonio\", \"state\": \"TX\", \"zip\": \"78239\", \"latitude\": 29.51164892, \"longitude\": -98.36733207, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 717.08, \"exception_note\": \"\", \"event_dates\": [{\"id\": 316415, \"event_id\": 7833, \"capacity\": 150, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-07-25\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7846, \"name\": \"VFW Post 8397\", \"address\": \"2541 W SOUTHCROSS BLVD\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78211\", \"latitude\": 29.36878981, \"longitude\": -98.55347983, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 726.9, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7857, \"name\": \"Kerrville Presbyterian Church\", \"address\": \"800 JEFFERSON ST\", \"city\": \"KERRVILLE\", \"state\": \"TX\", \"zip\": \"78028\", \"latitude\": 30.04667942, \"longitude\": -99.13730238, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 680.53, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309306, \"event_id\": 7857, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7904, \"name\": \"Lake Medina Shores\", \"address\": \"7100 WHARTONS DOCK RD\", \"city\": \"BANDERA\", \"state\": \"TX\", \"zip\": \"78003\", \"latitude\": 29.72477, \"longitude\": -99.0406, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 702.65, \"exception_note\": \"\", \"event_dates\": [{\"id\": 316466, \"event_id\": 7904, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-07-28\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7909, \"name\": \"Igniting the Harvest\", \"address\": \"2311 CASTROVILLE RD\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78237\", \"latitude\": 29.41246775, \"longitude\": -98.57229381, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 723.87, \"exception_note\": \"\", \"event_dates\": [{\"id\": 316374, \"event_id\": 7909, \"capacity\": 500, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-08\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7911, \"name\": \"Poth VFW 8555\", \"address\": \"715 HOUSTON ST\", \"city\": \"POTH\", \"state\": \"TX\", \"zip\": \"78147\", \"latitude\": 29.06015, \"longitude\": -98.07835, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 748.9, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309573, \"event_id\": 7911, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-06\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7912, \"name\": \"VFW Post 9174\", \"address\": \"2410 PINN RD\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78227\", \"latitude\": 29.40642679, \"longitude\": -98.62399602, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 724.29, \"exception_note\": \"\", \"event_dates\": [{\"id\": 316405, \"event_id\": 7912, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-07-24\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7914, \"name\": \"Bethany Missionary Baptist\", \"address\": \"153 LAWTON ST\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78237\", \"latitude\": 29.41348762, \"longitude\": -98.58428696, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 723.8, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7947, \"name\": \"Laurel St. Church of Christ\", \"address\": \"1747 W LAUREL\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78201\", \"latitude\": 29.44372674, \"longitude\": -98.52157011, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 721.7, \"exception_note\": \"\", \"event_dates\": [{\"id\": 324727, \"event_id\": 7947, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-07-26\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7973, \"name\": \"Faith Based Institute\", \"address\": \"251 ALTITUDE DR\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78227\", \"latitude\": 29.39842599, \"longitude\": -98.64820471, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 724.85, \"exception_note\": \"\", \"event_dates\": [{\"id\": 316651, \"event_id\": 7973, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-07-26\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8014, \"name\": \"New Life Outreach Ministries\", \"address\": \"1240 Holbrook Rd\", \"city\": \"San Antonio\", \"state\": \"TX\", \"zip\": \"78218\", \"latitude\": 29.51022798, \"longitude\": -98.39275831, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 717.15, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309490, \"event_id\": 8014, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8079, \"name\": \"BX- Templo Cristiano\", \"address\": \"2304 EL PASO ST\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78207\", \"latitude\": 29.42044, \"longitude\": -98.52621, \"event_details\": \"Refer back to Fresh Trak for Event Updates.  Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 723.32, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8143, \"name\": \"City of Kenedy\", \"address\": \"100 Bellaire Blvd\", \"city\": \"KENEDY\", \"state\": \"TX\", \"zip\": \"78119\", \"latitude\": 28.81372969, \"longitude\": -97.85881145, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 766.59, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8144, \"name\": \"Frio County- Pearsall\", \"address\": \"1203 S OAK ST\", \"city\": \"PEARSALL\", \"state\": \"TX\", \"zip\": \"78061\", \"latitude\": 28.87804539, \"longitude\": -99.10052109, \"event_details\": \"Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 761.59, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8419, \"name\": \"Mt. Gilead Baptist Church\", \"address\": \"1319 E Crockett St.\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78202\", \"latitude\": 0.0, \"longitude\": 0.0, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 6711.91, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8529, \"name\": \"Emanuel UMC\", \"address\": \"3225 W Poplar\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78228\", \"latitude\": 0.0, \"longitude\": 0.0, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 6711.91, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8726, \"name\": \"San Antonio for Christ Church\", \"address\": \"343 Spaatz St\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78221\", \"latitude\": 0.0, \"longitude\": 0.0, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 6711.91, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8853, \"name\": \"Four Winds\", \"address\": \"2002 W. Olmos Dr.\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78201\", \"latitude\": 29.47343792, \"longitude\": -98.52752648, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 719.64, \"exception_note\": \"\", \"event_dates\": [{\"id\": 309608, \"event_id\": 8853, \"capacity\": 200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8:30 AM\", \"end_time\": \"9:30 AM\", \"date\": \"2025-08-02\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8953, \"name\": \"La Salle County- Fowlerton\", \"address\": \"27148 Hwy 97 W\", \"city\": \"FOWLERTON\", \"state\": \"TX\", \"zip\": \"78021\", \"latitude\": 28.465322, \"longitude\": -98.8114143, \"event_details\": \"Registration will be done onsite on the day of the event.\\nPlease arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 789.8, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9011, \"name\": \"L.E.E High School\", \"address\": \"2923 MACARTHUR VIEW\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78217\", \"latitude\": 29.5297085, \"longitude\": -98.440929, \"event_details\": \"Hosted at MACARTHUR HIGH SCHOOL. Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 715.76, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 30, \"service_category_name\": \"Supportive Services\"}}, {\"id\": 9156, \"name\": \"VA Hospital\", \"address\": \"7400 Merton Minter, San Antonio\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78229\", \"latitude\": 29.501242, \"longitude\": -98.573979, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 717.7, \"exception_note\": \"\", \"event_dates\": [{\"id\": 316504, \"event_id\": 9156, \"capacity\": 250, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-07-26\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9157, \"name\": \"Kenedy ISD\", \"address\": \"401 FM 719\", \"city\": \"KENEDY\", \"state\": \"TX\", \"zip\": \"78119\", \"latitude\": 28.8289419, \"longitude\": -97.8552856, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 765.54, \"exception_note\": \"\", \"event_dates\": [{\"id\": 339419, \"event_id\": 9157, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-07-24\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9282, \"name\": \"Home Church\", \"address\": \"7100 US-281 N\", \"city\": \"SPRING BRANCH\", \"state\": \"TX\", \"zip\": \"78070\", \"latitude\": 29.8410153, \"longitude\": -98.4095598, \"event_details\": \"\", \"estimated_distance\": 694.15, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9436, \"name\": \"McCulloch County SAFB MOBILE\", \"address\": \"804 San Angelo Hwy\", \"city\": \"BRADY\", \"state\": \"TX\", \"zip\": \"76825\", \"latitude\": 29.4180191, \"longitude\": -98.5918751, \"event_details\": \"\", \"estimated_distance\": 723.48, \"exception_note\": \"\", \"event_dates\": [{\"id\": 332294, \"event_id\": 9436, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9441, \"name\": \"Comfort Baptist Church\", \"address\": \"100 Amber Dr.\", \"city\": \"COMFORT\", \"state\": \"TX\", \"zip\": \"78013\", \"latitude\": 29.9708822, \"longitude\": -98.9060248, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive no earlier than 1 hour before start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 685.31, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361347, \"event_id\": 9441, \"capacity\": 200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-07\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9455, \"name\": \"Herff Elementary\", \"address\": \"996 S Hackberry St\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78210\", \"latitude\": 29.4090433, \"longitude\": -98.4728389, \"event_details\": \"Please arrive at start time. Registration will be done onsite. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed. Please be prepared for inclement weather while waiting for distribution to begin.\", \"estimated_distance\": 724.13, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9472, \"name\": \"Crockett County Senior Center\", \"address\": \"2 TX-163\", \"city\": \"OZONA\", \"state\": \"TX\", \"zip\": \"76943\", \"latitude\": 30.7209475, \"longitude\": -101.2006803, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 650.08, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361267, \"event_id\": 9472, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-07-31\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9481, \"name\": \"Tom Green-Immanuel Baptist Church\", \"address\": \"90 E 14th St\", \"city\": \"SAN ANGELO\", \"state\": \"TX\", \"zip\": \"76903\", \"latitude\": 31.4766051, \"longitude\": -100.4420768, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 589.83, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9498, \"name\": \"Lamson Institute\", \"address\": \"5819 NW Loop 410\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78238\", \"latitude\": 29.4805352, \"longitude\": -98.6080612, \"event_details\": \"Please arrive at start time. Registration will be done onsite. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed. Please be prepared for inclement weather while waiting for distribution to begin.\", \"estimated_distance\": 719.14, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9507, \"name\": \"Reagan County-Bethlehem Baptist Church\", \"address\": \"501 S California Ave\", \"city\": \"BIG LAKE\", \"state\": \"TX\", \"zip\": \"76932\", \"latitude\": 31.1857852, \"longitude\": -101.4642286, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed.\", \"estimated_distance\": 622.3, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361266, \"event_id\": 9507, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-07-24\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9531, \"name\": \"Alice Angels\", \"address\": \"1518 Steves Ave\", \"city\": \"SAN ANTONIO\", \"state\": \"TX\", \"zip\": \"78210\", \"latitude\": 29.3903182, \"longitude\": -98.4686402, \"event_details\": \"Please arrive at start time. Registration will be done onsite. Food will be available while supplies last. San Antonio Food Bank Services can be accessed every 14 days if needed. Please be prepared for inclement weather while waiting for distribution to begin.\", \"estimated_distance\": 725.43, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9558, \"name\": \"Menard County\", \"address\": \"Decker St. Low Water Park\", \"city\": \"MENARD\", \"state\": \"TX\", \"zip\": \"76859\", \"latitude\": 30.908626, \"longitude\": -99.787372, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 623.64, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9624, \"name\": \"San Angelo Disaster Relief\", \"address\": \"1919 Knickerbocker Rd.\", \"city\": \"SAN ANGELO\", \"state\": \"TX\", \"zip\": \"76904\", \"latitude\": 31.42871104, \"longitude\": -100.4586282, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Pre-registration is preferred, registration will be done onsite on the day of the event. Please arrive at start time. Food will be available while supplies last.\", \"estimated_distance\": 593.27, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361343, \"event_id\": 9624, \"capacity\": 500, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-07-26\"}, {\"id\": 361344, \"event_id\": 9624, \"capacity\": 500, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-02\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9625, \"name\": \"SAFB Disaster Relief - Antler Stadium\", \"address\": \"1310 Sidney Baker\", \"city\": \"KERRVILLE\", \"state\": \"TX\", \"zip\": \"78028\", \"latitude\": 30.0387761, \"longitude\": -99.1080446, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive at your scheduled appointment time. Food will be available while supplies last.\", \"estimated_distance\": 681.0, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 9626, \"name\": \"SAFB Disaster Relief - Double L Ranch and Wildlife Feed\", \"address\": \"3122 Memorial Blvd\", \"city\": \"KERRVILLE\", \"state\": \"TX\", \"zip\": \"78028\", \"latitude\": 30.01644712, \"longitude\": -99.11952118, \"event_details\": \"Refer back to Fresh Trak for Event Updates. Please arrive before start time. Food will be available while supplies last.\", \"estimated_distance\": 682.58, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+    "format": {
+      "type": "json_schema",
+      "schema": {
+        "name": "hsds_organization",
+        "description": "Structured output schema for HSDS organization data",
+        "schema": {
+          "type": "object",
+          "title": "HSDS Organization Schema",
+          "description": "JSON Schema for HSDS organization data",
+          "properties": {
+            "id": {
+              "type": "string",
+              "description": "Each organization must have a unique identifier.",
+              "additionalProperties": false
+            },
+            "name": {
+              "type": "string",
+              "description": "The official or public name of the organization.",
+              "additionalProperties": false
+            },
+            "alternate_name": {
+              "type": "string",
+              "description": "Alternative or commonly used name for the organization.",
+              "additionalProperties": false
+            },
+            "description": {
+              "type": "string",
+              "description": "A brief summary about the organization. It can contain markup such as HTML or Markdown.",
+              "additionalProperties": false
+            },
+            "email": {
+              "type": "string",
+              "description": "The contact e-mail address for the organization.",
+              "additionalProperties": false,
+              "format": "email"
+            },
+            "website": {
+              "type": "string",
+              "description": "The URL (website address) of the organization.",
+              "additionalProperties": false,
+              "format": "uri"
+            },
+            "year_incorporated": {
+              "type": "string",
+              "description": "The year in which the organization was legally formed.",
+              "additionalProperties": false,
+              "pattern": "^\\d{4}$"
+            },
+            "legal_status": {
+              "type": "string",
+              "description": "The legal status defines the conditions that an organization is operating under; e.g. non-profit, private corporation or a government organization.",
+              "additionalProperties": false
+            },
+            "logo": {
+              "type": "string",
+              "description": "A URL to an image associated with the organization which can be presented alongside its name.",
+              "additionalProperties": false
+            },
+            "uri": {
+              "type": "string",
+              "description": "A persistent identifier to uniquely identify the organization.",
+              "additionalProperties": false,
+              "format": "uri"
+            },
+            "parent_organization_id": {
+              "type": "string",
+              "description": "ID linking to a parent_organization object. This organization must be included in the parent_organization.organizations array of the referenced parent_organization.",
+              "additionalProperties": false
+            },
+            "organization_identifiers": {
+              "type": "array",
+              "description": "Array of organization_identifier objects. These must be included both here and in the top-level organization_identifier array. Each organization_identifier must reference back to this organization via organization_identifier_id.",
+              "items": {
+                "$ref": "#/definitions/organization_identifier"
+              },
+              "additionalProperties": false
+            },
+            "programs": {
+              "type": "array",
+              "description": "Array of program objects. These must be included both here and in the top-level program array. Each program must reference back to this organization via program_id.",
+              "items": {
+                "$ref": "#/definitions/program"
+              },
+              "additionalProperties": false
+            },
+            "contacts": {
+              "type": "array",
+              "description": "Array of contact objects. These must be included both here and in the top-level contact array. Each contact must reference back to this organization via contact_id.",
+              "items": {
+                "$ref": "#/definitions/contact"
+              },
+              "additionalProperties": false
+            },
+            "locations": {
+              "type": "array",
+              "description": "Array of location objects. These must be included both here and in the top-level location array. Each location must reference back to this organization via location_id.",
+              "items": {
+                "$ref": "#/definitions/location"
+              },
+              "additionalProperties": false
+            },
+            "fundings": {
+              "type": "array",
+              "description": "Array of funding objects. These must be included both here and in the top-level funding array. Each funding must reference back to this organization via funding_id.",
+              "items": {
+                "$ref": "#/definitions/funding"
+              },
+              "additionalProperties": false
+            },
+            "phones": {
+              "type": "array",
+              "description": "Array of phone objects. These must be included both here and in the top-level phone array. Each phone must reference back to this organization via phone_id.",
+              "items": {
+                "$ref": "#/definitions/phone"
+              },
+              "additionalProperties": false
+            },
+            "attributes": {
+              "type": "array",
+              "description": "Array of attribute objects. These must be included both here and in the top-level attribute array. Each attribute must reference back to this organization via attribute_id.",
+              "items": {
+                "$ref": "#/definitions/attribute"
+              },
+              "additionalProperties": false
+            },
+            "metadata": {
+              "type": "array",
+              "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this organization via metadata_id.",
+              "items": {
+                "$ref": "#/definitions/metadata"
+              },
+              "additionalProperties": false
+            }
+          },
+          "required": [
+            "description",
+            "phone",
+            "organization_identifiers",
+            "phones",
+            "contacts",
+            "attribute",
+            "name",
+            "location",
+            "funding",
+            "metadata",
+            "id",
+            "services",
+            "contact",
+            "organization_identifier",
+            "program"
+          ],
+          "additionalProperties": false,
+          "definitions": {
+            "address": {
+              "type": "object",
+              "title": "HSDS Address",
+              "description": "Schema for address data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each postal address must have a unique identifier",
+                  "additionalProperties": false
+                },
+                "location_id": {
+                  "type": "string",
+                  "description": "ID linking to a location object. This address must be included in the location.addresss array of the referenced location.",
+                  "additionalProperties": false
+                },
+                "attention": {
+                  "type": "string",
+                  "description": "The person or entity whose attention should be sought at the location (Often included as \u2018care of\u2019 component of an address.)",
+                  "additionalProperties": false
+                },
+                "address_1": {
+                  "type": "string",
+                  "description": "The first line(s) of the address, including office, building number and street.",
+                  "additionalProperties": false
+                },
+                "address_2": {
+                  "type": "string",
+                  "description": "A second (additional) line of address information.",
+                  "additionalProperties": false
+                },
+                "city": {
+                  "type": "string",
+                  "description": "The city in which the address is located.",
+                  "additionalProperties": false
+                },
+                "region": {
+                  "type": "string",
+                  "description": "The region in which the address is located (optional).",
+                  "additionalProperties": false
+                },
+                "state_province": {
+                  "type": "string",
+                  "description": "The state or province in which the address is located.",
+                  "additionalProperties": false
+                },
+                "postal_code": {
+                  "type": "string",
+                  "description": "The postal code for the address.",
+                  "additionalProperties": false
+                },
+                "country": {
+                  "type": "string",
+                  "description": "The country in which the address is located. This should be given as an ISO 3361-1 country code (two letter abbreviation)",
+                  "additionalProperties": false
+                },
+                "address_type": {
+                  "type": "string",
+                  "description": "Enumeration of physical, postal, virtual",
+                  "additionalProperties": false,
+                  "enum": [
+                    "physical",
+                    "postal",
+                    "virtual"
+                  ]
+                },
+                "attributes": {
+                  "type": "array",
+                  "description": "Array of attribute objects. These must be included both here and in the top-level attribute array. Each attribute must reference back to this address via attribute_id.",
+                  "items": {
+                    "$ref": "#/definitions/attribute"
+                  },
+                  "additionalProperties": false
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this address via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "address_1",
+                "city",
+                "state_province",
+                "postal_code",
+                "country",
+                "address_type",
+                "attribute",
+                "metadata"
+              ],
+              "additionalProperties": false
+            },
+            "phone": {
+              "type": "object",
+              "properties": {
+                "number": {
+                  "type": "string"
+                },
+                "type": {
+                  "type": "string",
+                  "enum": [
+                    "text",
+                    "voice",
+                    "fax",
+                    "cell",
+                    "video",
+                    "pager",
+                    "textphone"
+                  ]
+                },
+                "languages": {
+                  "type": "array",
+                  "items": {
+                    "type": "object",
+                    "properties": {
+                      "name": {
+                        "type": "string"
+                      }
+                    },
+                    "required": [
+                      "name"
+                    ],
+                    "additionalProperties": false
+                  }
+                }
+              },
+              "required": [
+                "number",
+                "type",
+                "languages"
+              ],
+              "additionalProperties": false
+            },
+            "language": {
+              "type": "object",
+              "title": "HSDS Language",
+              "description": "Schema for language data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each language must have a unique identifier",
+                  "additionalProperties": false
+                },
+                "service_id": {
+                  "type": "string",
+                  "description": "ID linking to a service object. This language must be included in the service.languages array of the referenced service.",
+                  "additionalProperties": false
+                },
+                "location_id": {
+                  "type": "string",
+                  "description": "ID linking to a location object. This language must be included in the location.languages array of the referenced location.",
+                  "additionalProperties": false
+                },
+                "phone_id": {
+                  "type": "string",
+                  "description": "ID linking to a phone object. This language must be included in the phone.languages array of the referenced phone.",
+                  "additionalProperties": false
+                },
+                "name": {
+                  "type": "string",
+                  "description": "Languages, other than English, in which the service is delivered. Languages are listed as ISO639-1 codes.",
+                  "additionalProperties": false
+                },
+                "code": {
+                  "type": "string",
+                  "description": "ISO 639 -1/3 code",
+                  "additionalProperties": false
+                },
+                "note": {
+                  "type": "string",
+                  "description": "Description of what applies to the language e.g. ocasional translation service",
+                  "additionalProperties": false
+                },
+                "attributes": {
+                  "type": "array",
+                  "description": "Array of attribute objects. These must be included both here and in the top-level attribute array. Each attribute must reference back to this language via attribute_id.",
+                  "items": {
+                    "$ref": "#/definitions/attribute"
+                  },
+                  "additionalProperties": false
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this language via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "attribute",
+                "metadata"
+              ],
+              "additionalProperties": false
+            },
+            "taxonomy_term": {
+              "type": "object",
+              "title": "HSDS Taxonomy_Term",
+              "description": "Schema for taxonomy_term data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each taxonomy term must have a unique identifier, within the scope of the dataset",
+                  "additionalProperties": false
+                },
+                "code": {
+                  "type": "string",
+                  "description": "The term identfier as used in the taxonomy. This and the taxonomy_id combined define the term",
+                  "additionalProperties": false
+                },
+                "name": {
+                  "type": "string",
+                  "description": "The taxonomy term itself. ",
+                  "additionalProperties": false
+                },
+                "description": {
+                  "type": "string",
+                  "description": "What the term means",
+                  "additionalProperties": false
+                },
+                "parent_id": {
+                  "type": "string",
+                  "description": "ID linking to a parent object. This taxonomy_term must be included in the parent.taxonomy_terms array of the referenced parent.",
+                  "additionalProperties": false
+                },
+                "taxonomy": {
+                  "$ref": "#/definitions/taxonomy",
+                  "description": "Reference to a taxonomy object that must exist in the top-level taxonomy array."
+                },
+                "language": {
+                  "type": "string",
+                  "description": "An ISO 639-1, or ISO 639-2 [language code](available at http://www.loc.gov/standards/iso639-2/php/code_list.php) to represent the language of the term. The three-letter codes from ISO 639-2 provide greater accuracy when describing variants of languages, which may be relevant to particular communities.",
+                  "additionalProperties": false
+                },
+                "taxonomy_id": {
+                  "type": "string",
+                  "description": "ID linking to a taxonomy object. This taxonomy_term must be included in the taxonomy.taxonomy_terms array of the referenced taxonomy.",
+                  "additionalProperties": false
+                },
+                "term_uri": {
+                  "type": "string",
+                  "description": "URI of the term",
+                  "additionalProperties": false,
+                  "format": "uri"
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this taxonomy_term via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "code",
+                "name",
+                "description",
+                "taxonomy",
+                "metadata"
+              ],
+              "additionalProperties": false
+            },
+            "schedule": {
+              "type": "object",
+              "properties": {
+                "freq": {
+                  "type": "string",
+                  "enum": [
+                    "WEEKLY",
+                    "MONTHLY"
+                  ]
+                },
+                "wkst": {
+                  "type": "string",
+                  "enum": [
+                    "MO",
+                    "TU",
+                    "WE",
+                    "TH",
+                    "FR",
+                    "SA",
+                    "SU"
+                  ]
+                },
+                "opens_at": {
+                  "type": "string"
+                },
+                "closes_at": {
+                  "type": "string"
+                }
+              },
+              "required": [
+                "freq",
+                "wkst",
+                "opens_at",
+                "closes_at"
+              ],
+              "additionalProperties": false
+            },
+            "attribute": {
+              "type": "object",
+              "title": "HSDS Attribute",
+              "description": "Schema for attribute data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each service_attribute entry should have a unique identifier.",
+                  "additionalProperties": false
+                },
+                "link_id": {
+                  "type": "string",
+                  "description": "ID linking to a link object. This attribute must be included in the link.attributes array of the referenced link.",
+                  "additionalProperties": false
+                },
+                "taxonomy_term_id": {
+                  "type": "string",
+                  "description": "ID linking to a taxonomy_term object. This attribute must be included in the taxonomy_term.attributes array of the referenced taxonomy_term.",
+                  "additionalProperties": false
+                },
+                "link_type": {
+                  "type": "string",
+                  "description": "What the taxonomy term describes, e.g. the service eligibility or the sevice intended audience. Populate from an enumeration (an open codelist)",
+                  "additionalProperties": false
+                },
+                "link_entity": {
+                  "type": "string",
+                  "description": "The table of the link_id",
+                  "additionalProperties": false
+                },
+                "value": {
+                  "type": "string",
+                  "description": "The value (if any) of an attribute",
+                  "additionalProperties": false
+                },
+                "taxonomy_term": {
+                  "$ref": "#/definitions/taxonomy_term",
+                  "description": "Reference to a taxonomy_term object that must exist in the top-level taxonomy_term array."
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this attribute via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "link_id",
+                "taxonomy_term_id",
+                "link_type",
+                "link_entity",
+                "taxonomy_term",
+                "metadata"
+              ],
+              "additionalProperties": false
+            },
+            "location": {
+              "type": "object",
+              "title": "HSDS Location",
+              "description": "Schema for location data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each location must have a unique identifier",
+                  "additionalProperties": false
+                },
+                "location_type": {
+                  "type": "string",
+                  "description": "Enumeration of physical, postal, virtual",
+                  "additionalProperties": false,
+                  "enum": [
+                    "physical",
+                    "postal",
+                    "virtual"
+                  ]
+                },
+                "url": {
+                  "type": "string",
+                  "description": "The URL of a virtual location",
+                  "additionalProperties": false,
+                  "format": "uri"
+                },
+                "organization_id": {
+                  "type": "string",
+                  "description": "ID linking to a organization object. This location must be included in the organization.locations array of the referenced organization.",
+                  "additionalProperties": false
+                },
+                "name": {
+                  "type": "string",
+                  "description": "The name of the location",
+                  "additionalProperties": false
+                },
+                "alternate_name": {
+                  "type": "string",
+                  "description": "An alternative name for the location",
+                  "additionalProperties": false
+                },
+                "description": {
+                  "type": "string",
+                  "description": "A description of this location.",
+                  "additionalProperties": false
+                },
+                "transportation": {
+                  "type": "string",
+                  "description": "A description of the access to public or private transportation to and from the location.",
+                  "additionalProperties": false
+                },
+                "latitude": {
+                  "type": "number",
+                  "description": "Y coordinate of location expressed in decimal degrees in WGS84 datum.",
+                  "additionalProperties": false
+                },
+                "longitude": {
+                  "type": "number",
+                  "description": "X coordinate of location expressed in decimal degrees in WGS84 datum.",
+                  "additionalProperties": false
+                },
+                "external_identifier": {
+                  "type": "string",
+                  "description": "Third party identfier of a location e.g. UK UPRN or what3words",
+                  "additionalProperties": false
+                },
+                "external_identifier_type": {
+                  "type": "string",
+                  "description": "Enumeration including UPRN, what3words and others",
+                  "additionalProperties": false
+                },
+                "phones": {
+                  "type": "array",
+                  "description": "Array of phone objects. These must be included both here and in the top-level phone array. Each phone must reference back to this location via phone_id.",
+                  "items": {
+                    "$ref": "#/definitions/phone"
+                  },
+                  "additionalProperties": false
+                },
+                "accessibilitys": {
+                  "type": "array",
+                  "description": "Array of accessibility objects. These must be included both here and in the top-level accessibility array. Each accessibility must reference back to this location via accessibility_id.",
+                  "items": {
+                    "$ref": "#/definitions/accessibility"
+                  },
+                  "additionalProperties": false
+                },
+                "contacts": {
+                  "type": "array",
+                  "description": "Array of contact objects. These must be included both here and in the top-level contact array. Each contact must reference back to this location via contact_id.",
+                  "items": {
+                    "$ref": "#/definitions/contact"
+                  },
+                  "additionalProperties": false
+                },
+                "schedules": {
+                  "type": "array",
+                  "description": "Array of schedule objects. These must be included both here and in the top-level schedule array. Each schedule must reference back to this location via schedule_id.",
+                  "items": {
+                    "$ref": "#/definitions/schedule"
+                  },
+                  "additionalProperties": false
+                },
+                "languages": {
+                  "type": "array",
+                  "description": "Array of language objects. These must be included both here and in the top-level language array. Each language must reference back to this location via language_id.",
+                  "items": {
+                    "$ref": "#/definitions/language"
+                  },
+                  "additionalProperties": false
+                },
+                "addresss": {
+                  "type": "array",
+                  "description": "Array of address objects. These must be included both here and in the top-level address array. Each address must reference back to this location via address_id.",
+                  "items": {
+                    "$ref": "#/definitions/address"
+                  },
+                  "additionalProperties": false
+                },
+                "attributes": {
+                  "type": "array",
+                  "description": "Array of attribute objects. These must be included both here and in the top-level attribute array. Each attribute must reference back to this location via attribute_id.",
+                  "items": {
+                    "$ref": "#/definitions/attribute"
+                  },
+                  "additionalProperties": false
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this location via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "location_type",
+                "phone",
+                "accessibility",
+                "contact",
+                "schedule",
+                "language",
+                "address",
+                "attribute",
+                "metadata"
+              ],
+              "additionalProperties": false
+            },
+            "funding": {
+              "type": "object",
+              "title": "HSDS Funding",
+              "description": "Schema for funding data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each entry must have a unique identifier",
+                  "additionalProperties": false
+                },
+                "organization_id": {
+                  "type": "string",
+                  "description": "ID linking to a organization object. This funding must be included in the organization.fundings array of the referenced organization.",
+                  "additionalProperties": false
+                },
+                "service_id": {
+                  "type": "string",
+                  "description": "ID linking to a service object. This funding must be included in the service.fundings array of the referenced service.",
+                  "additionalProperties": false
+                },
+                "source": {
+                  "type": "string",
+                  "description": "A free text description of the source of funds for this organization or service.",
+                  "additionalProperties": false
+                },
+                "attributes": {
+                  "type": "array",
+                  "description": "Array of attribute objects. These must be included both here and in the top-level attribute array. Each attribute must reference back to this funding via attribute_id.",
+                  "items": {
+                    "$ref": "#/definitions/attribute"
+                  },
+                  "additionalProperties": false
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this funding via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "attribute",
+                "metadata"
+              ],
+              "additionalProperties": false
+            },
+            "metadata": {
+              "type": "object",
+              "properties": {
+                "resource_id": {
+                  "type": "string"
+                },
+                "resource_type": {
+                  "type": "string"
+                },
+                "last_action_date": {
+                  "type": "string"
+                },
+                "last_action_type": {
+                  "type": "string",
+                  "enum": [
+                    "create",
+                    "update",
+                    "delete"
+                  ]
+                }
+              },
+              "required": [
+                "resource_id",
+                "resource_type",
+                "last_action_date",
+                "last_action_type"
+              ],
+              "additionalProperties": false
+            },
+            "contact": {
+              "type": "object",
+              "title": "HSDS Contact",
+              "description": "Schema for contact data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each contact must have a unique identifier",
+                  "additionalProperties": false
+                },
+                "organization_id": {
+                  "type": "string",
+                  "description": "ID linking to a organization object. This contact must be included in the organization.contacts array of the referenced organization.",
+                  "additionalProperties": false
+                },
+                "service_id": {
+                  "type": "string",
+                  "description": "ID linking to a service object. This contact must be included in the service.contacts array of the referenced service.",
+                  "additionalProperties": false
+                },
+                "service_at_location_id": {
+                  "type": "string",
+                  "description": "ID linking to a service_at_location object. This contact must be included in the service_at_location.contacts array of the referenced service_at_location.",
+                  "additionalProperties": false
+                },
+                "location_id": {
+                  "type": "string",
+                  "description": "ID linking to a location object. This contact must be included in the location.contacts array of the referenced location.",
+                  "additionalProperties": false
+                },
+                "name": {
+                  "type": "string",
+                  "description": "The name of the person",
+                  "additionalProperties": false
+                },
+                "title": {
+                  "type": "string",
+                  "description": "The job title of the person",
+                  "additionalProperties": false
+                },
+                "department": {
+                  "type": "string",
+                  "description": "The department that the person is part of",
+                  "additionalProperties": false
+                },
+                "email": {
+                  "type": "string",
+                  "description": "The email address of the person",
+                  "additionalProperties": false,
+                  "format": "email"
+                },
+                "phones": {
+                  "type": "array",
+                  "description": "Array of phone objects. These must be included both here and in the top-level phone array. Each phone must reference back to this contact via phone_id.",
+                  "items": {
+                    "$ref": "#/definitions/phone"
+                  },
+                  "additionalProperties": false
+                },
+                "attributes": {
+                  "type": "array",
+                  "description": "Array of attribute objects. These must be included both here and in the top-level attribute array. Each attribute must reference back to this contact via attribute_id.",
+                  "items": {
+                    "$ref": "#/definitions/attribute"
+                  },
+                  "additionalProperties": false
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this contact via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "phone",
+                "attribute",
+                "metadata"
+              ],
+              "additionalProperties": false
+            },
+            "organization_identifier": {
+              "type": "object",
+              "title": "HSDS Organization_Identifier",
+              "description": "Schema for organization_identifier data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each entry must have a unique identifier",
+                  "additionalProperties": false
+                },
+                "organization_id": {
+                  "type": "string",
+                  "description": "ID linking to a organization object. This organization_identifier must be included in the organization.organization_identifiers array of the referenced organization.",
+                  "additionalProperties": false
+                },
+                "identifier_scheme": {
+                  "type": "string",
+                  "description": "Scheme according to http://org-id.guide/.",
+                  "additionalProperties": false
+                },
+                "identifier_type": {
+                  "type": "string",
+                  "description": "The type of identifier (company, charity, tax number, etc)",
+                  "additionalProperties": false
+                },
+                "identifier": {
+                  "type": "string",
+                  "description": "The third-party identifier",
+                  "additionalProperties": false
+                },
+                "attributes": {
+                  "type": "array",
+                  "description": "Array of attribute objects. These must be included both here and in the top-level attribute array. Each attribute must reference back to this organization_identifier via attribute_id.",
+                  "items": {
+                    "$ref": "#/definitions/attribute"
+                  },
+                  "additionalProperties": false
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this organization_identifier via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "organization_id",
+                "identifier_type",
+                "identifier",
+                "attribute",
+                "metadata"
+              ],
+              "additionalProperties": false
+            },
+            "program": {
+              "type": "object",
+              "title": "HSDS Program",
+              "description": "Schema for program data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each program must have a unique identifier.",
+                  "additionalProperties": false
+                },
+                "organization_id": {
+                  "type": "string",
+                  "description": "ID linking to a organization object. This program must be included in the organization.programs array of the referenced organization.",
+                  "additionalProperties": false
+                },
+                "name": {
+                  "type": "string",
+                  "description": "The name of the program",
+                  "additionalProperties": false
+                },
+                "alternate_name": {
+                  "type": "string",
+                  "description": "An alternative name for the program",
+                  "additionalProperties": false
+                },
+                "description": {
+                  "type": "string",
+                  "description": "A brief summary of the program",
+                  "additionalProperties": false
+                },
+                "attributes": {
+                  "type": "array",
+                  "description": "Array of attribute objects. These must be included both here and in the top-level attribute array. Each attribute must reference back to this program via attribute_id.",
+                  "items": {
+                    "$ref": "#/definitions/attribute"
+                  },
+                  "additionalProperties": false
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this program via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "organization_id",
+                "name",
+                "description",
+                "attribute",
+                "metadata"
+              ],
+              "additionalProperties": false
+            },
+            "accessibility": {
+              "type": "object",
+              "title": "HSDS Accessibility",
+              "description": "Schema for accessibility data in HSDS format",
+              "properties": {
+                "id": {
+                  "type": "string",
+                  "description": "Each entry must have a unique identifier",
+                  "additionalProperties": false
+                },
+                "location_id": {
+                  "type": "string",
+                  "description": "ID linking to a location object. This accessibility must be included in the location.accessibilitys array of the referenced location.",
+                  "additionalProperties": false
+                },
+                "description": {
+                  "type": "string",
+                  "description": "Description of assistance or infrastructure that facilitate access to clients with disabilities.",
+                  "additionalProperties": false
+                },
+                "details": {
+                  "type": "string",
+                  "description": "Any further details relating to the relevant accessibility arrangements at this location. E.g. whether advance notice is required to use an accessibility facility.",
+                  "additionalProperties": false
+                },
+                "url": {
+                  "type": "string",
+                  "description": "URL of a page giving more information about the accessibility of the location",
+                  "additionalProperties": false,
+                  "format": "uri"
+                },
+                "attributes": {
+                  "type": "array",
+                  "description": "Array of attribute objects. These must be included both here and in the top-level attribute array. Each attribute must reference back to this accessibility via attribute_id.",
+                  "items": {
+                    "$ref": "#/definitions/attribute"
+                  },
+                  "additionalProperties": false
+                },
+                "metadata": {
+                  "type": "array",
+                  "description": "Array of metadata objects. These must be included both here and in the top-level metadata array. Each metadata must reference back to this accessibility via metadata_id.",
+                  "items": {
+                    "$ref": "#/definitions/metadata"
+                  },
+                  "additionalProperties": false
+                }
+              },
+              "required": [
+                "id",
+                "attribute",
+                "metadata"
+              ],
+              "additionalProperties": false
+            }
+          },
+          "$schema": "http://json-schema.org/draft-07/schema#"
+        },
+        "strict": true,
+        "max_tokens": 64768,
+        "temperature": 0.4
+      },
+      "strict": true,
+      "validation": {
+        "min_confidence": 0.9,
+        "retry_threshold": 0.75
+      }
+    },
+    "provider_config": {},
+    "metadata": {
+      "scraper_id": "freshtrak",
+      "source": "freshtrak"
+    },
+    "created_at": "2025-07-24 02:39:06.155713"
+  },
+  "result": "{\n  \"id\": \"san-antonio-food-bank\",\n  \"name\": \"San Antonio Food Bank\",\n  \"description\": \"Food assistance organization providing prepack pantry services and food distribution throughout San Antonio and surrounding counties in Texas.\",\n  \"phones\": [\n    {\n      \"number\": \"210-337-3663\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"organization_identifiers\": [\n    {\n      \"identifier_type\": \"organization_id\",\n      \"identifier\": \"611\",\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"contacts\": [\n    {\n      \"phones\": [\n        {\n          \"number\": \"210-337-3663\",\n          \"type\": \"voice\",\n          \"languages\": [\n            {\n              \"name\": \"English\"\n            }\n          ]\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"locations\": [\n    {\n      \"name\": \"San Antonio Food Bank Main Location\",\n      \"location_type\": \"physical\",\n      \"latitude\": 29.41762,\n      \"longitude\": -98.5941,\n      \"addresss\": [\n        {\n          \"address_1\": \"5200 Historic Old Hwy 90\",\n          \"city\": \"SAN ANTONIO\",\n          \"state_province\": \"TX\",\n          \"postal_code\": \"78227\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"phones\": [\n        {\n          \"number\": \"210-337-3663\",\n          \"type\": \"voice\",\n          \"languages\": [\n            {\n              \"name\": \"English\"\n            }\n          ]\n        }\n      ],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"programs\": [\n    {\n      \"organization_id\": \"san-antonio-food-bank\",\n      \"name\": \"Prepack Pantry Program\",\n      \"description\": \"Food distribution program providing prepackaged food assistance to community members\",\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": [\n    {\n      \"resource_id\": \"san-antonio-food-bank\",\n      \"resource_type\": \"organization\",\n      \"last_action_date\": \"2025-07-24T00:00:00Z\",\n      \"last_action_type\": \"create\"\n    }\n  ]\n}",
+  "error": null
+}
