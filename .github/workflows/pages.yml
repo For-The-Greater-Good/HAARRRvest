@@ -27,10 +27,22 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
+      - name: Create deployment directory
+        run: |
+          mkdir -p _site
+          # Copy only the files needed for GitHub Pages
+          cp -r *.html _site/
+          cp -r data _site/
+          cp -r sqlite _site/
+          cp LICENSE README.md _site/ 2>/dev/null || true
+          # List what we're deploying
+          echo "Files to deploy:"
+          ls -la _site/
+          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: '_site'
       
       - name: Deploy to GitHub Pages
         id: deployment
