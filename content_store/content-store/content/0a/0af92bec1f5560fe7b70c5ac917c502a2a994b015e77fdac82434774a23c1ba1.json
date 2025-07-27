@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 834, \"name\": \"Andrews House\", \"nickname\": \"Andrew's House\", \"address\": \"795 POLLOCK RD\", \"city\": \"DELAWARE\", \"state\": \"OH\", \"zip\": \"43015\", \"phone\": \"740-369-4520\", \"latitude\": 40.28045, \"longitude\": -83.06188, \"estimated_distance\": 825.01, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1213, \"name\": \"Mobile Market\", \"address\": \"795 POLLOCK RD\", \"city\": \"DELAWARE\", \"state\": \"OH\", \"zip\": \"43015\", \"latitude\": 40.28045998, \"longitude\": -83.06188589, \"event_details\": \"\", \"estimated_distance\": 825.01, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356699, \"event_id\": 1213, \"capacity\": 150, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9:30 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-04\"}, {\"id\": 356700, \"event_id\": 1213, \"capacity\": 150, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9:30 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-18\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.135533"
+}

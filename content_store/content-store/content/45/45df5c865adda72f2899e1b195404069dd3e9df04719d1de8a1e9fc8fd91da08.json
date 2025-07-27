@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3656, \"name\": \"Community Food Pantry\", \"nickname\": \"Community Food\", \"address\": \"9222 State Rt 43\", \"city\": \"Streetsboro\", \"state\": \"OH\", \"zip\": \"44241\", \"phone\": \"330-626-4282\", \"latitude\": 41.2417, \"longitude\": -81.34519, \"estimated_distance\": 914.04, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6518, \"name\": \"Pantry\", \"address\": \"9222 State Rt 43\", \"city\": \"Streetsboro\", \"state\": \"OH\", \"zip\": \"44241\", \"latitude\": 41.2421086, \"longitude\": -81.34538274, \"event_details\": \"Regular Hours - 1st and 3rd Saturdays from 10-11am\", \"estimated_distance\": 914.04, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359707, \"event_id\": 6518, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-02\"}, {\"id\": 359708, \"event_id\": 6518, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.209860"
+}

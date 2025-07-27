@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4596, \"name\": \"Little Flower Emergency Food Pantry\", \"nickname\": \"Little Flower\", \"address\": \"2040 Diamond St\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44721\", \"phone\": \"330-494-2759\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 914.34, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8503, \"name\": \"Pantry\", \"address\": \"2040 Diamond St\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44721\", \"latitude\": 40.896375, \"longitude\": -81.3416748, \"event_details\": \"Regular Hours - 3rd Wednesday from 9-10:30am\", \"estimated_distance\": 914.34, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359886, \"event_id\": 8503, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.845578"
+}

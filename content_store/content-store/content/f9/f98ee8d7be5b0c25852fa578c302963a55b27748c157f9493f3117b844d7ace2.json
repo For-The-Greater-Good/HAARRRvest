@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4239, \"name\": \"Be A Fence Food Pantry\", \"nickname\": \"Be A Fence\", \"address\": \"480 LILLEY AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43205\", \"phone\": \"614-374-3625\", \"latitude\": 39.95691, \"longitude\": -82.9574, \"estimated_distance\": 831.98, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7634, \"name\": \"Pantry\", \"address\": \"480 LILLEY AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43205\", \"latitude\": 39.95703227, \"longitude\": -82.95723838, \"event_details\": \"\", \"estimated_distance\": 831.98, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359515, \"event_id\": 7634, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-02\"}, {\"id\": 359516, \"event_id\": 7634, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-09\"}, {\"id\": 359517, \"event_id\": 7634, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-16\"}, {\"id\": 359518, \"event_id\": 7634, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.627144"
+}

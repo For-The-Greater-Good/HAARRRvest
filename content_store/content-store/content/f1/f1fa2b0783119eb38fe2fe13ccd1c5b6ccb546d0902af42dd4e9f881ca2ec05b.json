@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4828, \"name\": \"Village Keepers of Ohio Inc.\", \"nickname\": \"Village Keepers\", \"address\": \"545 Noble Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44320\", \"phone\": \"330-253-2923\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 903.11, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8977, \"name\": \"Pantry\", \"address\": \"545 Noble Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44320\", \"latitude\": 41.0826, \"longitude\": -81.5533724, \"event_details\": \"Regular Hours - 3rd Saturday from 12-2pm\", \"estimated_distance\": 903.11, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360754, \"event_id\": 8977, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:05.006434"
+}

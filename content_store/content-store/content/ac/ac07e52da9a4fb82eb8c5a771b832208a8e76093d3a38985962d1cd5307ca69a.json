@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1003, \"name\": \"Compassion in Action\", \"nickname\": \"Compassion in Action\", \"address\": \"6810 Blacklick-Eastern Rd NW\", \"city\": \"PICKERINGTON\", \"state\": \"OH\", \"zip\": \"43147\", \"phone\": \"614-833-0515\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 843.26, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1463, \"name\": \"Pantry\", \"address\": \"6810 Blacklick-Eastern Rd NW\", \"city\": \"PICKERINGTON\", \"state\": \"OH\", \"zip\": \"43147\", \"latitude\": 39.93059239, \"longitude\": -82.74761753, \"event_details\": \"\", \"estimated_distance\": 843.26, \"exception_note\": \"\", \"event_dates\": [{\"id\": 354872, \"event_id\": 1463, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.265676"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1004, \"name\": \"Jesus Christ People Care Center\", \"nickname\": \"Jesus Christ People Care Center\", \"address\": \"1612 Tuscarawas St W\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44708\", \"phone\": \"330-453-2519\", \"latitude\": 40.80054, \"longitude\": -81.39183, \"estimated_distance\": 911.81, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1464, \"name\": \"Pantry\", \"address\": \"1612 Tuscarawas St W\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44708\", \"latitude\": 40.8004241, \"longitude\": -81.3923124, \"event_details\": \"Regular Hours - 3rd Thursday from 9-12pm\", \"estimated_distance\": 911.81, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359109, \"event_id\": 1464, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.269809"
+}

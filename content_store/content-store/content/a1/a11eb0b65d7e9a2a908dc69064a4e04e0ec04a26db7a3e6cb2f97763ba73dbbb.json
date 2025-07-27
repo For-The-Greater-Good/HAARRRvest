@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1507, \"name\": \"We Care Food Pantry\", \"nickname\": \"We Care Food Pantry\", \"address\": \"535 MUNSON AVE\", \"city\": \"ZANESVILLE\", \"state\": \"OH\", \"zip\": \"43701\", \"phone\": \"740-452-8478\", \"latitude\": 39.93173, \"longitude\": -82.01763, \"estimated_distance\": 882.04, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2244, \"name\": \"Pantry\", \"address\": \"535 MUNSON AVE\", \"city\": \"ZANESVILLE\", \"state\": \"OH\", \"zip\": \"43701\", \"latitude\": 39.9316615, \"longitude\": -82.0173844, \"event_details\": \"\", \"estimated_distance\": 882.04, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359498, \"event_id\": 2244, \"capacity\": 8, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-07\"}, {\"id\": 359500, \"event_id\": 2244, \"capacity\": 8, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-14\"}, {\"id\": 359501, \"event_id\": 2244, \"capacity\": 8, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.490338"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3367, \"name\": \"Shared Harvest Food Pantry\", \"nickname\": \"BC-MP\", \"address\": \"5901 DIXIE HWY\", \"city\": \"FAIRFIELD\", \"state\": \"OH\", \"zip\": \"45014\", \"phone\": \"513-881-9024\", \"latitude\": 39.32834, \"longitude\": -84.51623, \"estimated_distance\": 753.32, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5440, \"name\": \"Shared Harvest Food Pantry\", \"address\": \"5901 DIXIE HWY\", \"city\": \"FAIRFIELD\", \"state\": \"OH\", \"zip\": \"45014\", \"latitude\": 39.32834915, \"longitude\": -84.51623225, \"event_details\": \"\", \"estimated_distance\": 753.32, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357367, \"event_id\": 5440, \"capacity\": 120, \"accept_walkin\": 0, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-01\"}, {\"id\": 357368, \"event_id\": 5440, \"capacity\": 120, \"accept_walkin\": 0, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-08\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.977107"
+}

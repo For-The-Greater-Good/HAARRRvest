@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 109, \"name\": \"SE Ohio Foodbank\", \"nickname\": \"SE Ohio Foodbank\", \"address\": \"1005 C I C DR\", \"city\": \"LOGAN\", \"state\": \"OH\", \"zip\": \"43138\", \"phone\": \"740-385-6813\", \"latitude\": 39.53569, \"longitude\": -82.39155, \"estimated_distance\": 864.79, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1220, \"name\": \"Jackson Co Mobile Market\", \"address\": \"96 MEADOW RUN RD\", \"city\": \"WELLSTON\", \"state\": \"OH\", \"zip\": \"45692\", \"latitude\": 39.11021, \"longitude\": -82.54162, \"event_details\": \"This distribution is available to Jackson County residents, who are at or below 200% of the Federal Poverty Level. \\nPlease bring your photo I.D. and proof of residency no more than 60 days old.  For questions, call (740) 385-6813.\", \"estimated_distance\": 860.71, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:02.415311"
+}

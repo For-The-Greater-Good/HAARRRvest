@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 880, \"name\": \"Mission Family Ministries\", \"nickname\": \"Mission Family Ministries\", \"address\": \"989 MAIN ST\", \"city\": \"RICHMOND DALE\", \"state\": \"OH\", \"zip\": \"45673\", \"phone\": \"\", \"latitude\": 39.20054, \"longitude\": -82.81326, \"estimated_distance\": 845.23, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1283, \"name\": \"Pantry\", \"address\": \"989 MAIN ST\", \"city\": \"RICHMOND DALE\", \"state\": \"OH\", \"zip\": \"45673\", \"latitude\": 39.2014279, \"longitude\": -82.81494507, \"event_details\": \"\", \"estimated_distance\": 845.23, \"exception_note\": \"Southeastern School District Service Area.\", \"event_dates\": [{\"id\": 355529, \"event_id\": 1283, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.165698"
+}

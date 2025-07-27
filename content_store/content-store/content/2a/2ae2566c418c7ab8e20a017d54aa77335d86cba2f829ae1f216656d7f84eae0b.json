@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4661, \"name\": \"LFC Ambassador\", \"nickname\": \"LFC Ambassador\", \"address\": \"669 Oak Ct\", \"city\": \"Lodi\", \"state\": \"OH\", \"zip\": \"44254\", \"phone\": \"330-321-9029\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 879.86, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8610, \"name\": \"Pantry\", \"address\": \"669 Oak Ct\", \"city\": \"Lodi\", \"state\": \"OH\", \"zip\": \"44254\", \"latitude\": 41.03847822, \"longitude\": -81.99720568, \"event_details\": \"Regular Hours - 1st and Last Friday from 9-11am\", \"estimated_distance\": 879.86, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360588, \"event_id\": 8610, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-01\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}, {\"id\": 8611, \"name\": \"Meal\", \"address\": \"669 Oak Ct\", \"city\": \"Lodi\", \"state\": \"OH\", \"zip\": \"44254\", \"latitude\": 41.03847822, \"longitude\": -81.99720568, \"event_details\": \"Regular Hours - 1st and Last Friday from 9-11am\", \"estimated_distance\": 879.86, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360590, \"event_id\": 8611, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-01\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.924861"
+}

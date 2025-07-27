@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3614, \"name\": \"St. John's UCC Massillon\", \"nickname\": \"St. John's UCC Massillon\", \"address\": \"101 Tremont Ave SE\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"phone\": \"330-575-4914\", \"latitude\": 40.79502, \"longitude\": -81.52113, \"estimated_distance\": 905.07, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6329, \"name\": \"Pantry\", \"address\": \"101 Tremont Ave SE\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"latitude\": 40.7951226, \"longitude\": -81.5207756, \"event_details\": \"\", \"estimated_distance\": 905.07, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359916, \"event_id\": 6329, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.191431"
+}
