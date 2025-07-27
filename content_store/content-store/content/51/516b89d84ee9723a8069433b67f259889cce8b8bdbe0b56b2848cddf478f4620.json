@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80903\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in JEWISH COMMUNITY COUNCIL OF THE ROCKAWAY PENINSULA\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FPK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 327-6060\", \"country\": \"US\"}, \"phones\": [{\"number\": \"1525 CENTRAL AVE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.605234, \"longitude\": -73.751502}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"JEWISH COMMUNITY COUNCIL OF THE ROCKAWAY PENINSULA\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-07-27T08:40:58.014059"
+}

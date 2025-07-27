@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"85486\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in CALVARY ASSEMBLY OF GOD\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-356-4555\", \"country\": \"US\"}, \"phones\": [{\"number\": \"4055 RICHMOND AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 42.286914, \"longitude\": -73.74606}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"CALVARY ASSEMBLY OF GOD\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-07-27T08:41:57.983076"
+}
