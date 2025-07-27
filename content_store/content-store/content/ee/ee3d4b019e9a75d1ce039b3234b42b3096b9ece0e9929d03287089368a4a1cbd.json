@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mancos Food Share\", \"alternate_name\": \"\", \"description\": \"Food pantry in Mancos\", \"url\": \"https://careandshare.org/locations/mancos-food-share/\", \"status\": \"active\", \"address\": {\"address_1\": \"680 Grand Ave\", \"address_2\": \"\", \"city\": \"Mancos\", \"state_province\": \"CO\", \"postal_code\": \"81328\", \"country\": \"US\"}, \"phones\": [{\"number\": \"(509) 830-4380\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"3 p.m.\", \"closes_at\": \"5 p.m.\"}], \"location\": {\"latitude\": 37.3450771, \"longitude\": -108.2979999}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:54:11.630703"
+}
