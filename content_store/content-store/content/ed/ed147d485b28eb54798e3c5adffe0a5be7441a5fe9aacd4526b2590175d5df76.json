@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4438, \"name\": \"Luke 19\", \"nickname\": \"Luke 19\", \"address\": \"532 High St NE\", \"city\": \"Canal Fulton\", \"state\": \"OH\", \"zip\": \"44614\", \"phone\": \"330-268-3227\", \"latitude\": 40.89281, \"longitude\": -81.59959, \"estimated_distance\": 900.77, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8106, \"name\": \"Pantry\", \"address\": \"532 High St NE\", \"city\": \"Canal Fulton\", \"state\": \"OH\", \"zip\": \"44614\", \"latitude\": 40.89376081, \"longitude\": -81.59995916, \"event_details\": \"Regular Hours - 3rd Saturday from 4-6pm\", \"estimated_distance\": 900.77, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360752, \"event_id\": 8106, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-17\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.705593"
-}

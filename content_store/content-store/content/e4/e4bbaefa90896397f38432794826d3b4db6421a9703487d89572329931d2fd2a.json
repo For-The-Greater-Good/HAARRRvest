@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3227, \"name\": \"Perry Helping Perry\", \"nickname\": \"Perry Helping Perry\", \"address\": \"3757 Lincoln Way W\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"phone\": \"(330)737-1281\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 908.17, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5135, \"name\": \"Pantry\", \"address\": \"3757 Lincoln Way W\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"latitude\": 40.7938748, \"longitude\": -81.4617906, \"event_details\": \"Regular Hours - 3rd Saturday from 9-12pm | Intended for residents of Perry.\", \"estimated_distance\": 908.17, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359124, \"event_id\": 5135, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.942407"
-}

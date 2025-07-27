@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 518, \"name\": \"Garden City Church Pantry\", \"nickname\": \"Garden City Church Pantry\", \"address\": \"3880 CLIME RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43228\", \"phone\": \"614-272-6818\", \"latitude\": 39.93007, \"longitude\": -83.09989, \"estimated_distance\": 824.55, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 712, \"name\": \"Pantry\", \"address\": \"3880 CLIME RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43228\", \"latitude\": 39.92966881, \"longitude\": -83.09992248, \"event_details\": \"Appointments can be made by contacting \\nLSS 211 Central Ohio by dialing 2-1-1\", \"estimated_distance\": 824.55, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355746, \"event_id\": 712, \"capacity\": 12, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"12 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:02.843101"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 352, \"name\": \"St. Paul Holiness Church of God\", \"nickname\": \"St. Paul Holiness\", \"address\": \"745 WOLF LEDGES PKWY\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44311\", \"phone\": \"330-221-3343\", \"latitude\": 41.06348, \"longitude\": -81.52018, \"estimated_distance\": 904.86, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 493, \"name\": \"Pantry\", \"address\": \"196 E Voris St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44311\", \"latitude\": 0.0, \"longitude\": 0.0, \"event_details\": \"Regular Hours - Last three Sundays from 1-2pm\", \"estimated_distance\": 6711.91, \"exception_note\": \"\", \"event_dates\": [{\"id\": 351823, \"event_id\": 493, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-07-27\"}, {\"id\": 358972, \"event_id\": 493, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-10\"}, {\"id\": 358971, \"event_id\": 493, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-17\"}, {\"id\": 358973, \"event_id\": 493, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-24\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:02.599683"
-}

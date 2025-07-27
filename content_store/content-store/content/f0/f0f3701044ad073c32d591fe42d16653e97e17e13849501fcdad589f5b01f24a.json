@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 923, \"name\": \"St. Paul's Free Farmers Markert\", \"nickname\": \"St. Paul's Free Farmers Market\", \"address\": \"317 E Liberty St\", \"city\": \"Medina\", \"state\": \"OH\", \"zip\": \"44256\", \"phone\": \"330-725-4131\", \"latitude\": 41.13937, \"longitude\": -81.85877, \"estimated_distance\": 887.06, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1356, \"name\": \"Pantry\", \"address\": \"317 E Liberty St\", \"city\": \"Medina\", \"state\": \"OH\", \"zip\": \"44256\", \"latitude\": 41.13922804, \"longitude\": -81.8601895, \"event_details\": \"Regular Hours - 3rd Saturday from 8-9:30am | Registration starts at 8:30am\", \"estimated_distance\": 887.06, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359479, \"event_id\": 1356, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9:30 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.216889"
-}

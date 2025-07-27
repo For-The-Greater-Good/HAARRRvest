@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1218, \"name\": \"The Salvation Army (Ravenna) DD2\", \"nickname\": \"The Salvation Army (Ravenna) DD2\", \"address\": \"1972 Summit Road\", \"city\": \"Kent\", \"state\": \"OH\", \"zip\": \"44240\", \"phone\": \"330-296-7371\", \"latitude\": 41.15775, \"longitude\": -81.24519, \"estimated_distance\": 6711.91, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1723, \"name\": \"Pantry\", \"address\": \"1972 E Summit St\", \"city\": \"Kent\", \"state\": \"OH\", \"zip\": \"44240\", \"latitude\": 41.1383886, \"longitude\": -81.3223524, \"event_details\": \"Regular Hours - 1st Wednesday from 9-10:30am\", \"estimated_distance\": 915.21, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359430, \"event_id\": 1723, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-06\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.344388"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1359, \"name\": \"Our Lady Queen of Peace\", \"nickname\": \"Helping Hands Food Pantry\", \"address\": \"708 ERIE ST\", \"city\": \"GRAFTON\", \"state\": \"OH\", \"zip\": \"44044\", \"phone\": \"440-926-2364\", \"latitude\": 41.27692, \"longitude\": -82.06008, \"estimated_distance\": 876.74, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1989, \"name\": \"Pantry\", \"address\": \"708 ERIE ST\", \"city\": \"GRAFTON\", \"state\": \"OH\", \"zip\": \"44044\", \"latitude\": 41.27692761, \"longitude\": -82.06008949, \"event_details\": \"Serving Midview & Keystone School Districts. It is drive thru style distribution. Photo I.D is required\", \"estimated_distance\": 876.74, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360551, \"event_id\": 1989, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-02\"}, {\"id\": 360552, \"event_id\": 1989, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.431603"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 353, \"name\": \"St. Bernard Food Pantry (St. Bernard Parish)\", \"nickname\": \"St. Bernard Food Pantry\", \"address\": \"44 University Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44308\", \"phone\": \"330-253-5161\", \"latitude\": 41.07881, \"longitude\": -81.51865, \"estimated_distance\": 904.95, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 494, \"name\": \"Pantry\", \"address\": \"44 University Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44308\", \"latitude\": 41.07870375, \"longitude\": -81.51835458, \"event_details\": \"Regular Hours - Thursday from 9-10:30am\", \"estimated_distance\": 904.95, \"exception_note\": \"\", \"event_dates\": [{\"id\": 351820, \"event_id\": 494, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-07-31\"}, {\"id\": 358967, \"event_id\": 494, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-07\"}, {\"id\": 358968, \"event_id\": 494, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-14\"}, {\"id\": 358969, \"event_id\": 494, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:02.602808"
-}

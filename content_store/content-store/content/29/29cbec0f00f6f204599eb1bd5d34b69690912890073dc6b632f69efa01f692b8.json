@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 2316, \"name\": \"Helping Hands of Toronto\", \"nickname\": \"Helping Hands of Toronto\", \"address\": \"411 CLARK ST\", \"city\": \"TORONTO\", \"state\": \"OH\", \"zip\": \"43964\", \"phone\": \"740-317-9142\", \"latitude\": 40.46645, \"longitude\": -80.60179, \"estimated_distance\": 954.38, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3687, \"name\": \"Pantry\", \"address\": \"411 CLARK ST\", \"city\": \"TORONTO\", \"state\": \"OH\", \"zip\": \"43964\", \"latitude\": 40.466134, \"longitude\": -80.6022967, \"event_details\": \"\", \"estimated_distance\": 954.38, \"exception_note\": \"\", \"event_dates\": [{\"id\": 354342, \"event_id\": 3687, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-16\"}, {\"id\": 354343, \"event_id\": 3687, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-04\"}, {\"id\": 354344, \"event_id\": 3687, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-06\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.703694"
-}

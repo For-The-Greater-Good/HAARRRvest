@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 677, \"name\": \"Reynoldsburg Community of Care\", \"nickname\": \"Reynoldsburg Community of Care\", \"address\": \"1649 GRAHAM RD\", \"city\": \"REYNOLDSBURG\", \"state\": \"OH\", \"zip\": \"43068\", \"phone\": \"614-634-8572\", \"latitude\": 39.94883, \"longitude\": -82.79663, \"estimated_distance\": 840.58, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 925, \"name\": \"Pantry\", \"address\": \"1649 GRAHAM RD\", \"city\": \"REYNOLDSBURG\", \"state\": \"OH\", \"zip\": \"43068\", \"latitude\": 39.95070196, \"longitude\": -82.79591726, \"event_details\": \"\", \"estimated_distance\": 840.58, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357189, \"event_id\": 925, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.015380"
-}

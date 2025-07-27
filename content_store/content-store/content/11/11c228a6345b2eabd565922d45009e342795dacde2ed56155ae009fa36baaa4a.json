@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3581, \"name\": \"North Industry Christian Church\", \"nickname\": \"North Industry\", \"address\": \"425 45th St SW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44706\", \"phone\": \"330-484-2061\", \"latitude\": 40.74535, \"longitude\": -81.37733, \"estimated_distance\": 912.7, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6242, \"name\": \"Pantry\", \"address\": \"425 45th St SW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44706\", \"latitude\": 40.74535842, \"longitude\": -81.37733244, \"event_details\": \"Regular Hours -2nd Saturday from 9-110am\", \"estimated_distance\": 912.7, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359891, \"event_id\": 6242, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 PM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.143255"
-}

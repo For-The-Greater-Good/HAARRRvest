@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 921, \"name\": \"Crown Hill Food Pantry\", \"nickname\": \"Crown Hill Food Pantry\", \"address\": \"9693 Benner Rd\", \"city\": \"Rittman\", \"state\": \"OH\", \"zip\": \"44270\", \"phone\": \"330-927-1716\", \"latitude\": 40.91865, \"longitude\": -81.78236, \"estimated_distance\": 891.18, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1353, \"name\": \"Pantry\", \"address\": \"9693 Benner Rd\", \"city\": \"Rittman\", \"state\": \"OH\", \"zip\": \"44270\", \"latitude\": 40.9179044, \"longitude\": -81.7822523, \"event_details\": \"Regular Hours - Last Thursday from 3-5pm and last Friday from 11-1pm | The Thursday and Friday before the holidays during November and December with the same hours | Temporarily drive through--please make sure to clean out trunk.\", \"estimated_distance\": 891.18, \"exception_note\": \"\", \"event_dates\": [{\"id\": 352149, \"event_id\": 1353, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-07-31\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.212355"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 625, \"name\": \"Faith Temple Church\", \"nickname\": \"Faith Temple Church\", \"address\": \"701 Sylvan Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44306\", \"phone\": \"330-724-6823\", \"latitude\": 41.05347, \"longitude\": -81.49363, \"estimated_distance\": 906.27, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 835, \"name\": \"Pantry\", \"address\": \"701 Sylvan Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44306\", \"latitude\": 41.05313655, \"longitude\": -81.49329116, \"event_details\": \"Regular Hours - 4th Saturday from 10-12pm | \\n3rd Saturday in November and December\", \"estimated_distance\": 906.27, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358901, \"event_id\": 835, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:02.953476"
-}

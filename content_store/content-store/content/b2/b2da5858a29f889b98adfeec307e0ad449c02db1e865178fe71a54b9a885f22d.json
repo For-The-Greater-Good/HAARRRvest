@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 680, \"name\": \"Helping Hands Ministry\", \"nickname\": \"Helping Hands Ministry\", \"address\": \"7615 Ridge Rd\", \"city\": \"Wadsworth\", \"state\": \"OH\", \"zip\": \"44281\", \"phone\": \"330-336-4622\", \"latitude\": 41.06947, \"longitude\": -81.74175, \"estimated_distance\": 893.56, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 930, \"name\": \"Pantry\", \"address\": \"7615 Ridge Rd\", \"city\": \"Wadsworth\", \"state\": \"OH\", \"zip\": \"44281\", \"latitude\": 41.06669514, \"longitude\": -81.73578544, \"event_details\": \"Regular Hours - 3rd Thursday from 5-7pm\", \"estimated_distance\": 893.56, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359450, \"event_id\": 930, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}, {\"id\": 8652, \"name\": \"Pantry\", \"address\": \"3721 Pearl Rd.\", \"city\": \"Medina\", \"state\": \"OH\", \"zip\": \"44256\", \"latitude\": 41.1732864, \"longitude\": -81.8586454, \"event_details\": \"Regular Hours - 4th Tuesday from 6-7pm\", \"estimated_distance\": 887.16, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360785, \"event_id\": 8652, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.021653"
-}

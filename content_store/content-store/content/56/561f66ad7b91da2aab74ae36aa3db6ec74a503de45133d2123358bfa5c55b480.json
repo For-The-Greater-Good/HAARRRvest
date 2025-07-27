@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 454, \"name\": \"Minerva Methodist Church\", \"nickname\": \"Minerva Methodist Church\", \"address\": \"204 N Main St\", \"city\": \"Minerva\", \"state\": \"OH\", \"zip\": \"44657\", \"phone\": \"330-868-4940\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 927.09, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 625, \"name\": \"Pantry\", \"address\": \"204 N Main St\", \"city\": \"Minerva\", \"state\": \"OH\", \"zip\": \"44657\", \"latitude\": 40.7293843, \"longitude\": -81.1046978, \"event_details\": \"Regular Hours - 3rd Wednesday of the month from 10:00-12:00 or by appointment any weekday. | By appointment only; call number above.\", \"estimated_distance\": 927.09, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361107, \"event_id\": 625, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:02.750641"
-}

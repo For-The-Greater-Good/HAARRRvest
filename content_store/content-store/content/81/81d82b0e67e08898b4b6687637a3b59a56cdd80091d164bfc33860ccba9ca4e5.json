@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 102, \"name\": \"First Church of the Nazarene\", \"nickname\": \"First Naz\", \"address\": \"1110 1ST AVE\", \"city\": \"GALLIPOLIS\", \"state\": \"OH\", \"zip\": \"45631\", \"phone\": \"740.446.1260\", \"latitude\": 38.81476, \"longitude\": -82.19346, \"estimated_distance\": 882.72, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 155, \"name\": \"First Church of the Nazarene Food Pantry\", \"address\": \"1110 1ST AVE\", \"city\": \"GALLIPOLIS\", \"state\": \"OH\", \"zip\": \"45631\", \"latitude\": 38.8167546, \"longitude\": -82.18951, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. Phone Number: (740) 446-1772\", \"estimated_distance\": 882.72, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357495, \"event_id\": 155, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-14\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:02.395263"
-}

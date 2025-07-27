@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3541, \"name\": \"Bread and Roses\", \"nickname\": \"Bread and Roses\", \"address\": \"415 ADAMS ST\", \"city\": \"STEUBENVILLE\", \"state\": \"OH\", \"zip\": \"43952\", \"phone\": \"\", \"latitude\": 40.35856, \"longitude\": -80.61657, \"estimated_distance\": 954.07, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6169, \"name\": \"Soup Kitchen\", \"address\": \"415 ADAMS ST\", \"city\": \"STEUBENVILLE\", \"state\": \"OH\", \"zip\": \"43952\", \"latitude\": 40.3585658, \"longitude\": -80.6163928, \"event_details\": \"\", \"estimated_distance\": 954.07, \"exception_note\": \"\", \"event_dates\": [{\"id\": 348977, \"event_id\": 6169, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-07-31\"}, {\"id\": 356300, \"event_id\": 6169, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-07\"}, {\"id\": 356301, \"event_id\": 6169, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-14\"}, {\"id\": 356302, \"event_id\": 6169, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.080424"
-}

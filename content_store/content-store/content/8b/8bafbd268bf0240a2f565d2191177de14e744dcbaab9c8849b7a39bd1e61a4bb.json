@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3870, \"name\": \"Tallmadge Lutheran Church\", \"nickname\": \"Tallmadge Lutheran\", \"address\": \"759 East Ave\", \"city\": \"Tallmadge\", \"state\": \"OH\", \"zip\": \"44278\", \"phone\": \"330-633-4775\", \"latitude\": 41.10219, \"longitude\": -81.41313, \"estimated_distance\": 910.49, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6893, \"name\": \"Pantry\", \"address\": \"759 East Ave\", \"city\": \"Tallmadge\", \"state\": \"OH\", \"zip\": \"44278\", \"latitude\": 41.10219047, \"longitude\": -81.41251411, \"event_details\": \"Regular Hours - 2nd Monday from 9-12pm | Call for an appointment.\", \"estimated_distance\": 910.49, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360195, \"event_id\": 6893, \"capacity\": 30, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-11\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.447743"
-}

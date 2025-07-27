@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4437, \"name\": \"The Remedy Church\", \"nickname\": \"Remedy Church\", \"address\": \"1700 Brittain Rd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"phone\": \"330-441-4481\", \"latitude\": 41.10969, \"longitude\": -81.46622, \"estimated_distance\": 907.62, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8105, \"name\": \"Pantry\", \"address\": \"1700 Brittain Rd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"latitude\": 41.11044427, \"longitude\": -81.4672885, \"event_details\": \"Regular Hours - 4th Saturday from 12-2pm | Pantry held the 3rd Saturday of the month for the month of December from 10:30-12PM\", \"estimated_distance\": 907.62, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360196, \"event_id\": 8105, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.702461"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4034, \"name\": \"Christ Lutheran Church\", \"nickname\": \"Christ Lutheran Massillon\", \"address\": \"3545 Amherst Ave NW\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"phone\": \"330-832-8934\", \"latitude\": 40.83375, \"longitude\": -81.51225, \"estimated_distance\": 905.45, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7201, \"name\": \"Pantry\", \"address\": \"3545 Amherst Ave NW\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"latitude\": 40.8326029, \"longitude\": -81.5124364, \"event_details\": \"Regular Hours - 3rd Saturday from 9-10:30am\", \"estimated_distance\": 905.45, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359832, \"event_id\": 7201, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.504370"
-}

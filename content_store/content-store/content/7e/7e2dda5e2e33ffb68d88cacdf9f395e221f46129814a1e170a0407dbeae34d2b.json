@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 2785, \"name\": \"River of Life Food Pantry\", \"nickname\": \"River of Life\", \"address\": \"3281 State St NW\", \"city\": \"Greentown\", \"state\": \"OH\", \"zip\": \"44630\", \"phone\": \"330-801-0672\", \"latitude\": 40.92767, \"longitude\": -81.40419, \"estimated_distance\": 910.96, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4441, \"name\": \"Pantry\", \"address\": \"3281 State St NW\", \"city\": \"Greentown\", \"state\": \"OH\", \"zip\": \"44630\", \"latitude\": 40.9280498, \"longitude\": -81.4052819, \"event_details\": \"Regular Hours - 3rd Saturday from 9-1pm\", \"estimated_distance\": 910.96, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359125, \"event_id\": 4441, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.821255"
-}

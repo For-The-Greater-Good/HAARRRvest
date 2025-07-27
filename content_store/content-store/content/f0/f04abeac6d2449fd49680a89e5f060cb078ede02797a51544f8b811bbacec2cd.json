@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4576, \"name\": \"Lakeville UMC\", \"nickname\": \"Lakeville UMC\", \"address\": \"14029 SR 226\", \"city\": \"Lakeville\", \"state\": \"OH\", \"zip\": \"44638\", \"phone\": \"330-231-0144\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 873.49, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8453, \"name\": \"Pantry\", \"address\": \"14029 SR 226\", \"city\": \"Lakeville\", \"state\": \"OH\", \"zip\": \"44638\", \"latitude\": 40.65714144, \"longitude\": -82.12513574, \"event_details\": \"Regular Hours - 2nd and 4th Saturday from 9-11am | Must be a resident within 15 miles of pantry.\", \"estimated_distance\": 873.49, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359575, \"event_id\": 8453, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-09\"}, {\"id\": 359576, \"event_id\": 8453, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.782220"
-}

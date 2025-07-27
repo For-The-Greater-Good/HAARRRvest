@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1626, \"name\": \"Malvern Christian Care Center, Inc\", \"nickname\": \"Malvin Christian Care\", \"address\": \"715 E Porter St\", \"city\": \"Malvern\", \"state\": \"OH\", \"zip\": \"44644\", \"phone\": \"330-704-4086\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 923.64, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2445, \"name\": \"Pantry\", \"address\": \"715 E Porter St\", \"city\": \"Malvern\", \"state\": \"OH\", \"zip\": \"44644\", \"latitude\": 40.68871789, \"longitude\": -81.17202309, \"event_details\": \"Regular Hours - 4th Wednesday from 11-2pm and the following Thursday from 5:30-6:30pm | This program is temporarily drive through--please make sure to clean out trunk.\", \"estimated_distance\": 923.64, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359231, \"event_id\": 2445, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.538794"
-}

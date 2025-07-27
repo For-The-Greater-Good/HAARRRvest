@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 543, \"name\": \"Total Life Ministries Food Pantry\", \"nickname\": \"Total Life Ministries Food Pantry\", \"address\": \"2260 E 5TH AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43219\", \"phone\": \"6142512142\", \"latitude\": 39.98597, \"longitude\": -82.94629, \"estimated_distance\": 832.53, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 737, \"name\": \"Pantry\", \"address\": \"2260 E 5TH AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43219\", \"latitude\": 39.98588451, \"longitude\": -82.94405866, \"event_details\": \"\", \"estimated_distance\": 832.53, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355382, \"event_id\": 737, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-09\"}, {\"id\": 355381, \"event_id\": 737, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:02.869371"
-}

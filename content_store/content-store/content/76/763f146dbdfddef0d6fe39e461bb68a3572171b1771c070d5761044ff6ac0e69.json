@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3720, \"name\": \"Springboro Community Assistance Center\", \"nickname\": \"Springboro Community Assistance Center\", \"address\": \"1629 S MAIN ST STE 300\", \"city\": \"SPRINGBORO\", \"state\": \"OH\", \"zip\": \"45066\", \"phone\": \"\", \"latitude\": 39.54598, \"longitude\": -84.23258, \"estimated_distance\": 766.65, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6598, \"name\": \"Pantry\", \"address\": \"1629 S MAIN ST STE 300\", \"city\": \"SPRINGBORO\", \"state\": \"OH\", \"zip\": \"45066\", \"latitude\": 39.53444862, \"longitude\": -84.23529196, \"event_details\": \"\", \"estimated_distance\": 766.65, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356864, \"event_id\": 6598, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3:30 PM\", \"end_time\": \"5:30 PM\", \"date\": \"2025-08-12\"}, {\"id\": 356866, \"event_id\": 6598, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-13\"}, {\"id\": 356865, \"event_id\": 6598, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3:30 PM\", \"end_time\": \"5:30 PM\", \"date\": \"2025-08-26\"}, {\"id\": 356867, \"event_id\": 6598, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.320118"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 589, \"name\": \"Free Pentecostal Holiness Church Pantry\", \"nickname\": \"Free Pentecostal Holiness Church Pantry\", \"address\": \"24136 TOWNSHIP ROAD 113\", \"city\": \"WARSAW\", \"state\": \"OH\", \"zip\": \"43844\", \"phone\": \"740-824-3201\", \"latitude\": 40.32526, \"longitude\": -82.14111, \"estimated_distance\": 873.58, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 788, \"name\": \"Pantry\", \"address\": \"24136 TOWNSHIP ROAD 113\", \"city\": \"WARSAW\", \"state\": \"OH\", \"zip\": \"43844\", \"latitude\": 40.32526, \"longitude\": -82.14111, \"event_details\": \"\", \"estimated_distance\": 873.58, \"exception_note\": \"Coshocton/Knox\", \"event_dates\": [{\"id\": 355260, \"event_id\": 788, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-18\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:02.914585"
-}

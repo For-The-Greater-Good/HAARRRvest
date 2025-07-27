@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4044, \"name\": \"Thornville Food Pantry\", \"nickname\": \"Thornville Food Pantry\", \"address\": \"123 N. Main St.\", \"city\": \"THORNVILLE\", \"state\": \"OH\", \"zip\": \"43076\", \"phone\": \"\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 860.82, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7215, \"name\": \"Pantry\", \"address\": \"123 N. Main St.\", \"city\": \"THORNVILLE\", \"state\": \"OH\", \"zip\": \"43076\", \"latitude\": 39.8986814, \"longitude\": -82.42047908, \"event_details\": \"Emergency food service available outside listed hours- MUST call first. \\nPhone Number: (740) 246-6110\", \"estimated_distance\": 860.82, \"exception_note\": \"Serving Thorn Twp\", \"event_dates\": [{\"id\": 357617, \"event_id\": 7215, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.519042"
-}

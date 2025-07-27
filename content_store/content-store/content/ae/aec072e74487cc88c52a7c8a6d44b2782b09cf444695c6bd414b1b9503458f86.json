@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1406, \"name\": \"Central Christian Church FP\", \"nickname\": \"Central Christian Church FP\", \"address\": \"17833 GAMBIER RD\", \"city\": \"MOUNT VERNON\", \"state\": \"OH\", \"zip\": \"43050\", \"phone\": \"740-392-1314\", \"latitude\": 40.38515, \"longitude\": -82.43096, \"estimated_distance\": 858.04, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2077, \"name\": \"Pantry\", \"address\": \"17833 GAMBIER RD\", \"city\": \"MOUNT VERNON\", \"state\": \"OH\", \"zip\": \"43050\", \"latitude\": 40.38515246, \"longitude\": -82.43096598, \"event_details\": \"\", \"estimated_distance\": 858.04, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355587, \"event_id\": 2077, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.462814"
-}

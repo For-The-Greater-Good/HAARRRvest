@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3854, \"name\": \"First United Methodist Church\", \"nickname\": \"First United Methodist Church\", \"address\": \"245 Portage Trl\", \"city\": \"Cuyahoga Falls\", \"state\": \"OH\", \"zip\": \"44221\", \"phone\": \"330-923-5241\", \"latitude\": 41.13697, \"longitude\": -81.48518, \"estimated_distance\": 906.69, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6864, \"name\": \"Pantry\", \"address\": \"245 Portage Trl\", \"city\": \"Cuyahoga Falls\", \"state\": \"OH\", \"zip\": \"44221\", \"latitude\": 41.13697475, \"longitude\": -81.48518441, \"event_details\": \"Regular Hours - 4th Saturday from 11:30-12:30pm | 3rd Saturday in November and December\", \"estimated_distance\": 906.69, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360113, \"event_id\": 6864, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11:30 AM\", \"end_time\": \"12:30 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.441791"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4622, \"name\": \"Caring Hands Charity\", \"nickname\": \"Caring Hands Charity\", \"address\": \"2208 E Market St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44313\", \"phone\": \"330-208-8447\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 908.53, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8552, \"name\": \"Pantry\", \"address\": \"2208 E Market St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44313\", \"latitude\": 41.05857377, \"longitude\": -81.45014626, \"event_details\": \"Regular Hours - 1st and 3rd Tuesday from 12-1pm | Appointment Required. Please call 330-208-8447 to schedule\", \"estimated_distance\": 908.53, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360564, \"event_id\": 8552, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-05\"}, {\"id\": 360565, \"event_id\": 8552, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.859546"
-}

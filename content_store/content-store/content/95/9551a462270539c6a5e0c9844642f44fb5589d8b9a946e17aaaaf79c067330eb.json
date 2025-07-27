@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3800, \"name\": \"Auglaize chapel church of god\", \"nickname\": \"Auglaize chapel church of god\", \"address\": \"580 state st.\", \"city\": \"MELROSE\", \"state\": \"OH\", \"zip\": \"45861\", \"phone\": \"4195942441\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 753.06, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6795, \"name\": \"Pantry\", \"address\": \"580 state st.\", \"city\": \"MELROSE\", \"state\": \"OH\", \"zip\": \"45861\", \"latitude\": 41.09188201, \"longitude\": -84.41880662, \"event_details\": \"\", \"estimated_distance\": 753.06, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357938, \"event_id\": 6795, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.397294"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4778, \"name\": \"Holy Trinity Greek Orthodox Church\", \"nickname\": \"Holy Trinity Greek Orthodox Church\", \"address\": \"4705 Fairhaven Ave NW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44709\", \"phone\": \"330-494-8770\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 912.49, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8878, \"name\": \"Pantry\", \"address\": \"4705 Fairhaven Ave NW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44709\", \"latitude\": 40.849489, \"longitude\": -81.3780004, \"event_details\": \"Regular Hours - 3rd Wednesday from 1-3pm\", \"estimated_distance\": 912.49, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360660, \"event_id\": 8878, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.985271"
-}

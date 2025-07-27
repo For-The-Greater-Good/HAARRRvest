@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 2677, \"name\": \"Peter Maurin Center Food Pantry\", \"nickname\": \"Peter Maurin Food Pantry\", \"address\": \"1088 S Main St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44301\", \"phone\": \"330)-258-9006\", \"latitude\": 41.05667, \"longitude\": -81.52911, \"estimated_distance\": 904.38, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4256, \"name\": \"Main St. Pantry\", \"address\": \"1088 S Main St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44301\", \"latitude\": 41.05725071, \"longitude\": -81.5292794, \"event_details\": \"Regular Hours - 2nd and 4th Saturday from 10-12pm | Primarily for residents in zip codes 44301 & 44307\", \"estimated_distance\": 904.38, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358962, \"event_id\": 4256, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-09\"}, {\"id\": 358963, \"event_id\": 4256, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.789403"
-}

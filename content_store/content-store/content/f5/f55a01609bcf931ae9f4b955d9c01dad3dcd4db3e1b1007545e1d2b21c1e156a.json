@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4041, \"name\": \"Longstreth Food Pantry\", \"nickname\": \"Longstreth Food Pantry\", \"address\": \"43243 CARBON HILL BUCHTEL RD\", \"city\": \"NELSONVILLE\", \"state\": \"OH\", \"zip\": \"45764\", \"phone\": \"6142099928\", \"latitude\": 39.49056, \"longitude\": -82.21018, \"estimated_distance\": 874.61, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7212, \"name\": \"Pantry\", \"address\": \"43243 CARBON HILL BUCHTEL RD\", \"city\": \"NELSONVILLE\", \"state\": \"OH\", \"zip\": \"45764\", \"latitude\": 39.4962901, \"longitude\": -82.2144598, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. \\nPhone Number: (740) 753-3157\", \"estimated_distance\": 874.61, \"exception_note\": \"Serving Ward Twp\", \"event_dates\": [{\"id\": 357512, \"event_id\": 7212, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:04.510551"
-}

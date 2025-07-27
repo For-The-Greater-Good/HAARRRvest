@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 681, \"name\": \"Bread Basket Food Pantry\", \"nickname\": \"Bread Basket Food Pantry\", \"address\": \"186 N 17TH ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43203\", \"phone\": \"614-253-4313\", \"latitude\": 39.96903, \"longitude\": -82.97698, \"estimated_distance\": 830.87, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 931, \"name\": \"Pantry\", \"address\": \"186 N 17TH ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43203\", \"latitude\": 39.96903247, \"longitude\": -82.97698609, \"event_details\": \"\", \"estimated_distance\": 830.87, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355228, \"event_id\": 931, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-07-27T00:21:03.025324"
-}
