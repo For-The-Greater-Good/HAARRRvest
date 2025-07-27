@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 659, \"name\": \"Northeast Jefferson Food Pantry\", \"nickname\": \"Northeast Jefferson Food Pantry\", \"address\": \"11182 State Route 164\", \"city\": \"Salineville\", \"state\": \"OH\", \"zip\": \"43945\", \"phone\": \"330-627-4080\", \"latitude\": 40.56143, \"longitude\": -80.87433, \"estimated_distance\": 939.82, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 886, \"name\": \"Pantry\", \"address\": \"245 2nd St\", \"city\": \"Bergholz\", \"state\": \"OH\", \"zip\": \"43908\", \"latitude\": 40.51906957, \"longitude\": -80.8805188, \"event_details\": \"Regular hours - 3rd Thursday and the following Saturday from 9-12pm \\n | Open for emergency distribution.\", \"estimated_distance\": 939.5, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359235, \"event_id\": 886, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}, {\"id\": 359234, \"event_id\": 886, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:02.999811"
+}

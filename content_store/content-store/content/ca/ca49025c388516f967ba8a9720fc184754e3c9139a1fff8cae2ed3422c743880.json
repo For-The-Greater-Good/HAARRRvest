@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3982, \"name\": \"Alger Home Missions\", \"nickname\": \"Alger\", \"address\": \"305 N Main Street\", \"city\": \"ALGER\", \"state\": \"OH\", \"zip\": \"45812\", \"phone\": \"419-757-7100\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 782.86, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7131, \"name\": \"Pantry\", \"address\": \"305 N Main Street\", \"city\": \"ALGER\", \"state\": \"OH\", \"zip\": \"45812\", \"latitude\": 40.7083851, \"longitude\": -83.8439918, \"event_details\": \"\", \"estimated_distance\": 782.86, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358244, \"event_id\": 7131, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.498188"
+}

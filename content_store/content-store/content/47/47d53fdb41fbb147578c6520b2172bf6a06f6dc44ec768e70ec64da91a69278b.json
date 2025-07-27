@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 420, \"name\": \"United Presbyterian Church Food Pantry\", \"nickname\": \"United Presbyterian Church Food Pantry\", \"address\": \"2819 Hudson Dr\", \"city\": \"Cuyahoga Falls\", \"state\": \"OH\", \"zip\": \"44221\", \"phone\": \"330-923-9735\", \"latitude\": 41.14993, \"longitude\": -81.47333, \"estimated_distance\": 907.31, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 585, \"name\": \"Pantry\", \"address\": \"2819 Hudson Dr\", \"city\": \"Cuyahoga Falls\", \"state\": \"OH\", \"zip\": \"44221\", \"latitude\": 41.14910266, \"longitude\": -81.47328406, \"event_details\": \"Regular Hours - 4th Saturday from 9-11am | Call church the Wednesday before for appointment | Intended for residents of Cuyahoga Falls and surrounding areas | During the holidays the pantry will be open the 3rd Saturday instead of the 4th\", \"estimated_distance\": 907.31, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359013, \"event_id\": 585, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:02.670540"
+}

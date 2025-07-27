@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 247, \"name\": \"Vineyard Church Delaware County Pantry\", \"nickname\": \"Vineyard Church Delaware County Pantry\", \"address\": \"1001 W CHERRY ST\", \"city\": \"SUNBURY\", \"state\": \"OH\", \"zip\": \"43074\", \"phone\": \"740-965-8888\", \"latitude\": 40.28039, \"longitude\": -82.8858, \"estimated_distance\": 834.98, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 342, \"name\": \"Pantry\", \"address\": \"1001 W CHERRY ST\", \"city\": \"SUNBURY\", \"state\": \"OH\", \"zip\": \"43074\", \"latitude\": 40.25307858, \"longitude\": -82.87544153, \"event_details\": \"\", \"estimated_distance\": 834.98, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355215, \"event_id\": 342, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-18\"}, {\"id\": 355216, \"event_id\": 342, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-04\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:02.493990"
+}

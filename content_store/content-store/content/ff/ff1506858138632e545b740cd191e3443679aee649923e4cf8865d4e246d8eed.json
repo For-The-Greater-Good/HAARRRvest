@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3701, \"name\": \"Towne Blvd Church of God\", \"nickname\": \"Towne Blvd Church of God\", \"address\": \"3722 TOWNE BLVD\", \"city\": \"MIDDLETOWN\", \"state\": \"OH\", \"zip\": \"45005\", \"phone\": \"513-422-1021 x100\", \"latitude\": 39.50089, \"longitude\": -84.33252, \"estimated_distance\": 761.94, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6579, \"name\": \"Pantry\", \"address\": \"3722 TOWNE BLVD\", \"city\": \"MIDDLETOWN\", \"state\": \"OH\", \"zip\": \"45005\", \"latitude\": 39.49953083, \"longitude\": -84.32858415, \"event_details\": \"Call for Appointment: 513-422-1021 x100\", \"estimated_distance\": 761.94, \"exception_note\": \"\", \"event_dates\": [{\"id\": 349978, \"event_id\": 6579, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-07-31\"}, {\"id\": 357224, \"event_id\": 6579, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-07\"}, {\"id\": 357225, \"event_id\": 6579, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-14\"}, {\"id\": 357226, \"event_id\": 6579, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.288655"
+}

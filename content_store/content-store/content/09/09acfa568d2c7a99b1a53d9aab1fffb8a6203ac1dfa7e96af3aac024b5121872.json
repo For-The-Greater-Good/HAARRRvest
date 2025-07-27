@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2350, \"name\": \"Williamsport United Methodist Church\", \"nickname\": \"Williamsport UMC\", \"address\": \"110 N. MAIN ST.\", \"city\": \"WILLIAMSPORT\", \"state\": \"OH\", \"zip\": \"43164\", \"phone\": \"\", \"latitude\": 39.58869, \"longitude\": -83.11714, \"estimated_distance\": 825.81, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3743, \"name\": \"Pantry\", \"address\": \"110 N. MAIN ST.\", \"city\": \"WILLIAMSPORT\", \"state\": \"OH\", \"zip\": \"43164\", \"latitude\": 39.58965441, \"longitude\": -83.11722802, \"event_details\": \"\", \"estimated_distance\": 825.81, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355703, \"event_id\": 3743, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-22\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.719430"
+}

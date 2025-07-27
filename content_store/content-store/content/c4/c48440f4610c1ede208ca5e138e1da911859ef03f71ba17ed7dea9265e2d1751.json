@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3794, \"name\": \"Impact mt. Tabor\", \"nickname\": \"Impact\", \"address\": \"21611 GUTMAN RD\", \"city\": \"WAPAKONETA\", \"state\": \"OH\", \"zip\": \"45895\", \"phone\": \"9375966549\", \"latitude\": 40.51953, \"longitude\": -84.03503, \"estimated_distance\": 772.79, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6789, \"name\": \"Pantry\", \"address\": \"21611 GUTMAN RD\", \"city\": \"WAPAKONETA\", \"state\": \"OH\", \"zip\": \"45895\", \"latitude\": 40.51953985, \"longitude\": -84.03800595, \"event_details\": \"\", \"estimated_distance\": 772.79, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358194, \"event_id\": 6789, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.383596"
+}

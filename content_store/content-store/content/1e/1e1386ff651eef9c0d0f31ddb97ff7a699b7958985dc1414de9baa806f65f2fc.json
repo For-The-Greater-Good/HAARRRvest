@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3700, \"name\": \"Upper Valley Career Center\", \"nickname\": \"Upper Valley Career Center\", \"address\": \"8811 CAREER DR\", \"city\": \"PIQUA\", \"state\": \"OH\", \"zip\": \"45356\", \"phone\": \"513-881-9024\", \"latitude\": 40.16117, \"longitude\": -84.21332, \"estimated_distance\": 764.4, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6578, \"name\": \"Mobile Pantry\", \"address\": \"8811 CAREER DR\", \"city\": \"PIQUA\", \"state\": \"OH\", \"zip\": \"45356\", \"latitude\": 40.16117184, \"longitude\": -84.21332896, \"event_details\": \"\", \"estimated_distance\": 764.4, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356764, \"event_id\": 6578, \"capacity\": 1000, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.285806"
+}

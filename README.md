@@ -4,16 +4,17 @@ This repository contains food resource data collected by Pantry Pirate Radio.
 
 ## Last Update
 
-- **Date**: 2025-07-26 07:50:17 UTC
-- **Total Records**: 11624
+- **Date**: 2025-07-27 00:46:00 UTC
+- **Total Records**: 11632
 - **Data Sources**: 9
-- **Date Range**: 2025-07-23 to 2025-07-26
+- **Date Range**: 2025-07-23 to 2025-07-27
 
 ## Data Structure
 
 - `daily/` - Historical data organized by date
 - `latest/` - Most recent data for each scraper
 - `sqlite/` - SQLite database exports for Datasette
+- `content_store/` - Content deduplication store (if configured)
 
 ## Usage
 

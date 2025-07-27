@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3743, \"name\": \"New Life East Food pantry\", \"nickname\": \"New Life East Food Pantry\", \"address\": \"13142 East BROAD ST SW\", \"city\": \"PATASKALA\", \"state\": \"OH\", \"zip\": \"43062\", \"phone\": \"740-919-4000\", \"latitude\": 39.99376, \"longitude\": -82.73443, \"estimated_distance\": 843.62, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6687, \"name\": \"Pantry\", \"address\": \"13142 East BROAD ST SW\", \"city\": \"PATASKALA\", \"state\": \"OH\", \"zip\": \"43062\", \"latitude\": 39.99372516, \"longitude\": -82.73446565, \"event_details\": \"\", \"estimated_distance\": 843.62, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357232, \"event_id\": 6687, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-02\"}, {\"id\": 357233, \"event_id\": 6687, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.341351"
+}

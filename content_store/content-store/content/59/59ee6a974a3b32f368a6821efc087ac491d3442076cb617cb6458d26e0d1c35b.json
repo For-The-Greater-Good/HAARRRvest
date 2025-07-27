@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4085, \"name\": \"Diabetes Hands On Program\", \"nickname\": \"Diabetes Hands on Pantry\", \"address\": \"826 KRILL ST\", \"city\": \"CORPUS CHRISTI\", \"state\": \"TX\", \"zip\": \"78408\", \"phone\": \"361-887-7979\", \"latitude\": 27.80285, \"longitude\": -97.4557, \"estimated_distance\": 838.22, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7399, \"name\": \"Pantry\", \"address\": \"826 KRILL ST\", \"city\": \"CORPUS CHRISTI\", \"state\": \"TX\", \"zip\": \"78408\", \"latitude\": 27.80285782, \"longitude\": -97.45570229, \"event_details\": \"\", \"estimated_distance\": 838.22, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357448, \"event_id\": 7399, \"capacity\": 45, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-07\"}, {\"id\": 357449, \"event_id\": 7399, \"capacity\": 45, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.530816"
+}

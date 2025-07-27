@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4100, \"name\": \"MP - Driscoll\", \"nickname\": \"Driscoll\", \"address\": \"133 W Dragon St.\", \"city\": \"DRISCOLL\", \"state\": \"TX\", \"zip\": \"78351\", \"phone\": \"(361)726-5911\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 848.19, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7312, \"name\": \"Mobile Pantry\", \"address\": \"133 W Dragon St.\", \"city\": \"DRISCOLL\", \"state\": \"TX\", \"zip\": \"78351\", \"latitude\": 27.642001, \"longitude\": -97.770569, \"event_details\": \"\", \"estimated_distance\": 848.19, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357389, \"event_id\": 7312, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.545848"
+}

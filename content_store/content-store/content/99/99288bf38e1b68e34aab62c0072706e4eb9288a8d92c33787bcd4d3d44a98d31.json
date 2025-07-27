@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1361, \"name\": \"Barnesville Mobile Market\", \"nickname\": \"Barnesville Mobile Market\", \"address\": \"300 W CHURCH ST\", \"city\": \"BARNESVILLE\", \"state\": \"OH\", \"zip\": \"43713\", \"phone\": \"740-310-2868\", \"latitude\": 39.98913, \"longitude\": -81.17716, \"estimated_distance\": 926.29, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1992, \"name\": \"Mobile Market\", \"address\": \"300 W CHURCH ST\", \"city\": \"BARNESVILLE\", \"state\": \"OH\", \"zip\": \"43713\", \"latitude\": 39.98913313, \"longitude\": -81.1771687, \"event_details\": \"\", \"estimated_distance\": 926.29, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358075, \"event_id\": 1992, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-01\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.437166"
+}

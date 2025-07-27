@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 626, \"name\": \"Mt. Olive Baptist Church\", \"nickname\": \"Mt. Olive Baptist Church\", \"address\": \"1180 Slosson St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44320\", \"phone\": \"330-869-0816\", \"latitude\": 41.07786, \"longitude\": -81.5657, \"estimated_distance\": 902.47, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 836, \"name\": \"Pantry\", \"address\": \"1180 Slosson St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44320\", \"latitude\": 41.07786894, \"longitude\": -81.56570529, \"event_details\": \"Regular Hours - 3rd Wednesday from 11:30-1:30pm\", \"estimated_distance\": 902.47, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358950, \"event_id\": 836, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11:30 AM\", \"end_time\": \"1:30 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:02.956448"
+}

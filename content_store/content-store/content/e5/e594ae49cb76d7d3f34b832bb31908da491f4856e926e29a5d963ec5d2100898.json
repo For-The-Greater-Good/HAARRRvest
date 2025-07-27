@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4564, \"name\": \"Grace UCC-Massillon\", \"nickname\": \"Grace UCC\", \"address\": \"933 Main St W\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44647\", \"phone\": \"330-833-3875\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 904.28, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8435, \"name\": \"Meal\", \"address\": \"933 Main St W\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44647\", \"latitude\": 40.79255901, \"longitude\": -81.53577384, \"event_details\": \"Regular Hours - 2nd and 4th Saturday from 10-12pm\", \"estimated_distance\": 904.28, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359842, \"event_id\": 8435, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-09\"}, {\"id\": 359843, \"event_id\": 8435, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:04.752919"
+}

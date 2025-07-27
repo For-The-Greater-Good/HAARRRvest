@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 430, \"name\": \"JoAnn's Pantry\", \"nickname\": \"JoAnn's Pantry\", \"address\": \"1424 SPRAGUE ST\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44305\", \"phone\": \"234-571-5444\", \"latitude\": 41.07058, \"longitude\": -81.47265, \"estimated_distance\": 907.34, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 596, \"name\": \"Pantry\", \"address\": \"1690 Hillside Ter Ste A\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44305\", \"latitude\": 41.0729858, \"longitude\": -81.4645616, \"event_details\": \"Regular Hours - Last Tuesday and Thursday from 9-2:30 pm | One week earlier in November, and December for holidays.\", \"estimated_distance\": 907.77, \"exception_note\": \"\", \"event_dates\": [{\"id\": 351791, \"event_id\": 596, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"3 PM\", \"date\": \"2025-07-29\"}, {\"id\": 351792, \"event_id\": 596, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"3 PM\", \"date\": \"2025-07-31\"}, {\"id\": 358943, \"event_id\": 596, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"2:30 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:02.687709"
+}

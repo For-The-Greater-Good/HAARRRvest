@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 483, \"name\": \"Scio Community Food Pantry\", \"nickname\": \"Scio Community Food Pantry\", \"address\": \"117 MAPLE AVENUE\", \"city\": \"SCIO\", \"state\": \"OH\", \"zip\": \"43988\", \"phone\": \"740-945-9115\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 928.88, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 670, \"name\": \"Food Pantry\", \"address\": \"117 MAPLE AVENUE\", \"city\": \"SCIO\", \"state\": \"OH\", \"zip\": \"43988\", \"latitude\": 40.39942866, \"longitude\": -81.08984417, \"event_details\": \"\", \"estimated_distance\": 928.88, \"exception_note\": \"Scio, Jewett, and Bowerston\", \"event_dates\": [{\"id\": 355384, \"event_id\": 670, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-13\"}, {\"id\": 355386, \"event_id\": 670, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-13\"}, {\"id\": 355383, \"event_id\": 670, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-27\"}, {\"id\": 355385, \"event_id\": 670, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:02.802472"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1297, \"name\": \"Mt. Zion Community Church\", \"nickname\": \"Mt. Zion CC\", \"address\": \"2637 Baum St SE\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44707\", \"phone\": \"330-484-1156\", \"latitude\": 40.74175, \"longitude\": -81.34326, \"estimated_distance\": 914.64, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1879, \"name\": \"Pantry\", \"address\": \"2637 Baum St SE\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44707\", \"latitude\": 40.7416962, \"longitude\": -81.3407475, \"event_details\": \"Regular Hours - 3rd Saturday from 9-10:30am\", \"estimated_distance\": 914.64, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359121, \"event_id\": 1879, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.398214"
+}

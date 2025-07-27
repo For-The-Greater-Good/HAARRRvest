@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 812, \"name\": \"Hope Clinic\", \"nickname\": \"Hope Clinic\", \"address\": \"475 WESTERN AVE\", \"city\": \"CHILLICOTHE\", \"state\": \"OH\", \"zip\": \"45601\", \"phone\": \"740-774-4606\", \"latitude\": 39.33484, \"longitude\": -83.00145, \"estimated_distance\": 833.95, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1188, \"name\": \"Mobile Market\", \"address\": \"144 Consumer Center Dr (Shawnee Square)\", \"city\": \"CHILLICOTHE\", \"state\": \"OH\", \"zip\": \"45601\", \"latitude\": 39.328095, \"longitude\": -82.982598, \"event_details\": \"No reservation required.\", \"estimated_distance\": 835.11, \"exception_note\": \"\", \"event_dates\": [{\"id\": 351329, \"event_id\": 1188, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-07-28\"}, {\"id\": 358502, \"event_id\": 1188, \"capacity\": 200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-11\"}, {\"id\": 358503, \"event_id\": 1188, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.128118"
+}

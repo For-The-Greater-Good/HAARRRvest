@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1364, \"name\": \"Open Door Fellowship FP\", \"nickname\": \"Open Door\", \"address\": \"3130 S BRIDGE ST\", \"city\": \"CHILLICOTHE\", \"state\": \"OH\", \"zip\": \"45601\", \"phone\": \"740-663-5497\", \"latitude\": 39.2953, \"longitude\": -82.94974, \"estimated_distance\": 837.18, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2000, \"name\": \"Pantry\", \"address\": \"3130 S BRIDGE ST\", \"city\": \"CHILLICOTHE\", \"state\": \"OH\", \"zip\": \"45601\", \"latitude\": 39.29503206, \"longitude\": -82.94938889, \"event_details\": \"\", \"estimated_distance\": 837.18, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360699, \"event_id\": 2000, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-05\"}, {\"id\": 360700, \"event_id\": 2000, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-07-27T00:21:03.442671"
+}
