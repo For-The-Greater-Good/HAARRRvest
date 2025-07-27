@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"84664\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in ACTS COMMUNITY DEVELOPMENT CORPORATION\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-415-1170\", \"country\": \"US\"}, \"phones\": [{\"number\": \"2114 MERMAID AVE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 26.775047, \"longitude\": -80.32516}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"ACTS COMMUNITY DEVELOPMENT CORPORATION\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-07-27T08:25:31.714504"
+}
