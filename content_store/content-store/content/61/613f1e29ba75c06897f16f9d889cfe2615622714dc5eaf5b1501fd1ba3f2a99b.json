@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 983, \"name\": \"Jewish Family Services- Westwood Neighborhood\", \"address\": \"500 S Xavier St Denver CO, 80219\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80219, \"latitude\": 39.707539, \"longitude\": -105.049973, \"phone\": 3035975000, \"website\": \"https://www.jewishfamilyservice.org/mobile-schedule\", \"organization_id\": 983, \"pantry_id\": 2991, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"983\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-05\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-19\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:48:46.438541"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 986, \"name\": \"Jewish Family Services- Women's Bean Project\", \"address\": \"1300 W Alameda Ave Denver CO, 80223\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80223, \"latitude\": 39.710827, \"longitude\": -105.005035, \"phone\": 3035975000, \"website\": \"https://www.jewishfamilyservice.org/mobile-schedule\", \"organization_id\": 986, \"pantry_id\": 2994, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"4\"], \"source\": \"plentiful\", \"source_id\": \"986\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-14\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-28\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:48:40.550529"
+}

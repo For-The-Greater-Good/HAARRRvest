@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 816, \"name\": \"We Don't Waste - Barnum Recreation Center\", \"address\": \"360 Hooker St Denver CO, 80219\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80219, \"latitude\": 39.722603, \"longitude\": -105.02813, \"phone\": 7209432699, \"website\": \"wedontwaste.org/markets\", \"organization_id\": 816, \"pantry_id\": 2202, \"service_type\": \"2\", \"has_appointments\": true, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"816\", \"amenities\": [\"Client choice\", \"Distributes food based on household size\", \"Speaks Spanish\"], \"conditions\": [\"Registrations accepted 24 Hours in advance\"], \"service_hours\": [{\"date\": \"2025-08-19\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-09-16\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-10-21\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-11-18\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:48:17.009885"
+}

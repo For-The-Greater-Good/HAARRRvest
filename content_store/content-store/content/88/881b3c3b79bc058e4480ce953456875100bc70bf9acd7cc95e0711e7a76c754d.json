@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1058, \"name\": \"Sun Valley Mobile Distribution\", \"address\": \"1701 Bryant St Denver CO, 80204\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80204, \"latitude\": 39.735748, \"longitude\": -105.021606, \"phone\": 3038628368, \"website\": \"https://feedingsunvalley.com/\", \"organization_id\": 1058, \"pantry_id\": 3176, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"5\"], \"source\": \"plentiful\", \"source_id\": \"1058\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-15\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-19\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-17\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-21\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:49:02.885066"
+}
