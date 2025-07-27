@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Eastern Plains Community Pantry\", \"alternate_name\": \"\", \"description\": \"Food pantry in All\", \"url\": \"https://careandshare.org/locations/eastern-plains-community-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"701 4th Street\", \"address_2\": \"\", \"city\": \"Calhan\", \"state_province\": \"CO\", \"postal_code\": \"80808\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-347-3062\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"5 p.m.\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"12 p.m.\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"12 p.m.\"}], \"location\": {\"latitude\": 39.0372176, \"longitude\": -104.2975868}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:49:10.943744"
+}

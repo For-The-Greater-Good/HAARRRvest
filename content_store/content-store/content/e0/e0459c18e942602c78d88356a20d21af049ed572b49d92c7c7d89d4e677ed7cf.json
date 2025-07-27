@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pueblo Community Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"Food pantry in Pueblo County\", \"url\": \"https://careandshare.org/locations/pueblo-community-soup-kitchen/\", \"status\": \"active\", \"address\": {\"address_1\": \"422 West 7th Street\", \"address_2\": \"\", \"city\": \"Pueblo\", \"state_province\": \"CO\", \"postal_code\": \"81003\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-545-6540\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"12 p.m.\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"12 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"12 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"12 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"12 p.m.\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"12 p.m.\"}], \"location\": {\"latitude\": 38.2732962, \"longitude\": -104.6120585}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:51:45.220226"
+}
