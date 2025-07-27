@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 989, \"name\": \"Jewish Family Services- Mountain Plains\", \"address\": \"10425 E 31st Ave Denver CO, 80238\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80238, \"latitude\": 39.761444, \"longitude\": -104.866707, \"phone\": 3035975000, \"website\": \"https://www.jewishfamilyservice.org/mobile-schedule\", \"organization_id\": 989, \"pantry_id\": 2997, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"989\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-06\", \"time\": 45000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-20\", \"time\": 45000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:48:21.869526"
+}
