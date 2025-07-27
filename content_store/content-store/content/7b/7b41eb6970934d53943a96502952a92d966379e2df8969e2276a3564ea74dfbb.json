@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Westside CARES\", \"alternate_name\": \"\", \"description\": \"Food pantry in El Paso County West of I-25, south of Air Force Academy, north of Ft. Carson, and east of Teller county\", \"url\": \"https://careandshare.org/locations/westside-cares/\", \"status\": \"active\", \"address\": {\"address_1\": \"2808 W Colorado Ave\", \"address_2\": \"\", \"city\": \"Colorado Springs\", \"state_province\": \"CO\", \"postal_code\": \"80904\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-389-0759 *102\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"9:30 a.m.\", \"closes_at\": \"12:30 p.m.\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"9:30 a.m.\", \"closes_at\": \"12:30 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"9:30 a.m.\", \"closes_at\": \"12:30 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"9:30 a.m.\", \"closes_at\": \"12:30 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"4:30 p.m.\", \"closes_at\": \"6:30 p.m.\"}], \"location\": {\"latitude\": 38.8503956, \"longitude\": -104.8672724}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:49:18.944685"
+}

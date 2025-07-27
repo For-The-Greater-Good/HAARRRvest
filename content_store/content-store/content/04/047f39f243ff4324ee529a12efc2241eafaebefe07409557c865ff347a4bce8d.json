@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Marian House Kitchen\", \"alternate_name\": \"\", \"description\": \"Food pantry in El Paso County\", \"url\": \"https://careandshare.org/locations/marian-house-kitchen/\", \"status\": \"active\", \"address\": {\"address_1\": \"14 West Bijou Street\", \"address_2\": \"\", \"city\": \"Colorado Springs\", \"state_province\": \"CO\", \"postal_code\": \"80903\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-866-6551\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"10:30 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"10:30 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"10:30 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"10:30 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"10:30 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"10:30 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"10:30 a.m.\", \"closes_at\": \"1 p.m.\"}], \"location\": {\"latitude\": 38.8367183, \"longitude\": -104.8256465}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:49:42.775356"
+}

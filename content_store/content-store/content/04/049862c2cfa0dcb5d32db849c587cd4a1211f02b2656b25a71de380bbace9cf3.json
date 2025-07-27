@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Times of Refreshing Church\", \"alternate_name\": \"\", \"description\": \"Food pantry in 80817\", \"url\": \"https://careandshare.org/locations/times-of-refreshing-church/\", \"status\": \"active\", \"address\": {\"address_1\": \"123 West Ohio Avenue\", \"address_2\": \"\", \"city\": \"Fountain\", \"state_province\": \"CO\", \"postal_code\": \"80817\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-237-6535\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"1 p.m.\", \"closes_at\": \"2:30 p.m.\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"1 p.m.\", \"closes_at\": \"2:30 p.m.\"}], \"location\": {\"latitude\": 38.6831943, \"longitude\": -104.7010782}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:50:53.260681"
+}

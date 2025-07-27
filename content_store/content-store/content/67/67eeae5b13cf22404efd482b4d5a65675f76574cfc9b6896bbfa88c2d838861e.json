@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Arkansas Valley Christian Mission\", \"alternate_name\": \"\", \"description\": \"Food pantry in Chaffee County\", \"url\": \"https://careandshare.org/locations/arkansas-valley-christian-mission-station/\", \"status\": \"active\", \"address\": {\"address_1\": \"122 Cottonwood Avenue\", \"address_2\": \"\", \"city\": \"Buena Vista\", \"state_province\": \"CO\", \"postal_code\": \"81211\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-395-9321\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"11 a.m.\", \"closes_at\": \"2 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11 a.m.\", \"closes_at\": \"2 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11 a.m.\", \"closes_at\": \"2 p.m.\"}], \"location\": {\"latitude\": 38.8404553, \"longitude\": -106.1325347}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:51:05.437769"
+}
