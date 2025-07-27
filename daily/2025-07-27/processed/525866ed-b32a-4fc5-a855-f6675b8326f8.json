@@ -1,0 +1,22 @@
+{
+  "job_id": "525866ed-b32a-4fc5-a855-f6675b8326f8",
+  "job": {
+    "id": "525866ed-b32a-4fc5-a855-f6675b8326f8",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-07-27 04:20:03.398971+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
