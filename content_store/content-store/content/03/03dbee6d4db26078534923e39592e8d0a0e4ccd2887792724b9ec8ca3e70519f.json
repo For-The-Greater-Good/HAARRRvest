@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1068, \"name\": \"Huerfano County Department of Human Services\", \"address\": \"928 Russell St Walsenburg CO, 81089\", \"city\": \"Walsenburg\", \"state\": \"CO\", \"zip_code\": 81089, \"latitude\": 37.620552, \"longitude\": -104.77655, \"phone\": 7197382810, \"website\": \"https://pueblo.mobilizecomms.com/client_search\", \"organization_id\": 1068, \"pantry_id\": 3196, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"1068\", \"amenities\": [], \"conditions\": [\"1 Visit per Every Calendar Month\"], \"service_hours\": [{\"date\": \"2025-09-17\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-15\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-13\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-12\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:42:18.104203"
+}
