@@ -1,0 +1,22 @@
+{
+  "job_id": "1ec15281-23cb-40c4-8702-c90949a4cc79",
+  "job": {
+    "id": "1ec15281-23cb-40c4-8702-c90949a4cc79",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-07-28 07:46:14.303095+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
