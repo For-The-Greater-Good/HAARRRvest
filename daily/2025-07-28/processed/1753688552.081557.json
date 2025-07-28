@@ -1,0 +1,22 @@
+{
+  "job_id": "1753688552.081557",
+  "job": {
+    "id": "1753688552.081557",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-07-28 07:42:32.081571"
+  },
+  "result": "Test response",
+  "error": null
+}
