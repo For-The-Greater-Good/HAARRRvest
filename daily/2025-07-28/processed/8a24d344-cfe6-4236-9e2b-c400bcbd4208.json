@@ -1,0 +1,22 @@
+{
+  "job_id": "8a24d344-cfe6-4236-9e2b-c400bcbd4208",
+  "job": {
+    "id": "8a24d344-cfe6-4236-9e2b-c400bcbd4208",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-07-28 08:14:17.776419+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
