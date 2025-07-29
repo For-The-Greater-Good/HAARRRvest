@@ -1,0 +1,22 @@
+{
+  "job_id": "b1150258-b0f9-4b6e-b201-c5a3aab4c90d",
+  "job": {
+    "id": "b1150258-b0f9-4b6e-b201-c5a3aab4c90d",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-07-29 05:29:03.932173+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
