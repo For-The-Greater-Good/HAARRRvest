@@ -1,0 +1,22 @@
+{
+  "job_id": "375ca299-b1aa-4f58-bee1-724e0cc50096",
+  "job": {
+    "id": "375ca299-b1aa-4f58-bee1-724e0cc50096",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-07-29 05:02:46.060670+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
