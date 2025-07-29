@@ -1,0 +1,22 @@
+{
+  "job_id": "b8213c5c-4ccd-4991-9129-30de75f64893",
+  "job": {
+    "id": "b8213c5c-4ccd-4991-9129-30de75f64893",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-07-29 05:32:16.460327+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
