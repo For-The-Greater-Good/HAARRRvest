@@ -1,0 +1,22 @@
+{
+  "job_id": "4461da73-acc9-477f-9cfc-17929551f8a7",
+  "job": {
+    "id": "4461da73-acc9-477f-9cfc-17929551f8a7",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-07-29 04:46:48.348023+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
