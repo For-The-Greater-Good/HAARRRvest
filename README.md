@@ -50,6 +50,10 @@ Explore the data directly in your browser with SQL queries, no installation requ
 │       ├── scrapers/          # Raw scraper outputs
 │       └── processed/         # LLM-processed data
 ├── latest/                    # Most recent data per scraper
+├── content-store/             # Content deduplication data
+│   ├── content/               # SHA-256 organized content files
+│   ├── results/               # Processing results for deduplicated content
+│   └── metadata.json          # Store metadata and statistics
 ├── sqlite/                    # SQLite database for queries
 │   └── pantry_pirate_radio.sqlite
 └── index.html                 # Interactive Datasette-Lite interface
