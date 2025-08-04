@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"267c4eec-b636-4826-ab90-2f734096a2d4\",\n  \"name\": \"Faith Christian Church\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Faith Christian Church Location\",\n      \"latitude\": 35.0467149,\n      \"longitude\": -97.6542672,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
+  "job_id": "1754293861.252908",
+  "timestamp": "2025-08-04T14:54:46.935328"
+}
