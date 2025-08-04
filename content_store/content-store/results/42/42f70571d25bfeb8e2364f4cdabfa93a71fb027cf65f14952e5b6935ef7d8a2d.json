@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"ed373d70-6b5d-4f37-b825-52dd3780bf0c\",\n  \"name\": \"Coila Baptist Church\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Coila Baptist Church\",\n      \"latitude\": 33.3952404,\n      \"longitude\": -89.9711854,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
+  "job_id": "1754293844.607613",
+  "timestamp": "2025-08-04T13:01:18.616029"
+}
