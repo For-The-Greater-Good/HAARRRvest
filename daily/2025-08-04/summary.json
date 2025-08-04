@@ -1,6 +1,6 @@
 {
   "date": "2025-08-04",
-  "total_jobs": 5609,
+  "total_jobs": 5730,
   "scrapers": {
     "capital_area_food_bank_dc": {
       "count": 726,
@@ -38,9 +38,9 @@
       "last_job": "2025-08-04T10:18:29.913529"
     },
     "food_bank_for_new_york_city_ny": {
-      "count": 5,
+      "count": 6,
       "first_job": "2025-08-04T08:01:42.743862",
-      "last_job": "2025-08-04T14:15:36.184440"
+      "last_job": "2025-08-04T14:46:05.967802"
     },
     "food_lifeline_wa": {
       "count": 4,
@@ -53,19 +53,19 @@
       "last_job": "2025-08-04T10:05:46.082261"
     },
     "getfull_app_api": {
-      "count": 2340,
+      "count": 2458,
       "first_job": "2025-08-04T13:00:14.027633",
-      "last_job": "2025-08-04T14:45:46.258658"
+      "last_job": "2025-08-04T14:51:55.483425"
     },
     "nyc_efap_programs": {
-      "count": 8,
+      "count": 9,
       "first_job": "2025-08-04T13:00:23.019792",
-      "last_job": "2025-08-04T14:32:54.266740"
+      "last_job": "2025-08-04T14:47:49.595867"
     },
     "rutgers_against_hunger": {
-      "count": 7,
+      "count": 8,
       "first_job": "2025-08-04T13:13:31.215168",
-      "last_job": "2025-08-04T14:32:52.091910"
+      "last_job": "2025-08-04T14:49:59.033546"
     }
   },
   "jobs": [
@@ -28113,6 +28113,611 @@
       "job_id": "1754293860.147011",
       "scraper_id": "getfull_app_api",
       "timestamp": "2025-08-04T14:45:46.258658"
+    },
+    {
+      "job_id": "1754293860.132449",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:45:53.510954"
+    },
+    {
+      "job_id": "1754293860.159175",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:45:56.484564"
+    },
+    {
+      "job_id": "1754293860.153163",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:45:57.106702"
+    },
+    {
+      "job_id": "1754293860.171347",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:00.952655"
+    },
+    {
+      "job_id": "1754293860.177294",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:02.296497"
+    },
+    {
+      "job_id": "1754293860.125353",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-04T14:46:05.967802"
+    },
+    {
+      "job_id": "1754293860.165178",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:06.778273"
+    },
+    {
+      "job_id": "1754293860.185557",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:11.924219"
+    },
+    {
+      "job_id": "1754293860.19929",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:12.745225"
+    },
+    {
+      "job_id": "1754293860.192727",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:13.557419"
+    },
+    {
+      "job_id": "1754293860.212068",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:20.013178"
+    },
+    {
+      "job_id": "1754293860.21853",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:22.467142"
+    },
+    {
+      "job_id": "1754293860.224708",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:24.418331"
+    },
+    {
+      "job_id": "1754293860.23092",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:29.974860"
+    },
+    {
+      "job_id": "1754293860.236985",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:32.858024"
+    },
+    {
+      "job_id": "1754293860.250811",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:37.356526"
+    },
+    {
+      "job_id": "1754293860.256792",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:41.191546"
+    },
+    {
+      "job_id": "1754293860.263019",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:41.890371"
+    },
+    {
+      "job_id": "1754293860.269504",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:46.434530"
+    },
+    {
+      "job_id": "1754293860.276029",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:48.941711"
+    },
+    {
+      "job_id": "1754293860.282619",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:53.938208"
+    },
+    {
+      "job_id": "1754293860.205744",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:55.615079"
+    },
+    {
+      "job_id": "1754293860.244115",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:58.044362"
+    },
+    {
+      "job_id": "1754293860.295543",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:58.595823"
+    },
+    {
+      "job_id": "1754293860.28927",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:46:59.166398"
+    },
+    {
+      "job_id": "1754293860.309472",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:03.552078"
+    },
+    {
+      "job_id": "1754293860.303164",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:04.063219"
+    },
+    {
+      "job_id": "1754293860.315432",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:12.125385"
+    },
+    {
+      "job_id": "1754293860.321862",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:13.689112"
+    },
+    {
+      "job_id": "1754293860.334223",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:15.118481"
+    },
+    {
+      "job_id": "1754293860.328116",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:16.105855"
+    },
+    {
+      "job_id": "1754293860.340445",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:16.695669"
+    },
+    {
+      "job_id": "1754293860.346341",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:17.279566"
+    },
+    {
+      "job_id": "1754293860.353637",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:23.119843"
+    },
+    {
+      "job_id": "1754293860.360481",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:27.399152"
+    },
+    {
+      "job_id": "1754293860.378733",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:33.804846"
+    },
+    {
+      "job_id": "1754293860.39514",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:34.294020"
+    },
+    {
+      "job_id": "1754293860.372653",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:34.772530"
+    },
+    {
+      "job_id": "1754293860.388778",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:35.309789"
+    },
+    {
+      "job_id": "1754293860.402569",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:46.383337"
+    },
+    {
+      "job_id": "1754293860.397733",
+      "scraper_id": "nyc_efap_programs",
+      "timestamp": "2025-08-04T14:47:49.595867"
+    },
+    {
+      "job_id": "1754293860.422019",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:51.501863"
+    },
+    {
+      "job_id": "1754293860.428887",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:52.031384"
+    },
+    {
+      "job_id": "1754293860.412647",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:47:57.172759"
+    },
+    {
+      "job_id": "1754293860.435275",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:05.201685"
+    },
+    {
+      "job_id": "1754293860.442511",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:06.400864"
+    },
+    {
+      "job_id": "1754293860.454711",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:08.400544"
+    },
+    {
+      "job_id": "1754293860.448773",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:09.579241"
+    },
+    {
+      "job_id": "1754293860.460836",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:14.440134"
+    },
+    {
+      "job_id": "1754293860.467472",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:21.511839"
+    },
+    {
+      "job_id": "1754293860.479597",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:22.082545"
+    },
+    {
+      "job_id": "1754293860.473456",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:23.598872"
+    },
+    {
+      "job_id": "1754293860.486329",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:24.291304"
+    },
+    {
+      "job_id": "1754293860.366554",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:27.431079"
+    },
+    {
+      "job_id": "1754293860.492472",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:33.443124"
+    },
+    {
+      "job_id": "1754293860.505063",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:39.899098"
+    },
+    {
+      "job_id": "1754293860.511495",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:41.052502"
+    },
+    {
+      "job_id": "1754293860.518334",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:42.273587"
+    },
+    {
+      "job_id": "1754293860.498855",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:43.461169"
+    },
+    {
+      "job_id": "1754293860.524457",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:45.509160"
+    },
+    {
+      "job_id": "1754293860.530664",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:49.697908"
+    },
+    {
+      "job_id": "1754293860.550106",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:56.154134"
+    },
+    {
+      "job_id": "1754293860.536826",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:56.642369"
+    },
+    {
+      "job_id": "1754293860.543789",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:57.137364"
+    },
+    {
+      "job_id": "1754293860.556531",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:48:59.185672"
+    },
+    {
+      "job_id": "1754293860.562951",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:07.692773"
+    },
+    {
+      "job_id": "1754293860.569209",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:08.317752"
+    },
+    {
+      "job_id": "1754293860.581384",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:14.098771"
+    },
+    {
+      "job_id": "1754293860.587525",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:14.878998"
+    },
+    {
+      "job_id": "1754293860.593363",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:15.400297"
+    },
+    {
+      "job_id": "1754293860.575431",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:15.931527"
+    },
+    {
+      "job_id": "1754293860.600128",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:24.519124"
+    },
+    {
+      "job_id": "1754293860.606399",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:25.476835"
+    },
+    {
+      "job_id": "1754293860.626004",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:31.199855"
+    },
+    {
+      "job_id": "1754293860.619429",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:31.704335"
+    },
+    {
+      "job_id": "1754293860.632074",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:32.431458"
+    },
+    {
+      "job_id": "1754293860.638356",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:41.266377"
+    },
+    {
+      "job_id": "1754293860.644394",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:41.814651"
+    },
+    {
+      "job_id": "1754293860.657329",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:48.935910"
+    },
+    {
+      "job_id": "1754293860.650535",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:52.872417"
+    },
+    {
+      "job_id": "1754293860.676497",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:56.382706"
+    },
+    {
+      "job_id": "1754293860.669931",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:49:58.526630"
+    },
+    {
+      "job_id": "1754293860.415659",
+      "scraper_id": "rutgers_against_hunger",
+      "timestamp": "2025-08-04T14:49:59.033546"
+    },
+    {
+      "job_id": "1754293860.682589",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:03.188002"
+    },
+    {
+      "job_id": "1754293860.688586",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:09.966673"
+    },
+    {
+      "job_id": "1754293860.694706",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:16.114315"
+    },
+    {
+      "job_id": "1754293860.700744",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:17.855371"
+    },
+    {
+      "job_id": "1754293860.706863",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:19.295931"
+    },
+    {
+      "job_id": "1754293860.71368",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:21.680196"
+    },
+    {
+      "job_id": "1754293860.719695",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:25.349840"
+    },
+    {
+      "job_id": "1754293860.61327",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:27.097780"
+    },
+    {
+      "job_id": "1754293860.725982",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:31.682433"
+    },
+    {
+      "job_id": "1754293860.732849",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:33.404443"
+    },
+    {
+      "job_id": "1754293860.738915",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:36.465928"
+    },
+    {
+      "job_id": "1754293860.757088",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:43.342204"
+    },
+    {
+      "job_id": "1754293860.663509",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:44.105612"
+    },
+    {
+      "job_id": "1754293860.763042",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:47.441100"
+    },
+    {
+      "job_id": "1754293860.769825",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:49.787593"
+    },
+    {
+      "job_id": "1754293860.776025",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:51.553769"
+    },
+    {
+      "job_id": "1754293860.781968",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:50:59.445041"
+    },
+    {
+      "job_id": "1754293860.789053",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:00.458846"
+    },
+    {
+      "job_id": "1754293860.795182",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:03.022354"
+    },
+    {
+      "job_id": "1754293860.80152",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:08.223447"
+    },
+    {
+      "job_id": "1754293860.807684",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:09.471486"
+    },
+    {
+      "job_id": "1754293860.813726",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:18.396447"
+    },
+    {
+      "job_id": "1754293860.820444",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:18.915026"
+    },
+    {
+      "job_id": "1754293860.827301",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:21.142888"
+    },
+    {
+      "job_id": "1754293860.833497",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:22.329707"
+    },
+    {
+      "job_id": "1754293860.751099",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:24.309066"
+    },
+    {
+      "job_id": "1754293860.841641",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:25.399676"
+    },
+    {
+      "job_id": "1754293860.853414",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:35.149471"
+    },
+    {
+      "job_id": "1754293860.859429",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:36.205724"
+    },
+    {
+      "job_id": "1754293860.744952",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:36.688681"
+    },
+    {
+      "job_id": "1754293860.847499",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:39.680756"
+    },
+    {
+      "job_id": "1754293860.865392",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:40.255586"
+    },
+    {
+      "job_id": "1754293860.871751",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:40.755173"
+    },
+    {
+      "job_id": "1754293860.877893",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:42.864173"
+    },
+    {
+      "job_id": "1754293860.897143",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:52.427854"
+    },
+    {
+      "job_id": "1754293860.88462",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:52.915007"
+    },
+    {
+      "job_id": "1754293860.890862",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:53.927494"
+    },
+    {
+      "job_id": "1754293860.904213",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T14:51:55.483425"
     }
   ]
 }
