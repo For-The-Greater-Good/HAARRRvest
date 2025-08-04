@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"d93fdf94-1029-4725-8d37-3bbd5579df23\",\n  \"name\": \"Union Baptist Church\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Union Baptist Church\",\n      \"latitude\": 34.4681983,\n      \"longitude\": -89.8265589,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
+  "job_id": "1754293856.663842",
+  "timestamp": "2025-08-04T14:20:20.283332"
+}
