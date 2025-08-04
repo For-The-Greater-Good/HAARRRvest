@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"534a62fe-2d8c-41a9-8748-dbdfca8d41b3\",\n  \"name\": \"Calera Senior center\",\n  \"description\": \"Senior center services\",\n  \"contacts\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Calera Senior center\",\n      \"latitude\": 33.9347949,\n      \"longitude\": -96.4285385,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
+  "job_id": "1754293849.63919",
+  "timestamp": "2025-08-04T13:33:23.962160"
+}
