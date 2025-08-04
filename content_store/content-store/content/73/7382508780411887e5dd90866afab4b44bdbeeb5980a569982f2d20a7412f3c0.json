@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1116, \"name\": \"Iris House Plainfield NJ Fresh Market\", \"address\": \"209 W 8th St Plainfield NJ, 7060\", \"city\": \"Plainfield\", \"state\": \"NJ\", \"zip_code\": 7060, \"latitude\": 40.612457, \"longitude\": -74.417076, \"phone\": 9085615057, \"website\": \"\", \"organization_id\": 1116, \"pantry_id\": 3284, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"4\"], \"source\": \"plentiful\", \"source_id\": \"1116\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-28\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-25\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-23\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-20\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-04T08:21:47.571217"
+}
