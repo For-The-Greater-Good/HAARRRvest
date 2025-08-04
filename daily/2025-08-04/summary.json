@@ -1,6 +1,6 @@
 {
   "date": "2025-08-04",
-  "total_jobs": 6919,
+  "total_jobs": 6944,
   "scrapers": {
     "capital_area_food_bank_dc": {
       "count": 726,
@@ -53,9 +53,9 @@
       "last_job": "2025-08-04T10:05:46.082261"
     },
     "getfull_app_api": {
-      "count": 3638,
+      "count": 3663,
       "first_job": "2025-08-04T13:00:14.027633",
-      "last_job": "2025-08-04T15:47:56.261003"
+      "last_job": "2025-08-04T15:49:34.833943"
     },
     "nyc_efap_programs": {
       "count": 13,
@@ -34663,6 +34663,131 @@
       "job_id": "1754293868.745057",
       "scraper_id": "getfull_app_api",
       "timestamp": "2025-08-04T15:47:56.261003"
+    },
+    {
+      "job_id": "1754293868.784341",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:03.948787"
+    },
+    {
+      "job_id": "1754293868.777303",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:05.252957"
+    },
+    {
+      "job_id": "1754293868.808377",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:12.002192"
+    },
+    {
+      "job_id": "1754293868.791791",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:12.552468"
+    },
+    {
+      "job_id": "1754293868.79943",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:13.088918"
+    },
+    {
+      "job_id": "1754293868.817115",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:14.851621"
+    },
+    {
+      "job_id": "1754293868.830526",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:16.309513"
+    },
+    {
+      "job_id": "1754293868.837332",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:19.778963"
+    },
+    {
+      "job_id": "1754293868.844237",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:24.355202"
+    },
+    {
+      "job_id": "1754293868.869846",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:32.662604"
+    },
+    {
+      "job_id": "1754293868.860511",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:33.194819"
+    },
+    {
+      "job_id": "1754293868.853355",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:34.126873"
+    },
+    {
+      "job_id": "1754293868.890576",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:34.675030"
+    },
+    {
+      "job_id": "1754293868.87865",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:35.267325"
+    },
+    {
+      "job_id": "1754293868.897575",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:38.337039"
+    },
+    {
+      "job_id": "1754293868.904226",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:42.954172"
+    },
+    {
+      "job_id": "1754293868.918643",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:50.767148"
+    },
+    {
+      "job_id": "1754293868.911548",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:51.277865"
+    },
+    {
+      "job_id": "1754293868.93902",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:53.503650"
+    },
+    {
+      "job_id": "1754293868.932591",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:55.877098"
+    },
+    {
+      "job_id": "1754293868.945371",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:48:56.728901"
+    },
+    {
+      "job_id": "1754293868.952829",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:49:01.716568"
+    },
+    {
+      "job_id": "1754293868.97276",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:49:15.476103"
+    },
+    {
+      "job_id": "1754293868.966525",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:49:16.132444"
+    },
+    {
+      "job_id": "1754293868.925615",
+      "scraper_id": "getfull_app_api",
+      "timestamp": "2025-08-04T15:49:34.833943"
     }
   ]
 }
