@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"56b1cd9f-266c-42cb-bdf8-30d16fbd5c86\",\n  \"name\": \"Lone Grove Church\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Lone Grove Church Location\",\n      \"latitude\": 34.115351,\n      \"longitude\": -97.2811203,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
+  "job_id": "1754293849.457438",
+  "timestamp": "2025-08-04T13:32:12.303496"
+}
