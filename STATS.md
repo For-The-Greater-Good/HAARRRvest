@@ -1,10 +1,10 @@
 # Data Statistics
 
-Generated: 2025-08-04 14:04:08 UTC
+Generated: 2025-08-04 14:10:01 UTC
 
 ## Summary
 
-- **Total Records**: 5468
+- **Total Records**: 5602
 - **Sources**: 16
 - **Date Range**: 2025-07-23 to 2025-08-04
 - **Content Store Total**: 3
