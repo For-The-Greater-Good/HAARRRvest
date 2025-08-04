@@ -1,11 +1,26 @@
 {
   "date": "2025-08-04",
-  "total_jobs": 19,
+  "total_jobs": 99,
   "scrapers": {
     "capital_area_food_bank_dc": {
-      "count": 19,
+      "count": 47,
       "first_job": "2025-08-04T01:30:16.631544",
-      "last_job": "2025-08-04T01:31:05.831418"
+      "last_job": "2025-08-04T01:32:40.641722"
+    },
+    "chester_county_food_bank_pa": {
+      "count": 20,
+      "first_job": "2025-08-04T01:32:24.386944",
+      "last_job": "2025-08-04T01:33:32.467946"
+    },
+    "community_action_of_napa_valley_food_bank_ca": {
+      "count": 9,
+      "first_job": "2025-08-04T01:33:27.358324",
+      "last_job": "2025-08-04T01:33:54.291724"
+    },
+    "find_food_bank_ca": {
+      "count": 23,
+      "first_job": "2025-08-04T01:33:49.197502",
+      "last_job": "2025-08-04T01:35:03.550194"
     }
   },
   "jobs": [
@@ -103,6 +118,406 @@
       "job_id": "1754270924.345023",
       "scraper_id": "capital_area_food_bank_dc",
       "timestamp": "2025-08-04T01:31:05.831418"
+    },
+    {
+      "job_id": "1754270924.322686",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:09.775356"
+    },
+    {
+      "job_id": "1754270924.351185",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:11.174890"
+    },
+    {
+      "job_id": "1754270924.363599",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:14.358366"
+    },
+    {
+      "job_id": "1754270924.375826",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:19.150139"
+    },
+    {
+      "job_id": "1754270924.419008",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:24.566033"
+    },
+    {
+      "job_id": "1754270924.40486",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:25.976367"
+    },
+    {
+      "job_id": "1754270924.424894",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:30.503795"
+    },
+    {
+      "job_id": "1754270924.390888",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:30.937895"
+    },
+    {
+      "job_id": "1754270924.430702",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:31.663358"
+    },
+    {
+      "job_id": "1754270924.441164",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:34.387301"
+    },
+    {
+      "job_id": "1754270924.384708",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:37.890868"
+    },
+    {
+      "job_id": "1754270924.447073",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:41.912181"
+    },
+    {
+      "job_id": "1754270924.454235",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:45.124986"
+    },
+    {
+      "job_id": "1754270924.466448",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:46.485772"
+    },
+    {
+      "job_id": "1754270924.477261",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:48.175721"
+    },
+    {
+      "job_id": "1754270924.460262",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:50.661858"
+    },
+    {
+      "job_id": "1754270924.495508",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:31:58.811500"
+    },
+    {
+      "job_id": "1754270924.508816",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:00.681481"
+    },
+    {
+      "job_id": "1754270924.483969",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:01.340808"
+    },
+    {
+      "job_id": "1754270924.532969",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:04.922963"
+    },
+    {
+      "job_id": "1754270924.515909",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:07.052765"
+    },
+    {
+      "job_id": "1754270924.526908",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:08.251647"
+    },
+    {
+      "job_id": "1754270924.545474",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:19.077223"
+    },
+    {
+      "job_id": "1754270924.568546",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:19.476571"
+    },
+    {
+      "job_id": "1754270924.53899",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:19.895306"
+    },
+    {
+      "job_id": "1754270924.555806",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:21.033883"
+    },
+    {
+      "job_id": "1754270924.502567",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:21.433869"
+    },
+    {
+      "job_id": "1754270925.034051",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:24.386944"
+    },
+    {
+      "job_id": "1754270925.058269",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:34.243499"
+    },
+    {
+      "job_id": "1754270925.052105",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:36.250440"
+    },
+    {
+      "job_id": "1754270925.07128",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:36.658276"
+    },
+    {
+      "job_id": "1754270925.045153",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:37.797607"
+    },
+    {
+      "job_id": "1754270924.561488",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-04T01:32:40.641722"
+    },
+    {
+      "job_id": "1754270925.086095",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:42.824489"
+    },
+    {
+      "job_id": "1754270925.077327",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:46.170953"
+    },
+    {
+      "job_id": "1754270925.096467",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:47.547520"
+    },
+    {
+      "job_id": "1754270925.104806",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:56.799175"
+    },
+    {
+      "job_id": "1754270925.13196",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:57.188800"
+    },
+    {
+      "job_id": "1754270925.152089",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:32:58.649471"
+    },
+    {
+      "job_id": "1754270925.158814",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:33:00.662320"
+    },
+    {
+      "job_id": "1754270925.123839",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:33:04.312776"
+    },
+    {
+      "job_id": "1754270925.18626",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:33:10.791502"
+    },
+    {
+      "job_id": "1754270925.16968",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:33:11.252952"
+    },
+    {
+      "job_id": "1754270925.177584",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:33:12.527733"
+    },
+    {
+      "job_id": "1754270925.144631",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:33:12.926101"
+    },
+    {
+      "job_id": "1754270925.206252",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:33:14.297089"
+    },
+    {
+      "job_id": "1754270925.197852",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:33:16.027157"
+    },
+    {
+      "job_id": "1754270936.71414",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:27.358324"
+    },
+    {
+      "job_id": "1754270932.848903",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:28.664175"
+    },
+    {
+      "job_id": "1754270925.112305",
+      "scraper_id": "chester_county_food_bank_pa",
+      "timestamp": "2025-08-04T01:33:32.467946"
+    },
+    {
+      "job_id": "1754270930.951749",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:33.942269"
+    },
+    {
+      "job_id": "1754270935.250365",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:34.880240"
+    },
+    {
+      "job_id": "1754270927.106449",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:36.279448"
+    },
+    {
+      "job_id": "1754270928.916104",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:36.715485"
+    },
+    {
+      "job_id": "1754270940.966912",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:42.711569"
+    },
+    {
+      "job_id": "1754270938.631403",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:48.795884"
+    },
+    {
+      "job_id": "1754270969.134702",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:49.197502"
+    },
+    {
+      "job_id": "1754270967.619813",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:52.620583"
+    },
+    {
+      "job_id": "1754270940.959557",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:54.291724"
+    },
+    {
+      "job_id": "1754270971.074209",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:33:54.725272"
+    },
+    {
+      "job_id": "1754270973.114718",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:06.676815"
+    },
+    {
+      "job_id": "1754270977.135341",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:08.997030"
+    },
+    {
+      "job_id": "1754270986.300247",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:09.395900"
+    },
+    {
+      "job_id": "1754270981.137117",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:12.538530"
+    },
+    {
+      "job_id": "1754270979.132602",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:18.531176"
+    },
+    {
+      "job_id": "1754270975.126329",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:18.925578"
+    },
+    {
+      "job_id": "1754270984.139104",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:20.155026"
+    },
+    {
+      "job_id": "1754270994.18219",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:29.563085"
+    },
+    {
+      "job_id": "1754270988.294429",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:33.138837"
+    },
+    {
+      "job_id": "1754270992.149395",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:37.294387"
+    },
+    {
+      "job_id": "1754270990.298955",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:40.690222"
+    },
+    {
+      "job_id": "1754270998.192437",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:44.221387"
+    },
+    {
+      "job_id": "1754270996.126605",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:50.030675"
+    },
+    {
+      "job_id": "1754271004.214048",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:53.673490"
+    },
+    {
+      "job_id": "1754271000.233956",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:56.753557"
+    },
+    {
+      "job_id": "1754271008.276656",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:57.159050"
+    },
+    {
+      "job_id": "1754271006.215614",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:34:59.320384"
+    },
+    {
+      "job_id": "1754271010.211086",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:35:00.874980"
+    },
+    {
+      "job_id": "1754271012.424922",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:35:03.112596"
+    },
+    {
+      "job_id": "1754271002.240989",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T01:35:03.550194"
     }
   ]
 }
