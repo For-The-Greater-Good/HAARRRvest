@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"1234\", \"organizationId\": \"1083\", \"name\": \"Christ Church Community Meal\", \"address1\": \"410 Grand Avenue\", \"address2\": \"\", \"city\": \"Waukegan\", \"state\": \"IL\", \"zipCode\": \"60085\", \"country\": null, \"phone\": \"224-627-2721\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"42.3641532\", \"longitude\": \"-87.8341763\", \"foodPrograms\": \"Hot/Cold Meal Program\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"224-627-2721\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 2, \"regionName\": \"Northern Illinois Food Bank\", \"logoBlobNameSmall\": \"dbf64577-4f05-4753-a6ec-ebbbd9c99e9c.png\", \"website\": \"solvehungertoday.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Sunday 2:00 PM-3:00 PM\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-04T08:26:52.549657"
+}

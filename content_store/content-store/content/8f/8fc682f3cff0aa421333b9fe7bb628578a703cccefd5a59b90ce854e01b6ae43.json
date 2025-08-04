@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"1160\", \"organizationId\": \"1015\", \"name\": \"Joseph's Pantry\", \"address1\": \"406 S.Adams Ave.\", \"address2\": \"\", \"city\": \"Freeport\", \"state\": \"IL\", \"zipCode\": \"61032\", \"country\": null, \"phone\": \"815-616-8040\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"42.2959089\", \"longitude\": \"-89.6155265\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"815-616-8040\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 2, \"regionName\": \"Northern Illinois Food Bank\", \"logoBlobNameSmall\": \"dbf64577-4f05-4753-a6ec-ebbbd9c99e9c.png\", \"website\": \"solvehungertoday.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Tuesday 3:00 PM-5:00 PM\"], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 9848, \"locationId\": 1160, \"specialDate\": \"2025-10-14T00:00:00\", \"startTime\": \" 3:00:00 PM\", \"endTime\": \" 4:30:00 PM\", \"startTimeDescr\": \"3:00 PM\", \"endTimeDescr\": \"4:30 PM\", \"closedInd\": false, \"notes\": \"Mobile Market Distribution\", \"addDateTime\": \"2025-06-24T18:10:52.973\", \"addUserName\": \"nhuerta@northernilfoodbank.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-04T08:26:51.169486"
+}
