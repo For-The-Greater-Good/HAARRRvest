@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"8db20fe4-e6ca-40e8-934b-2d3d5a63cce9\",\n  \"name\": \"Atoka Community CENTER\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Atoka Community CENTER\",\n      \"latitude\": 34.3959341,\n      \"longitude\": -96.1514714,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
+  "job_id": "1754293855.519236",
+  "timestamp": "2025-08-04T14:12:27.314215"
+}
