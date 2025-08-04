@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"16410\", \"organizationId\": \"12509\", \"name\": \"Good Samaritan Netwoek\", \"address1\": \"2706 N Monroe St\", \"address2\": null, \"city\": \"Tallahassee \", \"state\": \"FL\", \"zipCode\": \"32303\", \"country\": null, \"phone\": \"850-297-1113\", \"phoneExt\": null, \"website\": \"www.gsncares.org\", \"latitude\": \"30.4779684\", \"longitude\": \"-84.3002555\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"English\", \"features\": \"Air Conditioning\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"Matthew Morris\", \"contactPhone\": \"850-297-1113\", \"contactEmail\": \"mensprogram@gsncares.org\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"Accepts Walk-Ins, Indoor Service, Lifting / Carrying Assistance, TEFAP Program\", \"dietRestrictions\": \"\", \"foodOfferings\": \"Dairy, Fruits &amp; Vegetables, Other, Shelf Stable/Non-Perishable Goods\", \"networkAffiliations\": [{\"regionId\": 3, \"regionName\": \"Vivery Network\", \"logoBlobNameSmall\": \"9d6f806b-b144-4a23-97ab-62ef7377b68d.png\", \"website\": \"http://www.vivery.org\"}], \"timeZoneName\": \"Eastern Standard Time\", \"timeZoneCode\": \"ET\", \"offsetHours\": \"-4\", \"schedules\": [\"Monday 10:30 AM-12:30 PM (Call to see if we have food for the pantry Tuesday and Thursday. )\", \"Wednesday 10:30 AM-12:30 PM (Call to see if we have food for the pantry Tuesday and Thursday. )\", \"Friday 10:30 AM-12:30 PM (Call to see if we have food for the pantry Tuesday and Thursday. )\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-04T08:26:18.079428"
+}

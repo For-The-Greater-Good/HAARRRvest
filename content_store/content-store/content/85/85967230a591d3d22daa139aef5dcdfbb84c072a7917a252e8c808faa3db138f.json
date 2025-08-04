@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"16504\", \"organizationId\": \"12580\", \"name\": \"Red River Food Pantry\", \"address1\": \"160 FM 911 S\", \"address2\": \"\", \"city\": \"Avery\", \"state\": \"TX\", \"zipCode\": \"75554\", \"country\": null, \"phone\": \"903-684-3302\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"33.552289\", \"longitude\": \"-94.783265\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 97, \"regionName\": \"East Texas Food Bank\", \"logoBlobNameSmall\": \"a1fe1166-cb92-4210-9770-25913d9bc7ca.png\", \"website\": \"https://www.easttexasfoodbank.org/\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Tuesday 1:00 PM-4:00 PM [ 3rd week(s)]\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-04T08:26:24.555839"
+}
