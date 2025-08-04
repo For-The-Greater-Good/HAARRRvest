@@ -1,6 +1,6 @@
 {
   "date": "2025-08-04",
-  "total_jobs": 2316,
+  "total_jobs": 2430,
   "scrapers": {
     "capital_area_food_bank_dc": {
       "count": 726,
@@ -33,9 +33,9 @@
       "last_job": "2025-08-04T07:56:18.614857"
     },
     "food_helpline_org": {
-      "count": 1271,
+      "count": 1384,
       "first_job": "2025-08-04T08:00:08.090540",
-      "last_job": "2025-08-04T09:30:03.195991"
+      "last_job": "2025-08-04T09:35:32.378077"
     },
     "food_bank_for_new_york_city_ny": {
       "count": 2,
@@ -48,9 +48,9 @@
       "last_job": "2025-08-04T09:27:14.626852"
     },
     "find_food_bank_ca": {
-      "count": 2,
+      "count": 3,
       "first_job": "2025-08-04T08:18:28.506095",
-      "last_job": "2025-08-04T09:02:36.787367"
+      "last_job": "2025-08-04T09:35:24.451360"
     }
   },
   "jobs": [
@@ -11633,6 +11633,576 @@
       "job_id": "1754292477.084232",
       "scraper_id": "food_helpline_org",
       "timestamp": "2025-08-04T09:30:03.195991"
+    },
+    {
+      "job_id": "1754292477.103857",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:15.439084"
+    },
+    {
+      "job_id": "1754292477.138467",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:15.946909"
+    },
+    {
+      "job_id": "1754292477.11036",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:16.481084"
+    },
+    {
+      "job_id": "1754292477.145611",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:19.001431"
+    },
+    {
+      "job_id": "1754292477.130872",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:26.599377"
+    },
+    {
+      "job_id": "1754292477.124044",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:28.405663"
+    },
+    {
+      "job_id": "1754292477.165055",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:30.778014"
+    },
+    {
+      "job_id": "1754292477.116719",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:32.132232"
+    },
+    {
+      "job_id": "1754292477.152164",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:33.402781"
+    },
+    {
+      "job_id": "1754292477.158567",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:37.442794"
+    },
+    {
+      "job_id": "1754292477.171499",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:38.865114"
+    },
+    {
+      "job_id": "1754292477.200427",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:47.343330"
+    },
+    {
+      "job_id": "1754292477.208002",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:48.639887"
+    },
+    {
+      "job_id": "1754292477.222055",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:52.005212"
+    },
+    {
+      "job_id": "1754292477.215614",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:53.162888"
+    },
+    {
+      "job_id": "1754292477.185592",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:53.906812"
+    },
+    {
+      "job_id": "1754292477.192682",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:30:55.183507"
+    },
+    {
+      "job_id": "1754292477.235604",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:02.449783"
+    },
+    {
+      "job_id": "1754292477.243314",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:05.725085"
+    },
+    {
+      "job_id": "1754292477.229254",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:06.696450"
+    },
+    {
+      "job_id": "1754292477.250108",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:07.516228"
+    },
+    {
+      "job_id": "1754292477.178994",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:08.886276"
+    },
+    {
+      "job_id": "1754292477.256828",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:09.384539"
+    },
+    {
+      "job_id": "1754292477.264176",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:09.913968"
+    },
+    {
+      "job_id": "1754292477.270646",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:16.098321"
+    },
+    {
+      "job_id": "1754292477.309671",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:22.115774"
+    },
+    {
+      "job_id": "1754292477.284332",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:22.598091"
+    },
+    {
+      "job_id": "1754292477.292862",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:23.102187"
+    },
+    {
+      "job_id": "1754292477.31941",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:25.762266"
+    },
+    {
+      "job_id": "1754292477.277155",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:28.057812"
+    },
+    {
+      "job_id": "1754292477.302407",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:30.874624"
+    },
+    {
+      "job_id": "1754292477.329358",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:32.534724"
+    },
+    {
+      "job_id": "1754292477.348583",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:40.318054"
+    },
+    {
+      "job_id": "1754292477.356988",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:40.835925"
+    },
+    {
+      "job_id": "1754292477.342523",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:42.088231"
+    },
+    {
+      "job_id": "1754292477.36427",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:45.775970"
+    },
+    {
+      "job_id": "1754292477.376821",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:47.168017"
+    },
+    {
+      "job_id": "1754292477.336158",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:55.030042"
+    },
+    {
+      "job_id": "1754292477.385214",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:31:55.815122"
+    },
+    {
+      "job_id": "1754292477.370449",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:00.220345"
+    },
+    {
+      "job_id": "1754292477.415322",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:01.253911"
+    },
+    {
+      "job_id": "1754292477.406739",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:02.860036"
+    },
+    {
+      "job_id": "1754292477.391731",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:05.529648"
+    },
+    {
+      "job_id": "1754292477.424161",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:11.046419"
+    },
+    {
+      "job_id": "1754292477.437979",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:15.459821"
+    },
+    {
+      "job_id": "1754292477.399337",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:15.987675"
+    },
+    {
+      "job_id": "1754292477.446297",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:16.522292"
+    },
+    {
+      "job_id": "1754292477.453665",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:17.045036"
+    },
+    {
+      "job_id": "1754292477.460917",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:18.970566"
+    },
+    {
+      "job_id": "1754292477.431006",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:23.240395"
+    },
+    {
+      "job_id": "1754292477.467672",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:24.414111"
+    },
+    {
+      "job_id": "1754292477.474645",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:30.374170"
+    },
+    {
+      "job_id": "1754292477.482392",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:30.845880"
+    },
+    {
+      "job_id": "1754292477.503431",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:33.574367"
+    },
+    {
+      "job_id": "1754292477.496477",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:34.062045"
+    },
+    {
+      "job_id": "1754292477.489447",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:34.902823"
+    },
+    {
+      "job_id": "1754292477.510128",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:37.660313"
+    },
+    {
+      "job_id": "1754292477.517223",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:40.670486"
+    },
+    {
+      "job_id": "1754292477.524297",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:46.924706"
+    },
+    {
+      "job_id": "1754292477.545533",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:47.950396"
+    },
+    {
+      "job_id": "1754292477.538844",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:49.557055"
+    },
+    {
+      "job_id": "1754292477.552899",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:50.618195"
+    },
+    {
+      "job_id": "1754292477.559084",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:32:59.628481"
+    },
+    {
+      "job_id": "1754292477.572735",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:00.690822"
+    },
+    {
+      "job_id": "1754292477.578984",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:01.459672"
+    },
+    {
+      "job_id": "1754292477.530972",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:08.586848"
+    },
+    {
+      "job_id": "1754292477.606133",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:22.879023"
+    },
+    {
+      "job_id": "1754292477.613039",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:23.491888"
+    },
+    {
+      "job_id": "1754292477.619372",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:24.216441"
+    },
+    {
+      "job_id": "1754292477.59314",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:25.910216"
+    },
+    {
+      "job_id": "1754292477.58569",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:41.072946"
+    },
+    {
+      "job_id": "1754292477.64657",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:41.554079"
+    },
+    {
+      "job_id": "1754292477.639081",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:42.767848"
+    },
+    {
+      "job_id": "1754292477.566663",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:45.133079"
+    },
+    {
+      "job_id": "1754292477.632659",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:46.573234"
+    },
+    {
+      "job_id": "1754292477.625895",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:49.420690"
+    },
+    {
+      "job_id": "1754292477.599868",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:51.626529"
+    },
+    {
+      "job_id": "1754292477.666773",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:55.252571"
+    },
+    {
+      "job_id": "1754292477.653227",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:33:58.175757"
+    },
+    {
+      "job_id": "1754292477.659789",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:00.019169"
+    },
+    {
+      "job_id": "1754292477.679705",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:00.765812"
+    },
+    {
+      "job_id": "1754292477.692022",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:05.626698"
+    },
+    {
+      "job_id": "1754292477.685809",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:09.120890"
+    },
+    {
+      "job_id": "1754292477.698959",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:10.921870"
+    },
+    {
+      "job_id": "1754292477.705172",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:11.912216"
+    },
+    {
+      "job_id": "1754292477.711333",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:14.281027"
+    },
+    {
+      "job_id": "1754292477.673096",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:14.898179"
+    },
+    {
+      "job_id": "1754292477.717742",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:15.399404"
+    },
+    {
+      "job_id": "1754292477.730096",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:23.230988"
+    },
+    {
+      "job_id": "1754292477.723828",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:25.069190"
+    },
+    {
+      "job_id": "1754292477.74285",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:25.560906"
+    },
+    {
+      "job_id": "1754292477.736412",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:26.061544"
+    },
+    {
+      "job_id": "1754292477.762075",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:28.870722"
+    },
+    {
+      "job_id": "1754292477.768146",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:38.267708"
+    },
+    {
+      "job_id": "1754292477.774475",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:39.906352"
+    },
+    {
+      "job_id": "1754292477.787805",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:44.395067"
+    },
+    {
+      "job_id": "1754292477.79402",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:46.902903"
+    },
+    {
+      "job_id": "1754292477.755945",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:47.570256"
+    },
+    {
+      "job_id": "1754292477.749734",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:49.374581"
+    },
+    {
+      "job_id": "1754292477.806966",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:54.979567"
+    },
+    {
+      "job_id": "1754292477.780836",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:55.465261"
+    },
+    {
+      "job_id": "1754292477.800846",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:34:55.971521"
+    },
+    {
+      "job_id": "1754292477.813072",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:02.315752"
+    },
+    {
+      "job_id": "1754292477.831776",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:08.251263"
+    },
+    {
+      "job_id": "1754292477.838954",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:09.122071"
+    },
+    {
+      "job_id": "1754292477.825655",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:10.659749"
+    },
+    {
+      "job_id": "1754292477.846235",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:16.477160"
+    },
+    {
+      "job_id": "1754292477.85357",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:17.774383"
+    },
+    {
+      "job_id": "1754292477.81916",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:20.860523"
+    },
+    {
+      "job_id": "1754292477.834388",
+      "scraper_id": "find_food_bank_ca",
+      "timestamp": "2025-08-04T09:35:24.451360"
+    },
+    {
+      "job_id": "1754292477.866015",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:29.952614"
+    },
+    {
+      "job_id": "1754292477.87802",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:30.436294"
+    },
+    {
+      "job_id": "1754292477.859762",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:31.662335"
+    },
+    {
+      "job_id": "1754292477.884335",
+      "scraper_id": "food_helpline_org",
+      "timestamp": "2025-08-04T09:35:32.378077"
     }
   ]
 }
