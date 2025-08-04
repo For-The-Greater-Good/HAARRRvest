@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"ab8e6c47-d7fc-4688-9464-254921ac202c\",\n  \"name\": \"Almsprings Food Bank\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Almsprings Food Bank Location\",\n      \"latitude\": 33.8303522,\n      \"longitude\": -83.8403372,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
+  "job_id": "1754293846.141429",
+  "timestamp": "2025-08-04T13:11:11.229813"
+}
