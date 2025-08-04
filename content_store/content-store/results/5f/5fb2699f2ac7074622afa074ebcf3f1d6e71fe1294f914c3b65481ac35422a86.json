@@ -1,0 +1,5 @@
+{
+  "result": "{\"type\": \"result\", \"subtype\": \"error_during_execution\", \"duration_ms\": 130683, \"duration_api_ms\": 133295, \"is_error\": false, \"num_turns\": 0, \"session_id\": \"d83d6427-df72-40f4-a75d-6d29418db228\", \"total_cost_usd\": 0.08225274999999999, \"usage\": {\"input_tokens\": 15, \"cache_creation_input_tokens\": 11881, \"cache_read_input_tokens\": 66012, \"output_tokens\": 1156, \"server_tool_use\": {\"web_search_requests\": 0}, \"service_tier\": \"standard\"}}",
+  "job_id": "1754293853.602029",
+  "timestamp": "2025-08-04T14:01:18.139205"
+}
