@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"b1231e5e-a357-4628-97a0-08d927aaad5c\",\n  \"name\": \"Capital Senior Center\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Capital Senior Center\",\n      \"latitude\": 33.9954458,\n      \"longitude\": -81.02072799999999,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
+  "job_id": "1754293852.276054",
+  "timestamp": "2025-08-04T13:50:14.071519"
+}

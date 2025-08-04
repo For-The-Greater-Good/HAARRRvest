@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"73ba5ecc-27c5-4df7-8e62-8874ffdeeca3\",\n  \"name\": \"Tri-City\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"attributes\": [],\n  \"fundings\": [],\n  \"phones\": [],\n  \"metadata\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Tri-City Location\",\n      \"latitude\": 33.974695499999996,\n      \"longitude\": -81.0896995,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ]\n}\n```",
+  "job_id": "1754293852.478504",
+  "timestamp": "2025-08-04T13:51:35.814739"
+}
