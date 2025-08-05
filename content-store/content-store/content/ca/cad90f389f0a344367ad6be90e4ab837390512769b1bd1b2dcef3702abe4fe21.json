@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 815, \"name\": \"We Don't Waste - Mobile Food Market - La Alma Recreation Center\", \"address\": \"1325 W 11th Ave Denver CO, 80204\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80204, \"latitude\": 39.734127, \"longitude\": -105.004189, \"phone\": 7204436113, \"website\": \"wedontwaste.org\", \"organization_id\": 815, \"pantry_id\": 2201, \"service_type\": \"2\", \"has_appointments\": true, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"815\", \"amenities\": [\"Client choice\", \"Distributes food based on household size\", \"Speaks Spanish\"], \"conditions\": [\"Registrations accepted 24 Hours in advance\"], \"service_hours\": [{\"date\": \"2025-08-12\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-09-09\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-10-14\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-11-11\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:48:17.637893"
+}

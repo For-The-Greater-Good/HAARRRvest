@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1150, \"name\": \"WeeCycle - Dicks Sporting Goods Park\", \"address\": \"6000 Victory Way Commerce City CO, 80022\", \"city\": \"Commerce City\", \"state\": \"CO\", \"zip_code\": 80022, \"latitude\": 39.805668, \"longitude\": -104.892349, \"phone\": 7203197792, \"website\": \"\", \"organization_id\": 1150, \"pantry_id\": 3356, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"5\"], \"source\": \"plentiful\", \"source_id\": \"1150\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-15\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-17\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-21\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-19\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:49:01.423534"
+}

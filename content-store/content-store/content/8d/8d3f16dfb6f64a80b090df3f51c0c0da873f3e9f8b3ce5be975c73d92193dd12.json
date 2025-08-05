@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tri County Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food pantry in 80833, 80864, 80808, 80832, 80835, 80830, 80830, 80825, 81025, 80929, 80831, 80828\", \"url\": \"https://careandshare.org/locations/tricounty-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": \"\", \"city\": \"\", \"state_province\": \"CO\", \"postal_code\": \"\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-892-0275 (text preferred)\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"9 a.m.\", \"closes_at\": \"10 a.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"1 p.m.\", \"closes_at\": \"2 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"2 p.m.\", \"closes_at\": \"7 p.m.\"}], \"location\": {\"latitude\": 38.8434808, \"longitude\": -104.0921985}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:50:59.683420"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1259, \"name\": \"Trinity Church of the Nazarene\", \"address\": \"5055 El Camino Dr Colorado Springs CO, 80918\", \"city\": \"Colorado Springs\", \"state\": \"CO\", \"zip_code\": 80918, \"latitude\": 38.904789, \"longitude\": -104.771034, \"phone\": 7195997990, \"website\": \"https://careandshare.org/locations/trinity-church-of-the-nazarene/\", \"organization_id\": 1259, \"pantry_id\": 2532, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"1259\", \"amenities\": [], \"conditions\": [\"Geographic Restrictions: 80908\"], \"service_hours\": [{\"date\": \"2025-08-23\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-27\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-25\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-22\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:46:34.317999"
+}

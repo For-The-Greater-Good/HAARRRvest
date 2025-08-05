@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"12605\", \"organizationId\": \"9910\", \"name\": \"CARES Food Bank\", \"address1\": \"56155 Sunset Ave\", \"address2\": \"\", \"city\": \"Strasburg\", \"state\": \"CO\", \"zipCode\": \"80136\", \"country\": null, \"phone\": \"303-622-4600\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"39.7460797\", \"longitude\": \"-104.3295064\", \"foodPrograms\": \"Food Pantry\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"TEFAP Program\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 79, \"regionName\": \"Food Bank of the Rockies\", \"logoBlobNameSmall\": \"56c2b2fe-4696-428f-91d3-841bf4970f11.png\", \"website\": \"https://www.foodbankrockies.org/\"}], \"timeZoneName\": \"Mountain Standard Time\", \"timeZoneCode\": \"MT\", \"offsetHours\": \"-6\", \"schedules\": [\"Friday 4:00 PM-6:00 PM\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-04T08:26:43.218722"
+}

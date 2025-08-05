@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1117, \"name\": \"Beginning World Changers\", \"address\": \"218 Dunellen Ave Dunellen NJ, 8812\", \"city\": \"Dunellen\", \"state\": \"NJ\", \"zip_code\": 8812, \"latitude\": 40.594681, \"longitude\": -74.463646, \"phone\": 9084638005, \"website\": \"beginningworldchangers@yahoo.com\", \"organization_id\": 1117, \"pantry_id\": 3198, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1117\", \"amenities\": [\"Speaks Spanish\"], \"conditions\": [\"1 Visit per Every Calendar Month\", \"Geographic Restrictions: Middlesex County Residences\"], \"service_hours\": [{\"date\": \"2025-08-20\", \"time\": 40500, \"until\": 44100, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-17\", \"time\": 40500, \"until\": 44100, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-15\", \"time\": 40500, \"until\": 44100, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-19\", \"time\": 40500, \"until\": 44100, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-04T08:22:18.171006"
+}

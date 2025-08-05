@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"85836\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in MASJID AR RAHMAN FOOD PANTRY\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-740-5025\", \"country\": \"US\"}, \"phones\": [{\"number\": \"98-10 211 STREET (QUEENS VILLAGE)\", \"type\": \"voice\"}], \"location\": {\"latitude\": 1.8907585, \"longitude\": 103.1754749}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"MASJID AR RAHMAN FOOD PANTRY\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-07-27T08:39:37.898788"
+}

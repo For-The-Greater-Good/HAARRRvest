@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1206, \"name\": \"Grand Junction High School MP\", \"address\": \"1400 N 5th St Grand Junction CO, 81501\", \"city\": \"Grand Junction\", \"state\": \"CO\", \"zip_code\": 81501, \"latitude\": 39.082245, \"longitude\": -108.562294, \"phone\": 9704641138, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1206, \"pantry_id\": 3486, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1206\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-19\", \"time\": 54000, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-16\", \"time\": 54000, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-21\", \"time\": 54000, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-18\", \"time\": 54000, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:45:51.888796"
+}

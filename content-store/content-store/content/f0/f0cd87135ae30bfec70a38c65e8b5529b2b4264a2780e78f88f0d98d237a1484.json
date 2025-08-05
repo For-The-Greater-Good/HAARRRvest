@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1073, \"name\": \"La Veta Village Food Services\", \"address\": \"209 S Main St La Veta CO, 81055\", \"city\": \"La Veta\", \"state\": \"CO\", \"zip_code\": 81055, \"latitude\": 37.508854, \"longitude\": -105.008881, \"phone\": 7192471393, \"website\": \"lavetavillage.org\", \"organization_id\": 1073, \"pantry_id\": 3203, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1073\", \"amenities\": [], \"conditions\": [\"1 Visit per Every Calendar Month\"], \"service_hours\": [{\"date\": \"2025-08-09\", \"time\": 36000, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-06\", \"time\": 36000, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-04\", \"time\": 36000, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-08\", \"time\": 36000, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:42:19.326650"
+}
