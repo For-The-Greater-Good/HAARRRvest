@@ -1,11 +1,11 @@
 {
   "date": "2025-08-05",
-  "total_jobs": 36,
+  "total_jobs": 48,
   "scrapers": {
     "unknown": {
-      "count": 36,
+      "count": 48,
       "first_job": "2025-08-05T04:12:07.817297",
-      "last_job": "2025-08-05T06:17:23.412044"
+      "last_job": "2025-08-05T06:32:00.652669"
     }
   },
   "jobs": [
@@ -188,6 +188,66 @@
       "job_id": "test-job",
       "scraper_id": "unknown",
       "timestamp": "2025-08-05T06:17:23.412044"
+    },
+    {
+      "job_id": "491dd0b8-97f7-4f52-a649-ab4b919392f0",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:29:03.667860"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:29:04.199804"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:29:04.639010"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:29:05.085320"
+    },
+    {
+      "job_id": "2be54ad5-fe02-4ec2-8bfa-6c0dc46662cd",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:29:46.307773"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:29:46.776584"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:29:47.218595"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:29:47.646735"
+    },
+    {
+      "job_id": "0d259d4b-206c-41cf-a462-6c514e442c50",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:31:59.207673"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:31:59.769930"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:32:00.209398"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-05T06:32:00.652669"
     }
   ]
 }
