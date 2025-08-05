@@ -3,7 +3,7 @@
 <!-- HARVESTER AUTO-GENERATED SECTION START -->
 ## Last Update
 
-- **Date**: 2025-08-05 07:41:44 UTC
+- **Date**: 2025-08-05 07:59:57 UTC
 - **Total Records**: 7695
 - **Data Sources**: 16
 - **Date Range**: 2025-07-23 to 2025-08-05
@@ -14,7 +14,7 @@
 - `latest/` - Most recent data for each scraper
 - `sql_dumps/` - PostgreSQL dumps for fast initialization
 - `sqlite/` - SQLite database exports for Datasette
-- `content-store/` - Content deduplication store (if configured)
+- `content_store/` - Content deduplication store (if configured)
 
 ## Usage
 
