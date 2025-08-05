@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Food to Power\", \"alternate_name\": \"\", \"description\": \"Food pantry in El Paso County\", \"url\": \"https://careandshare.org/locations/colorado-springs-food-rescue/\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": \"\", \"city\": \"\", \"state_province\": \"CO\", \"postal_code\": \"\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-470-2737\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12 p.m.\", \"closes_at\": \"2 p.m.\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12 p.m.\", \"closes_at\": \"2 p.m.\"}], \"location\": {\"latitude\": 38.8181056, \"longitude\": -104.8085073}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:50:07.082903"
+}

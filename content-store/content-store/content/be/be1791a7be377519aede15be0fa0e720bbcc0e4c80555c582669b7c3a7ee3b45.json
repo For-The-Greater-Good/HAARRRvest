@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Baca County Food Bank\", \"alternate_name\": \"\", \"description\": \"Food pantry in Baca County\", \"url\": \"https://careandshare.org/locations/baca-county-food-bank/\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": \"\", \"city\": \"\", \"state_province\": \"CO\", \"postal_code\": \"81023\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-353-2431\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"2 p.m.\", \"closes_at\": \"3 p.m.\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"2 p.m.\", \"closes_at\": \"3 p.m.\"}], \"location\": {\"latitude\": 37.40496, \"longitude\": -102.617961}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:53:54.168385"
+}

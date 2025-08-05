@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"a2233fe0-de8c-40f8-9d64-ac84ad03d19f\",\n  \"name\": \"Family life center\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"loc-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Family life center\",\n      \"latitude\": 35.219160099999996,\n      \"longitude\": -97.4297464,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"addr-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
+  "job_id": "1754293861.55083",
+  "timestamp": "2025-08-04T14:56:54.731254"
+}

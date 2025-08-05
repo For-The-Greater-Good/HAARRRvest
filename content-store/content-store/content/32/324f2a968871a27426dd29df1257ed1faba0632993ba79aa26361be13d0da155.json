@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1055, \"name\": \"Westside Church International\", \"address\": \"3440 W Louisiana Ave Denver CO, 80219\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80219, \"latitude\": 39.692806, \"longitude\": -105.031792, \"phone\": 7209390034, \"website\": \"https://westsidechurchintl.org/\", \"organization_id\": 1055, \"pantry_id\": 3169, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1055\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-22\", \"time\": 54000, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-26\", \"time\": 54000, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-24\", \"time\": 54000, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:49:38.868824"
+}

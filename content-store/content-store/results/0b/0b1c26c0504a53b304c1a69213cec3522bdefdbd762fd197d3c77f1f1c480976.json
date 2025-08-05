@@ -1,0 +1,5 @@
+{
+  "result": "```json\n{\n  \"id\": \"6056c607-8d71-46ad-b2ff-4ae2e32cad5a\",\n  \"name\": \"Life House\",\n  \"description\": \"Life House organization\",\n  \"contacts\": [],\n  \"attributes\": [],\n  \"metadata\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Life House Location\",\n      \"latitude\": 34.5550341,\n      \"longitude\": -86.97399109999999,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": []\n}\n```",
+  "job_id": "1754293857.115905",
+  "timestamp": "2025-08-04T14:23:33.621788"
+}

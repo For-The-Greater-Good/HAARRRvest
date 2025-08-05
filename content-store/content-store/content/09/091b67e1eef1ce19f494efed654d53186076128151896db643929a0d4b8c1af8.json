@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1199, \"name\": \"Franktown 7th Day Adventist Church\", \"address\": \"905 CO-83 Franktown CO, 80116\", \"city\": \"Franktown\", \"state\": \"CO\", \"zip_code\": 80116, \"latitude\": 39.376328, \"longitude\": -104.751076, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1199, \"pantry_id\": 3454, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1199\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-08\", \"time\": 37800, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-12\", \"time\": 37800, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-10\", \"time\": 37800, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-14\", \"time\": 37800, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-07-27T08:46:49.673415"
+}

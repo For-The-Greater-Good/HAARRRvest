@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80995\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in ST. MARY STAR OF THE SEA\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 327-1133\", \"country\": \"US\"}, \"phones\": [{\"number\": \"19-20 NEW HAVEN AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.676783, \"longitude\": -73.998279}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"ST. MARY STAR OF THE SEA\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-07-27T08:41:04.129122"
+}

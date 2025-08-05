@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"La Junta Associated Charities\", \"alternate_name\": \"\", \"description\": \"Food pantry in 81030  81050  81077\", \"url\": \"https://careandshare.org/locations/la-junta-associated-charities/\", \"status\": \"active\", \"address\": {\"address_1\": \"517 Colorado Avenue\", \"address_2\": \"\", \"city\": \"La Junta\", \"state_province\": \"CO\", \"postal_code\": \"81050\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-384-4451\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"1 p.m.\", \"closes_at\": \"2:45 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"1 p.m.\", \"closes_at\": \"2:45 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"1 p.m.\", \"closes_at\": \"2:45 p.m.\"}], \"location\": {\"latitude\": 37.9834932, \"longitude\": -103.5429592}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-07-27T07:52:35.183024"
+}
