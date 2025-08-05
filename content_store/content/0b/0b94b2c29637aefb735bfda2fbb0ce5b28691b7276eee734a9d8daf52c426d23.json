@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1573, \"name\": \"Barnett Recreation Center\", \"nickname\": \"Barnett Recreation Center\", \"address\": \"1184 BARNETT RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43227\", \"phone\": \"\", \"latitude\": 39.94785, \"longitude\": -82.90409, \"estimated_distance\": 834.78, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2358, \"name\": \"Produce Market\", \"address\": \"1184 BARNETT RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43227\", \"latitude\": 39.9476633, \"longitude\": -82.9054836, \"event_details\": \"\", \"estimated_distance\": 834.78, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360246, \"event_id\": 2358, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-08\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:08.790686"
+}

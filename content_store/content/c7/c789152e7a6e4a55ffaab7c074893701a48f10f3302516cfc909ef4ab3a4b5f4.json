@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 619, \"name\": \"Church on the Rise Food Pantry\", \"nickname\": \"Church on the Rise Food Pantry\", \"address\": \"7512 Newark RD\", \"city\": \"MOUNT VERNON\", \"state\": \"OH\", \"zip\": \"43050\", \"phone\": \"740-397-9022\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 856.13, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 827, \"name\": \"Pantry\", \"address\": \"7512 Newark RD\", \"city\": \"MOUNT VERNON\", \"state\": \"OH\", \"zip\": \"43050\", \"latitude\": 40.34495368, \"longitude\": -82.46965844, \"event_details\": \"Customers are asked to come to the church between 8:30am and 10:30am to pick up an appointment time ticket, which lets the customer know when to return to pick up their food.\", \"estimated_distance\": 856.13, \"exception_note\": \"\", \"event_dates\": [{\"id\": 354514, \"event_id\": 827, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11:30 AM\", \"end_time\": \"3:30 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:07.293064"
+}

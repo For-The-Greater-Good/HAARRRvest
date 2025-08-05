@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 918, \"name\": \"New Day Family Resource Center\", \"nickname\": \"New Day\", \"address\": \"1135 WARREN ST\", \"city\": \"SANDUSKY\", \"state\": \"OH\", \"zip\": \"44870\", \"phone\": \"419.626.8730\", \"latitude\": 41.44775, \"longitude\": -82.69932, \"estimated_distance\": 843.78, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1347, \"name\": \"Pantry\", \"address\": \"1135 WARREN ST\", \"city\": \"SANDUSKY\", \"state\": \"OH\", \"zip\": \"44870\", \"latitude\": 41.4477155, \"longitude\": -82.699395, \"event_details\": \"\", \"estimated_distance\": 843.78, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355998, \"event_id\": 1347, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:08.151065"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3773, \"name\": \"Rainbow ministries\", \"nickname\": \"Rainbow\", \"address\": \"5236 Co. Rd. 151\", \"city\": \"PAULDING\", \"state\": \"OH\", \"zip\": \"45879\", \"phone\": \"4197869914\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 744.41, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6761, \"name\": \"Pantry\", \"address\": \"5236 Co. Rd. 151\", \"city\": \"PAULDING\", \"state\": \"OH\", \"zip\": \"45879\", \"latitude\": 41.137337, \"longitude\": -84.586462, \"event_details\": \"\", \"estimated_distance\": 744.41, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358255, \"event_id\": 6761, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:12.665387"
+}

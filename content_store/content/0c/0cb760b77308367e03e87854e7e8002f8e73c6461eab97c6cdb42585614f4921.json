@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3335, \"name\": \"Fitchville United Methodist\", \"nickname\": \"Fitchville United Methodist\", \"address\": \"1593 US Route 250\", \"city\": \"NEW LONDON\", \"state\": \"OH\", \"zip\": \"44851\", \"phone\": \"419-929-8916\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 854.11, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5382, \"name\": \"Pantry\", \"address\": \"1593 US Route 250\", \"city\": \"NEW LONDON\", \"state\": \"OH\", \"zip\": \"44851\", \"latitude\": 41.0952441, \"longitude\": -82.4890437, \"event_details\": \"Call site to verify days and hours of operation: 419-929-8916\", \"estimated_distance\": 854.11, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356051, \"event_id\": 5382, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:10.110097"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 634, \"name\": \"The Salvation Army (Akron) Direct Distribution\", \"nickname\": \"The Salvation Army - Akron Direct Distribution\", \"address\": \"2207 ROMIG RD\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44320\", \"phone\": \"330-762-8481\", \"latitude\": 41.05494, \"longitude\": -81.57981, \"estimated_distance\": 901.69, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 846, \"name\": \"Pantry\", \"address\": \"1033 Bellows St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44311\", \"latitude\": 41.0549887, \"longitude\": -81.5193541, \"event_details\": \"Regular Hours - 2nd Wednesday from 9-11am\", \"estimated_distance\": 904.9, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359002, \"event_id\": 846, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-13\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:07.357098"
+}

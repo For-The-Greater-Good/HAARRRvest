@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 484, \"name\": \"Grace Pantry\", \"nickname\": \"Grace Pantry\", \"address\": \"1101 STEUBENVILLE AVE\", \"city\": \"CAMBRIDGE\", \"state\": \"OH\", \"zip\": \"43725\", \"phone\": \"740-705-2171\", \"latitude\": 40.02601, \"longitude\": -81.5824, \"estimated_distance\": 904.46, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 671, \"name\": \"Food Pantry\", \"address\": \"1101 STEUBENVILLE AVE\", \"city\": \"CAMBRIDGE\", \"state\": \"OH\", \"zip\": \"43725\", \"latitude\": 40.0261231, \"longitude\": -81.584546, \"event_details\": \"\", \"estimated_distance\": 904.46, \"exception_note\": \"\", \"event_dates\": [{\"id\": 354327, \"event_id\": 671, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1:30 PM\", \"date\": \"2025-08-29\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:06.805948"
+}

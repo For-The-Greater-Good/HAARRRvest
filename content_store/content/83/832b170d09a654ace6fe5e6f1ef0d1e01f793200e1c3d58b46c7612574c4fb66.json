@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3068, \"name\": \"Clinton Township CHAT\", \"nickname\": \"Clinton Township CHAT\", \"address\": \"3820 Cleveland Ave\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43224\", \"phone\": \"614-262-4068\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 831.08, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4867, \"name\": \"Produce Market\", \"address\": \"3820 Cleveland Ave\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43224\", \"latitude\": 40.0467288, \"longitude\": -82.9546463, \"event_details\": \"\", \"estimated_distance\": 831.66, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356551, \"event_id\": 4867, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-22\"}, {\"id\": 356552, \"event_id\": 4867, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-08\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:10.002402"
+}

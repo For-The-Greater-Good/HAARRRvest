@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1095, \"name\": \"Upper Room Food Pantry\", \"nickname\": \"Upper Room\", \"address\": \"803 Vine St\", \"city\": \"COSHOCTON\", \"state\": \"OH\", \"zip\": \"43812\", \"phone\": \"740-610-0082\", \"latitude\": 40.27355, \"longitude\": -81.86605, \"estimated_distance\": 888.33, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1576, \"name\": \"Pantry\", \"address\": \"803 Vine St\", \"city\": \"COSHOCTON\", \"state\": \"OH\", \"zip\": \"43812\", \"latitude\": 40.27356786, \"longitude\": -81.86629223, \"event_details\": \"\", \"estimated_distance\": 888.33, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355578, \"event_id\": 1576, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:08.347632"
+}

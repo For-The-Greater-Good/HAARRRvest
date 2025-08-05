@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 105, \"name\": \"3-C Food Pantry\", \"nickname\": \"3-C\", \"address\": \"4554 Two Mile Road\", \"city\": \"CUTLER\", \"state\": \"OH\", \"zip\": \"45724\", \"phone\": \"740.516.1707\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 899.06, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 160, \"name\": \"3-C Food Pantry\", \"address\": \"4554 Two Mile Run Rd.\", \"city\": \"CUTLER\", \"state\": \"OH\", \"zip\": \"45724\", \"latitude\": 39.3514591, \"longitude\": -81.79265538, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. Phone Number: (740) 989-2239\", \"estimated_distance\": 898.33, \"exception_note\": \"Serving Wesley, Fairfield & Decatur Twp\", \"event_dates\": [{\"id\": 357648, \"event_id\": 160, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-15\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:05.283895"
+}

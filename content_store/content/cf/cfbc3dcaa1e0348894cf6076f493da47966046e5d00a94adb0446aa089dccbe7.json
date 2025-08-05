@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1882, \"name\": \"Doylestown Community Food Cupboard\", \"nickname\": \"Doylestown Food Cupboard\", \"address\": \"153 Church St\", \"city\": \"Doylestown\", \"state\": \"OH\", \"zip\": \"44230\", \"phone\": \"216-236-4747\", \"latitude\": 40.96954, \"longitude\": -81.69407, \"estimated_distance\": 895.81, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2876, \"name\": \"Pantry\", \"address\": \"153 Church St\", \"city\": \"Doylestown\", \"state\": \"OH\", \"zip\": \"44230\", \"latitude\": 40.9690921, \"longitude\": -81.6933452, \"event_details\": \"Regular Hours - 4th Saturday from 8:30-10:30am | In November and December, the distribution is the Saturday before the holiday | Intended for residents in Chippewa Township\", \"estimated_distance\": 895.81, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359280, \"event_id\": 2876, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8:30 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:08.974258"
+}

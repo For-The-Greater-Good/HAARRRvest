@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 833, \"name\": \"Calvary Christian Fellowship\", \"nickname\": \"Calvary Christian Fellowship\", \"address\": \"3601 BEXVIE AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43227\", \"phone\": \"614-235-1400\", \"latitude\": 39.93473, \"longitude\": -82.90516, \"estimated_distance\": 834.83, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1212, \"name\": \"Pantry\", \"address\": \"3601 BEXVIE AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43227\", \"latitude\": 39.93530471, \"longitude\": -82.90575059, \"event_details\": \"\", \"estimated_distance\": 834.83, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355453, \"event_id\": 1212, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-13\"}, {\"id\": 355454, \"event_id\": 1212, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:08.019031"
+}

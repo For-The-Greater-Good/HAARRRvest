@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3428, \"name\": \"Maranatha\", \"nickname\": \"Maranatha\", \"address\": \"16905 St. Rt. 613\", \"city\": \"VAN BUREN\", \"state\": \"OH\", \"zip\": \"45889\", \"phone\": \"\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 794.12, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5615, \"name\": \"Pantry\", \"address\": \"10965 St. Rt. 613\", \"city\": \"VAN BUREN\", \"state\": \"OH\", \"zip\": \"45889\", \"latitude\": 41.13467857, \"longitude\": -83.66971525, \"event_details\": \"\", \"estimated_distance\": 792.36, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:10.237068"
+}

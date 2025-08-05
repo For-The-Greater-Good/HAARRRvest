@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 458, \"name\": \"He Brought Us Out Ministry\", \"nickname\": \"He Brought Us Out Ministry\", \"address\": \"526 N Howard St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"phone\": \"330-375-5065\", \"latitude\": 41.09976, \"longitude\": -81.51578, \"estimated_distance\": 905.1, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 629, \"name\": \"Pantry\", \"address\": \"526 N Howard St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"latitude\": 41.09988766, \"longitude\": -81.51551204, \"event_details\": \"Regular Hours - 3rd Thursday from 1:30-4:30pm | In addition to their regular pantry hours, this program is open by appointment. Please call (330) 375-5065.\", \"estimated_distance\": 905.1, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358937, \"event_id\": 629, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1:30 PM\", \"end_time\": \"4:30 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:06.433957"
+}

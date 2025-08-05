@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 621, \"name\": \"Father's Pantry\", \"nickname\": \"Father's Pantry\", \"address\": \"723 COSHOCTON AVE\", \"city\": \"MOUNT VERNON\", \"state\": \"OH\", \"zip\": \"43050\", \"phone\": \"740-392-8466\", \"latitude\": 40.39855, \"longitude\": -82.46331, \"estimated_distance\": 856.3, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 829, \"name\": \"Pantry\", \"address\": \"723 COSHOCTON AVE\", \"city\": \"MOUNT VERNON\", \"state\": \"OH\", \"zip\": \"43050\", \"latitude\": 40.3984975, \"longitude\": -82.4631719, \"event_details\": \"\", \"estimated_distance\": 856.3, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355322, \"event_id\": 829, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8:30 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:07.299485"
+}

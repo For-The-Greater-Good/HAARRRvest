@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2756, \"name\": \"North Woodbury Alliance Church\", \"nickname\": \"North Woodbury Alliance Church\", \"address\": \"6385 STATE ROUTE 314\", \"city\": \"MOUNT GILEAD\", \"state\": \"OH\", \"zip\": \"43338\", \"phone\": \"419-362-6781\", \"latitude\": 40.5862, \"longitude\": -82.66216, \"estimated_distance\": 845.32, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4380, \"name\": \"Produce Market\", \"address\": \"6385 STATE ROUTE 314\", \"city\": \"MOUNT GILEAD\", \"state\": \"OH\", \"zip\": \"43338\", \"latitude\": 40.58647044, \"longitude\": -82.66198745, \"event_details\": \"\", \"estimated_distance\": 845.32, \"exception_note\": \"\", \"event_dates\": [{\"id\": 363018, \"event_id\": 4380, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"11 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-06\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:09.749755"
+}

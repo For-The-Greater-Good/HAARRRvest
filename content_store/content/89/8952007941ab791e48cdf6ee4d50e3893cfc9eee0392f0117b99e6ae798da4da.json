@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3830, \"name\": \"Breaking Bread Community Meal\", \"nickname\": \"Breaking Bread\", \"address\": \"201 N PERRY ST\", \"city\": \"SAINT MARYS\", \"state\": \"OH\", \"zip\": \"45885\", \"phone\": \"419-394-3811\", \"latitude\": 40.5422, \"longitude\": -84.39377, \"estimated_distance\": 753.98, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6827, \"name\": \"Pantry\", \"address\": \"201 N PERRY ST\", \"city\": \"SAINT MARYS\", \"state\": \"OH\", \"zip\": \"45885\", \"latitude\": 40.54220791, \"longitude\": -84.39377586, \"event_details\": \"We are open until until 5:30pm or until the food runs out\\nAgency Number 419-394-3811\", \"estimated_distance\": 753.98, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358203, \"event_id\": 6827, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4:30 PM\", \"end_time\": \"5:15 PM\", \"date\": \"2025-08-14\"}, {\"id\": 358204, \"event_id\": 6827, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4:30 PM\", \"end_time\": \"5:15 PM\", \"date\": \"2025-08-21\"}, {\"id\": 358205, \"event_id\": 6827, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4:30 PM\", \"end_time\": \"5:15 PM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:12.932626"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 324, \"name\": \"York United Methodist Church\", \"nickname\": \"York UMC\", \"address\": \"6566 Norwalk Rd\", \"city\": \"Medina\", \"state\": \"OH\", \"zip\": \"44256\", \"phone\": \"330-725-8147\", \"latitude\": 41.16746, \"longitude\": -81.92386, \"estimated_distance\": 883.74, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 450, \"name\": \"Pantry\", \"address\": \"6566 Norwalk Rd\", \"city\": \"Medina\", \"state\": \"OH\", \"zip\": \"44256\", \"latitude\": 41.16715545, \"longitude\": -81.92394405, \"event_details\": \"Regular Hours - 4th Saturday of the month from 9-11am and the Friday before from 4-5pm\", \"estimated_distance\": 883.74, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359486, \"event_id\": 450, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-22\"}, {\"id\": 359485, \"event_id\": 450, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:05.687145"
+}

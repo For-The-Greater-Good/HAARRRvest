@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4465, \"name\": \"Wedgewood UMC\", \"nickname\": \"Wedgewood\", \"address\": \"2350 Wedgewood Dr\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44312\", \"phone\": \"330-733-8707\", \"latitude\": 41.04976, \"longitude\": -81.44557, \"estimated_distance\": 908.81, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8204, \"name\": \"Pantry\", \"address\": \"2350 Wedgewood Dr\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44312\", \"latitude\": 41.0488491, \"longitude\": -81.44481668, \"event_details\": \"Regular Hours - 2nd Monday from 11-2 pm\", \"estimated_distance\": 908.81, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360242, \"event_id\": 8204, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-11\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:14.630888"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4153, \"name\": \"Homeless Outreach Team\", \"nickname\": \"HOT\", \"address\": \"800 Smith Ave SW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44706\", \"phone\": \"330-412-9754\", \"latitude\": 40.79453, \"longitude\": -81.3996, \"estimated_distance\": 911.45, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7436, \"name\": \"Pantry\", \"address\": \"800 Smith Ave SW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44706\", \"latitude\": 40.79448755, \"longitude\": -81.39940732, \"event_details\": \"Regular Hours - 1st, 3rd, and 5th Wednesday from 11-1pm\", \"estimated_distance\": 911.45, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359844, \"event_id\": 7436, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-06\"}, {\"id\": 359845, \"event_id\": 7436, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-20\"}, {\"id\": 367012, \"event_id\": 7436, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:13.999277"
+}

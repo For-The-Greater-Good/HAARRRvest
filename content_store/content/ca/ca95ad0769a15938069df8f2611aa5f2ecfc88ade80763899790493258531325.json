@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2904, \"name\": \"Willard Church of God\", \"nickname\": \"Willard Church of God\", \"address\": \"4551 Willard West Rd.\", \"city\": \"Willard\", \"state\": \"Ohio\", \"zip\": \"44890\", \"phone\": \"419-357-4642\", \"latitude\": 41.05447, \"longitude\": -82.74963, \"estimated_distance\": 840.39, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4592, \"name\": \"Food Pantry\", \"address\": \"4551 Willard West Rd.\", \"city\": \"Willard\", \"state\": \"Ohio\", \"zip\": \"44890\", \"latitude\": 41.0544404, \"longitude\": -82.7503319, \"event_details\": \"\", \"estimated_distance\": 840.39, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356526, \"event_id\": 4592, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:09.936410"
+}

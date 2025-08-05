@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 54, \"name\": \"Golden Harvest\", \"nickname\": \"Golden Harvest\", \"address\": \"64936 STATE ROUTE 124\", \"city\": \"REEDSVILLE\", \"state\": \"OH\", \"zip\": \"45772\", \"phone\": \"7403786447\", \"latitude\": 39.10367, \"longitude\": -81.74892, \"estimated_distance\": 903.08, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 91, \"name\": \"Monthly Giveaway\", \"address\": \"54120 FELLOWSHIP DR\", \"city\": \"LONG BOTTOM\", \"state\": \"OH\", \"zip\": \"45743\", \"latitude\": 39.08407804, \"longitude\": -81.76590886, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. Phone Number: (740) 378-6175\", \"estimated_distance\": 902.36, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357565, \"event_id\": 91, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:04.814367"
+}

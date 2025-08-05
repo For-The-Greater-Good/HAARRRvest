@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3642, \"name\": \"Alianza 614\", \"nickname\": \"Alianza 614\", \"address\": \"4131 CLIME RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43228\", \"phone\": \"614-500-2994\", \"latitude\": 39.92962, \"longitude\": -83.10666, \"estimated_distance\": 824.19, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6464, \"name\": \"Produce Market\", \"address\": \"4131 CLIME RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43228\", \"latitude\": 39.9296284, \"longitude\": -83.10666091, \"event_details\": \"\", \"estimated_distance\": 824.19, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358650, \"event_id\": 6464, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3:15 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:11.586907"
+}

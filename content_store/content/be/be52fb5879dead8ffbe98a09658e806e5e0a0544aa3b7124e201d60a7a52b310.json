@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 333, \"name\": \"Leipsic Food Pantry\", \"nickname\": \"Leipsic\", \"address\": \"7 W MAIN ST\", \"city\": \"LEIPSIC\", \"state\": \"OH\", \"zip\": \"45856\", \"phone\": \"419-538-6737\", \"latitude\": 41.09984, \"longitude\": -83.987, \"estimated_distance\": 775.7, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 465, \"name\": \"Pantry\", \"address\": \"7 W MAIN ST\", \"city\": \"LEIPSIC\", \"state\": \"OH\", \"zip\": \"45856\", \"latitude\": 41.0999693, \"longitude\": -83.9867319, \"event_details\": \"\", \"estimated_distance\": 775.7, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357955, \"event_id\": 465, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:05.716144"
+}

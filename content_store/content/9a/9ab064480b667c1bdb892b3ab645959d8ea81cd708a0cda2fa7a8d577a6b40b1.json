@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 98, \"name\": \"Newport Community Food Pantry\", \"nickname\": \"Newport Pantry\", \"address\": \"245 Greene Street\", \"city\": \"NEWPORT\", \"state\": \"OH\", \"zip\": \"45768\", \"phone\": \"7406823474\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 927.97, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 141, \"name\": \"Food Pantry\", \"address\": \"245 Greene Street\", \"city\": \"NEWPORT\", \"state\": \"OH\", \"zip\": \"45768\", \"latitude\": 39.39143465, \"longitude\": -81.22949824, \"event_details\": \"If you miss the pick-up on Saturday, there is an alternative pickup the following Monday from 4:00 p.m. until 6:00 p.m.\\nIn light of COVID-19, pantry operations may have changed. Please call first. Phone Number: (740) 473-2900\", \"estimated_distance\": 927.97, \"exception_note\": \"Serving those within a 7-mile Radius\", \"event_dates\": [{\"id\": 357685, \"event_id\": 141, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:05.110366"
+}

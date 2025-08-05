@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1697, \"name\": \"Deliverance Christian Church\", \"nickname\": \"Deliverance Christian Church\", \"address\": \"1358 Cleveland Ave NW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44703\", \"phone\": \"234-410-3733\", \"latitude\": 40.81236, \"longitude\": -81.37764, \"estimated_distance\": 912.57, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2553, \"name\": \"Pantry\", \"address\": \"2631 Harvard Ave NW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44709\", \"latitude\": 40.8123436, \"longitude\": -81.37762867, \"event_details\": \"Regular Hours - 2nd and 4th Friday from 10-12pm\", \"estimated_distance\": 912.57, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359084, \"event_id\": 2553, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-08\"}, {\"id\": 359085, \"event_id\": 2553, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-22\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:08.902341"
+}

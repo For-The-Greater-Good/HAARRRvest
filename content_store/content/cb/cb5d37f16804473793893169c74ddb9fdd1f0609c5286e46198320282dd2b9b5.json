@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 590, \"name\": \"First Christian Church - Canton\", \"nickname\": \"First Christian Church\", \"address\": \"6900 Market Ave N\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44721\", \"phone\": \"330-456-2600 X2170\", \"latitude\": 40.88263, \"longitude\": -81.36358, \"estimated_distance\": 913.21, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 789, \"name\": \"Pantry\", \"address\": \"6852 Market Ave N Behind Church\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44721\", \"latitude\": 40.882563, \"longitude\": -81.346759, \"event_details\": \"Regular Hours - 3rd Friday from 10:00am-12:00pm | Call agency for emergency food needs. | Pantry located behind church.\", \"estimated_distance\": 914.09, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359089, \"event_id\": 789, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-15\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:07.253581"
+}

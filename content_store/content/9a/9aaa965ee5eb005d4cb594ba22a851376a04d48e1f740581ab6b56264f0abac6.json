@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 459, \"name\": \"Open M Direct Distribution\", \"nickname\": \"Open M DD\", \"address\": \"941 Princeton St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44311\", \"phone\": \"330-434-0110\", \"latitude\": 41.06114, \"longitude\": -81.53403, \"estimated_distance\": 904.13, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 630, \"name\": \"Pantry\", \"address\": \"941 Princeton St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44311\", \"latitude\": 41.0611434, \"longitude\": -81.5340395, \"event_details\": \"Regular Hours - 3rd Friday from 9-11am | Need photo ID and proof of address | Temporarily drive-thru -- please make sure to clean out trunk | Services the following zip codes: 44203 - 44224 - 44301 - 44307 - 44308 - 44311 - 44320 - 44321\", \"estimated_distance\": 904.13, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358956, \"event_id\": 630, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-15\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:06.439881"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1423, \"name\": \"St. John's Lutheran Church New Washington\", \"nickname\": \"St John's New Washington\", \"address\": \"203 E MANSFIELD ST\", \"city\": \"NEW WASHINGTON\", \"state\": \"OH\", \"zip\": \"44854\", \"phone\": \"\", \"latitude\": 40.96203, \"longitude\": -82.85154, \"estimated_distance\": 835.01, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2101, \"name\": \"Pantry\", \"address\": \"203 E MANSFIELD ST\", \"city\": \"NEW WASHINGTON\", \"state\": \"OH\", \"zip\": \"44854\", \"latitude\": 40.9622053, \"longitude\": -82.8520039, \"event_details\": \"Serves Buckeye Central School District. Operates on the Friday after the 3rd Tuesday. Please call 419-492-2182 to confirm days and hours of operation.\", \"estimated_distance\": 835.01, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355988, \"event_id\": 2101, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3:30 PM\", \"date\": \"2025-08-15\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:08.656901"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4270, \"name\": \"MP - First United Methodist/First Baptist Beeville\", \"nickname\": \"MP - FUMC/FB Beeville\", \"address\": \"106 E CLEVELAND ST\", \"city\": \"BEEVILLE\", \"state\": \"TX\", \"zip\": \"78102\", \"phone\": \"\", \"latitude\": 28.40522, \"longitude\": -97.74901, \"estimated_distance\": 795.31, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7714, \"name\": \"MP FUMC/FB Beeville\", \"address\": \"106 E CLEVELAND ST\", \"city\": \"BEEVILLE\", \"state\": \"TX\", \"zip\": \"78102\", \"latitude\": 28.40492969, \"longitude\": -97.74965309, \"event_details\": \"\", \"estimated_distance\": 795.31, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358585, \"event_id\": 7714, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"11 PM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:14.203674"
+}

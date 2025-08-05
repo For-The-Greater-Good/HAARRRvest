@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1663, \"name\": \"Lakemore Methodist Church Food Pantry\", \"nickname\": \"Lakemore\", \"address\": \"1536 Flickinger Rd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44312\", \"phone\": \"330-733-6531\", \"latitude\": 41.01773, \"longitude\": -81.43327, \"estimated_distance\": 909.44, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2502, \"name\": \"Pantry\", \"address\": \"1536 Flickinger Rd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44312\", \"latitude\": 41.01913735, \"longitude\": -81.4329468, \"event_details\": \"Regular Hours - Last Wednesday from 5-6pm | Intended for the Village of Lakemore and Springfield Township. Should have and ID and piece of mail.\", \"estimated_distance\": 909.44, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358946, \"event_id\": 2502, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:08.864047"
+}

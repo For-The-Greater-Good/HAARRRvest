@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 623, \"name\": \"Macedonia Baptist Church\", \"nickname\": \"Macedonia Baptist\", \"address\": \"492 OAKWOOD AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43205\", \"phone\": \"614-395-0580\", \"latitude\": 39.95597, \"longitude\": -82.96794, \"estimated_distance\": 831.4, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 832, \"name\": \"Produce Market\", \"address\": \"492 OAKWOOD AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43205\", \"latitude\": 39.95550985, \"longitude\": -82.96825892, \"event_details\": \"\", \"estimated_distance\": 831.4, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357255, \"event_id\": 832, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:07.316747"
+}

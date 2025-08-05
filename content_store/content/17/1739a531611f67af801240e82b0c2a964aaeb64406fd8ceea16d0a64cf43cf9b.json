@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4104, \"name\": \"MP - South Coastal AHEC\", \"nickname\": \"Orange Grove\", \"address\": \"400 MANN ST STE 400\", \"city\": \"CORPUS CHRISTI\", \"state\": \"TX\", \"zip\": \"78401\", \"phone\": \"(361)881-8133\", \"latitude\": 27.80068, \"longitude\": -97.39401, \"estimated_distance\": 838.65, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7316, \"name\": \"Mobile Pantry\", \"address\": \"306 Voekel\", \"city\": \"ORANGE GROVE\", \"state\": \"TX\", \"zip\": \"78372\", \"latitude\": 27.951121, \"longitude\": -98.073418, \"event_details\": \"\", \"estimated_distance\": 825.94, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357393, \"event_id\": 7316, \"capacity\": 200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:13.786745"
+}

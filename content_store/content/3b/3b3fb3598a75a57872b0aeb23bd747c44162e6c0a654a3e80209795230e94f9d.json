@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3286, \"name\": \"SPAN Ministires\", \"nickname\": \"SPAN\", \"address\": \"361 Northeast Ave\", \"city\": \"Tallmadge\", \"state\": \"OH\", \"zip\": \"44278\", \"phone\": \"330-630-3190\", \"latitude\": 41.10796, \"longitude\": -81.43177, \"estimated_distance\": 909.53, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5253, \"name\": \"Pantry\", \"address\": \"361 Northeast Ave\", \"city\": \"Tallmadge\", \"state\": \"OH\", \"zip\": \"44278\", \"latitude\": 41.1090085, \"longitude\": -81.43078492, \"event_details\": \"Regular Hours - 3rd Sunday from 12:30pm-1:30pm\", \"estimated_distance\": 909.53, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359510, \"event_id\": 5253, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12:30 PM\", \"end_time\": \"1:30 PM\", \"date\": \"2025-08-17\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:10.071411"
+}

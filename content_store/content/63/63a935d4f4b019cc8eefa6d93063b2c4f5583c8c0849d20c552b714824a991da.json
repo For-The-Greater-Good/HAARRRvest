@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1236, \"name\": \"Plymouth Shiloh Food Pantry\", \"nickname\": \"Plymouth Shiloh Food Pantry\", \"address\": \"26 MECHANICS ST\", \"city\": \"SHILOH\", \"state\": \"OH\", \"zip\": \"44878\", \"phone\": \"419-564-9863\", \"latitude\": 40.9686, \"longitude\": -82.60131, \"estimated_distance\": 848.17, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1755, \"name\": \"Pantry\", \"address\": \"26 MECHANICS ST\", \"city\": \"SHILOH\", \"state\": \"OH\", \"zip\": \"44878\", \"latitude\": 40.9689458, \"longitude\": -82.6011668, \"event_details\": \"\", \"estimated_distance\": 848.17, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361200, \"event_id\": 1755, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-07\"}, {\"id\": 361201, \"event_id\": 1755, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-21\"}, {\"id\": 368317, \"event_id\": 1755, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:08.415307"
+}

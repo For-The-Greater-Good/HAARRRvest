@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3509, \"name\": \"Goodyear Heights Presbyterian Church\", \"nickname\": \"Goodyear Heights Presbyterian Church\", \"address\": \"1430 Goodyear Blvd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44305\", \"phone\": \"330-784-7633\", \"latitude\": 41.0702, \"longitude\": -81.47148, \"estimated_distance\": 907.41, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6123, \"name\": \"Pantry\", \"address\": \"1430 Goodyear Blvd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44305\", \"latitude\": 41.07020544, \"longitude\": -81.47148809, \"event_details\": \"Regular Hours - 3rd Thursday from 12-3pm\", \"estimated_distance\": 907.41, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360126, \"event_id\": 6123, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:10.731181"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2950, \"name\": \"Our Lady of Lourdes Church\", \"nickname\": \"Our Lady of Lourdes Church\", \"address\": \"18 PARK AVE\", \"city\": \"NEW LONDON\", \"state\": \"OH\", \"zip\": \"44851\", \"phone\": \"440-864-9309\", \"latitude\": 41.08411, \"longitude\": -82.39762, \"estimated_distance\": 858.89, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4659, \"name\": \"Pantry\", \"address\": \"18 PARK AVE\", \"city\": \"NEW LONDON\", \"state\": \"OH\", \"zip\": \"44851\", \"latitude\": 41.084232, \"longitude\": -82.3976643, \"event_details\": \"\", \"estimated_distance\": 858.89, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356068, \"event_id\": 4659, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:09.952100"
+}

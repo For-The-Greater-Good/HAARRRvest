@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 469, \"name\": \"Livingston Avenue UMC Food Pantry\", \"nickname\": \"Livingstone Ave UMC FP\", \"address\": \"200 E LIVINGSTON AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43215\", \"phone\": \"614-746-4023\", \"latitude\": 39.95301, \"longitude\": -82.99323, \"estimated_distance\": 830.1, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 643, \"name\": \"Food Pantry\", \"address\": \"200 E LIVINGSTON AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43215\", \"latitude\": 39.95273262, \"longitude\": -82.99313415, \"event_details\": \"\", \"estimated_distance\": 830.1, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361011, \"event_id\": 643, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11:15 AM\", \"date\": \"2025-08-23\"}, {\"id\": 361009, \"event_id\": 643, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11:15 AM\", \"date\": \"2025-08-26\"}, {\"id\": 361010, \"event_id\": 643, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11:15 AM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:06.596907"
+}

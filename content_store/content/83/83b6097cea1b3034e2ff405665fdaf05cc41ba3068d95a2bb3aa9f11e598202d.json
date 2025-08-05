@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 647, \"name\": \"Edison Baptist Church\", \"nickname\": \"EEBC\", \"address\": \"3055 STATE ROUTE 95\", \"city\": \"EDISON\", \"state\": \"OH\", \"zip\": \"43320\", \"phone\": \"419-947-7231\", \"latitude\": 40.56057, \"longitude\": -82.87174, \"estimated_distance\": 834.3, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 869, \"name\": \"Pantry\", \"address\": \"3055 STATE ROUTE 95\", \"city\": \"EDISON\", \"state\": \"OH\", \"zip\": \"43320\", \"latitude\": 40.56055453, \"longitude\": -82.87170552, \"event_details\": \"\", \"estimated_distance\": 834.3, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355128, \"event_id\": 869, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-22\"}, {\"id\": 355129, \"event_id\": 869, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-08\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:07.417046"
+}

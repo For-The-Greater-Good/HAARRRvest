@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4042, \"name\": \"First Presbyterian Church Food Pantry\", \"nickname\": \"First Presbyterian\", \"address\": \"2 W HUNTER ST\", \"city\": \"LOGAN\", \"state\": \"OH\", \"zip\": \"43138\", \"phone\": \"740-385-2242\", \"latitude\": 39.54134, \"longitude\": -82.40984, \"estimated_distance\": 863.9, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7213, \"name\": \"Pantry\", \"address\": \"2 W HUNTER ST\", \"city\": \"LOGAN\", \"state\": \"OH\", \"zip\": \"43138\", \"latitude\": 39.5414376, \"longitude\": -82.4088193, \"event_details\": \"\", \"estimated_distance\": 863.9, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361210, \"event_id\": 7213, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4:30 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-07\"}, {\"id\": 361211, \"event_id\": 7213, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4:30 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-21\"}, {\"id\": 368327, \"event_id\": 7213, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4:30 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-05T08:08:13.345005"
+}
