@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"81977\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in IRIS HOUSE\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"646-548-0100\", \"country\": \"US\"}, \"phones\": [{\"number\": \"2348 ADAM CLAYTON POWELL JR. BLVD\", \"type\": \"voice\"}], \"location\": {\"latitude\": 42.927683815397, \"longitude\": -75.039643080264}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"IRIS HOUSE\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:35:14.893807"
-}

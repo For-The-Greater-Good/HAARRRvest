@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 870, \"name\": \"PGM Sandford\", \"address\": \"11 W Sandford Blvd Mt Vernon NY, 10550\", \"city\": \"Mt Vernon\", \"state\": \"NY\", \"zip_code\": 10550, \"latitude\": 40.899502, \"longitude\": -73.833061, \"phone\": 9145733915, \"website\": \"pisgahgospelministries.com\", \"organization_id\": 870, \"pantry_id\": 2600, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"870\", \"amenities\": [\"Client choice\", \"Distributes food based on household size\"], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-23\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-27\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-22\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-25\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-08-04T08:22:47.108567"
-}

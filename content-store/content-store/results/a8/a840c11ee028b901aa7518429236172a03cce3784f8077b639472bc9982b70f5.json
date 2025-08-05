@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"3cb355f8-02c6-477c-ae95-60ae0301dcfb\",\n  \"name\": \"Glory Bound Church\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Glory Bound Church Location\",\n      \"latitude\": 34.660788,\n      \"longitude\": -97.9586782,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293855.16723",
-  "timestamp": "2025-08-04T14:09:49.138337"
-}

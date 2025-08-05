@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"81034\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in PROJECT HOSPITALITY, INC.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 815-0800\", \"country\": \"US\"}, \"phones\": [{\"number\": \"211 CANAL STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": -33.585850709856, \"longitude\": -70.604459741434}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"PROJECT HOSPITALITY, INC.\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:41:39.964711"
-}

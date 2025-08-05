@@ -1,8 +1,0 @@
-{
-  "content": "{\"locationId\": \"1324\", \"organizationId\": \"1157\", \"name\": \"Riverside Food Pantry\", \"address1\": \"4242 W Riverside Blvd\", \"address2\": \"\", \"city\": \"Rockford\", \"state\": \"IL\", \"zipCode\": \"61101\", \"country\": null, \"phone\": \"815-962-5913\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"42.3146936\", \"longitude\": \"-89.1194887\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"815-962-5913\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 2, \"regionName\": \"Northern Illinois Food Bank\", \"logoBlobNameSmall\": \"dbf64577-4f05-4753-a6ec-ebbbd9c99e9c.png\", \"website\": \"solvehungertoday.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Tuesday 9:00 AM-11:00 AM\"], \"services\": [], \"specialHours\": []}",
-  "metadata": {
-    "scraper_id": "vivery_api",
-    "source": "vivery_api"
-  },
-  "timestamp": "2025-08-04T08:26:52.272816"
-}

@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"8d686c55-0f6f-44cd-9b06-ee26234bfbe0\",\n  \"name\": \"Church of God\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Church of God Location\",\n      \"latitude\": 34.3890844,\n      \"longitude\": -88.55568149999999,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293856.989902",
-  "timestamp": "2025-08-04T14:22:37.353006"
-}

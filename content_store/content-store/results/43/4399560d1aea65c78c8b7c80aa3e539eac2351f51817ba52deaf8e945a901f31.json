@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"bf7ff523-6024-423c-bc45-d69dedf6ac61\",\n  \"name\": \"Faith House\",\n  \"description\": \"\",\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"contacts\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Faith House\",\n      \"latitude\": 34.4432346,\n      \"longitude\": -86.9308078,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293863.186782",
-  "timestamp": "2025-08-04T15:08:37.855995"
-}

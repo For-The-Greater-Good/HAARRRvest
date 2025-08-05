@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"82033\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in BERACA SEVENTH DAY ADVENTIST CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 740-1916\", \"country\": \"US\"}, \"phones\": [{\"number\": \"91-19 191 STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.829126, \"longitude\": -73.9475}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"BERACA SEVENTH DAY ADVENTIST CHURCH\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:39:19.959777"
-}

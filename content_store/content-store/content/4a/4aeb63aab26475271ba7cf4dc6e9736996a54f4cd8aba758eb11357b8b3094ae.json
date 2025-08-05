@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"81047\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in FEEDING WITH TLC INC SOUP KITCHEN\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-447-0526\", \"country\": \"US\"}, \"phones\": [{\"number\": \"175 BEACH STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": -37.033549983536, \"longitude\": -72.395555187201}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"FEEDING WITH TLC INC SOUP KITCHEN\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:41:31.971762"
-}

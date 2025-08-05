@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1380, \"name\": \"Deerfield Community Center\", \"address\": \"4290 Deerfield Hills Rd Colorado Springs CO, 80916\", \"city\": \"Colorado Springs\", \"state\": \"CO\", \"zip_code\": 80916, \"latitude\": 38.7845, \"longitude\": -104.747986, \"phone\": 7193855996, \"website\": \"https://coloradosprings.gov/deerfield\", \"organization_id\": 1380, \"pantry_id\": 3707, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1380\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-22\", \"time\": 41400, \"until\": 48600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-26\", \"time\": 41400, \"until\": 48600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-24\", \"time\": 41400, \"until\": 48600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:46:38.145686"
-}

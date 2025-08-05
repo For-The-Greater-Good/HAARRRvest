@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"st-camillus-food-pantry\",\n  \"name\": \"St. Camillus Food Pantry\",\n  \"description\": \"Food pantry service\",\n  \"contacts\": [],\n  \"funding\": [],\n  \"organization_identifier\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"location\": [],\n  \"services\": [\n    {\n      \"id\": \"st-camillus-food-service\",\n      \"name\": \"Food Distribution\",\n      \"description\": \"First come, first serve: open until food runs out\",\n      \"status\": \"active\",\n      \"phones\": [],\n      \"schedules\": [\n        {\n          \"freq\": \"WEEKLY\",\n          \"wkst\": \"WE\",\n          \"opens_at\": \"15:00\",\n          \"closes_at\": \"17:00\"\n        }\n      ]\n    }\n  ],\n  \"attribute\": [],\n  \"contact\": [],\n  \"program\": [],\n  \"metadata\": [],\n  \"phone\": []\n}\n```",
-  "job_id": "1754292479.10288",
-  "timestamp": "2025-08-04T09:45:28.245832"
-}

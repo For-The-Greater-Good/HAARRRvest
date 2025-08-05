@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1301, \"name\": \"Five Loaves and Two Fishes Pantry at Monument View Bible Church\", \"address\": \"1173 17 1/2 Rd Fruita CO, 81521\", \"city\": \"Fruita\", \"state\": \"CO\", \"zip_code\": 81521, \"latitude\": 39.174591, \"longitude\": -108.729652, \"phone\": 9708583954, \"website\": \"https://mvbcfruita.org/\", \"organization_id\": 1301, \"pantry_id\": 3581, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"1301\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-16\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-20\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-18\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-15\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:45:39.324610"
-}

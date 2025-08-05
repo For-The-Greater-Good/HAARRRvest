@@ -1,8 +1,0 @@
-{
-  "content": "{\"locationId\": \"1906\", \"organizationId\": \"1704\", \"name\": \"SAM Food Pantry\", \"address1\": \"901 N Prairie\", \"address2\": \"\", \"city\": \"Tuscola\", \"state\": \"IL\", \"zipCode\": \"61953\", \"country\": null, \"phone\": \"217-253-4232\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"39.8072353\", \"longitude\": \"-88.272502\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"COUNTY:  Douglas\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"217-253-4232\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 18, \"regionName\": \"Eastern Illinois Foodbank\", \"logoBlobNameSmall\": \"c4ca618b-3da4-4f65-b8a9-98dec847f359.png\", \"website\": \"https://www.eifoodbank.org/\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Wednesday 7:30 AM-10:30 AM\"], \"services\": [], \"specialHours\": []}",
-  "metadata": {
-    "scraper_id": "vivery_api",
-    "source": "vivery_api"
-  },
-  "timestamp": "2025-08-04T08:26:45.310988"
-}

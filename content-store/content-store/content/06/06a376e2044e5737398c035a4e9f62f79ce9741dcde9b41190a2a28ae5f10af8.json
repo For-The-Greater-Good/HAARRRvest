@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1208, \"name\": \"Our Lady of Loreto\", \"address\": \"18000 E Arapahoe Rd Aurora CO, 80016\", \"city\": \"Aurora\", \"state\": \"CO\", \"zip_code\": 80016, \"latitude\": 39.593788, \"longitude\": -104.779282, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1208, \"pantry_id\": 3465, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"1208\", \"amenities\": [\"Distributes food based on household size\"], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-23\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-27\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-25\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-22\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:48:11.112939"
-}

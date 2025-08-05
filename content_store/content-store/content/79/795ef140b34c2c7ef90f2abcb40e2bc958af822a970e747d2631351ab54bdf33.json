@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"85085\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in ST. MARK AME CHURCH/THE VOICE OF HAGAR\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-205-0506\", \"country\": \"US\"}, \"phones\": [{\"number\": \"95-18 NORTHERN BLVD\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.756718, \"longitude\": -73.872425}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"ST. MARK AME CHURCH/THE VOICE OF HAGAR\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:37:29.934119"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 196, \"name\": \"Rauschenbusch Metro Ministries\", \"address\": \"410 West 40th Street New York NY, 10018\", \"city\": \"New York\", \"state\": \"NY\", \"zip_code\": 10018, \"latitude\": 40.757202, \"longitude\": -73.994324, \"phone\": 2125944464, \"website\": \"http://rmmnyc.org/programs/food-pantry\", \"organization_id\": 196, \"pantry_id\": 196, \"service_type\": \"2\", \"has_appointments\": true, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"196\", \"amenities\": [\"Client choice\", \"Distributes food based on household size\", \"Indoor waiting area\", \"Seating area available\", \"Speaks Spanish\", \"Speaks Chinese\", \"SNAP benefits enrollment\"], \"conditions\": [\"5 Visits per Every Calendar Month\", \"Registrations accepted 1 Week in advance\"], \"service_hours\": [{\"date\": \"2025-08-09\", \"time\": 32400, \"until\": 42300, \"max_people\": 34, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-08-23\", \"time\": 32400, \"until\": 42300, \"max_people\": 3, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-08-04T08:22:00.020774"
-}

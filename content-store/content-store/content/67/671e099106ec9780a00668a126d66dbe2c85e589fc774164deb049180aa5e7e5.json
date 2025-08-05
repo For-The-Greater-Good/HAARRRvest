@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 812, \"name\": \"We Don't Waste - Mobile Food Market - Bruce Randolph\", \"address\": \"3955 Steele St Denver CO, 80205\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80205, \"latitude\": 39.770901, \"longitude\": -104.950401, \"phone\": 7209432699, \"website\": \"wedontwaste.org/markets\", \"organization_id\": 812, \"pantry_id\": 2198, \"service_type\": \"2\", \"has_appointments\": true, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"812\", \"amenities\": [\"Client choice\", \"Distributes food based on household size\", \"Speaks Spanish\"], \"conditions\": [\"Registrations accepted 24 Hours in advance\"], \"service_hours\": [{\"date\": \"2025-09-02\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-08-05\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-10-07\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-11-04\", \"time\": 46800, \"until\": 53100, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:48:18.314284"
-}

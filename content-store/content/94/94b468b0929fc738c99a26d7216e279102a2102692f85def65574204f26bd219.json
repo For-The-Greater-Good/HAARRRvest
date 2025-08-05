@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 157, \"name\": \"Spanish Soundview SDA Church\", \"address\": \"1822 Lacombe Avenue Bronx NY, 10473\", \"city\": \"Bronx\", \"state\": \"NY\", \"zip_code\": 10473, \"latitude\": 40.8148, \"longitude\": -73.861198, \"phone\": 6462565284, \"website\": \"\", \"organization_id\": 157, \"pantry_id\": 157, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"157\", \"amenities\": [\"Client choice\", \"Distributes food based on household size\", \"Seating area available\", \"Speaks Spanish\", \"Other\"], \"conditions\": [\"1 Visit per Every Two Weeks\"], \"service_hours\": [{\"date\": \"2025-08-06\", \"time\": 28800, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-13\", \"time\": 28800, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-20\", \"time\": 28800, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-27\", \"time\": 28800, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-08-04T08:23:46.925580"
-}

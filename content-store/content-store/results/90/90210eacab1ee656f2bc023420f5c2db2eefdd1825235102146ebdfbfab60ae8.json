@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"4fb1c46d-c90d-42e3-acbc-27a124af29d2\",\n  \"name\": \"First Baptist Church\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"First Baptist Church\",\n      \"latitude\": 35.3167207,\n      \"longitude\": -87.76322569999999,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293862.851735",
-  "timestamp": "2025-08-04T15:06:17.348825"
-}

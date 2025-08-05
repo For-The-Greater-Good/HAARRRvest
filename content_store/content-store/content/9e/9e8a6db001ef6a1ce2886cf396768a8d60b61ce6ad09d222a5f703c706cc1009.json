@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1184, \"name\": \"Summit Stage Bus Barn\", \"address\": \"0222 County Shops Rd Frisco CO, 80443\", \"city\": \"Frisco\", \"state\": \"CO\", \"zip_code\": 80443, \"latitude\": 39.56966, \"longitude\": -106.082809, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1184, \"pantry_id\": 3477, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1184\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-28\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-25\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-23\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-13\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:48:03.881144"
-}

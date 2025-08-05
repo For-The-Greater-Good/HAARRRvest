@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"c80178ce-cb9f-41e3-a5c6-348aa98a99ac\",\n  \"name\": \"Vaiden Methodist Church\",\n  \"description\": \"\",\n  \"contacts\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Vaiden Methodist Church Location\", \n      \"latitude\": 33.3318028,\n      \"longitude\": -89.739171,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293844.888621",
-  "timestamp": "2025-08-04T13:03:01.906326"
-}

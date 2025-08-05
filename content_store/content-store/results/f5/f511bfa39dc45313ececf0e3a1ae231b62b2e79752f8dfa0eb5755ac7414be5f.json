@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"9a719777-a80b-4558-aba1-0e918658b8bf\",\n  \"name\": \"Mini food pantry\",\n  \"description\": \"Food pantry service\",\n  \"contacts\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Mini food pantry\",\n      \"latitude\": 34.926617799999995,\n      \"longitude\": -81.02218719999999,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293864.108135",
-  "timestamp": "2025-08-04T15:15:08.724886"
-}

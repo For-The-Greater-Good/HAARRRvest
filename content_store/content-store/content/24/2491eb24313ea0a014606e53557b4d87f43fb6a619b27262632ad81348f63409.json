@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"84349\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in WORLDWIDE MISSIONARY MOVEMENT/CENTRO EVANGELISTICO MMM, INC\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"212-567-5620\", \"country\": \"US\"}, \"phones\": [{\"number\": \"148 POST AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.7130466, \"longitude\": -74.0072301}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"WORLDWIDE MISSIONARY MOVEMENT/CENTRO EVANGELISTICO MMM, INC\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:35:51.363626"
-}

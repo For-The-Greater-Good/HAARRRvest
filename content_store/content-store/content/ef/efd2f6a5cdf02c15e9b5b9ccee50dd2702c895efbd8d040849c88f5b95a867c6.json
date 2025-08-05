@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"83629\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in AGAPE CHRISTIAN CENTER\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-635-0674\", \"country\": \"US\"}, \"phones\": [{\"number\": \"59-02 SUMMERFIELD ST. RIDGEWOOD\", \"type\": \"voice\"}], \"location\": {\"latitude\": 42.832576055426, \"longitude\": -73.896702312059}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"AGAPE CHRISTIAN CENTER\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:38:05.877960"
-}

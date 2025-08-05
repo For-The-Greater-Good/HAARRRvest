@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Food Bank Network of the San Luis Valley (Alamosa Pantry)\", \"alternate_name\": \"\", \"description\": \"Food pantry in San Luis Valley\", \"url\": \"https://careandshare.org/locations/alamosa-food-bank/\", \"status\": \"active\", \"address\": {\"address_1\": \"513 6th St\", \"address_2\": \"\", \"city\": \"Alamosa\", \"state_province\": \"CO\", \"postal_code\": \"81101\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-589-4567\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12 p.m.\", \"closes_at\": \"4 p.m.\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12 p.m.\", \"closes_at\": \"4 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12 p.m.\", \"closes_at\": \"4 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12 p.m.\", \"closes_at\": \"4 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12 p.m.\", \"closes_at\": \"4 p.m.\"}], \"location\": {\"latitude\": 37.5359057, \"longitude\": -105.7347809}}",
-  "metadata": {
-    "scraper_id": "care_and_share_food_locator",
-    "source": "care_and_share_food_locator"
-  },
-  "timestamp": "2025-07-27T07:53:07.540374"
-}

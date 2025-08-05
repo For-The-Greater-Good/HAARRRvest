@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"84540\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in THE URBAN OUTREACH CENTER OF NYC\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(212) 288-6743\", \"country\": \"US\"}, \"phones\": [{\"number\": \"1745 1ST AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.779807, \"longitude\": -73.947602}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"THE URBAN OUTREACH CENTER OF NYC\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:36:27.378256"
-}

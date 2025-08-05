@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"85129\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in HOPE RESTORATION MINISTRIES\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"516-689-7022\", \"country\": \"US\"}, \"phones\": [{\"number\": \"101-01 SPRINGFIELD BLVD (QUEENS VILLAGE)\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.714186, \"longitude\": -73.735422}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"HOPE RESTORATION MINISTRIES\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:39:35.825657"
-}

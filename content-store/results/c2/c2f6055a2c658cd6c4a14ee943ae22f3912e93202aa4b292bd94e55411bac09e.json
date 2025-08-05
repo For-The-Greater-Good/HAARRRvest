@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"29bc5658-4801-4551-a71b-e21c84e4d6ee\",\n  \"name\": \"Apison Food Pantry\",\n  \"description\": \"Food pantry services\",\n  \"contacts\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Apison Food Pantry Location\",\n      \"latitude\": 35.0223039,\n      \"longitude\": -85.0245699,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293863.716445",
-  "timestamp": "2025-08-04T15:12:26.335712"
-}

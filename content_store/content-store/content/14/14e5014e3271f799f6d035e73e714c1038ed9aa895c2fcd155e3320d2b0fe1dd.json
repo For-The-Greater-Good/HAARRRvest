@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1216, \"name\": \"Healing Waters Family Center\", \"address\": \"6475 W 29th Ave Wheat Ridge CO, 80214\", \"city\": \"Wheat Ridge\", \"state\": \"CO\", \"zip_code\": 80214, \"latitude\": 39.758984, \"longitude\": -105.068085, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1216, \"pantry_id\": 3457, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"4\"], \"source\": \"plentiful\", \"source_id\": \"1216\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-21\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-18\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-16\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-20\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:48:09.856733"
-}

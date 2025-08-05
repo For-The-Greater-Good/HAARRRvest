@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"85148\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in MT. HEBRON CHURCH OF CHRIST\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"347-454-4915\", \"country\": \"US\"}, \"phones\": [{\"number\": \"905 SUTTER AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.71427, \"longitude\": -74.00597}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"MT. HEBRON CHURCH OF CHRIST\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:09:30.040707"
-}

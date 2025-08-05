@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"85834\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in MAS STATEN ISLAND CENTER FOOD PANTRY\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"800-668-0742\", \"country\": \"US\"}, \"phones\": [{\"number\": \"180 BURGHER AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 63.9510965, \"longitude\": -21.0165918}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"MAS STATEN ISLAND CENTER FOOD PANTRY\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:41:34.216301"
-}

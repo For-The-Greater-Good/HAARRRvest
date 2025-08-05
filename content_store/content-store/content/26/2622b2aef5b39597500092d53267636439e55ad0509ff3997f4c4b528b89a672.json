@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"85214\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in MASBIA OF QUEENS\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FPK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-534-7321\", \"country\": \"US\"}, \"phones\": [{\"number\": \"105-47 64TH ROAD\", \"type\": \"voice\"}], \"location\": {\"latitude\": 41.105008864994, \"longitude\": -72.380858299325}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"MASBIA OF QUEENS\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:37:49.767478"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 982, \"name\": \"Jewish Family Services- Francis Heights\", \"address\": \"2626 Osceola St Denver CO, 80212\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80212, \"latitude\": 39.755524, \"longitude\": -105.037727, \"phone\": 3035975000, \"website\": \"https://www.jewishfamilyservice.org/mobile-schedule\", \"organization_id\": 982, \"pantry_id\": 2990, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"1\"], \"source\": \"plentiful\", \"source_id\": \"982\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-07-28\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-11\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-25\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:48:47.049440"
-}

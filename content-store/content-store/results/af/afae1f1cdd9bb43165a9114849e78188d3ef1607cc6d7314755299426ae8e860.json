@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"e46c770a-1c3e-45bd-b91f-0dcf4ffbfe98\",\n  \"name\": \"Benton Church Of God\",\n  \"description\": \"\",\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"contacts\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Benton Church Of God Location\",\n      \"latitude\": 35.1713151,\n      \"longitude\": -84.65900859999999,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293863.666215",
-  "timestamp": "2025-08-04T15:12:04.896502"
-}

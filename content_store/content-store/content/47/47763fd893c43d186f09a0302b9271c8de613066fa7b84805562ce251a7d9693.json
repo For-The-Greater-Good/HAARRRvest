@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1270, \"name\": \"Centro Mundial De Alabanza\", \"address\": \"2601 E St Vrain St Colorado Springs CO, 80909\", \"city\": \"Colorado Springs\", \"state\": \"CO\", \"zip_code\": 80909, \"latitude\": 38.838951, \"longitude\": -104.778839, \"phone\": 7194604392, \"website\": \"https://careandshare.org/locations/centro-mundial-de-alabanza/\", \"organization_id\": 1270, \"pantry_id\": 3027, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1270\", \"amenities\": [], \"conditions\": [\"Geographic Restrictions: El Paso County\"], \"service_hours\": [{\"date\": \"2025-08-02\", \"time\": 39600, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-06\", \"time\": 39600, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-04\", \"time\": 39600, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-01\", \"time\": 39600, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:46:44.707516"
-}

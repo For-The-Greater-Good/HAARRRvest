@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1224, \"name\": \"Saint James Presbyterian Church\", \"address\": \"3601 W Belleview Ave Littleton CO, 80123\", \"city\": \"Littleton\", \"state\": \"CO\", \"zip_code\": 80123, \"latitude\": 39.624653, \"longitude\": -105.035973, \"phone\": 303379250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1224, \"pantry_id\": 3475, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1224\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-27\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-24\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-22\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:49:14.548768"
-}

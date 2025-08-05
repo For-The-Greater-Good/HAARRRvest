@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"83351\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in DELIVERANCE TEMPLE CHURCH OF JESUS CHRIST\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 529-1993\", \"country\": \"US\"}, \"phones\": [{\"number\": \"134-10 ROCKAWAY BLVD SO. OZONE PARK\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.674387, \"longitude\": -73.804093}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"DELIVERANCE TEMPLE CHURCH OF JESUS CHRIST\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:39:09.942917"
-}

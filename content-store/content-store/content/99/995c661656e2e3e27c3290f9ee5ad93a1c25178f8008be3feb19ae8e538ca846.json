@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 993, \"name\": \"Jewish Family Services- Altura Plaza (WIC)\", \"address\": \"15400 E 14th Pl Aurora CO, 80011\", \"city\": \"Aurora\", \"state\": \"CO\", \"zip_code\": 80011, \"latitude\": 39.738632, \"longitude\": -104.810005, \"phone\": 7202484701, \"website\": \"https://www.jewishfamilyservice.org/mobile-schedule\", \"organization_id\": 993, \"pantry_id\": 2998, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"993\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-07-29\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-12\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-08-26\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:48:38.166976"
-}

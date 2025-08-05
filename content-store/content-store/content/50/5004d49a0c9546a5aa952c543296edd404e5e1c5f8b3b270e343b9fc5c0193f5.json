@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"81733\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in AIDS CENTER OF QUEENS COUNTY (ACQC)\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FPHA\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 868-8645\", \"country\": \"US\"}, \"phones\": [{\"number\": \"1600 CENTRAL AVENUE - 3RD FLOOR (FAR ROCKAWAY)\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.70456, \"longitude\": -73.798057}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"AIDS CENTER OF QUEENS COUNTY (ACQC)\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-07-27T08:40:52.055046"
-}

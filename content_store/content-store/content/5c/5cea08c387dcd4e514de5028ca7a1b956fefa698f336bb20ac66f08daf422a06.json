@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1079, \"name\": \"Kaizen Community Pop-up: SW Denver\", \"address\": \"2900 S Shoshone St Englewood CO, 80110\", \"city\": \"Englewood\", \"state\": \"CO\", \"zip_code\": 80110, \"latitude\": 39.663807, \"longitude\": -105.009216, \"phone\": 7203080390, \"website\": \"https://www.kaizenfoodrescue.org/calendar\", \"organization_id\": 1079, \"pantry_id\": 3215, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"1079\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-07-29\", \"time\": 46800, \"until\": 52200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:48:20.073605"
-}

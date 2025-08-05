@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1207, \"name\": \"Phillips United Methodist Church\", \"address\": \"1450 S Pierce St Lakewood CO, 80232\", \"city\": \"Lakewood\", \"state\": \"CO\", \"zip_code\": 80232, \"latitude\": 39.69083, \"longitude\": -105.07148, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1207, \"pantry_id\": 3467, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1207\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-05\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-02\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-07\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-04\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-07-27T08:49:20.737258"
-}

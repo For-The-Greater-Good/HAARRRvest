@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"f01b300e-2c7f-4927-923e-edafdbfed57d\",\n  \"name\": \"Blessing Box\",\n  \"description\": \"\",\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"contacts\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Blessing Box Location\",\n      \"latitude\": 34.831607,\n      \"longitude\": -92.1999028,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"phones\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293856.444831",
-  "timestamp": "2025-08-04T14:18:57.125398"
-}

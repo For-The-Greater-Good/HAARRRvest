@@ -1,5 +1,0 @@
-{
-  "result": "```json\n{\n  \"id\": \"f9add343-4b1f-401e-91d9-62e5086c236a\",\n  \"name\": \"Parish Hall\",\n  \"description\": \"Parish Hall organization\",\n  \"contacts\": [],\n  \"phones\": [],\n  \"organization_identifiers\": [],\n  \"programs\": [],\n  \"locations\": [\n    {\n      \"id\": \"location-1\",\n      \"location_type\": \"physical\",\n      \"name\": \"Parish Hall Location\",\n      \"latitude\": 35.5932519,\n      \"longitude\": -105.2261843,\n      \"phones\": [],\n      \"accessibilitys\": [],\n      \"contacts\": [],\n      \"schedules\": [],\n      \"languages\": [],\n      \"addresss\": [\n        {\n          \"id\": \"address-1\",\n          \"address_1\": \"\",\n          \"city\": \"\",\n          \"state_province\": \"\",\n          \"postal_code\": \"\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\",\n          \"attributes\": [],\n          \"metadata\": []\n        }\n      ],\n      \"attributes\": [],\n      \"metadata\": []\n    }\n  ],\n  \"fundings\": [],\n  \"attributes\": [],\n  \"metadata\": []\n}\n```",
-  "job_id": "1754293865.223713",
-  "timestamp": "2025-08-04T15:23:05.648908"
-}
