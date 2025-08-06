@@ -1,11 +1,11 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 5798,
+  "total_jobs": 5806,
   "scrapers": {
     "unknown": {
-      "count": 170,
+      "count": 178,
       "first_job": "2025-08-06T00:28:40.248389",
-      "last_job": "2025-08-06T07:58:57.340216"
+      "last_job": "2025-08-06T18:41:22.827253"
     },
     "chester_county_food_bank_pa": {
       "count": 20,
@@ -29083,6 +29083,46 @@
       "job_id": "1754468766.911467",
       "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
       "timestamp": "2025-08-06T18:28:00.158231"
+    },
+    {
+      "job_id": "8e1ceaf5-dded-4e3d-858e-d081daf0bcb6",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T18:40:18.386289"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T18:40:18.871206"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T18:40:19.343807"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T18:40:19.819033"
+    },
+    {
+      "job_id": "656be666-19ff-4945-b9cb-f8702746ea90",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T18:41:21.416084"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T18:41:21.889113"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T18:41:22.368604"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T18:41:22.827253"
     }
   ]
 }
