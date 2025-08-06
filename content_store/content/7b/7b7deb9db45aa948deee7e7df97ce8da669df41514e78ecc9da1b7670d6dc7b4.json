@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3976, \"name\": \"Grove City UMC Missions Meals\", \"nickname\": \"Grove City UMC Missions Meals\", \"address\": \"2684 COLUMBUS ST\", \"city\": \"GROVE CITY\", \"state\": \"OH\", \"zip\": \"43123\", \"phone\": \"\", \"latitude\": 39.88159, \"longitude\": -83.07229, \"estimated_distance\": 826.16, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7123, \"name\": \"Community Meal\", \"address\": \"2684 COLUMBUS ST\", \"city\": \"GROVE CITY\", \"state\": \"OH\", \"zip\": \"43123\", \"latitude\": 39.8817203, \"longitude\": -83.0745823, \"event_details\": \"\", \"estimated_distance\": 826.16, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357331, \"event_id\": 7123, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4:30 PM\", \"end_time\": \"5:30 PM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:13.253439"
-}

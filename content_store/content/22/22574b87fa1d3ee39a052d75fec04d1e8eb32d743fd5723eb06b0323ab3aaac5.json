@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 779, \"name\": \"Christ the King\", \"nickname\": \"Christ the King\", \"address\": \"300 E Tallmadge Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"phone\": \"330-807-7180\", \"latitude\": 41.10176, \"longitude\": -81.50365, \"estimated_distance\": 905.68, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1109, \"name\": \"Pantry\", \"address\": \"300 E Tallmadge Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"latitude\": 41.10211232, \"longitude\": -81.50434639, \"event_details\": \"Delivery to recipients 3rd Saturday of the month.\\nMust call prior to the day of delivery to be registered.\\nCall to Zip Code 44310 only\", \"estimated_distance\": 905.68, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358871, \"event_id\": 1109, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:07.837114"
-}

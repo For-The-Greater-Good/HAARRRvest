@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 670, \"name\": \"Johnson/Rudd Community Pantry\", \"nickname\": \"Johnson/Rudd Community Pantry\", \"address\": \"6342 MARION AGOSTA RD\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"phone\": \"\", \"latitude\": 40.5856, \"longitude\": -83.30594, \"estimated_distance\": 811.72, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 899, \"name\": \"Pantry\", \"address\": \"6342 MARION AGOSTA RD\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"latitude\": 40.5862514, \"longitude\": -83.2987785, \"event_details\": \"\", \"estimated_distance\": 811.72, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360973, \"event_id\": 899, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}, {\"id\": 901, \"name\": \"Mobile Market\", \"address\": \"3200 Smeltzer Rd\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"latitude\": 40.5862514, \"longitude\": -83.2987785, \"event_details\": \"\", \"estimated_distance\": 811.72, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360888, \"event_id\": 901, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-08\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:07.454281"
-}

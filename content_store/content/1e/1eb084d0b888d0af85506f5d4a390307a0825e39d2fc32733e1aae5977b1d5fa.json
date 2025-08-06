@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4586, \"name\": \"Dalton Baptist Church\", \"nickname\": \"Dalton Baptist Church\", \"address\": \"400 Lincoln View Dr\", \"city\": \"Dalton\", \"state\": \"OH\", \"zip\": \"44618\", \"phone\": \"330-828-8302\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 895.53, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8473, \"name\": \"Pantry\", \"address\": \"400 Lincoln View Dr\", \"city\": \"Dalton\", \"state\": \"OH\", \"zip\": \"44618\", \"latitude\": 40.7964577, \"longitude\": -81.7020914, \"event_details\": \"Regular Hours - Monday from 10-10:30am\", \"estimated_distance\": 895.53, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359988, \"event_id\": 8473, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-11\"}, {\"id\": 359989, \"event_id\": 8473, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-18\"}, {\"id\": 359990, \"event_id\": 8473, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:14.813073"
-}

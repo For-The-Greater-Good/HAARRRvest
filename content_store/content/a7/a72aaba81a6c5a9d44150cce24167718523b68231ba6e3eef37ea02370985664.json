@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4326, \"name\": \"MP - The Cross\", \"nickname\": \"MP TC\", \"address\": \"109 N ARMSTRONG AVE\", \"city\": \"KINGSVILLE\", \"state\": \"TX\", \"zip\": \"78363\", \"phone\": \"(361) 296-4187\", \"latitude\": 27.51701, \"longitude\": -97.87784, \"estimated_distance\": 856.58, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7845, \"name\": \"MP - The Cross\", \"address\": \"109 N ARMSTRONG AVE\", \"city\": \"KINGSVILLE\", \"state\": \"TX\", \"zip\": \"78363\", \"latitude\": 27.51660754, \"longitude\": -97.87781952, \"event_details\": \"\", \"estimated_distance\": 856.58, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358584, \"event_id\": 7845, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-18\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:14.293766"
-}

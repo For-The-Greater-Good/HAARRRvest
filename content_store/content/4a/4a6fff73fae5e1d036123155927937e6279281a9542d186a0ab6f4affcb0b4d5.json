@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 151, \"name\": \"First Church of God\", \"nickname\": \"First Church of God\", \"address\": \"3480 REFUGEE RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43232\", \"phone\": \"614-338-8338\", \"latitude\": 39.91696, \"longitude\": -82.90644, \"estimated_distance\": 834.99, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 208, \"name\": \"Pantry\", \"address\": \"3480 REFUGEE RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43232\", \"latitude\": 39.91695974, \"longitude\": -82.9046222, \"event_details\": \"\", \"estimated_distance\": 834.99, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361700, \"event_id\": 208, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-05\"}, {\"id\": 361704, \"event_id\": 208, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-02\"}, {\"id\": 361709, \"event_id\": 208, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-03\"}, {\"id\": 361713, \"event_id\": 208, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:05.333371"
-}

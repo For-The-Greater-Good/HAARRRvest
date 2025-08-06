@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4846, \"name\": \"Faith Community Fellowship\", \"nickname\": \"Faith Community Fellowship\", \"address\": \"1303 9th St SW\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44647\", \"phone\": \"330-268-7033\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 904.44, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 9017, \"name\": \"Pantry\", \"address\": \"1303 9th St SW\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44647\", \"latitude\": 40.7821288, \"longitude\": -81.5330316, \"event_details\": \"Regular Hours - last Saturday from 10-12pm\", \"estimated_distance\": 904.44, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360753, \"event_id\": 9017, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-30\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:15.490644"
-}

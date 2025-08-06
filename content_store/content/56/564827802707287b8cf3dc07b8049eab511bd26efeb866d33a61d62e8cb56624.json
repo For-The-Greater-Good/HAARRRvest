@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4304, \"name\": \"Fellowship Baptist Food Pantry\", \"nickname\": \"Fellowship Baptist Food Pantry\", \"address\": \"4701 WINCHESTER PIKE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43232\", \"phone\": \"614-992-7124\", \"latitude\": 39.89627, \"longitude\": -82.87493, \"estimated_distance\": 836.59, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7802, \"name\": \"Pantry\", \"address\": \"4701 WINCHESTER PIKE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43232\", \"latitude\": 39.89713689, \"longitude\": -82.87664117, \"event_details\": \"\", \"estimated_distance\": 836.59, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358550, \"event_id\": 7802, \"capacity\": 20, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-14\"}, {\"id\": 358551, \"event_id\": 7802, \"capacity\": 20, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:14.270925"
-}

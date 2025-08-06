@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4709, \"name\": \"TOSM\", \"nickname\": \"TOSM wk 3\", \"address\": \"1750 Osage Ave SE\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"phone\": \"\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 906.09, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8696, \"name\": \"Pantry\", \"address\": \"1750 Osage Ave SE\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"latitude\": 40.7816325, \"longitude\": -81.5018235, \"event_details\": \"Regular Hours - 3rd Wednesday from 10-11am | Osage Park\", \"estimated_distance\": 906.09, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360489, \"event_id\": 8696, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:15.412600"
-}

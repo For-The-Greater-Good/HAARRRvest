@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 311, \"name\": \"St. John's United Church of Christ - Glenmont Food Pantry\", \"nickname\": \"Glenmont Food Pantry\", \"address\": \"108 Main St\", \"city\": \"Glenmont\", \"state\": \"OH\", \"zip\": \"44628\", \"phone\": \"330-575-4914\", \"latitude\": 40.51997, \"longitude\": -82.09686, \"estimated_distance\": 875.19, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 435, \"name\": \"Pantry\", \"address\": \"108 Main St\", \"city\": \"Glenmont\", \"state\": \"OH\", \"zip\": \"44628\", \"latitude\": 40.51999832, \"longitude\": -82.09896587, \"event_details\": \"Regular Hours - 4th Tuesday from 5-7pm\", \"estimated_distance\": 875.19, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360696, \"event_id\": 435, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:05.559891"
-}

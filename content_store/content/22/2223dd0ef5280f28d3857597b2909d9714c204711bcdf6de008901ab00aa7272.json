@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4112, \"name\": \"MP - St. Peter's by the Sea United Methodist\", \"nickname\": \"St. Peter's by the Sea\", \"address\": \"1541 WALDRON RD PO BOX 18070\", \"city\": \"CORPUS CHRISTI\", \"state\": \"TX\", \"zip\": \"78418\", \"phone\": \"(361)937-1456\", \"latitude\": 27.66172, \"longitude\": -97.28646, \"estimated_distance\": 848.88, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7325, \"name\": \"Mobile Pantry\", \"address\": \"1541 WALDRON RD PO BOX 18070\", \"city\": \"CORPUS CHRISTI\", \"state\": \"TX\", \"zip\": \"78418\", \"latitude\": 27.6605667, \"longitude\": -97.2871898, \"event_details\": \"\", \"estimated_distance\": 848.88, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357397, \"event_id\": 7325, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3:30 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:13.800551"
-}

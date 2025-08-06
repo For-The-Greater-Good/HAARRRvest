@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4272, \"name\": \"Helping Hands Helping Others\", \"nickname\": \"Helping Hands Helping Others\", \"address\": \"160 Oak St\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"phone\": \"1-866-607-6157\", \"latitude\": 40.58935, \"longitude\": -83.12535, \"estimated_distance\": 820.87, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7716, \"name\": \"Pantry\", \"address\": \"160 Oak St\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"latitude\": 40.5891811, \"longitude\": -83.1253186, \"event_details\": \"Customers can shop once per month.\", \"estimated_distance\": 820.87, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361194, \"event_id\": 7716, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-11\"}, {\"id\": 361195, \"event_id\": 7716, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-18\"}, {\"id\": 361196, \"event_id\": 7716, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:14.209850"
-}

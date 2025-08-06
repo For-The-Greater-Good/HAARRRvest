@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 200, \"name\": \"Columbus Christian Center Food Pantry\", \"nickname\": \"Columbus Christian Center Food Pantry\", \"address\": \"2300 N CASSADY AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43219\", \"phone\": \"614-256-5175\", \"latitude\": 40.01933, \"longitude\": -82.92719, \"estimated_distance\": 833.17, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 262, \"name\": \"Pantry\", \"address\": \"2300 N CASSADY AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43219\", \"latitude\": 40.01917774, \"longitude\": -82.9287181, \"event_details\": \"\", \"estimated_distance\": 833.17, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355467, \"event_id\": 262, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:05.354132"
-}

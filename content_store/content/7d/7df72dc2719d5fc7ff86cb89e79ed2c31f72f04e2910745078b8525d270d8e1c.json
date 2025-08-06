@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 790, \"name\": \"The Salvation Army (Creston)\", \"nickname\": \"The Salvation Army - Creston\", \"address\": \"121 FACTORY ST PO BOX 264\", \"city\": \"CRESTON\", \"state\": \"OH\", \"zip\": \"44217\", \"phone\": \"330-453-4321\", \"latitude\": 40.98405, \"longitude\": -81.8913, \"estimated_distance\": 885.43, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1121, \"name\": \"Pantry\", \"address\": \"111 Sterling St\", \"city\": \"Creston\", \"state\": \"OH\", \"zip\": \"44217\", \"latitude\": 40.9864596, \"longitude\": -81.8917201, \"event_details\": \"Regular Hours - 1st, 3rd, and 5th Saturday from 10-11am |\", \"estimated_distance\": 885.4, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359326, \"event_id\": 1121, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:07.964153"
-}

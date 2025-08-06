@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 2101, \"name\": \"Pavilion of Praise Baptist Church\", \"nickname\": \"Pavilion of Praise\", \"address\": \"976 W Waterloo Rd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44314\", \"phone\": \"330-753-1458\", \"latitude\": 41.03208, \"longitude\": -81.56071, \"estimated_distance\": 902.71, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3276, \"name\": \"Pantry\", \"address\": \"976 W Waterloo Rd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44314\", \"latitude\": 41.03209517, \"longitude\": -81.56120532, \"event_details\": \"Regular Hours - Last Friday from 5:30-7pm\", \"estimated_distance\": 902.71, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358961, \"event_id\": 3276, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-29\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}, {\"id\": 8489, \"name\": \"Meal\", \"address\": \"976 W Waterloo Rd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44314\", \"latitude\": 41.03209517, \"longitude\": -81.56120532, \"event_details\": \"Regular Hours - 3rd Sunday from 1:30-3:30pm\", \"estimated_distance\": 902.71, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360151, \"event_id\": 8489, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1:30 PM\", \"end_time\": \"3:30 PM\", \"date\": \"2025-08-17\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:09.213386"
-}

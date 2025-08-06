@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4588, \"name\": \"Friendship Meals Inc\", \"nickname\": \"Friendship Meals Inc\", \"address\": \"301 N Main St\", \"city\": \"Orrville\", \"state\": \"OH\", \"zip\": \"44667\", \"phone\": \"\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 892.19, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8475, \"name\": \"Meal\", \"address\": \"301 N Main St\", \"city\": \"Orrville\", \"state\": \"OH\", \"zip\": \"44667\", \"latitude\": 40.8425428, \"longitude\": -81.7643558, \"event_details\": \"Regular Hours - 2nd, 3rd, 4th, and 5th Thursday from 5:15-6:30pm | Message thru Facebook or email: friendshipmealsinc@gmail.com\", \"estimated_distance\": 892.19, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360000, \"event_id\": 8475, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:15 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-14\"}, {\"id\": 360001, \"event_id\": 8475, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:15 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-21\"}, {\"id\": 360002, \"event_id\": 8475, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:15 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:14.827669"
-}

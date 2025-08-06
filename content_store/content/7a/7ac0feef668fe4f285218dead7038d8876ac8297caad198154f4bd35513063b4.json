@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4099, \"name\": \"MP - 3 in 1 Food Pantry\", \"nickname\": \"Concepcion\", \"address\": \"2000 FM 716\", \"city\": \"CONCEPCION\", \"state\": \"TX\", \"zip\": \"78349\", \"phone\": \"(361)539-4377\", \"latitude\": 27.39611, \"longitude\": -98.35586, \"estimated_distance\": 864.14, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7310, \"name\": \"Mobile Pantry\", \"address\": \"2000 FM 716\", \"city\": \"CONCEPCION\", \"state\": \"TX\", \"zip\": \"78349\", \"latitude\": 27.39562029, \"longitude\": -98.3379681, \"event_details\": \"\", \"estimated_distance\": 864.14, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357388, \"event_id\": 7310, \"capacity\": 70, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-12\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:13.761493"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4119, \"name\": \"NAD - Mathis\", \"nickname\": \"Mathis\", \"address\": \"525 N. Frio St.\", \"city\": \"MATHIS\", \"state\": \"TX\", \"zip\": \"78368\", \"phone\": \"(361) 678-8956\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 816.2, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7343, \"name\": \"Mathis Non Agency Drop\", \"address\": \"525 N. Frio St.\", \"city\": \"MATHIS\", \"state\": \"TX\", \"zip\": \"78368\", \"latitude\": 28.10022766, \"longitude\": -97.82893756, \"event_details\": \"\", \"estimated_distance\": 816.2, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357398, \"event_id\": 7343, \"capacity\": 180, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-14\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:13.943229"
-}

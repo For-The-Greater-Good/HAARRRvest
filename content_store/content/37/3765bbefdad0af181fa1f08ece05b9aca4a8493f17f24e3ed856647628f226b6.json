@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3727, \"name\": \"Highland BIC\", \"nickname\": \"Highland BIC\", \"address\": \"7210 S JAY RD\", \"city\": \"WEST MILTON\", \"state\": \"OH\", \"zip\": \"45383\", \"phone\": \"937-313-7085\", \"latitude\": 39.93142, \"longitude\": -84.33617, \"estimated_distance\": 758.83, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6605, \"name\": \"Pantry\", \"address\": \"7210 S JAY RD\", \"city\": \"WEST MILTON\", \"state\": \"OH\", \"zip\": \"45383\", \"latitude\": 39.93149125, \"longitude\": -84.33635323, \"event_details\": \"\", \"estimated_distance\": 758.83, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356863, \"event_id\": 6605, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11:30 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-17\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:12.359864"
-}

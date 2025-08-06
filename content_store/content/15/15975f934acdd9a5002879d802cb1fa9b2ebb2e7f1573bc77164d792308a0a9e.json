@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3304, \"name\": \"Elyria City Schools\", \"nickname\": \"Elyria City Schools\", \"address\": \"601 MIDDLE AVE\", \"city\": \"ELYRIA\", \"state\": \"OH\", \"zip\": \"44035\", \"phone\": \"440-284-8183\", \"latitude\": 41.36181, \"longitude\": -82.10726, \"estimated_distance\": 874.42, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5280, \"name\": \"Ely Stadium School Pantry\", \"address\": \"1915 Middle Ave\", \"city\": \"ELYRIA\", \"state\": \"OH\", \"zip\": \"44035\", \"latitude\": 41.34597688, \"longitude\": -82.10924602, \"event_details\": \"No more than 2 families will be served per vehicle. Please clean out your trunk so we can safely load your groceries. If your trunk is dirty or full, you will need to load your own vehicle; we do not load passenger or back seats.\\n By providing your name, address, and other household information during FreshTrak registration and/or on-site at Second Harvest distributions, you are self-declaring that you are income-eligible to receive food service.\", \"estimated_distance\": 874.28, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358686, \"event_id\": 5280, \"capacity\": 700, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"4 PM\", \"end_time\": \"5:30 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:10.083390"
-}

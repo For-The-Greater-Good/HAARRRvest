@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3610, \"name\": \"Community Congregational UCC\", \"nickname\": \"Community Congregational UCC\", \"address\": \"379 S MAIN ST\", \"city\": \"AMHERST\", \"state\": \"OH\", \"zip\": \"44001\", \"phone\": \"440-988-9148\", \"latitude\": 41.39672, \"longitude\": -82.22683, \"estimated_distance\": 868.25, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6324, \"name\": \"Community Congregational Hot Meal\", \"address\": \"379 S MAIN ST\", \"city\": \"AMHERST\", \"state\": \"OH\", \"zip\": \"44001\", \"latitude\": 41.3963242, \"longitude\": -82.2268632, \"event_details\": \"Call the site to verify hours of operations\", \"estimated_distance\": 868.25, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356693, \"event_id\": 6324, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-11\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:11.449303"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1481, \"name\": \"Lorain Lighthouse UMC\", \"nickname\": \"Lorain Lighthouse\", \"address\": \"3015 MEISTER RD\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44053\", \"phone\": \"4402822383\", \"latitude\": 41.44035, \"longitude\": -82.2098, \"estimated_distance\": 869.24, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2176, \"name\": \"Pantry\", \"address\": \"3015 MEISTER RD\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44053\", \"latitude\": 41.44035055, \"longitude\": -82.20980173, \"event_details\": \"\", \"estimated_distance\": 869.24, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358746, \"event_id\": 2176, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2:30 PM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:08.716770"
-}

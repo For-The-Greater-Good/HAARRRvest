@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3778, \"name\": \"Republic food pantry\", \"nickname\": \"Republic\", \"address\": \"312 s. Madison st.\", \"city\": \"REPUBLIC\", \"state\": \"OH\", \"zip\": \"44867\", \"phone\": \"4195857374\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 826.57, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6766, \"name\": \"Pantry\", \"address\": \"312 s. Madison st.\", \"city\": \"REPUBLIC\", \"state\": \"OH\", \"zip\": \"44867\", \"latitude\": 41.12114654, \"longitude\": -83.01560053, \"event_details\": \"\", \"estimated_distance\": 826.57, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357965, \"event_id\": 6766, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-19\"}, {\"id\": 357966, \"event_id\": 6766, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:12.686611"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 569, \"name\": \"Community Drop In Center\", \"nickname\": \"Community Drop In Center\", \"address\": \"1492 Cherry Ave SE\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44707\", \"phone\": \"330-456-7692\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 913.05, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 765, \"name\": \"Pantry\", \"address\": \"1492 Cherry Ave SE\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44707\", \"latitude\": 0.0, \"longitude\": 0.0, \"event_details\": \"Regular Hours - 2nd, 3rd, and 4th Friday from 9-12pm\", \"estimated_distance\": 6711.91, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359081, \"event_id\": 765, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-08\"}, {\"id\": 359082, \"event_id\": 765, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-15\"}, {\"id\": 359083, \"event_id\": 765, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-22\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:07.172799"
-}

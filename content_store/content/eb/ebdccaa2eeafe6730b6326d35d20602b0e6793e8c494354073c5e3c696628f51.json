@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1237, \"name\": \"Focus Community Development Corp\", \"nickname\": \"Focus\", \"address\": \"1241 Grant St\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44310\", \"phone\": \"330-724-8163\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 906.03, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1757, \"name\": \"Pantry\", \"address\": \"1241 Grant St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44301\", \"latitude\": 41.04875, \"longitude\": -81.51843, \"event_details\": \"Regular Hours - 2nd and 4th Saturday from 12-2pm | Meals on Holidays\", \"estimated_distance\": 904.95, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358921, \"event_id\": 1757, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-09\"}, {\"id\": 358922, \"event_id\": 1757, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:08.421599"
-}

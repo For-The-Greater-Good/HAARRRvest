@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4242, \"name\": \"Life Spring Community Church\", \"nickname\": \"Life Spring\", \"address\": \"1638 Lester Rd\", \"city\": \"Valley City\", \"state\": \"OH\", \"zip\": \"44280\", \"phone\": \"330-483-4774\", \"latitude\": 41.2293, \"longitude\": -81.93547, \"estimated_distance\": 883.08, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7645, \"name\": \"Pantry\", \"address\": \"1638 Lester Rd\", \"city\": \"Valley City\", \"state\": \"OH\", \"zip\": \"44280\", \"latitude\": 41.22955706, \"longitude\": -81.93767218, \"event_details\": \"Regular Hours - 3rd Saturday from 9-11am\", \"estimated_distance\": 883.08, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361112, \"event_id\": 7645, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:14.178756"
-}

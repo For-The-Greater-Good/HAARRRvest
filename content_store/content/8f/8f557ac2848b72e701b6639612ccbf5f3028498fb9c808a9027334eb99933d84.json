@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4091, \"name\": \"MP - South Texas Colonial Initiative\", \"nickname\": \"Banquete\", \"address\": \"4339 Fourth St.\", \"city\": \"BANQUETE\", \"state\": \"TX\", \"zip\": \"78339\", \"phone\": \"(361)854-5248\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 836.83, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7291, \"name\": \"Banquete Mobile Pantry\", \"address\": \"4339 Fourth St.\", \"city\": \"BANQUETE\", \"state\": \"TX\", \"zip\": \"78339\", \"latitude\": 27.80437991, \"longitude\": -97.79680988, \"event_details\": \"\", \"estimated_distance\": 836.83, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357364, \"event_id\": 7291, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-12\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:13.748207"
-}

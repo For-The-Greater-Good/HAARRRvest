@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1047, \"name\": \"Faith Ministries\", \"nickname\": \"Faith Ministries\", \"address\": \"2747 AGLER RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43224\", \"phone\": \"301-693-3644\", \"latitude\": 40.02486, \"longitude\": -82.93786, \"estimated_distance\": 832.51, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1519, \"name\": \"Produce Market\", \"address\": \"2747 AGLER RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43224\", \"latitude\": 40.02648592, \"longitude\": -82.94053355, \"event_details\": \"\", \"estimated_distance\": 832.51, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357261, \"event_id\": 1519, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:08.314768"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3354, \"name\": \"Sheffield Lake City Schools\", \"nickname\": \"Brookside High School\", \"address\": \"3975 FORESTLAWN AVE\", \"city\": \"SHEFFIELD LAKE\", \"state\": \"OH\", \"zip\": \"44054\", \"phone\": \"440-949-4213\", \"latitude\": 41.48357, \"longitude\": -82.11689, \"estimated_distance\": 874.19, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5614, \"name\": \"Brookside High School\", \"address\": \"1662 Harris Rd\", \"city\": \"SHEFFIELD Village\", \"state\": \"OH\", \"zip\": \"44054\", \"latitude\": 41.48357699, \"longitude\": -82.11689228, \"event_details\": \"No more than 2 families will be served per vehicle. Please clean out your trunk so we can safely load your groceries. If your trunk is dirty or full, you will need to load your own vehicle; we do not load passenger or back seats.\\n By providing your name, address, and other household information during FreshTrak registration and/or on site at Second Harvest distributions, you are self-declaring that you are income eligible to receive food service. Click the link to see if you fall within the income eligibility guidelines:\\nhttps://www.secondharvestfoodbank.org/images/pdf/NEWTemporary_230_JFS_04224_TEFAP_Income_Eligibility_Guidelines.pdf\", \"estimated_distance\": 874.19, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361340, \"event_id\": 5614, \"capacity\": 500, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"4:30 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-13\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:10.122643"
-}

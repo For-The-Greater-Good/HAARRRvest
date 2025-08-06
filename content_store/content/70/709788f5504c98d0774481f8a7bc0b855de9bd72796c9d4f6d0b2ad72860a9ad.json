@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1282, \"name\": \"St. Paul Missionary Baptist Church\", \"nickname\": \"St. Paul Missionary Baptist Church\", \"address\": \"1350 Virginia Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44306\", \"phone\": \"330-773-0999\", \"latitude\": 41.03536, \"longitude\": -81.49683, \"estimated_distance\": 906.09, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1852, \"name\": \"Pantry\", \"address\": \"1350 Virginia Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44306\", \"latitude\": 41.03536814, \"longitude\": -81.49683766, \"event_details\": \"Regular Hours - 3rd Saturday from 10-1pm\", \"estimated_distance\": 906.09, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358974, \"event_id\": 1852, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:08.463137"
-}

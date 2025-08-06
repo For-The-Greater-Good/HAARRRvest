@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 49, \"name\": \"Smith Chapel Food and Clothing Mission\", \"nickname\": \"Smith Chapel\", \"address\": \"1333 E FRONT ST\", \"city\": \"LOGAN\", \"state\": \"OH\", \"zip\": \"43138\", \"phone\": \"740-380-6132\", \"latitude\": 39.53342, \"longitude\": -82.38629, \"estimated_distance\": 865.12, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 86, \"name\": \"Pantry\", \"address\": \"1333 E FRONT ST\", \"city\": \"LOGAN\", \"state\": \"OH\", \"zip\": \"43138\", \"latitude\": 39.5338815, \"longitude\": -82.3871118, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first.\\nPhone Number: (740) 380-6132\", \"estimated_distance\": 865.12, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357513, \"event_id\": 86, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-15\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:04.784731"
-}

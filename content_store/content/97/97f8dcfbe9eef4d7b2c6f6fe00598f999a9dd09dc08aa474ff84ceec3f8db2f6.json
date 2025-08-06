@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4597, \"name\": \"Central Baptist\", \"nickname\": \"Central Baptist\", \"address\": \"4736 W Tuscarawas St\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44708\", \"phone\": \"330-344-3438\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 909.58, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8504, \"name\": \"Pantry\", \"address\": \"4736 W Tuscarawas St\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44708\", \"latitude\": 40.794707, \"longitude\": -81.4349967, \"event_details\": \"Regular Hours - 4th Saturday from 11-1pm\", \"estimated_distance\": 909.58, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359831, \"event_id\": 8504, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-05T08:08:14.919792"
-}
