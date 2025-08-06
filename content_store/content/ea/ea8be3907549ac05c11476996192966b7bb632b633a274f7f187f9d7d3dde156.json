@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethany Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Call for Appointment 313-885-7721 (Before Noon) \", \"email\": \"\", \"url\": \"https://bethanydetroit.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"11475 Outer Drive East\", \"address_2\": null, \"city\": \"Morningside\", \"state_province\": \"MI\", \"postal_code\": \"48224\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4058746, \"longitude\": -82.94855950000002}, \"phones\": [{\"number\": \"(313) 885-7721\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.265123"
+}

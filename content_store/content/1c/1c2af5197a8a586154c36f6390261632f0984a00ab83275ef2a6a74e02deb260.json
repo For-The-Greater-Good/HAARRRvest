@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"YMCA Boston @  Brookside Health Center\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://ymcaboston.org/mobilemarket/\", \"status\": \"active\", \"address\": {\"address_1\": \"3297 Washington Street\", \"address_2\": null, \"city\": \"Jamaica Plain\", \"state_province\": \"MA\", \"postal_code\": \"02130\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3108683, \"longitude\": -71.1039057}, \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.156915"
+}

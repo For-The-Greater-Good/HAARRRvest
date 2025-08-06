@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Mary Assumption Of Parish\", \"alternate_name\": \"\", \"description\": \"Requires to call for hours. Serves Union County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"155 Washington Avenue\", \"address_2\": \"\", \"city\": \"Elizabeth\", \"state_province\": \"NJ\", \"postal_code\": \"07202\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6583451, \"longitude\": -74.21871209999999}, \"phones\": [{\"number\": \"(908) 352-5154\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.879695"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"GSB In House Pantry\", \"alternate_name\": \"\", \"description\": \"Please send a text to 667-218-8740 prior to your arrival and wait until you receive a response before coming.\", \"email\": \"\", \"url\": \"mygsbaltimore.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"8701 Winands Road\", \"address_2\": null, \"city\": \"Randallstown\", \"state_province\": \"MD\", \"postal_code\": \"21133\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3803387, \"longitude\": -76.7817045}, \"phones\": [{\"number\": \"(443) 433-8949\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Contact in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.082330"
+}

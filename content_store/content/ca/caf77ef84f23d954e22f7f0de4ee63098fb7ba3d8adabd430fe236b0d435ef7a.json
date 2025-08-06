@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"DeKalb County- SNAP local office\", \"alternate_name\": \"\", \"description\": \"If you need help completing your application or have questions about Food Stamps, Medicaid, TANF or Childcare, please contact the Customer Contact Center at: 1-877-423-4746.\\n\\nOur services, including interpreters, are free. If you are deaf, hard-of-hearing, deaf-blind or have difficulty speaking, you can call us at the number above by dialing 711 (Georgia Relay).\", \"email\": \"\", \"url\": \"https://dfcs.georgia.gov/locations/dekalb-county\", \"status\": \"active\", \"address\": {\"address_1\": \"2300 Parklake Drive Northeast\", \"address_2\": null, \"city\": \"Northlake\", \"state_province\": \"GA\", \"postal_code\": \"30345\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.853175, \"longitude\": -84.2506396}, \"phones\": [{\"number\": \"(404) 370-5000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:42.017537"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"BOLD\", \"alternate_name\": \"\", \"description\": \"Distribution Model: Drive Thru\", \"email\": \"\", \"url\": \"https://www.relc.org/b-o-l-d/\", \"status\": \"active\", \"address\": {\"address_1\": \"3500 Main Street\", \"address_2\": null, \"city\": \"Hilliard\", \"state_province\": \"OH\", \"postal_code\": \"43026\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0229933, \"longitude\": -83.15958189999999}, \"phones\": [{\"number\": \"(614) 876-7926\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.314529"
+}

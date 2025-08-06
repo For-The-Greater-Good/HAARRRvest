@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"John Paul II Training Center \\u2013 Bilingual\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"13 Mimosa Street\", \"address_2\": null, \"city\": \"Gainesville\", \"state_province\": \"GA\", \"postal_code\": \"30501\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.2758089, \"longitude\": -83.8399481}, \"phones\": [{\"number\": \"(770) 539-3361\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.896150"
+}

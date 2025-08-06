@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Maranatha SDA Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.maranathasda.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"2730 Browns Mill Road Southeast\", \"address_2\": null, \"city\": \"Rosedale Heights\", \"state_province\": \"GA\", \"postal_code\": \"30354\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6799715, \"longitude\": -84.3835682}, \"phones\": [{\"number\": \"(404) 361-0835\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.094665"
+}

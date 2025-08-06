@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Michael The Archangel\", \"alternate_name\": \"\", \"description\": \"Must have photo ID\", \"email\": \"\", \"url\": \"https://smoverlea.org/service-justice/\", \"status\": \"active\", \"address\": {\"address_1\": \"10 Willow Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21206\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3575346, \"longitude\": -76.52635529999999}, \"phones\": [{\"number\": \"(410) 665-1054\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.944183"
+}

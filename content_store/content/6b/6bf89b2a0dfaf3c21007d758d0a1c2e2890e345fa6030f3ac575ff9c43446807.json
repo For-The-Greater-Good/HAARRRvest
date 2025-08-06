@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CITY CHURCH\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1624 East 38th Street\", \"address_2\": null, \"city\": \"Victory Manor/East Hill/Donwood\", \"state_province\": \"GA\", \"postal_code\": \"31404\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.04951515664438, \"longitude\": -81.07444712109843}, \"phones\": [{\"number\": \"(912) 270-5877\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.828962"
+}

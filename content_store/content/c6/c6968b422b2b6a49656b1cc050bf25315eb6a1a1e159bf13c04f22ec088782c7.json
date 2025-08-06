@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Brooks Memorial United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"143-22 109 Avenue\", \"address_2\": \"\", \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11435\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.68848, \"longitude\": -73.802963}, \"phones\": [{\"number\": \"(718) 658-8822\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.917999"
+}

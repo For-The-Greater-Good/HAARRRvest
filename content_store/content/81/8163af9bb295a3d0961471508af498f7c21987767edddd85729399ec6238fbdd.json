@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lakepointe Church\", \"alternate_name\": \"\", \"description\": \"Anyone needing resources at this location is requested to call ahead at (586)991-1845 Ext:2\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"48571 Van Dyke Avenue\", \"address_2\": null, \"city\": \"Shelby Township\", \"state_province\": \"MI\", \"postal_code\": \"48317\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6522535, \"longitude\": -83.0337344}, \"phones\": [{\"number\": \"(586) 991-1845\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.799755"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"National Council of Jewish Women\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.ncjwny.org\", \"status\": \"active\", \"address\": {\"address_1\": \"241 West 72nd Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10023\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7794675, \"longitude\": -73.9830259}, \"phones\": [{\"number\": \"(212) 687-5030\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.282718"
+}

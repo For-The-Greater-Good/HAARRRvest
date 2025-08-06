@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Charity Baptist Church\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/firstcharity/\", \"email\": \"\", \"url\": \"https://firstcharity.church/?fbclid=IwAR3oFuMg6JLzl7mkO_gZfbr95-_9Cu6Y7xg8lOy2-mvM6lWyzd_6gauahcs\", \"status\": \"active\", \"address\": {\"address_1\": \"611 Aisquith Street\", \"address_2\": null, \"city\": \"Somerset Homes - Monument East\", \"state_province\": \"MD\", \"postal_code\": \"21202\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.29739869999999, \"longitude\": -76.6015923}, \"phones\": [{\"number\": \"(410) 732-0076\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.330993"
+}

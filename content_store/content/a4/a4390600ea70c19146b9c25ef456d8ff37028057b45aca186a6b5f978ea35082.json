@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hospitality House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2075 East West Maple Road\", \"address_2\": null, \"city\": \"Commerce Charter Township\", \"state_province\": \"MI\", \"postal_code\": \"48390\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.541821, \"longitude\": -83.4604789}, \"phones\": [{\"number\": \"(248) 960-9975\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"05:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.842820"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MMCC Food Pantry\", \"alternate_name\": \"\", \"description\": \"- Tickets are given from 8:30 am then food is given after to those with tickets. Call every month to check schedule\", \"email\": \"\", \"url\": \"https://www.mmcc.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"3450 Dekalb Ave\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10467\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.881931, \"longitude\": -73.880493}, \"phones\": [{\"number\": \"(718) 882-4000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.197972"
+}

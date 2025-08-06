@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fountain Community Enrichment Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"15853 Commerce Court\", \"address_2\": null, \"city\": \"Upper Marlboro\", \"state_province\": \"MD\", \"postal_code\": \"20774\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.884128, \"longitude\": -76.730823}, \"phones\": [{\"number\": \"(301) 335-5038\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Clothes on Friday\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Drive-thru delivery\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.840297"
+}

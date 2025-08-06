@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Endtime Church of Jesus Christ\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2466 North Opal Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19132\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9919438, \"longitude\": -75.1643539}, \"phones\": [{\"number\": \"(610) 909-8659\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"17:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"01:00\", \"closes_at\": \"02:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.552692"
+}

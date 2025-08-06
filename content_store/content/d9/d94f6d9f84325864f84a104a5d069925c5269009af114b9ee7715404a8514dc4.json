@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lenfest Center\", \"alternate_name\": \"\", \"description\": \" Registrations are first week of every month ONLY. Walk ins All walk ins must be previously registered.\\n\\n Members must previously be registered and have a North10 Share Card\\n You must bring ID and proof of address since share card is one per household. \\n Must be 18 and over to receive. \\n Multi Unit homes must bring proof they reside in multi unit apartment example: Apt 1, A, etc\", \"email\": \"\", \"url\": \"https://north10phl.org/events/fresh-produce-distribution/\", \"status\": \"active\", \"address\": {\"address_1\": \"3890 North 10th Street\", \"address_2\": \"\", \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19140\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.011515, \"longitude\": -75.14403039999999}, \"phones\": [{\"number\": \"(267) 908-9000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.086697"
+}

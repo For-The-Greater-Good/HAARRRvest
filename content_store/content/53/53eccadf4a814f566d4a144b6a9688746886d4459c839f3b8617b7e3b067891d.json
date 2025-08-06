@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Methodist Church in Orange\", \"alternate_name\": \"\", \"description\": \"They service drive through and walk up.\", \"email\": \"\", \"url\": \"https://www.facebook.com/OrangeUnitedMethodistChurch/\", \"status\": \"active\", \"address\": {\"address_1\": \"287 Park Avenue\", \"address_2\": null, \"city\": \"City of Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07050\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.77675849999999, \"longitude\": -74.22612819999999}, \"phones\": [{\"number\": \"(973) 675-6390\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.436661"
+}

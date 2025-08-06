@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wanaque Feed the Hungry\", \"alternate_name\": \"\", \"description\": \"The distribution is at the back of the Wanaque First Aid Building (Belmont Ave).\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1 Melrose Avenue\", \"address_2\": null, \"city\": \"Wanaque\", \"state_province\": \"NJ\", \"postal_code\": \"07465\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.0521828, \"longitude\": -74.2866576}, \"phones\": [{\"number\": \"(973) 839-3000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.153797"
+}

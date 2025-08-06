@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Deliverance Tabernacle Food pantry\", \"alternate_name\": \"\", \"description\": \"Advised to call to register in advance. You can also register by going on-site during the week.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"202 Hawthorne Ave\", \"address_2\": \"\", \"city\": \"Newark\", \"state_province\": \"NJ\", \"postal_code\": \"07112\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.712337, \"longitude\": -74.211945}, \"phones\": [{\"number\": \"(908) 271-0008\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:18.436733"
+}

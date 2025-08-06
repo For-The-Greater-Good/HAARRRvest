@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cornerstones, Inc.\", \"alternate_name\": \"\", \"description\": \"* Clients need to bring picture ID and a piece of mail dated within the last 30 days.\\n\\n* Serves residents of  20170,20171, 20190, 20191 and 20194 and by referral other zip codes in Fairfax and Loudoun County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"11484 Washington Plaza West\", \"address_2\": null, \"city\": \"Reston\", \"state_province\": \"VA\", \"postal_code\": \"20190\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9685222, \"longitude\": -77.3425824}, \"phones\": [{\"number\": \"(571) 323-1410\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.411610"
+}

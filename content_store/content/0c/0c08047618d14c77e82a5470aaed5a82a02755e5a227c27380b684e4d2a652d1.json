@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pathway Evangelistic Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1600 Harrison Street\", \"address_2\": null, \"city\": \"Frankford\", \"state_province\": \"PA\", \"postal_code\": \"19124\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0185645, \"longitude\": -75.08114510000001}, \"phones\": [{\"number\": \"(267) 456-9347\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.802333"
+}

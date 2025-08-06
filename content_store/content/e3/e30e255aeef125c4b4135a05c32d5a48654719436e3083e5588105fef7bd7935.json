@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" St John's Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Meat distribution\", \"email\": \"\", \"url\": \"https://www.facebook.com/p/Mustard-Seed-Toledo-100069197396576/\", \"status\": \"active\", \"address\": {\"address_1\": \"708 South Erie Street\", \"address_2\": null, \"city\": \"Southside\", \"state_province\": \"OH\", \"postal_code\": \"43609\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6400797, \"longitude\": -83.5498856}, \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:21.684571"
+}

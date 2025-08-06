@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ronald McDonald House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.philabundance.org/lets-eat/\", \"status\": \"active\", \"address\": {\"address_1\": \"3920 Ludlow St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.95616099954533, \"longitude\": -75.20099359201423}, \"phones\": [{\"number\": \"(267) 996-4478\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"2 MEAL KITS PER WEEK. JUNE 13 TO AUGUST 6, 2022\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:08.102650"
+}

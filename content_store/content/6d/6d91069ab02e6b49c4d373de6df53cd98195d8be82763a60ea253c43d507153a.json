@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Queens College, Knights Table Food Pantry\", \"alternate_name\": \"\", \"description\": \"All appointments are to be done online through the following link\\nTo book appointments https://qcknightstablepantry.setmore.com/bookappointment\\nStudent Union Building, Lower-Level, Room 29\\nwalk in appointments can also be done in days and timing listed in schedule\", \"email\": \"\", \"url\": \"https://www.qc.cuny.edu/StudentLife/services/SDL/Pages/Food-Pantry.aspx\", \"status\": \"active\", \"address\": {\"address_1\": \"65-30 Kissena Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11367\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.737004, \"longitude\": -73.815067}, \"phones\": [{\"number\": \"(718) 997-3970\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.906501"
+}

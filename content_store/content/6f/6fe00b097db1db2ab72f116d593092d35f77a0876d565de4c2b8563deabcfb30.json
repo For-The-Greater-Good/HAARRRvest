@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ST Charles Borromeo Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"728 West Union Street\", \"address_2\": null, \"city\": \"Morganton\", \"state_province\": \"NC\", \"postal_code\": \"28655\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.736776, \"longitude\": -81.7039331}, \"phones\": [{\"number\": \"(828) 437-3108\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:36.085845"
+}

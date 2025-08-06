@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cornerstone Community Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4895 Campbellton Road Southwest\", \"address_2\": null, \"city\": \"Sandtown\", \"state_province\": \"GA\", \"postal_code\": \"30331\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7027917, \"longitude\": -84.5462166}, \"phones\": [{\"number\": \"(404) 697-8307\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed before, during, and after holidays.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.308348"
+}

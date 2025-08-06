@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Kindom Cares / Jackson Roads Elementary\", \"alternate_name\": \"\", \"description\": \"Please sign up to get food assistance : https://forms.office.com/Pages/ResponsePage.aspx?id=ahXNOO4oT0StTt4Kk2T84XSGxkh6wAdPjEeiYlPR0vlUNVpXNlgzMTY0RDY5TFVGQkNXV0w0VzAwMyQlQCN0PWcu\", \"email\": \"\", \"url\": \"https://kingdom.global/kingdom-cares/\", \"status\": \"active\", \"address\": {\"address_1\": \"900 Jackson Road\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20904\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0565702, \"longitude\": -76.9913456}, \"phones\": [{\"number\": \"(301) 679-1100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.811992"
+}

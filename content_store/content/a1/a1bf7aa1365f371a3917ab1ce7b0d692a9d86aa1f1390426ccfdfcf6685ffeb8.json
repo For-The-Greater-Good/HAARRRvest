@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Philadelphia's BenePhilly\", \"alternate_name\": \"\", \"description\": \"BenePhilly offers free, one-on-one help to enroll Philadelphia residents in public benefit programs, such as SNAP/EBT, health insurance, energy assistance, disability benefits, and more. A BenePhilly counselor can fill out public benefit applications with you and follow up on the status of your applications.\\n\\nHelp available in more than 170 languages. Call their helpline, or email benephilly@phila.gov for more info. You can also contact one of their partner centers, listed here: https://bdtrust.org/benephilly-flyer-040522-eng.pdf\", \"email\": \"\", \"url\": \"https://bdtrust.org/benephilly/\", \"status\": \"active\", \"address\": {\"address_1\": \"1500 Market Street\", \"address_2\": null, \"city\": \"Center City West\", \"state_province\": \"PA\", \"postal_code\": \"19102\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9522819, \"longitude\": -75.1661443}, \"phones\": [{\"number\": \"(833) 373-5868\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.641583"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"University of Maryland Baltimore, Community Engagement Center, Community Meal\", \"alternate_name\": \"\", \"description\": \"GRAB-N-GO LUNCH/DINNER: Offers grab-n-go lunches and/or dinners to anyone in need on certain days of the month. Mask is required and visitors are required to sign in.  Meals will switch between Lunch and Dinner every month, typically the first Wednesday of every month. Lunch is 12 Noon-1PM and dinner is 5:30PM-6:30PM.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"16 South Poppleton Street\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21201\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.28818, \"longitude\": -76.63233}, \"phones\": [{\"number\": \"(410) 706-8260\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.424633"
+}

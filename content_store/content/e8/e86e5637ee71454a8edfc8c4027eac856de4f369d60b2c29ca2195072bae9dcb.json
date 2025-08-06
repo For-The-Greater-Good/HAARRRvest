@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CASPEC Steel Pan Association\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.eastnewyorksda.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"159 Saint Pauls Place\", \"address_2\": \"\", \"city\": \"Flatbush\", \"state_province\": \"NY\", \"postal_code\": \"11226\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6499707, \"longitude\": -73.962024}, \"phones\": [{\"number\": \"(917) 474-1255\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.797325"
+}

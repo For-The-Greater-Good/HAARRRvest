@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"International Christian Fellowship\", \"alternate_name\": \"\", \"description\": \"Please call to confirm opening hour.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"461 School Drive Southeast\", \"address_2\": null, \"city\": \"Orchard Knob\", \"state_province\": \"GA\", \"postal_code\": \"30354\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6715983, \"longitude\": -84.3745223}, \"phones\": [{\"number\": \"(404) 363-3300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:20.752266"
+}

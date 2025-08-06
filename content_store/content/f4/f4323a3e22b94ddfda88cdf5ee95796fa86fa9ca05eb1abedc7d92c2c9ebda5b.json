@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Dover Food Pantry\", \"alternate_name\": \"\", \"description\": \"Wednesdays 9:00am to 12:00pm. (Closed 12pm-1pm) lunch break\", \"email\": \"\", \"url\": \"https://easternusa.salvationarmy.org/new-jersey/dover/\", \"status\": \"active\", \"address\": {\"address_1\": \"76 North Bergen Street\", \"address_2\": \"\", \"city\": \"Dover\", \"state_province\": \"NJ\", \"postal_code\": \"07801\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.88742269999999, \"longitude\": -74.5558027}, \"phones\": [{\"number\": \"(973) 366-0764\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.567103"
+}

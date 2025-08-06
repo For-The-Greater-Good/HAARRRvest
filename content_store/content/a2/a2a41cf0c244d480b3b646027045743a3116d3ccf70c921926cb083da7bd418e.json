@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Park Ave. Community Church\", \"alternate_name\": \"\", \"description\": \"NJ Residents\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"431 North Hilltop Avenue\", \"address_2\": null, \"city\": \"Somerdale\", \"state_province\": \"NJ\", \"postal_code\": \"08083\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8487969, \"longitude\": -75.02385319999999}, \"phones\": [{\"number\": \"(856) 435-0309\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.476863"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Islamic Multi Service Organization\", \"alternate_name\": \"\", \"description\": \"- You are advised to bring a cart to carry the produce offered as it may be heavy.\\n- Elderly assistance is advised\\n- You may inquire more on other services offered in their organisation on site.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"722 Shawmut Avenue\", \"address_2\": null, \"city\": \"Roxbury\", \"state_province\": \"MA\", \"postal_code\": \"02119\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.33280579999999, \"longitude\": -71.0832602}, \"phones\": [{\"number\": \"(617) 442-2805\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.102620"
+}

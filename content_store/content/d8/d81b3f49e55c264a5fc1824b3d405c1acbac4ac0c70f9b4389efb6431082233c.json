@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Highpoint Charitable Services\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/highpointcs/\", \"email\": \"\", \"url\": \"https://www.highpointcs.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"424 E. Main St. #7\", \"address_2\": null, \"city\": \"LaGrange\", \"state_province\": \"KY\", \"postal_code\": \"40031\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.40917529999999, \"longitude\": -85.37357839999999}, \"phones\": [{\"number\": \"(502) 713-7090\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.220664"
+}

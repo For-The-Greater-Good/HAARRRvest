@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Osbornville Baptist Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.obcnj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"366 Drum Point Road\", \"address_2\": null, \"city\": \"Brick\", \"state_province\": \"New Jersey\", \"postal_code\": \"08723\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.040164, \"longitude\": -74.108292}, \"phones\": [{\"number\": \"(732) 477-0324\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"04:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.808748"
+}

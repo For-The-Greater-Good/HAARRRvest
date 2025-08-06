@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Placid Lakes Baptist\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://placidlakesbc.com/food_ministry\", \"status\": \"active\", \"address\": {\"address_1\": \"116 Cleveland Avenue Northeast\", \"address_2\": null, \"city\": \"Lake Placid\", \"state_province\": \"FL\", \"postal_code\": \"33852\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.2621195, \"longitude\": -81.3912544}, \"phones\": [{\"number\": \"(863) 465-5126\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.648987"
+}

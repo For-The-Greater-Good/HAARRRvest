@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Potters House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.thepottershouseoftampa.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"6916 Harney Road\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33617\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0115169, \"longitude\": -82.3763067}, \"phones\": [{\"number\": \"(813) 914-7438\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.649951"
+}

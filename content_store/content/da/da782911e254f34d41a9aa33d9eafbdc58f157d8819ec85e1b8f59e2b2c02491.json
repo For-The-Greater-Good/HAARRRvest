@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Camden Rescue Mission\", \"alternate_name\": \"\", \"description\": \"Provides emergency food assistance, clothing, furniture, and counseling to families that are coming out of abusive situations, victims of fire or are facing homelessness.\", \"email\": \"\", \"url\": \"https://camdenrescuemission.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1634 Broadway\", \"address_2\": null, \"city\": \"Waterfront South\", \"state_province\": \"NJ\", \"postal_code\": \"08104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.92397760000001, \"longitude\": -75.11928089999999}, \"phones\": [{\"number\": \"(856) 966-2495\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.698085"
+}

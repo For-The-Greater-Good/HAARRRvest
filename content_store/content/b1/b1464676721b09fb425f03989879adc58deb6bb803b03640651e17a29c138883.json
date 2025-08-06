@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Philly Dream Center\", \"alternate_name\": \"\", \"description\": \"Food Truck \", \"email\": \"\", \"url\": \"https://www.phila.gov/departments/office-of-homeless-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"Kensington Ave. and E. Allegheny Ave.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19134\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.99657855181204, \"longitude\": -75.11354739560188}, \"phones\": [{\"number\": \"(215) 856-3250\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:36.336072"
+}

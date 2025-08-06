@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lucille\\u2019s Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6100 Jost Street\", \"address_2\": null, \"city\": \"Fairmount Heights\", \"state_province\": \"MD\", \"postal_code\": \"20743\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9011769, \"longitude\": -76.9117711}, \"phones\": [{\"number\": \"(301) 925-8585\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.902632"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Augsburg Lutheran Church Feed Your Neighbor Program\", \"alternate_name\": \"\", \"description\": \"Serves 43612,43613\\n\\nRequired: proof of address, & ID/SS card\\n\", \"email\": \"\", \"url\": \"https://augsburglutheran-ws.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1342 West Sylvania Avenue\", \"address_2\": null, \"city\": \"Five Points\", \"state_province\": \"OH\", \"postal_code\": \"43612\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6926409, \"longitude\": -83.5736615}, \"phones\": [{\"number\": \"(336) 722-8144\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.829346"
+}

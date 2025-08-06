@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army\", \"alternate_name\": \"\", \"description\": \"Temporarily closed from aug 30th - sep 5th.\\n\\nProduce dates: Aug 22, sep 26, oct 24, from 12pm - 3pm until products runs out.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"300 Seneca Avenue\", \"address_2\": null, \"city\": \"Havre de Grace\", \"state_province\": \"MD\", \"postal_code\": \"21078\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5360159, \"longitude\": -76.101151}, \"phones\": [{\"number\": \"(410) 939-3535\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.216235"
+}

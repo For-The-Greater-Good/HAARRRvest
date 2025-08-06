@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Angels\", \"alternate_name\": \"\", \"description\": \"We recommend arriving before the scheduled time as the line forms early.\", \"email\": \"\", \"url\": \"ccbq.org\", \"status\": \"active\", \"address\": {\"address_1\": \"330 73rd Street\", \"address_2\": \"\", \"city\": \"Bay Ridge\", \"state_province\": \"NY\", \"postal_code\": \"11209\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.63241259999999, \"longitude\": -74.0263286}, \"phones\": [{\"number\": \"(718) 726-9790\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.161223"
+}

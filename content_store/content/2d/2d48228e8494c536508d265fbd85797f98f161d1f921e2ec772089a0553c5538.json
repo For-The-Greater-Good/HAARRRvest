@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Benedict's Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stphilipsbklyn.org/ministries/st-benedicts-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"265 Decatur St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11233\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6818646, \"longitude\": -73.9332955}, \"phones\": [{\"number\": \"(718) 778-8700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.381912"
+}

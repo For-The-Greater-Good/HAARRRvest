@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Centreville UMC\", \"alternate_name\": \"\", \"description\": \"- Offers household items and toys as well on the 2nd saturday\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6400 Old Centreville Rd\", \"address_2\": null, \"city\": \"Centreville\", \"state_province\": \"VA\", \"postal_code\": \"20121\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.825598, \"longitude\": -77.439884}, \"phones\": [{\"number\": \"(703) 830-2684\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"14:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.888837"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Met Council - Shorefront JCC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.shorefrontjcc.org/sjccprograms/food-pantry-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"3014A Brighton 6th St\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11235\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5791917, \"longitude\": -73.9622354}, \"phones\": [{\"number\": \"(718) 743-0575\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.622714"
+}

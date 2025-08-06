@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Borough of Netcong\", \"alternate_name\": \"\", \"description\": \"We do not ask for identification and provide assistance to Netcong and the surrounding municipalities.\", \"email\": \"\", \"url\": \"https://netcong.org/food-bank/#:~:text=The%20Netcong%20food%20bank%20is,Netcong%20and%20the%20surrounding%20municipalities.\", \"status\": \"active\", \"address\": {\"address_1\": \"23 Maple Avenue\", \"address_2\": null, \"city\": \"Netcong\", \"state_province\": \"NJ\", \"postal_code\": \"07857\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8991477, \"longitude\": -74.7051718}, \"phones\": [{\"number\": \"(973) 214-5338\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.134397"
+}

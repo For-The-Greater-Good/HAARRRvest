@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mighty Writers North\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://mightywriters.org/food-distribution/\", \"status\": \"active\", \"address\": {\"address_1\": \"2300 Master St, Lower Level\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19121\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.97625853784878, \"longitude\": -75.17445198045527}, \"phones\": [{\"number\": \"(610) 263-5379\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:34.260718"
+}

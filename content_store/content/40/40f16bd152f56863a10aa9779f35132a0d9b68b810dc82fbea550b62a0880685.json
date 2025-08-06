@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Presbyterian Church of Edison\", \"alternate_name\": \"\", \"description\": \"Must bring ID or bill that proves that you are an Edison resident.\", \"email\": \"\", \"url\": \"https://cpcedison.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"75 Glenville Rd\", \"address_2\": \"\", \"city\": \"Edison\", \"state_province\": \"NJ\", \"postal_code\": \"08817\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5167, \"longitude\": -74.3964}, \"phones\": [{\"number\": \"(732) 287-1666\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.873131"
+}

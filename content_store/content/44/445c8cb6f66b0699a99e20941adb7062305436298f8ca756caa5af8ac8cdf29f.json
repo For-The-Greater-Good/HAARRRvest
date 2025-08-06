@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Asbury United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Can access once a month.\\n\\nBring referral, proof of residency, proof of place to prepare food, and document proving low income (proof of SSI, SSDI,\\nTANF, etc.).\\n\\nMust be DC resident and have proof of food preparation facility.\", \"email\": \"\", \"url\": \"www.asburyumcdc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"926 11th Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20001\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9019605, \"longitude\": -77.0272552}, \"phones\": [{\"number\": \"(202) 628-0009\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"04:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.324374"
+}

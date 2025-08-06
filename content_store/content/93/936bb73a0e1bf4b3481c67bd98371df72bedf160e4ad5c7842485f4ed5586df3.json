@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Peter's Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://assumptionstpaulsi.com/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"53 Saint Marks Place\", \"address_2\": null, \"city\": \"Mid Island\", \"state_province\": \"NY\", \"postal_code\": \"10301\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.64710170000001, \"longitude\": -74.0843624}, \"phones\": [{\"number\": \"(718) 727-2672\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:06.407960"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Fulton Community Charities\", \"alternate_name\": \"\", \"description\": \"Only serve:  Alpharetta, Johns Creek, Milton, Mountain  Park, Roswell, 30097/ Gwinett County\", \"email\": \"\", \"url\": \"https://nfcchelp.org/FOOD-BANK/\", \"status\": \"active\", \"address\": {\"address_1\": \"11270 Elkins Road\", \"address_2\": null, \"city\": \"Roswell\", \"state_province\": \"GA\", \"postal_code\": \"30076\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.05330790000001, \"longitude\": -84.3357158}, \"phones\": [{\"number\": \"(770) 640-0399\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.488952"
+}

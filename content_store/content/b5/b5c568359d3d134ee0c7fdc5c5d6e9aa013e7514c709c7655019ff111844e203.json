@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ICNA Relief Programs\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://icnarelief.org/tampa-florida/\", \"status\": \"active\", \"address\": {\"address_1\": \"5628 56th Commerce Park Boulevard\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33610\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9879163, \"longitude\": -82.3952536}, \"phones\": [{\"number\": \"(866) 345-0102\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.345095"
+}

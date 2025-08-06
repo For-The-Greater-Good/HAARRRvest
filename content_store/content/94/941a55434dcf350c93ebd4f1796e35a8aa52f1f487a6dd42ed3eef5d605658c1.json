@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Hope Missionary Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.newhopetampa.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3005 East Ellicott Street\", \"address_2\": null, \"city\": \"East Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33610\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9898581, \"longitude\": -82.42614069999999}, \"phones\": [{\"number\": \"(813) 236-3611\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.511926"
+}

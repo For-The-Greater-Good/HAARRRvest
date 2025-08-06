@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"P.O.W.E.R Atlanta Inc. Pathways of Wealth Economic Resources\", \"alternate_name\": \"\", \"description\": \"Online registration required https://poweratl.org/registration-form/\", \"email\": \"\", \"url\": \"https://www.poweratl.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1024 Avon Avenue Southwest\", \"address_2\": null, \"city\": \"Capitol View\", \"state_province\": \"GA\", \"postal_code\": \"30310\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7219573, \"longitude\": -84.4215794}, \"phones\": [{\"number\": \"(404) 301-9989\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:21.857934"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CITY OF REFUGE FP\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1115 Blake Avenue\", \"address_2\": null, \"city\": \"East New York\", \"state_province\": \"NY\", \"postal_code\": \"11208\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6706996, \"longitude\": -73.87672069999999}, \"phones\": [{\"number\": \"(929) 289-2267\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:09.630252"
+}

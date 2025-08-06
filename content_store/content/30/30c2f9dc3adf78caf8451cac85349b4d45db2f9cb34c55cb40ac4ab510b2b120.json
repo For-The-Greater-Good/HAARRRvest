@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Hills Food Cupboard\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.community-cupboard.org\", \"status\": \"active\", \"address\": {\"address_1\": \"212 Girard Ave.\", \"address_2\": \"\", \"city\": \"North Hills\", \"state_province\": \"PA\", \"postal_code\": \"19038\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.117156, \"longitude\": -75.172277}, \"phones\": [{\"number\": \"(215) 628-3002\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:14.968665"
+}

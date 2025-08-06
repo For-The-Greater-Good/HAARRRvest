@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul Lutheran (Moving Hope)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.facebook.com/movinghopeinc/\", \"status\": \"active\", \"address\": {\"address_1\": \"4450 Harden Boulevard\", \"address_2\": null, \"city\": \"Lakeland\", \"state_province\": \"FL\", \"postal_code\": \"33813\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9841372, \"longitude\": -81.9711322}, \"phones\": [{\"number\": \"(863) 274-3311\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.463912"
+}

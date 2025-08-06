@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Chapel\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"264 Jacksonville Road\", \"address_2\": null, \"city\": \"Lincoln Park\", \"state_province\": \"NJ\", \"postal_code\": \"07035\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9480537, \"longitude\": -74.3331778}, \"phones\": [{\"number\": \"(973) 334-6657\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.241532"
+}

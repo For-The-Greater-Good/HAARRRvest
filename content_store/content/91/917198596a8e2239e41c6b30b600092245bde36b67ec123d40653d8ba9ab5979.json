@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"HILLSBOROUGH | Glover School\", \"alternate_name\": \"\", \"description\": \"They distribute food to homeless people on Wednesday\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5104 Horton Road\", \"address_2\": null, \"city\": \"Plant City\", \"state_province\": \"FL\", \"postal_code\": \"33567\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.942948, \"longitude\": -82.0793976}, \"phones\": [{\"number\": \"(813) 737-1352\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.190461"
+}

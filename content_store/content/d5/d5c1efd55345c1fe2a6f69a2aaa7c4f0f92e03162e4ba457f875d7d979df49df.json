@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mt Zion Human Services\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://mzhs.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"945 20th Street South\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33712\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7602879, \"longitude\": -82.6603357}, \"phones\": [{\"number\": \"(727) 894-4311\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.744298"
+}

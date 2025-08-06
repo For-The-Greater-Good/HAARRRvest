@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Food Pantry at Our Lady of Sorrows\", \"alternate_name\": \"\", \"description\": \"Serves Essex County\", \"email\": \"\", \"url\": \"https://olschurch.com/calendar/\", \"status\": \"active\", \"address\": {\"address_1\": \"217 Prospect Street\", \"address_2\": null, \"city\": \"South Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07079\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7415068, \"longitude\": -74.2591097}, \"phones\": [{\"number\": \"(973) 220-8495\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Serves New Jersey residents\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring referral Letter and/or Income or Assistance Letter\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must show a New Jersey photo ID\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.998725"
+}

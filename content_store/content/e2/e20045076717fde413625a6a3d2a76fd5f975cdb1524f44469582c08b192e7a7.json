@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Terrace Food Pantry\", \"alternate_name\": \"\", \"description\": \"Distribution Model: Drive Thru\\n\\nhttps://www.facebook.com/ecs.mrc/\", \"email\": \"\", \"url\": \"https://www.ntcoc.org/serve\", \"status\": \"active\", \"address\": {\"address_1\": \"1420 Brandywine Boulevard\", \"address_2\": null, \"city\": \"Zanesville\", \"state_province\": \"OH\", \"postal_code\": \"43701\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9847171, \"longitude\": -82.0312649}, \"phones\": [{\"number\": \"(423) 461-1521\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.682066"
+}

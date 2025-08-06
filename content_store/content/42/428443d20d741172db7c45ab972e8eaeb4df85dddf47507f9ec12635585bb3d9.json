@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Riverview Elementary\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3298 Kessler Road\", \"address_2\": null, \"city\": \"Lansdowne - Baltimore Highlands\", \"state_province\": \"MD\", \"postal_code\": \"21227\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.236179, \"longitude\": -76.6559159}, \"phones\": [{\"number\": \"(443) 809-1428\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:20.964566"
+}

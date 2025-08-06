@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Main Street Food Pantry\", \"alternate_name\": \"\", \"description\": \"Contact: Kim D\\u2019Angelo\\n\\nRequires ID & proof or residence (utility bill/lease). If you have preschool children, you will need to show their birth certificate. For school age children, a document from the school showing the child's name and address. You may visit either pantry once a month.\\n\\nServes all of Hamilton Township & Egg Harbor City, Mizpath. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6011 Main Street\", \"address_2\": null, \"city\": \"Mays Landing\", \"state_province\": \"NJ\", \"postal_code\": \"08330\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4527676, \"longitude\": -74.7284488}, \"phones\": [{\"number\": \"(609) 625-9446\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.023225"
+}

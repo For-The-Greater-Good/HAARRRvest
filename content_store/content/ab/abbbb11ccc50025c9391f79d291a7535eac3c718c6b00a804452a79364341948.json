@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hessed World Mission Center\", \"alternate_name\": \"\", \"description\": \"Clothes and merchandise are available. The setup is outside Hessed Community Church.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4022 Edmondson Avenue\", \"address_2\": null, \"city\": \"Edmondson\", \"state_province\": \"MD\", \"postal_code\": \"21229\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2939703, \"longitude\": -76.6837376}, \"phones\": [{\"number\": \"(410) 370-4224\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:27.225726"
+}

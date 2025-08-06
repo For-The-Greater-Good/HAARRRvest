@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Atonement Food Pantry\", \"alternate_name\": \"\", \"description\": \"In december he pantry will be on 3rd saturday \", \"email\": \"\", \"url\": \"https://atonementepiscopaldc.org/calendar/\", \"status\": \"active\", \"address\": {\"address_1\": \"5073 East Capitol Street Southeast\", \"address_2\": null, \"city\": \"Capitol View\", \"state_province\": \"DC\", \"postal_code\": \"20019\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8894121, \"longitude\": -76.9274169}, \"phones\": [{\"number\": \"(202) 582-4200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.349620"
+}

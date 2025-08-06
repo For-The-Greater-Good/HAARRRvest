@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"W.I.T.S. (Walk In The Spirit) Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"11638 Whittier Avenue\", \"address_2\": null, \"city\": \"Denby\", \"state_province\": \"MI\", \"postal_code\": \"48224\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4207405, \"longitude\": -82.9616867}, \"phones\": [{\"number\": \"(313) 371-3930\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Temporarily closed\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.277242"
+}

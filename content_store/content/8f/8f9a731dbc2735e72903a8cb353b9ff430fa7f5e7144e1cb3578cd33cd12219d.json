@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities Brooklyn and Queens, Our Lady of the Angelus\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ccbq.org/service/food-pantry-network/\", \"status\": \"active\", \"address\": {\"address_1\": \"63-63 98th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11374\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.730739, \"longitude\": -73.858731}, \"phones\": [{\"number\": \"(718) 722-6001\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.888388"
+}

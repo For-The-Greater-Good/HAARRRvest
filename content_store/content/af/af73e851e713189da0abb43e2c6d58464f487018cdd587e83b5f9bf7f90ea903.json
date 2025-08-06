@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Light of Hope\", \"alternate_name\": \"\", \"description\": \"Zip code served: 33607\\n\\nFood distribution (groceries) every other month, Saturday from 10 a.m. to 11:30 a.m. in our church hall. Please call or check the website for the next distribution.\\n\", \"email\": \"\", \"url\": \"https://www.ldmtampa.com/pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"2606 North Mac Dill Avenue\", \"address_2\": null, \"city\": \"Northeast MacFarlane\", \"state_province\": \"FL\", \"postal_code\": \"33607\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9644533, \"longitude\": -82.4935988}, \"phones\": [{\"number\": \"(813) 872-0883\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.047089"
+}

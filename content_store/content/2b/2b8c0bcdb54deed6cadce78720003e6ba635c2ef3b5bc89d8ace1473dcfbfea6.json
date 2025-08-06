@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hope for the Future\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.hopeforthefuture.com\", \"status\": \"active\", \"address\": {\"address_1\": \"131 Verdi Street\", \"address_2\": \"\", \"city\": \"Farmingdale\", \"state_province\": \"NY\", \"postal_code\": \"11735\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7132143, \"longitude\": -73.4172384}, \"phones\": [{\"number\": \"(631) 752-5771\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.677962"
+}

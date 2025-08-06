@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CAPE VINEYARD CHURCH\", \"alternate_name\": \"\", \"description\": \"Visit capevineyard.com/dinnerchurch for more information.\", \"email\": \"\", \"url\": \"capevineyard.com/dinnerchurch\", \"status\": \"active\", \"address\": {\"address_1\": \"923 Southeast 47th Terrace\", \"address_2\": null, \"city\": \"Caloosahatchee\", \"state_province\": \"FL\", \"postal_code\": \"33904\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.5640344, \"longitude\": -81.9528423}, \"phones\": [{\"number\": \"(239) 340-4967\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"10:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.655067"
+}

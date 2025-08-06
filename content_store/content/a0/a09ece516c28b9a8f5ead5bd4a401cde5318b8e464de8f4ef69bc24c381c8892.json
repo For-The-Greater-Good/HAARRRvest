@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mount Zion Christian Church\", \"alternate_name\": \"\", \"description\": \"Call between 7:30am to 10:30am  for the appointment, and from 12:30 to 1:30 pm is the distribution hours \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3519 Fayetteville Street\", \"address_2\": null, \"city\": \"Durham\", \"state_province\": \"NC\", \"postal_code\": \"27707\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.9571891, \"longitude\": -78.90899}, \"phones\": [{\"number\": \"(919) 683-2599\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"11:30\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:30\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:30\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:33.389630"
+}

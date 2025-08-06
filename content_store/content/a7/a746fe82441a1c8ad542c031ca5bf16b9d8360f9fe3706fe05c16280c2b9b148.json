@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Presidential Lakes Community Center\\t\", \"alternate_name\": \"\", \"description\": \"Coordinator: Jenna\\tLongstreet\\t6098935788\\t\\nStart: 07/02/2025 End:\\t08/27/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"703 New York Road\", \"address_2\": null, \"city\": \"Browns Mills\", \"state_province\": \"NJ\", \"postal_code\": \"08015\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9165415, \"longitude\": -74.5676405}, \"phones\": [{\"number\": \"(609) 893-8141\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:10.110358"
+}

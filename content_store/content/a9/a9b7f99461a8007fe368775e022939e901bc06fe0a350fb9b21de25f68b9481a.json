@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Montville Kiwanis Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Montville residents only\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"91 Passaic Valley Road\", \"address_2\": \"29 Whitehall Rd. (Rt. 202)\", \"city\": \"Montville\", \"state_province\": \"NJ\", \"postal_code\": \"07045\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8949049, \"longitude\": -74.3558001}, \"phones\": [{\"number\": \"(973) 216-7649\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.081415"
+}

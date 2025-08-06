@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mount Hebron Baptist Church\", \"alternate_name\": \"\", \"description\": \"- Emergency food available outside of regular pantry schedule. Call to inquire.(+1 (267) 441-6680)\\n- Please not that the pantry hours might change according  the trucks arrival time.Feel free to call ahead just to check whether the truck has arrived.\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1417 Wharton Street\", \"address_2\": null, \"city\": \"Point Breeze\", \"state_province\": \"PA\", \"postal_code\": \"19146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9344591, \"longitude\": -75.1687809}, \"phones\": [{\"number\": \"(267) 441-6680\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.232115"
+}

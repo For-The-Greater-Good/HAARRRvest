@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Genesis Transitional House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.gthm-inc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"195-12 Hollis Avenue\", \"address_2\": \"\", \"city\": \"St Albans\", \"state_province\": \"NY\", \"postal_code\": \"11412\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.684956, \"longitude\": -73.754158}, \"phones\": [{\"number\": \"(917) 567-5745\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Other services: referral\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.985374"
+}

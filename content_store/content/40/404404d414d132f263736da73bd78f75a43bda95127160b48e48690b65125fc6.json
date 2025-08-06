@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community of Care Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://reynoldsburg.church/ministries/community-of-care\", \"status\": \"active\", \"address\": {\"address_1\": \"1649 Graham Road\", \"address_2\": null, \"city\": \"Reynoldsburg\", \"state_province\": \"OH\", \"postal_code\": \"43068\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9506535, \"longitude\": -82.7963183}, \"phones\": [{\"number\": \"(614) 866-6030\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.206807"
+}

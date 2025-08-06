@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wellfare - East Harlem Outpost\", \"alternate_name\": \"\", \"description\": \"* Located outside La Marqueta\\n* To register, a family must live in either Taft Houses or Johnson Houses (more developments to come soon).\\n* Families can register online at wellfare.org/signup, call (888) 574-9355 or visit a distribution to sign up in person\\n* Better Box program, a free monthly grocery subscription service for families living in eligible NYCHA public housing developments. Each Better Box has over $250 worth of better-for-you snacks, beverages, supplements and pantry goods. These boxes are shelf stable.\\n\", \"email\": \"\", \"url\": \"wellfare.org/signup\", \"status\": \"active\", \"address\": {\"address_1\": \"1590 Park Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10029\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.79781759999999, \"longitude\": -73.9445796}, \"phones\": [{\"number\": \"(888) 574-9355\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:39.292358"
+}

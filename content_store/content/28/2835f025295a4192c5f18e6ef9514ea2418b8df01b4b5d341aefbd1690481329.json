@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Middletown Helps Its Own\\t\", \"alternate_name\": \"\", \"description\": \"Open to Middletown residents only\\n\\nhttps://www.facebook.com/helpingothersintown/\", \"email\": \"\", \"url\": \"https://middletownhelpsitsown.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"180 Main Street\", \"address_2\": null, \"city\": \"Port Monmouth\", \"state_province\": \"NJ\", \"postal_code\": \"07758\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4286858, \"longitude\": -74.10301079999999}, \"phones\": [{\"number\": \"(732) 787-3604\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Drive-thru delivery\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.538380"
+}

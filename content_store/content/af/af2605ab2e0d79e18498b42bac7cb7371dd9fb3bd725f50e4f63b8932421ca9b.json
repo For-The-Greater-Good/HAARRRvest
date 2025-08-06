@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Peter & Paul Catholic Church\", \"alternate_name\": \"\", \"description\": \"They serves Zip code: 30032, 30033, 30034, 30035, 30316 (Bring at least 2 IDs  or 1 ID and 1 proof of residence)\\nThere are some Saturdays, like this past weekend, when the pantry is closed. The best way to ensure that anyone who needs assistance can be helped is to call the parish office before heading out. Our number is 404-241-5862\", \"email\": \"\", \"url\": \"https://www.ssppatl.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2560 Tilson Road\", \"address_2\": null, \"city\": \"Decatur\", \"state_province\": \"GA\", \"postal_code\": \"30032\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7280688, \"longitude\": -84.291601}, \"phones\": [{\"number\": \"(404) 241-5862\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"05:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:25.994207"
+}

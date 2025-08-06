@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Rock Springs Park gwinnett mobile pantry\", \"alternate_name\": \"\", \"description\": \"Food distribution dates are every other month\\nMarch 11, 2025\\nJune 10, 2025\\nSeptember 9, 2025\\nDecember 9, 2025\", \"email\": \"\", \"url\": \"https://www.gwinnettcounty.com/web/gwinnett/departments/communityservices/foodsecurityresources\", \"status\": \"active\", \"address\": {\"address_1\": \"550 Rock Springs Road\", \"address_2\": null, \"city\": \"Lawrenceville\", \"state_province\": \"GA\", \"postal_code\": \"30043\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.0394702, \"longitude\": -84.01658789999999}, \"phones\": [{\"number\": \"(770) 995-3339\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.358523"
+}

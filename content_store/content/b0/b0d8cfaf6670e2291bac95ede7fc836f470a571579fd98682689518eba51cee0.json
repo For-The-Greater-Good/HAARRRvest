@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"EPIC CHURCH INTERNATIONAL\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2707 Main Street\", \"address_2\": null, \"city\": \"Sayreville\", \"state_province\": \"NJ\", \"postal_code\": \"08872\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.494473, \"longitude\": -74.304391}, \"phones\": [{\"number\": \"(732) 727-9500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.141222"
+}

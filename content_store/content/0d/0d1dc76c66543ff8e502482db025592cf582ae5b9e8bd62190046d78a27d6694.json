@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Montgomery College - Takoma Park Campus Food Pantry\", \"alternate_name\": \"\", \"description\": \"* Each of the three main campuses has a pantry stocked with snacks, food, personal hygiene products, and household items. As an MC student, you are welcome to pick up a snack to carry you through your next class and to take a few items home.\\n* Location: Resource Center (Library), RC105\", \"email\": \"\", \"url\": \"https://www.montgomerycollege.edu/life-at-mc/student-health-and-wellness/fuel-for-success-food-campaign.html?fbclid=IwAR0rUziSyYdjXgOy3zalKydPFZNZSdKqNB1w5RoyqLT7PUvTCqGnMyDpHhw\", \"status\": \"active\", \"address\": {\"address_1\": \"7600 Takoma Ave.\", \"address_2\": null, \"city\": \"Takoma Park\", \"state_province\": \"MD\", \"postal_code\": \"20912\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.984395, \"longitude\": -77.021512}, \"phones\": [{\"number\": \"(251) 744-4411\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Student ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.318197"
+}

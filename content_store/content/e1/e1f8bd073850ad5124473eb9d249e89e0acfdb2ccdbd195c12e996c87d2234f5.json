@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jason Lee United Methodist\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"820 Jefferson Street Northeast\", \"address_2\": null, \"city\": \"Grant\", \"state_province\": \"OR\", \"postal_code\": \"97301\", \"country\": \"US\"}, \"location\": {\"latitude\": 44.9538559, \"longitude\": -123.0242353}, \"phones\": [{\"number\": \"(503) 362-9885\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:28.629762"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Please call the organizations for their hours and availability of services.\", \"email\": \"\", \"url\": \"(336) 723-4531\", \"status\": \"active\", \"address\": {\"address_1\": \"2400 Dellabrook Road\", \"address_2\": null, \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27105\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.1113512, \"longitude\": -80.2133408}, \"phones\": [{\"number\": \"(336) 723-4531\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers available (must bring birth certificate)\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:36.705892"
+}

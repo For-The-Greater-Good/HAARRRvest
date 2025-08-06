@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace Episcopal Church\", \"alternate_name\": \"\", \"description\": \"Merchantville & Pennsauken\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7 East Maple Avenue\", \"address_2\": null, \"city\": \"Merchantville\", \"state_province\": \"NJ\", \"postal_code\": \"08109\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.950836, \"longitude\": -75.0483033}, \"phones\": [{\"number\": \"(609) 969-7858\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must show a New Jersey photo ID\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.538566"
+}

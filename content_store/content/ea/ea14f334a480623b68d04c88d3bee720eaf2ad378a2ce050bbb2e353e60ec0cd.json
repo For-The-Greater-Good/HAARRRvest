@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lambertville Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"44 Bridge Street\", \"address_2\": null, \"city\": \"Lambertville\", \"state_province\": \"NJ\", \"postal_code\": \"08530\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3661233, \"longitude\": -74.94430419999999}, \"phones\": [{\"number\": \"(609) 397-3350\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.946568"
+}

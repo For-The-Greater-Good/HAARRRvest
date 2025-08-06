@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Glen Burnie Baptist Church, Food Pantry\", \"alternate_name\": \"\", \"description\": \"The Food Pantry is by appointment only. Individuals must call **(410) 766-2588** to schedule an appointment.\\n\\nhttps://www.facebook.com/GlenBurnieBaptistChurch/\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7524 Old Stage Road\", \"address_2\": null, \"city\": \"Glen Burnie\", \"state_province\": \"MD\", \"postal_code\": \"21060\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.15594, \"longitude\": -76.64356}, \"phones\": [{\"number\": \"(410) 766-2588\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing and hygiene items may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.215790"
+}

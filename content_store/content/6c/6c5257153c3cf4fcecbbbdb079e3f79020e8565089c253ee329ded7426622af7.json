@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mobile Meals of Westfield\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.mobilemealsofwestfield.org/order-meals\", \"status\": \"active\", \"address\": {\"address_1\": \"170 Elm Street\", \"address_2\": null, \"city\": \"Westfield\", \"state_province\": \"NJ\", \"postal_code\": \"07090\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6530683, \"longitude\": -74.35000579999999}, \"phones\": [{\"number\": \"(908) 233-6146\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:45\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:45\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:45\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:45\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:45\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.263028"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"UNITED AGAINST POVERTY - NORTH VERO BEACH BRANCH\", \"alternate_name\": \"\", \"description\": \"Only for members, to become a member bring a government issued id and income eligibility\", \"email\": \"\", \"url\": \"https://upirc.org/member-grocery-center/membership-application/\", \"status\": \"active\", \"address\": {\"address_1\": \"1400 27th Street\", \"address_2\": null, \"city\": \"Vero Beach\", \"state_province\": \"FL\", \"postal_code\": \"32960\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.647565, \"longitude\": -80.4013854}, \"phones\": [{\"number\": \"(407) 267-8211\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.122862"
+}

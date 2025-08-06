@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bergen County Council for Young Children (BCCYC)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"17-07 Romaine Street\", \"address_2\": null, \"city\": \"Fair Lawn\", \"state_province\": \"NJ\", \"postal_code\": \"07410\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9324398, \"longitude\": -74.1216791}, \"phones\": [{\"number\": \"(201) 797-2660\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Expecting parents and families with children up to the age of 8 years old\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.067301"
+}

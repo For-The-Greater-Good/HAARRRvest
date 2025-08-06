@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Springfield Community church \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"177-06 129th Ave \", \"address_2\": \"\", \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11434\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.680447, \"longitude\": -73.76535}, \"phones\": [{\"number\": \"(718) 710-1224\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.344481"
+}

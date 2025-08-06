@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Martin\\u2019s Barn\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"MartinsHouseandbarn.org\", \"status\": \"active\", \"address\": {\"address_1\": \"14376 Benedictine Lane\", \"address_2\": null, \"city\": \"Ridgely\", \"state_province\": \"MD\", \"postal_code\": \"21660\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.99524700000001, \"longitude\": -75.876857}, \"phones\": [{\"number\": \"(410) 634-1140\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"By appointment only; if you are in need of emergency assistance\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Drive-thru delivery\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.797716"
+}

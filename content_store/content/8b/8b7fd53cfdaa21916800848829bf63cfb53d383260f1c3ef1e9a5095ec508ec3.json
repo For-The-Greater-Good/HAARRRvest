@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Drueding Center\", \"alternate_name\": \"\", \"description\": \"**By appointment only. Call 267-277-3145 to schedule an appointment**\\n\\nWe are only accepting EMERGENCY cases. Clients may pick up food once, then be added to our waitlist. We will then inform them when we have space to accommodate long term support.\\n\\n\", \"email\": \"\", \"url\": \"https://www.druedingcenter.org/green-light-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1321 North Lawrence Street\", \"address_2\": \"\", \"city\": \"Olde Kensington\", \"state_province\": \"PA\", \"postal_code\": \"19122\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9719202, \"longitude\": -75.14329640000001}, \"phones\": [{\"number\": \"(267) 277-3145\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID or proof of income is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Residents can pick up supplemental food for their household.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Any resident is eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:09.823170"
+}

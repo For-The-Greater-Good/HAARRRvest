@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"COMOR Christian Outreach\", \"alternate_name\": \"\", \"description\": \"Please bring a photo ID with address showing you are a resident of the following zip codes: 33619, 33610, 33605, and 33603.\", \"email\": \"\", \"url\": \"https://comorbaptistchurch.org/tobe/2022/03/12/hello-world/\", \"status\": \"active\", \"address\": {\"address_1\": \"2016 North 60th Street\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33619\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9638372, \"longitude\": -82.3881123}, \"phones\": [{\"number\": \"(813) 612-4200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.574930"
+}

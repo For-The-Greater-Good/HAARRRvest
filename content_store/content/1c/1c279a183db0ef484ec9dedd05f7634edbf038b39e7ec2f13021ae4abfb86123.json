@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Williamstown\", \"alternate_name\": \"\", \"description\": \"Free food giveaway available twice monthly. Please check our Facebook page or church website or church sign for dates/times.  \", \"email\": \"\", \"url\": \"https://fpcow.churchtrac.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"430 South Main Street\", \"address_2\": null, \"city\": \"Williamstown\", \"state_province\": \"NJ\", \"postal_code\": \"08094\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6818736, \"longitude\": -74.9894134}, \"phones\": [{\"number\": \"(856) 629-4634\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Schedules varies, check website for details\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:27.219561"
+}

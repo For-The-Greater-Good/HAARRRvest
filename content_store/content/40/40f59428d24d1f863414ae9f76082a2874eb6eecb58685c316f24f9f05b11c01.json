@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Islamic Association of Raleigh\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"808 Atwater Street\", \"address_2\": null, \"city\": \"Southwest Raleigh\", \"state_province\": \"NC\", \"postal_code\": \"27607\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7898048, \"longitude\": -78.69119789999999}, \"phones\": [{\"number\": \"(919) 834-9572\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.969511"
+}

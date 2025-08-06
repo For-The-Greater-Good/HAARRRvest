@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Drakestown United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://drakestownchurch.com/foodpantry.shtml\", \"status\": \"active\", \"address\": {\"address_1\": \"6 Church Road\", \"address_2\": null, \"city\": \"Hackettstown\", \"state_province\": \"NJ\", \"postal_code\": \"07840\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8447367, \"longitude\": -74.7816294}, \"phones\": [{\"number\": \"(908) 852-4460\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.303086"
+}

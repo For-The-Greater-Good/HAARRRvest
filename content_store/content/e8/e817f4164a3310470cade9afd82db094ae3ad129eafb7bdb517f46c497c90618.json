@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Taneytown Food Bank, St. Joseph\\u2019s Catholic Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"44 Frederick Street\", \"address_2\": null, \"city\": \"Taneytown\", \"state_province\": \"MD\", \"postal_code\": \"21787\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6585236, \"longitude\": -77.1786085}, \"phones\": [{\"number\": \"(410) 756-2500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.569993"
+}

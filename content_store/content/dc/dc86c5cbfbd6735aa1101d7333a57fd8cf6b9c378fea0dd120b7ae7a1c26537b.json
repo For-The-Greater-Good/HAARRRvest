@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The New Antioch Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://sites.google.com/view/amparoyfortaleza\", \"status\": \"active\", \"address\": {\"address_1\": \"8324 Idlewild Road\", \"address_2\": null, \"city\": \"Charlotte\", \"state_province\": \"NC\", \"postal_code\": \"28227\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.181788, \"longitude\": -80.72739179999999}, \"phones\": [{\"number\": \"(704) 712-1102\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.932402"
+}

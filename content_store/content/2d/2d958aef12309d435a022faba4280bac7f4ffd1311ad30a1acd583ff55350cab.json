@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Deliverance Manna\", \"alternate_name\": \"\", \"description\": \"Contact: Jerry Wallace\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3538 Old York Road\", \"address_2\": null, \"city\": \"Waverly\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3320883, \"longitude\": -76.6081231}, \"phones\": [{\"number\": \"(410) 947-4536\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.069246"
+}

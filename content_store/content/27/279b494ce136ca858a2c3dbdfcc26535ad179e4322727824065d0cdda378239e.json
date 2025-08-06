@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Renew Atlanta\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"256 Memorial Drive Southwest\", \"address_2\": null, \"city\": \"South Downtown\", \"state_province\": \"GA\", \"postal_code\": \"30303\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.74649207960493, \"longitude\": -84.39611583728276}, \"phones\": [{\"number\": \"(404) 549-3823\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.428340"
+}

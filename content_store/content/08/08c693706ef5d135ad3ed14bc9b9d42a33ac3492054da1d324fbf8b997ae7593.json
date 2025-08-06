@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"NW Bronx Food Justice Coalition, Kingsbridge Heights Community Center\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.khcc-nyc.org/programs/?filter[category]=prog_nutrition\", \"status\": \"active\", \"address\": {\"address_1\": \"3101 Kingsbridge Terr\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10463\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.87786738314249, \"longitude\": -73.90064771562675}, \"phones\": [{\"number\": \"(718) 884-0700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.281481"
+}

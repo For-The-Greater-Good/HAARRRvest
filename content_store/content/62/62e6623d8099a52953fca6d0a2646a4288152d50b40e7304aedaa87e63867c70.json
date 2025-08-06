@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project New Yorker Corp\", \"alternate_name\": \"\", \"description\": \"Provide assistance with Public Benefits, housing, immigration and legal support, job support and after school homework K- Grade 12, Computer and ESL classes\", \"email\": \"\", \"url\": \"https://www.projectnewyorker.org\", \"status\": \"active\", \"address\": {\"address_1\": \"169-18 Hillside Avenue \", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11432\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.70839150411928, \"longitude\": -73.80194931748507}, \"phones\": [{\"number\": \"(917) 946-1546\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.766976"
+}

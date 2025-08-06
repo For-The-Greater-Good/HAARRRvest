@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The SCCC Horton Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Sussex County.\", \"email\": \"\", \"url\": \"https://www.sussex.edu/\", \"status\": \"active\", \"address\": {\"address_1\": \"1 College Hill Road\", \"address_2\": \"1 College Hill Road\", \"city\": \"Newton\", \"state_province\": \"NJ\", \"postal_code\": \"07860\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.0682698, \"longitude\": -74.75780040000001}, \"phones\": [{\"number\": \"(973) 300-2347\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:50\", \"closes_at\": \"16:05\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Female hygiene products\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.360172"
+}

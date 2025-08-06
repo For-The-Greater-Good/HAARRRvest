@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Love is Action Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"500 56th Street Northeast\", \"address_2\": null, \"city\": \"Northeast Boundary\", \"state_province\": \"DC\", \"postal_code\": \"20019\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.895955, \"longitude\": -76.9207668}, \"phones\": [{\"number\": \"(240) 463-8035\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.148323"
+}

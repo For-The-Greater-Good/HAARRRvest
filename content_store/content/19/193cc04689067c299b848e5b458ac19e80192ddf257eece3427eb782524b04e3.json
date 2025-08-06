@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ELEOS FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"Bryan County Residents only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9184 Ford Avenue\", \"address_2\": null, \"city\": \"Richmond Hill\", \"state_province\": \"GA\", \"postal_code\": \"31324\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.9548375, \"longitude\": -81.3219768}, \"phones\": [{\"number\": \"(912) 756-2196\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.750059"
+}

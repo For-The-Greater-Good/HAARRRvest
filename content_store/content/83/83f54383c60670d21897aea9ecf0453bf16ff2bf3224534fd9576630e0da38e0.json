@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grant House Unity Corp\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://granthouseunity.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"2046 Flatbush Avenue\", \"address_2\": \"\", \"city\": \"Marine Park\", \"state_province\": \"NY\", \"postal_code\": \"11234\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6198562, \"longitude\": -73.9341225}, \"phones\": [{\"number\": \"(631) 652-3700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:40\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:40\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.099957"
+}

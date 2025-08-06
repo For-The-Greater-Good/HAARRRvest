@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mt. Calvary Baptist Church\", \"alternate_name\": \"\", \"description\": \"Shelter\", \"email\": \"\", \"url\": \"https://mtcbc.org/library/calendar/\", \"status\": \"active\", \"address\": {\"address_1\": \"608 North Horners Lane\", \"address_2\": null, \"city\": \"Rockville\", \"state_province\": \"MD\", \"postal_code\": \"20850\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0928836, \"longitude\": -77.1441123}, \"phones\": [{\"number\": \"(301) 424-8717\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Distribution in parking lot\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.453827"
+}

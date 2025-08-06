@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Flemington Food Pantry\", \"alternate_name\": \"\", \"description\": \"Eligibility for Hunterdon County residents is primarily based in low income, job loss, unusual expenses, family disaster, a victim of family violence, etc.\\n\\nDocuments is not required for eligibility.\\n\\nhttps://www.facebook.com/flemingtonfoodpantry\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"154 New Jersey 31\", \"address_2\": null, \"city\": \"Flemington\", \"state_province\": \"NJ\", \"postal_code\": \"08822\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.52797260000001, \"longitude\": -74.8480357}, \"phones\": [{\"number\": \"(908) 788-5568\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.549071"
+}

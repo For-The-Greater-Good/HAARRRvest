@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"C.A.R.A.\", \"alternate_name\": \"\", \"description\": \"HOURS BY APPOINTMENT ONLY!\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"P.O. BOX 774.\", \"address_2\": null, \"city\": \"Cape May Court House\", \"state_province\": \"NJ\", \"postal_code\": \"08210\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0826135, \"longitude\": -74.82377860000001}, \"phones\": [{\"number\": \"(609) 522-6489\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:36.999002"
+}

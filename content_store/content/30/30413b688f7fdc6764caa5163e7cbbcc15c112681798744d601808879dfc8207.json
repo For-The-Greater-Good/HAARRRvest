@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Carver Community Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"165 West 4th Street\", \"address_2\": null, \"city\": \"Chillicothe\", \"state_province\": \"OH\", \"postal_code\": \"45601\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.331383, \"longitude\": -82.9867369}, \"phones\": [{\"number\": \"(740) 773-4242\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Grab and Go Meals\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Food vouchers available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.400069"
+}

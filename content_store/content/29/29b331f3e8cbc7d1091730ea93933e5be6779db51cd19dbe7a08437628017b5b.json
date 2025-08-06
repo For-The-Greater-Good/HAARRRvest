@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Just Food of Douglas County\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.justfoodks.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1000 East 11th Street\", \"address_2\": null, \"city\": \"Brook Creek\", \"state_province\": \"KS\", \"postal_code\": \"66046\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9649175, \"longitude\": -95.2231196}, \"phones\": [{\"number\": \"(785) 886-7030\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:41.972589"
+}

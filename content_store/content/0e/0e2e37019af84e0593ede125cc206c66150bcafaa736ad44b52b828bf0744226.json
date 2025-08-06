@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Covenant Baptist Food Bank\", \"alternate_name\": \"\", \"description\": \"* One can access once a week\\n* If you are seeking food for children, you must bring a lease showing that kids live in your household OR social security numbers of all household members. \\n* Must be a D.C. resident\\n* side entrance on Xenia Street.\", \"email\": \"\", \"url\": \"http://www.covenantdc.org/i ndex.php/food-bank\", \"status\": \"active\", \"address\": {\"address_1\": \"3845 South Capitol Street Southwest\", \"address_2\": null, \"city\": \"Southwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20032\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8341778, \"longitude\": -77.00863009999999}, \"phones\": [{\"number\": \"(202) 562-5576\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.373930"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Metuchen\", \"alternate_name\": \"\", \"description\": \"Arrive in person on distribution days or call and leave voiceail to make appointment \", \"email\": \"\", \"url\": \"https://fpcweb.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"270 Woodbridge Avenue\", \"address_2\": \"\", \"city\": \"Metuchen\", \"state_province\": \"NJ\", \"postal_code\": \"08840\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5406471, \"longitude\": -74.3594231}, \"phones\": [{\"number\": \"(732) 491-2325\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.922493"
+}

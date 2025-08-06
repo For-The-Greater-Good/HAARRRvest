@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Acts Community Development Corporation\", \"alternate_name\": \"\", \"description\": \"Pick up free bags of groceries that provide three meals a day for three days for three people\\n\", \"email\": \"\", \"url\": \"www.actsnyc.com\", \"status\": \"active\", \"address\": {\"address_1\": \"2114 Mermaid Avenue\", \"address_2\": \"\", \"city\": \"Coney Island\", \"state_province\": \"NY\", \"postal_code\": \"11224\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5760038, \"longitude\": -73.98840799999999}, \"phones\": [{\"number\": \"(718) 415-1170\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers after school program\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.921338"
+}

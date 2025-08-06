@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lion of Judah Outreach Corp.\", \"alternate_name\": \"\", \"description\": \"Call in advance (704) 907-4076 to make an appointment. Please do not go to pantry without appointment\", \"email\": \"\", \"url\": \"https://lionofjudahofdavid.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3325 Donovan Place\", \"address_2\": null, \"city\": \"Shannon Park\", \"state_province\": \"NC\", \"postal_code\": \"28215\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2409507, \"longitude\": -80.7634645}, \"phones\": [{\"number\": \"(704) 907-4076\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.181993"
+}

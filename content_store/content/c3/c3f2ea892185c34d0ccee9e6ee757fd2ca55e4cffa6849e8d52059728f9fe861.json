@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ebenezer Ecumenical Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/p/Ebenezer-Snow-Hill-Charge-100064739106796/\", \"status\": \"active\", \"address\": {\"address_1\": \"107 South Collins Street\", \"address_2\": null, \"city\": \"Snow Hill\", \"state_province\": \"MD\", \"postal_code\": \"21863\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.1753858, \"longitude\": -75.38956}, \"phones\": [{\"number\": \"(410) 632-1379\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.757205"
+}

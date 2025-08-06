@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Borough of Bergenfield\", \"alternate_name\": \"\", \"description\": \"Call to set appointment between 8:30am to 4:30pm\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"198 North Washington Avenue\", \"address_2\": null, \"city\": \"Bergenfield\", \"state_province\": \"NJ\", \"postal_code\": \"07621\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9346113, \"longitude\": -73.99590409999999}, \"phones\": [{\"number\": \"(201) 387-4055\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID with DOB required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.055582"
+}

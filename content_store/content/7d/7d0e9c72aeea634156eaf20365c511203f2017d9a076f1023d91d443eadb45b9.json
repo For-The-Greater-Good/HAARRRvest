@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"High Point Neighborhood Center\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://www.highpointfamilycenter.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5812 150th Avenue North\", \"address_2\": null, \"city\": \"Clearwater\", \"state_province\": \"FL\", \"postal_code\": \"33760\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9084558, \"longitude\": -82.7132585}, \"phones\": [{\"number\": \"(727) 533-0730\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.222799"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wiggins Center\", \"alternate_name\": \"\", \"description\": \"Summer Meals for student Age 18 & Under\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"400 Mount Vernon Road\", \"address_2\": null, \"city\": \"Wurtsboro\", \"state_province\": \"NY\", \"postal_code\": \"12790\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6371012, \"longitude\": -74.4757546}, \"phones\": [{\"number\": \"(856) 379-4714\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Student ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.636504"
+}

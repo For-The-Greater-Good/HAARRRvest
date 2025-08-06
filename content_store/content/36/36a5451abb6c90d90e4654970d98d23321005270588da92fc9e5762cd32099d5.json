@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lansdowne High School\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3800 Hollins Ferry Road\", \"address_2\": null, \"city\": \"Lansdowne - Baltimore Highlands\", \"state_province\": \"MD\", \"postal_code\": \"21227\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.24609699999999, \"longitude\": -76.652862}, \"phones\": [{\"number\": \"(443) 809-1415\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:20.958687"
+}

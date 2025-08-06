@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Religious Society of Friends (Quakers), Brooklyn Monthly Meeting\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"110 Schermerhorn St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11201\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.69009, \"longitude\": -73.98946}, \"phones\": [{\"number\": \"(212) 777-8866\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.648929"
+}

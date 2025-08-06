@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Atlanta Community Food Bank @ Jonesboro\", \"alternate_name\": \"\", \"description\": \"To make an appointment to get food: Text FOOD to 404-994-3482 or call 478-394-4547.\", \"email\": \"\", \"url\": \"https://www.acfb.org/get-help/jonesboro/\", \"status\": \"active\", \"address\": {\"address_1\": \"6805 Tara Boulevard\", \"address_2\": null, \"city\": \"Jonesboro\", \"state_province\": \"GA\", \"postal_code\": \"30236\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.5682178, \"longitude\": -84.3724251}, \"phones\": [{\"number\": \"(478) 394-4547\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.993763"
+}

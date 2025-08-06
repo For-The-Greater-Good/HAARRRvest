@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"L.I.F.T Food Pantry\", \"alternate_name\": \"\", \"description\": \"* **2025 Distribution:**\\n\\t* August 1\\n\\t* August 15\\n\\t* September 5\\n\\t* September 19\\n\\t* October 3\\n\\t* October 17\\n\\t* October 31\\n\\t* November 21\\n* Call the Office Phone (+15167040175) or Louise (+16466647378) for any questions regarding the distribution.\\n* Must register to Plentiful to have Plentiful ID that is needed to be scanned upon receiving food.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"255 McKibbin Street\", \"address_2\": \"Suite 032\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11206\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7058871, \"longitude\": -73.9374341}, \"phones\": [{\"number\": \"(646) 664-7378\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.231854"
+}

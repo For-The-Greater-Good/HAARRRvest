@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Manna Ministries Lake Placid\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"416 Kent Avenue\", \"address_2\": null, \"city\": \"Lake Placid\", \"state_province\": \"FL\", \"postal_code\": \"33852\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.300599, \"longitude\": -81.3548729}, \"phones\": [{\"number\": \"(863) 659-1281\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"To participate you must meet one of the USDA qualifying codes.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.661117"
+}

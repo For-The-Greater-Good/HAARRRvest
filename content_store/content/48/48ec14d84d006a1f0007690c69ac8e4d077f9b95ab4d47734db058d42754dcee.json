@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church of Holly\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.hollycalvary.org/calendars/\", \"status\": \"active\", \"address\": {\"address_1\": \"15030 North Holly Road\", \"address_2\": null, \"city\": \"Holly\", \"state_province\": \"MI\", \"postal_code\": \"48442\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.8120199, \"longitude\": -83.630488}, \"phones\": [{\"number\": \"(248) 634-8772\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.624959"
+}

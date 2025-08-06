@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHASI MFP - Forest Ave\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://chasiny.org/services/food-pantry-mobile-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": null, \"state_province\": null, \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": null, \"longitude\": null}, \"phones\": [{\"number\": \"(718) 808-1300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:16.753677"
+}

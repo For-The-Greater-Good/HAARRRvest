@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Church of Christ\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://firstchurchnc.net/ministries/adults\", \"status\": \"active\", \"address\": {\"address_1\": \"520 East 10th Street\", \"address_2\": null, \"city\": \"Washington\", \"state_province\": \"NC\", \"postal_code\": \"27889\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.5482749, \"longitude\": -77.04193200000002}, \"phones\": [{\"number\": \"(252) 946-5236\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:34.163764"
+}

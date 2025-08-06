@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Helpers Service Center, Inc.\", \"alternate_name\": \"\", \"description\": \"Provide food to families that are in need 5 days a week through our emergency food pantry, on Monday, Tuesday, and Friday from 10:00 am until 1:00 pm.\\nWednesday and Thursday are a large distribution days where we provide food each week for families from Wake, Johnston, Franklin, and Nash Counties. On Wednesday we serve families with the last name starting with the letters \\u201cA-K\\u201d. On Thursday we serve families with the name starting with the letters \\u201cL-Z\\u201d.\", \"email\": \"\", \"url\": \"https://communityhelpersservicesc.com/our-work/\", \"status\": \"active\", \"address\": {\"address_1\": \"111 North First Avenue\", \"address_2\": null, \"city\": \"Knightdale\", \"state_province\": \"NC\", \"postal_code\": \"27545\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7882014, \"longitude\": -78.4809885}, \"phones\": [{\"number\": \"(919) 266-4050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:32.171465"
+}

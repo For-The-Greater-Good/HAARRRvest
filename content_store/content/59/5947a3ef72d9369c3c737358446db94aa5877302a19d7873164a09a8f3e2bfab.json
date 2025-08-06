@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hillcrest Seventh Day Adventist Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"590 Route 57\", \"address_2\": \"\", \"city\": \"E. Port Murray\", \"state_province\": \"NJ\", \"postal_code\": \"07865\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7862, \"longitude\": -74.9036}, \"phones\": [{\"number\": \"(908) 906-3757\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.854250"
+}

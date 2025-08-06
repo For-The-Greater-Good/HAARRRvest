@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Congregational Church\", \"alternate_name\": \"\", \"description\": \"Temporarily closed until futher notice\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"320 Beach 94th Street\", \"address_2\": null, \"city\": \"Rockaway Beach\", \"state_province\": \"NY\", \"postal_code\": \"11693\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.587465, \"longitude\": -73.81683149999999}, \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:06.438215"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Prospect Park School #1\\t\", \"alternate_name\": \"\", \"description\": \"Coordinator: Fahim\\tAbedrabbo\\t9733211000\\nStart: 07/07/2025\\tEnd: 08/01/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"94 Brown Avenue\", \"address_2\": null, \"city\": \"Prospect Park\", \"state_province\": \"NJ\", \"postal_code\": \"07508\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9347569, \"longitude\": -74.1727052}, \"phones\": [{\"number\": \"(973) 790-7909\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:10.382483"
+}

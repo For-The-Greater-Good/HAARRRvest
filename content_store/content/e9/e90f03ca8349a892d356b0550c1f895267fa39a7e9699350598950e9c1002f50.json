@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FARM SHARE, INC.CENTERS OF MEDICAL EXCELLENCE\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"50 Northwest 15th Street\", \"address_2\": null, \"city\": \"Homestead\", \"state_province\": \"FL\", \"postal_code\": \"33030\", \"country\": \"US\"}, \"location\": {\"latitude\": 25.4841103, \"longitude\": -80.478706}, \"phones\": [{\"number\": \"(786) 546-5001\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.904024"
+}

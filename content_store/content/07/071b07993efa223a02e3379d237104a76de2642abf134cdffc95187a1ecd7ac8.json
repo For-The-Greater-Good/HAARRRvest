@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ardmore United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"630 South Hawthorne Road\", \"address_2\": null, \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27103\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.0834839, \"longitude\": -80.270179}, \"phones\": [{\"number\": \"(336) 723-3695\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:33.321595"
+}

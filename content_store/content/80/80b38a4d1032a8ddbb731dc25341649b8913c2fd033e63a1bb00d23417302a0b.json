@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Stephen's Food Pantry   \", \"alternate_name\": \"\", \"description\": \"Must register on the 2nd Friday of the month. Bring an ID and proof of address.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"74 South Common Street\", \"address_2\": null, \"city\": \"Lynn\", \"state_province\": \"MA\", \"postal_code\": \"01902\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4629278, \"longitude\": -70.9562567}, \"phones\": [{\"number\": \"(781) 599-4220\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:20.575916"
+}

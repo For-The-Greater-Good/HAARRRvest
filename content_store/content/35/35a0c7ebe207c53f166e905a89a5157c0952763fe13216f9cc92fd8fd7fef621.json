@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Windsor Crescent \", \"alternate_name\": \"\", \"description\": \"Not open to the general  public\", \"email\": \"\", \"url\": \"https://www.cis-windsorcrescent.com/community.aspx\", \"status\": \"active\", \"address\": {\"address_1\": \"1 Arcadia Court\", \"address_2\": null, \"city\": \"Jackson Township\", \"state_province\": \"NJ\", \"postal_code\": \"08527\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1253154, \"longitude\": -74.2628936}, \"phones\": [{\"number\": \"(732) 370-1500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.215751"
+}

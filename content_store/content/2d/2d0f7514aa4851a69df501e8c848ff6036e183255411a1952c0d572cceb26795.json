@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Main Ave UMC Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.umc.org/en/find-a-church/church/?id=57310\", \"status\": \"active\", \"address\": {\"address_1\": \"223 Main Street\", \"address_2\": null, \"city\": \"Byesville\", \"state_province\": \"OH\", \"postal_code\": \"43723\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9699815, \"longitude\": -81.5361873}, \"phones\": [{\"number\": \"(740) 685-2912\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.640367"
+}

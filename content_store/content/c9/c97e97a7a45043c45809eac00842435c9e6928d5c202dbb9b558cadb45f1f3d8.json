@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gosen Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"225 Washington Avenue\", \"address_2\": null, \"city\": \"Belleville\", \"state_province\": \"NJ\", \"postal_code\": \"07109\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7888278, \"longitude\": -74.15275989999999}, \"phones\": [{\"number\": \"(201) 706-1104\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.683511"
+}

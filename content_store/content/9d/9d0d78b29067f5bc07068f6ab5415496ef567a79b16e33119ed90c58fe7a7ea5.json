@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Liberty Baptist Church \\u2013 Loaves and Fishes\", \"alternate_name\": \"\", \"description\": \"Food Pantry WILL BE CLOSED Saturday December 23, 2022 and Monday and Tuesday December 25 and 26, 2023.\\nNew Years Holiday Closure 2024 ! WILL BE CLOSED Saturday December 30, 2023 and Monday January 1, 2024.\\nUSDA guidelines \\u2013 name, address, income required\", \"email\": \"\", \"url\": \"https://www.thelibertyfamily.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"7439 West County Line Road\", \"address_2\": null, \"city\": \"Lula\", \"state_province\": \"GA\", \"postal_code\": \"30554\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.3410893, \"longitude\": -83.64951429999999}, \"phones\": [{\"number\": \"(770) 287-4244\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.884432"
+}

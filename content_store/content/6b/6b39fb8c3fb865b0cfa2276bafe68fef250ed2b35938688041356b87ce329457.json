@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Vincent de Paul Church\", \"alternate_name\": \"\", \"description\": \"To show ID & proof or residence (utility bill/lease). If you have preschool children, you will need to show their birth certificate. For school age children, a document from the school showing the child's name and address. You may visit either pantry once a month.\", \"email\": \"\", \"url\": \"http://www.vincentdepaul.org/index.php/parish-ministries/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"5021 Harding Highway\", \"address_2\": null, \"city\": \"Mays Landing\", \"state_province\": \"NJ\", \"postal_code\": \"08330\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.44901580000001, \"longitude\": -74.680753}, \"phones\": [{\"number\": \"(609) 625-2124\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.135689"
+}

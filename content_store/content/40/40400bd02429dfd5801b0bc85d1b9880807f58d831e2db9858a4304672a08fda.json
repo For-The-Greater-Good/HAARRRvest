@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities Somerville\", \"alternate_name\": \"\", \"description\": \"Open to Residents of Middlesex County\", \"email\": \"\", \"url\": \"https://www.ccab.org/basic-needs/food-pantries/\", \"status\": \"active\", \"address\": {\"address_1\": \"270 Washington Street\", \"address_2\": null, \"city\": \" Somerville\", \"state_province\": \"MA\", \"postal_code\": \"02143\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3792796, \"longitude\": -71.09795129999999}, \"phones\": [{\"number\": \"(617) 625-1920\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.710715"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church Newnan\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"70 Madison Street\", \"address_2\": null, \"city\": \"Newnan\", \"state_province\": \"GA\", \"postal_code\": \"30263\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.3760201, \"longitude\": -84.8027288}, \"phones\": [{\"number\": \"(770) 253-0797\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:25.444419"
+}

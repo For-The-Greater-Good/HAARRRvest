@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Friendship Baptist Church (Food Pantry)\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/FriendshipStatesboro/\", \"email\": \"\", \"url\": \"https://www.friendshipbaptistboro.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"4025 Friendship Church Road\", \"address_2\": null, \"city\": \"Statesboro\", \"state_province\": \"GA\", \"postal_code\": \"30458\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.5093696, \"longitude\": -81.8330668}, \"phones\": [{\"number\": \"(912) 865-4165\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.642263"
+}

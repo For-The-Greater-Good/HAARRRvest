@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First UMC Hudson\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.hudsonfirstumc.org/Food-Pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"13123 U.S. 19\", \"address_2\": null, \"city\": \"Hudson\", \"state_province\": \"FL\", \"postal_code\": \"34667\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.3484205, \"longitude\": -82.7006517}, \"phones\": [{\"number\": \"(727) 234-3085\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.109350"
+}

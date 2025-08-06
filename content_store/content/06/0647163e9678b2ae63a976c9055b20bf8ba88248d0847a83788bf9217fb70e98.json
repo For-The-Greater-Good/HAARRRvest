@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Highland Youth Garden\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.highlandyouthgarden.org/contact/\", \"status\": \"active\", \"address\": {\"address_1\": \"85 South Highland Avenue\", \"address_2\": null, \"city\": \"Hilltop\", \"state_province\": \"OH\", \"postal_code\": \"43223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.95369280000001, \"longitude\": -83.0609259}, \"phones\": [{\"number\": \"(614) 653-8263\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:27.515008"
+}

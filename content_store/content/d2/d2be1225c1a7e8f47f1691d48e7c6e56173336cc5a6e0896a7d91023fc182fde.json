@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Maxson Middle School\", \"alternate_name\": \"\", \"description\": \"Sara\\tBrudnicki\\t9087314346\\tStarts: 06/30/2025\\t07/24/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"920 East 7th Street\", \"address_2\": null, \"city\": \"Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07062\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6252083, \"longitude\": -74.4034689}, \"phones\": [{\"number\": \"(908) 894-0755\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:13.209312"
+}

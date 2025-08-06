@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mid-Bronx Food Pantry\", \"alternate_name\": \"\", \"description\": \"-Seniors only\\n-Call a day in advance to confirm your appointment\", \"email\": \"\", \"url\": \"https://midbronx.org/mbscc/index.php/services/families/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"900 Grand Concourse\", \"address_2\": null, \"city\": \"Concourse Village\", \"state_province\": \"NY\", \"postal_code\": \"10451\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8271199, \"longitude\": -73.92188279999999}, \"phones\": [{\"number\": \"(718) 588-8200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.133372"
+}

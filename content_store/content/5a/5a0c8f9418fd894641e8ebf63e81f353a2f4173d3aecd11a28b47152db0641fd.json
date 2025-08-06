@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Reisterstown United Methodist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"serves the residents of Reisterstown, Owings Mills, Glyndon and Finksburg.\", \"email\": \"\", \"url\": \"http://rumcweb.org/serve/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"308 Main Street\", \"address_2\": null, \"city\": \"Reisterstown\", \"state_province\": \"MD\", \"postal_code\": \"21136\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4619558, \"longitude\": -76.8284073}, \"phones\": [{\"number\": \"(410) 833-5440\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.993820"
+}

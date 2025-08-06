@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CBC Bread of Life Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.cbcministriespa.org/outreach\", \"status\": \"active\", \"address\": {\"address_1\": \"225 Radcliffe Street\", \"address_2\": null, \"city\": \"Bristol\", \"state_province\": \"PA\", \"postal_code\": \"19007\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0956071, \"longitude\": -74.8550307}, \"phones\": [{\"number\": \"(267) 878-0894\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.351062"
+}

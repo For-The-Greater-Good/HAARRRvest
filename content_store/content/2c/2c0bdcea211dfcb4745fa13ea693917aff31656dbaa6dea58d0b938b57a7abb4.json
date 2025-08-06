@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"UCOM URBANSERV INC.\", \"alternate_name\": \"\", \"description\": \"Please call to make an appointment by calling:\\n\\n904-396-2401\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3349 Saint Augustine Road\", \"address_2\": null, \"city\": \"South Riverside\", \"state_province\": \"FL\", \"postal_code\": \"32207\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.2921248, \"longitude\": -81.6437602}, \"phones\": [{\"number\": \"(904) 396-2401\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.919357"
+}

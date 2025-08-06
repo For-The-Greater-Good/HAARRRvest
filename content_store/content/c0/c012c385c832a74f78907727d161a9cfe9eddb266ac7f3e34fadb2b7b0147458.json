@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FBC Hudson\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7009 Hudson Avenue\", \"address_2\": null, \"city\": \"Hudson\", \"state_province\": \"FL\", \"postal_code\": \"34667\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.3645263, \"longitude\": -82.6987541}, \"phones\": [{\"number\": \"(727) 378-5885\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.116435"
+}

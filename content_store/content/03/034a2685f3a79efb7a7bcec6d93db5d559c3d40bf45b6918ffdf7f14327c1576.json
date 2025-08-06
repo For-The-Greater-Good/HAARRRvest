@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jesus is Lord Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2236 Massachusetts Avenue\", \"address_2\": null, \"city\": \"Toms River\", \"state_province\": \"NJ\", \"postal_code\": \"08755\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0379468, \"longitude\": -74.2354087}, \"phones\": [{\"number\": \"(732) 901-7733\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.385101"
+}

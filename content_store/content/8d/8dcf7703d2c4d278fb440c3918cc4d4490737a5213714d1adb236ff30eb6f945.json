@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Green Street Playground\", \"alternate_name\": \"\", \"description\": \"Kelly Post\\tSheedy\\t9084544322\\tstarts: 07/28/2025\\t08/14/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1000 Green Street\", \"address_2\": null, \"city\": \"Phillipsburg\", \"state_province\": \"NJ\", \"postal_code\": \"08865\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.682701, \"longitude\": -75.1685861}, \"phones\": [{\"number\": \"(908) 454-7281\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:13.282302"
+}

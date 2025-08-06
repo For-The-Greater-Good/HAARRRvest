@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Anne's Episcopal Church ( Food Pantry)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1700 Wainwright Drive\", \"address_2\": null, \"city\": \"Reston\", \"state_province\": \"VA\", \"postal_code\": \"20190\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.96622869999999, \"longitude\": -77.3522692}, \"phones\": [{\"number\": \"(703) 437-6530\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.661472"
+}

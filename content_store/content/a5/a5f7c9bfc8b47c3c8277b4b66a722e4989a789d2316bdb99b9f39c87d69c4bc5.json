@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Frontline Dads\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.frontlinedads.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"410 North 34th Street\", \"address_2\": null, \"city\": \"University City\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.96203850000001, \"longitude\": -75.1915407}, \"phones\": [{\"number\": \"(267) 414-4764\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.154908"
+}

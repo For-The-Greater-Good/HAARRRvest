@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ICNA Relief - Jamaica\", \"alternate_name\": \"\", \"description\": \"Registration can be done on plentiful app\", \"email\": \"\", \"url\": \"www.icnarelief.org\", \"status\": \"active\", \"address\": {\"address_1\": \"87-91 144th Street\", \"address_2\": \"\", \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11435\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7045234, \"longitude\": -73.8115679}, \"phones\": [{\"number\": \"(718) 658-7028\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Halal food available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first served basis. Must come on/before 9:30AM.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.330339"
+}

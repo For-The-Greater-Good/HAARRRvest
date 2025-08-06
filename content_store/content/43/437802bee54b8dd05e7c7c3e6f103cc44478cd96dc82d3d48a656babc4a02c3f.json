@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hollis Avenue Congregational Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.hollisavenuechurch.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"208-11 Hollis Ave\", \"address_2\": \"\", \"city\": \"Queens\", \"state_province\": \"NY\", \"postal_code\": \"11429\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.708321, \"longitude\": -73.7491}, \"phones\": [{\"number\": \"(718) 468-1498\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.708481"
+}

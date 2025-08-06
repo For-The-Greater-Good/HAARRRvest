@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jewish Family Services\", \"alternate_name\": \"\", \"description\": \"Serves the Jewish community; not open to the public but they will provide one-time, emergency assistance even if you are not Jewish. The day & time you can pick up food will be determined when you call to register.\", \"email\": \"\", \"url\": \"https://jfscharlotte.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5007 Providence Road\", \"address_2\": \"Suite 105 \", \"city\": \"Lansdowne\", \"state_province\": \"NC\", \"postal_code\": \"28226\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.146759, \"longitude\": -80.7894767}, \"phones\": [{\"number\": \"(704) 364-6594\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Only serves the Jewish community\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.071580"
+}

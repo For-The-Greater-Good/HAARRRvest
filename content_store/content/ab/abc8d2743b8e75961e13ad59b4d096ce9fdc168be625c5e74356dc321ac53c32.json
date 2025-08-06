@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace United Methodist Church\", \"alternate_name\": \"\", \"description\": \"The Lord's Table (a.k.a Gaithersburg Community Soup Kitchen) serves brown bag lunches over the summer (June, July, August) at Grace United Methodist Church.  \", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"119 North Frederick Avenue\", \"address_2\": null, \"city\": \"Gaithersburg\", \"state_province\": \"MD\", \"postal_code\": \"20877\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1438832, \"longitude\": -77.2006066}, \"phones\": [{\"number\": \"(301) 926-8688\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.467370"
+}

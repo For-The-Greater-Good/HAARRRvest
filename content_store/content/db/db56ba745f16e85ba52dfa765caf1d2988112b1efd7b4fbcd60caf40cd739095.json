@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hunter Memorial AME Church\", \"alternate_name\": \"\", \"description\": \"Hours: On-Call.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4719 Silver Hill Road\", \"address_2\": null, \"city\": \"Suitland\", \"state_province\": \"MD\", \"postal_code\": \"20746\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8470249, \"longitude\": -76.92606719999999}, \"phones\": [{\"number\": \"(301) 735-5761\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.915212"
+}

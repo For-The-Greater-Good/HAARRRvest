@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"No Greater Love Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.nogreaterlovetampa.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3015 South 75th Street\", \"address_2\": null, \"city\": \"Greater Palm River Point CDC\", \"state_province\": \"FL\", \"postal_code\": \"33619\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9195879, \"longitude\": -82.3722482}, \"phones\": [{\"number\": \"(813) 777-8921\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.273137"
+}

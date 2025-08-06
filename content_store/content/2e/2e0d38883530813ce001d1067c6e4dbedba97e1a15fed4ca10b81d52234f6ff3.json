@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" St. Anthony of Padua Food Pantry  \", \"alternate_name\": \"\", \"description\": \"A registration form must be filled out. You will be required to show ID and a proof of income (driver \\nlicense, social security card, pay stub). Non-perishable food is available for Port Reading and \\nSewaren residents.\", \"email\": \"\", \"url\": \"https://www.saintanthonypadua.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"436 Port Reading Avenue\", \"address_2\": null, \"city\": \"Port Reading\", \"state_province\": \"NJ\", \"postal_code\": \"07064\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5651876, \"longitude\": -74.253727}, \"phones\": [{\"number\": \"(732) 634-1403\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:16.647767"
+}

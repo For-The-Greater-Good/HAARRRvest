@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"La Jornada - Long Island\", \"alternate_name\": \"\", \"description\": \"- Distribution starts on 11:00 am but you have to come early for lineup and to get tickets\\n- Call a day in advance to confirm distribution is still on going on the day of\\n\", \"email\": \"\", \"url\": \"http://lajornadany.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"47-09 30th Street\", \"address_2\": null, \"city\": \"Long Island City\", \"state_province\": \"NY\", \"postal_code\": \"11101\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7429108, \"longitude\": -73.9374777}, \"phones\": [{\"number\": \"(929) 300-7068\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:39.330233"
+}

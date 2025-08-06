@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Collingwood First Church of the Nazarene\", \"alternate_name\": \"\", \"description\": \"For your first visit, please bring with you: \\n-VALID Photo ID (must be within the last 3 months)\\n-Proof of CURRENT Address. Examples: Lease, Bill, Letter with your name on it.)\\n-Social Security or Medical Card for all living in the home. (You need to provide this once a year.)\", \"email\": \"\", \"url\": \"https://www.collingdalenaz.org/food-center.html\", \"status\": \"active\", \"address\": {\"address_1\": \"212 Macdade Boulevard\", \"address_2\": null, \"city\": \"Collingdale\", \"state_province\": \"PA\", \"postal_code\": \"19023\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9155992, \"longitude\": -75.2680951}, \"phones\": [{\"number\": \"(610) 583-7845\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.613077"
+}

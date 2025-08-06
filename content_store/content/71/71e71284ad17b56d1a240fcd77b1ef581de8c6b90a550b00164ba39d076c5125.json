@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mercer County Family Support Organization\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://mercerfso.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7 Dunmore Avenue\", \"address_2\": null, \"city\": \"Ewing Township\", \"state_province\": \"NJ\", \"postal_code\": \"08618\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.257124, \"longitude\": -74.79336289999999}, \"phones\": [{\"number\": \"(609) 586-1200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:18.746476"
+}

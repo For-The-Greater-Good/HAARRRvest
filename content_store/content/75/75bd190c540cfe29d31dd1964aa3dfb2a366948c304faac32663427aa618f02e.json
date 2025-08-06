@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army in Central OH\", \"alternate_name\": \"\", \"description\": \"Seniors age 60 and over who meet income guidelines of 130% of the Federal Poverty Level and live in Franklin County are eligible to receive a monthly senior food box.  For more information call 614.437.2134.\", \"email\": \"\", \"url\": \"easternusa.salvationarmy.org/southwest-ohio/central-ohio/alleviate-hunger\", \"status\": \"active\", \"address\": {\"address_1\": \"966 East Main Street\", \"address_2\": null, \"city\": \"Near East Side\", \"state_province\": \"OH\", \"postal_code\": \"43205\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9582252, \"longitude\": -82.97347289999999}, \"phones\": [{\"number\": \"(614) 341-2282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.007813"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Plainfield Action Services\", \"alternate_name\": \"\", \"description\": \"Only Plainfield residents, proof of income required depends on case by case situation\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"510 Watchung Avenue\", \"address_2\": null, \"city\": \"Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07060\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6174171, \"longitude\": -74.417401}, \"phones\": [{\"number\": \"(908) 753-3519\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Need to call every Monday and Wednesday to register and book and appointment.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID  \\u2013 Primary Participant (Green Card or Passport)\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Priority given to seniors & disabled persons\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food will be claimed based on arranged time on Tuesdays and Thursdays.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.352152"
+}

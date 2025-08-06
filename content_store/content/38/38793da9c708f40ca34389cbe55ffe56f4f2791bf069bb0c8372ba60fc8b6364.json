@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Progress, Inc. \", \"alternate_name\": \"\", \"description\": \"Requires to bring Photo ID, SS card, proof of income, lease.\\n\\nContact: Ms. Gonzalez.\", \"email\": \"\", \"url\": \"https://unitedprogressinc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"56 Escher Street\", \"address_2\": \"\", \"city\": \"Ewing and Carroll\", \"state_province\": \"NJ\", \"postal_code\": \"08609\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2281758, \"longitude\": -74.7543146}, \"phones\": [{\"number\": \"(609) 392-2161\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.998320"
+}

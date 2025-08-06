@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The New School Food Pantry\", \"alternate_name\": \"\", \"description\": \"Students can take food for there all household members\\n\", \"email\": \"\", \"url\": \"https://www.newschool.edu/student-support/food-assistance/\", \"status\": \"active\", \"address\": {\"address_1\": \"6 E 16th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10003\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7370204, \"longitude\": -73.9922426}, \"phones\": [{\"number\": \"(212) 229-5900\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.301748"
+}

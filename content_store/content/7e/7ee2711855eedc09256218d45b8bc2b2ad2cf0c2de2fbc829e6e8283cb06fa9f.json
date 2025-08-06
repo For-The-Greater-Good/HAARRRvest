@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Ann Catholic Church\", \"alternate_name\": \"\", \"description\": \"Johnstom\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4057 U.S. 70 Business\", \"address_2\": null, \"city\": \"Clayton\", \"state_province\": \"NC\", \"postal_code\": \"27520\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.567042, \"longitude\": -78.393935}, \"phones\": [{\"number\": \"(919) 934-2084\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:32.732735"
+}

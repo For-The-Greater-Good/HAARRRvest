@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Step Food Pantry- Jewish Family & Children's Service of Monmouth\", \"alternate_name\": \"\", \"description\": \"Serves: Limit 350 families a week one visit allowed per month. \\n\\nMonmouth county \", \"email\": \"\", \"url\": \"https://www.jfcsmonmouth.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"705 Summerfield Avenue\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"NJ\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2182321, \"longitude\": -74.0116261}, \"phones\": [{\"number\": \"(732) 774-6886\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.623117"
+}

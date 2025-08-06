@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lutheran Church of the Good Shepherd\", \"alternate_name\": \"\", \"description\": \"Wednesday - Saturday call to schedule appointment\", \"email\": \"\", \"url\": \"https://www.acfb.org.\", \"status\": \"active\", \"address\": {\"address_1\": \"3099 Chapel Hill Road\", \"address_2\": null, \"city\": \"Douglasville\", \"state_province\": \"GA\", \"postal_code\": \"30135\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7222148, \"longitude\": -84.72596180000001}, \"phones\": [{\"number\": \"(770) 949-9522\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.375607"
+}

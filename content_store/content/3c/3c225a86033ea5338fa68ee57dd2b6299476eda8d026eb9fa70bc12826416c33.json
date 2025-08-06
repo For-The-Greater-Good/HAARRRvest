@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Edmond Senior Community Center\", \"alternate_name\": \"\", \"description\": \"(Entrance on Norwood St.)\\n\\nOnly open for members \\nFree registeration 60 years old and above\\n\\nReady to eat meals at 5pm for seniors above 65 \", \"email\": \"\", \"url\": \"https://chcsphiladelphia.org/senior-centers/\", \"status\": \"active\", \"address\": {\"address_1\": \"2130 South 21st Street\", \"address_2\": null, \"city\": \"West Passyunk\", \"state_province\": \"PA\", \"postal_code\": \"19145\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.925229, \"longitude\": -75.1816242}, \"phones\": [{\"number\": \"(215) 790-9530\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.723078"
+}

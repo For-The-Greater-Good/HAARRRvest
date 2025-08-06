@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Katherine Drexel Parish Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://stkdparish.org/outreach/\", \"status\": \"active\", \"address\": {\"address_1\": \"517 Blue Hill Avenue\", \"address_2\": null, \"city\": \"Dorchester\", \"state_province\": \"MA\", \"postal_code\": \"02121\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3072603, \"longitude\": -71.0844132}, \"phones\": [{\"number\": \"(617) 445-8915\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.444850"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" ISBCC Roxbury@ RCC Parking Lot\", \"alternate_name\": \"\", \"description\": \"Distribution is in Parking lot of Roxbury Community College, 1234 Columbus Ave, Boston, MA 02120, United States\", \"email\": \"\", \"url\": \"https://isbcc.org/social-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"100 Malcolm X Boulevard\", \"address_2\": null, \"city\": \"Roxbury\", \"state_province\": \"MA\", \"postal_code\": \"02119\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3309316, \"longitude\": -71.09342869999999}, \"phones\": [{\"number\": \"(617) 858-6114\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:27.078708"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Revival Ministries\", \"alternate_name\": \"\", \"description\": \"The hours are only dependant on the time the service ends\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3738 River International Drive\", \"address_2\": null, \"city\": \"Seffner Community Alliance\", \"state_province\": \"FL\", \"postal_code\": \"33610\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9776656, \"longitude\": -82.3235559}, \"phones\": [{\"number\": \"(813) 971-9999\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Members Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must attend the mass first before receiving food\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.484229"
+}

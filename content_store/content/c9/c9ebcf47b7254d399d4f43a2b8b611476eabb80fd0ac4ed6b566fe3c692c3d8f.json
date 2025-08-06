@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Providence Community Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.providencecbc.org/contact-us.html\", \"status\": \"active\", \"address\": {\"address_1\": \"38 Austin Avenue Northeast\", \"address_2\": null, \"city\": \"Marietta\", \"state_province\": \"GA\", \"postal_code\": \"30060\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.9517471, \"longitude\": -84.5325809}, \"phones\": [{\"number\": \"(678) 642-5940\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"1 food box per household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:25.497477"
+}

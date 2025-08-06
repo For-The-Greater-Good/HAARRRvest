@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church \\u2013 Creedmoor\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://fbccreedmoor.org/food-clothes-mission/\", \"status\": \"active\", \"address\": {\"address_1\": \"119 South Main Street\", \"address_2\": null, \"city\": \"Creedmoor\", \"state_province\": \"NC\", \"postal_code\": \"27522\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.1170219, \"longitude\": -78.6862871}, \"phones\": [{\"number\": \"(919) 528-2351\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.780161"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Chelmsford Community Exchange\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"Chelmsfordfoodpantry.org \", \"status\": \"active\", \"address\": {\"address_1\": \"50 Billerica Road\", \"address_2\": null, \"city\": \"Chelmsford\", \"state_province\": \"MA\", \"postal_code\": \"01824\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.5986659, \"longitude\": -71.3471217}, \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:16.347050"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Kera's Helping Hands\", \"alternate_name\": \"\", \"description\": \"Kera\\u2019s HelpingHands Food Pantry is Open 542 Moreland Ave Atlanta Georgia , 30316 2nd floor Room 214 12/6pm requires \\nHead of house , 10$ donation fee\", \"email\": \"\", \"url\": \"https://www.facebook.com/KeraHelpingHands/\", \"status\": \"active\", \"address\": {\"address_1\": \"542 Moreland Avenue Southeast\", \"address_2\": null, \"city\": \"East Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30316\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7397245, \"longitude\": -84.3488641}, \"phones\": [{\"number\": \"(404) 399-7592\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.051079"
+}

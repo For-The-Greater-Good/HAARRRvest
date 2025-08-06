@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bromley Neighborhood Civic Center\", \"alternate_name\": \"\", \"description\": \"- Serves only Hamilton residents\\n- Need proof of your financial accounts.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1801 East State Street\", \"address_2\": null, \"city\": \"Hamilton Township\", \"state_province\": \"NJ\", \"postal_code\": \"08609\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2353002, \"longitude\": -74.7289284}, \"phones\": [{\"number\": \"(609) 587-8100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"03:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"03:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"03:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.642109"
+}

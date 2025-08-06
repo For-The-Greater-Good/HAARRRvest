@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Abraham Residence I\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.metcouncil.org/housing-for-the-homeless\", \"status\": \"active\", \"address\": {\"address_1\": \"3915 Neptune Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11224\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5765313, \"longitude\": -74.0085485}, \"phones\": [{\"number\": \"(718) 266-3666\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.139688"
+}

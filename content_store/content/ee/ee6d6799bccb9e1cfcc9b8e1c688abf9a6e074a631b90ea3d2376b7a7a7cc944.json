@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Charles Street A.M.E. Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"551 Warren Street\", \"address_2\": null, \"city\": \"Dorchester\", \"state_province\": \"MA\", \"postal_code\": \"02121\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3127561, \"longitude\": -71.0838061}, \"phones\": [{\"number\": \"(617) 442-7770\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.898769"
+}

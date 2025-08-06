@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Delaware County Resident only.\\n\\nPersonal Hygiene available\\n\\nClosed during Christmas Day.\", \"email\": \"\", \"url\": \"https://www.mediafoodbank.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"350 West State Street\", \"address_2\": null, \"city\": \"Media\", \"state_province\": \"PA\", \"postal_code\": \"19063\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9183219, \"longitude\": -75.39482129999999}, \"phones\": [{\"number\": \"(610) 566-3172\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.607012"
+}

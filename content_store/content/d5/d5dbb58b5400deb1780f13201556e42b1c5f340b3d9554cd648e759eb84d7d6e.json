@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Parsippany Christian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"205 Vail Road\", \"address_2\": \"\", \"city\": \"Parsippany\", \"state_province\": \"NJ\", \"postal_code\": \"07054\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.86851070000001, \"longitude\": -74.4031646}, \"phones\": [{\"number\": \"(973) 535-1485\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Everyday after church on Sundays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.210262"
+}

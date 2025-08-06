@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Beth Gavriel Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.bethgavrielcenter.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"66-35 108th St\", \"address_2\": \"\", \"city\": \"Forest Hills\", \"state_province\": \"NY\", \"postal_code\": \"11375\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.729336, \"longitude\": -73.847336}, \"phones\": [{\"number\": \"(718) 268-7558\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.851452"
+}

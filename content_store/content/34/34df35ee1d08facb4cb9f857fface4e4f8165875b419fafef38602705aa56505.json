@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SALEM SEVENTH-DAY ADVENTIST\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"10 South Oraton Parkway\", \"address_2\": null, \"city\": \"East Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07018\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7575973, \"longitude\": -74.2085051}, \"phones\": [{\"number\": \"(973) 266-1488\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.211708"
+}

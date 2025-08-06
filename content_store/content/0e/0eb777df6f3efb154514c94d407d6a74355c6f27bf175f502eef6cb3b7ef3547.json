@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Food Council\", \"alternate_name\": \"\", \"description\": \"Bring proof of Suffolk County residence (an ID or a utility bill with your address)\", \"email\": \"\", \"url\": \"Comfoodcouncil.org\", \"status\": \"active\", \"address\": {\"address_1\": \"60 Broadway\", \"address_2\": null, \"city\": \"Huntington Station\", \"state_province\": \"NY\", \"postal_code\": \"11746\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.856464, \"longitude\": -73.403229}, \"phones\": [{\"number\": \"(631) 351-1060\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:15.191489"
+}

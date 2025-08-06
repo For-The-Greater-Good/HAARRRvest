@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tabitha\\u2019s Table\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/TabithasTable/\", \"status\": \"active\", \"address\": {\"address_1\": \"17 South Main Street\", \"address_2\": null, \"city\": \"Smithsburg\", \"state_province\": \"MD\", \"postal_code\": \"21783\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.65445860000001, \"longitude\": -77.5724421}, \"phones\": [{\"number\": \"(301) 331-1464\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.711898"
+}

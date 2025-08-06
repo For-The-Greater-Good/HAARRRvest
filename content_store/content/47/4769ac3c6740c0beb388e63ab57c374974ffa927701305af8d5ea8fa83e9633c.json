@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Zebulon United Methodist\", \"alternate_name\": \"\", \"description\": \"open to all people in Zebulon and surrounding communities\", \"email\": \"\", \"url\": \"https://www.zebulonumc.org/ministries\", \"status\": \"active\", \"address\": {\"address_1\": \"114 West Sycamore Street\", \"address_2\": null, \"city\": \"Zebulon\", \"state_province\": \"NC\", \"postal_code\": \"27597\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.8227346, \"longitude\": -78.3153852}, \"phones\": [{\"number\": \"(772) 360-5862\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Services referral required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.867663"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Garfield YMCA\", \"alternate_name\": \"\", \"description\": \"* Fresh produce every second Tuesdays of the month.\\n* Pop-up produce availability will be announced in Facebook @ Garfield YMCA.\", \"email\": \"\", \"url\": \"https://www.facebook.com/GarfieldYmca/\", \"status\": \"active\", \"address\": {\"address_1\": \"33 Outwater Lane\", \"address_2\": null, \"city\": \"Garfield\", \"state_province\": \"NJ\", \"postal_code\": \"07026\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.880606, \"longitude\": -74.117711}, \"phones\": [{\"number\": \"(973) 772-7450\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.378797"
+}

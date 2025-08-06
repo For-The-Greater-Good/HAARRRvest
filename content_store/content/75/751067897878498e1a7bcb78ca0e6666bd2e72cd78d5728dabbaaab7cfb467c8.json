@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Zion Mennonite Table of Plenty\", \"alternate_name\": \"\", \"description\": \"Call (215) 723-3756 to make reservation. Reserve on/before by Saturday at noon for Monday luncheon and on/before Tuesday at noon for Wednesday luncheon.\\n\\nDoors open by 11:30 am.\", \"email\": \"\", \"url\": \"https://zionmennonite.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"149 Cherry Lane\", \"address_2\": null, \"city\": \"Souderton\", \"state_province\": \"PA\", \"postal_code\": \"18964\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3020603, \"longitude\": -75.31909279999999}, \"phones\": [{\"number\": \"(215) 723-3592\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.527142"
+}

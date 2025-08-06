@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"South Oakland Food Depot - SVDP Detroit\", \"alternate_name\": \"\", \"description\": \"Located inside the St. Vincent de Paul Detroit\\u2019s Madison Heights store.\", \"email\": \"\", \"url\": \"https://svdpdetroit.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"28720 Stephenson Highway\", \"address_2\": null, \"city\": \"Madison Heights\", \"state_province\": \"MI\", \"postal_code\": \"48071\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.50352699999999, \"longitude\": -83.1168458}, \"phones\": [{\"number\": \"(313) 393-2930\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.590579"
+}

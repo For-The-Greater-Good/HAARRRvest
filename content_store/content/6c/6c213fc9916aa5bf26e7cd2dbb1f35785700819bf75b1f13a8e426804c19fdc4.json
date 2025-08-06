@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Health Action of Staten Island - Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Mobile Food Pantry Scheduled available here: linktr.ee/chasinyc.\", \"email\": \"\", \"url\": \"linktr.ee/chasinyc\", \"status\": \"active\", \"address\": {\"address_1\": \"2134 Richmond Ter\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10302\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6401964, \"longitude\": -74.13431539999999}, \"phones\": [{\"number\": \"(718) 808-1840\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"SNAP assistance available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.033428"
+}

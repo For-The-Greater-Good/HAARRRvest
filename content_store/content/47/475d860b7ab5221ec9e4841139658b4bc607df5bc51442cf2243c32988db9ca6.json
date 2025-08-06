@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lutheran Social Services Mobile Food Pantry - Morgan\", \"alternate_name\": \"\", \"description\": \"Serving Morgan County\\nAppointments required starting one week before distribution day\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"390 North Main Street\", \"address_2\": \"\", \"city\": \"Malta\", \"state_province\": \"OH\", \"postal_code\": \"43758\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6485362, \"longitude\": -81.8609808}, \"phones\": [{\"number\": \"(877) 704-3663\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.648618"
+}

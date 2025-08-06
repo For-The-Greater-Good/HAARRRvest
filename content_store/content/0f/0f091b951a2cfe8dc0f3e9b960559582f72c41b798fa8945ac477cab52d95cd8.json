@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Centro Evangelistico MMM Inc Community Food Pantry Program\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://foodpantry.business.site\", \"status\": \"active\", \"address\": {\"address_1\": \"148 Post Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10034\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8653582, \"longitude\": -73.91905109999999}, \"phones\": [{\"number\": \"(212) 567-5620\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Christmas & New Year\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.769540"
+}

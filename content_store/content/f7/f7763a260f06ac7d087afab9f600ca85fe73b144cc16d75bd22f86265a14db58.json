@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Hope Missionary Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1463 Cardinal Place\", \"address_2\": null, \"city\": \"Macon\", \"state_province\": \"GA\", \"postal_code\": \"31204\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.8290573, \"longitude\": -83.68044330000001}, \"phones\": [{\"number\": \"(478) 743-8413\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.904759"
+}

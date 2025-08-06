@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Spirit Kitchen/Stevenson UMC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"123 North Main Street\", \"address_2\": null, \"city\": \"Berlin\", \"state_province\": \"MD\", \"postal_code\": \"21811\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.3266269, \"longitude\": -75.21978299999999}, \"phones\": [{\"number\": \"(443) 735-9222\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.175253"
+}

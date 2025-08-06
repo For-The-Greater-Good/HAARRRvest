@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grand Concourse SDA Church\", \"alternate_name\": \"\", \"description\": \"- Closed on the fifth Wednesday of the month.\", \"email\": \"\", \"url\": \"https://grandconcourseny.adventistchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1275 Grand Concourse\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10452\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8364441, \"longitude\": -73.9164634}, \"phones\": [{\"number\": \"(718) 681-2232\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.221492"
+}

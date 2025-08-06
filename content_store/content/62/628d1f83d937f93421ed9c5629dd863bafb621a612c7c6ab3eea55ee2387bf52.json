@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"DMV Food Justice Initiative\", \"alternate_name\": \"\", \"description\": \"Fill out this [**grocery delivery request form**](https://www.foodjusticedmv.org/contact) or **text** this number (202) 415-9757 details of the delivery request.\\n\\n\\n\", \"email\": \"\", \"url\": \"www.foodjusticedmv.org\", \"status\": \"active\", \"address\": {\"address_1\": \"3110 Chichester Lane\", \"address_2\": null, \"city\": \"Fairfax\", \"state_province\": \"VA\", \"postal_code\": \"22031\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.864437, \"longitude\": -77.248423}, \"phones\": [{\"number\": \"(202) 415-9757\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Fill out the form on their website for assistance\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.238908"
+}

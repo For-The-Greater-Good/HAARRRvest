@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of Pentecost (PIWE)\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/piwcphilly/\", \"email\": \"\", \"url\": \"https://piwcphilly.com/services\", \"status\": \"active\", \"address\": {\"address_1\": \"1315 S 26th St\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.93628460224789, \"longitude\": -75.18730762930898}, \"phones\": [{\"number\": \"(215) 375-2514\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.461739"
+}

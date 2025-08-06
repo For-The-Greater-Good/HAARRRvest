@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Englewood Neighborhood Pantry\", \"alternate_name\": \"\", \"description\": \"Closed on the last week of the month\", \"email\": \"\", \"url\": \"https://www.facebook.com/ParrisMLKG\", \"status\": \"active\", \"address\": {\"address_1\": \"151 West Forest Avenue\", \"address_2\": null, \"city\": \"Englewood\", \"state_province\": \"NJ\", \"postal_code\": \"07631\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8885692, \"longitude\": -73.9866438}, \"phones\": [{\"number\": \"(551) 206-8302\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.993735"
+}

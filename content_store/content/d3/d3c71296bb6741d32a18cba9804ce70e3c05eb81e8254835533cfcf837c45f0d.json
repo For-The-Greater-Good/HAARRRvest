@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fenway Cares West \", \"alternate_name\": \"\", \"description\": \"- Apply for delivery online at https://fenwaycommunitycenter.org/request-a-delivery/\\n- You are advised to arrive a little early to make sure you are in the line for the food.\\n- Delivery is limited to home bound individuals including seniors, the disabled etc who are unable to make it to the food pantry location. \", \"email\": \"\", \"url\": \"https://fenwaycommunitycenter.org/food-distributions/\", \"status\": \"active\", \"address\": {\"address_1\": \"1282 Boylston Street\", \"address_2\": null, \"city\": \"West Fens\", \"state_province\": \"MA\", \"postal_code\": \"02215\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.34453599999999, \"longitude\": -71.0971362}, \"phones\": [{\"number\": \"(857) 246-9053\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Delivery available for seniors & those adults with disabilities\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:25.304322"
+}

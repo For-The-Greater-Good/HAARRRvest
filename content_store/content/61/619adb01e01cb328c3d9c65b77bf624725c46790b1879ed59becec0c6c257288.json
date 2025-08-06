@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holsey Temple C.M.E. Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5305 Germantown Avenue\", \"address_2\": null, \"city\": \"Northwest Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19144\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0325463, \"longitude\": -75.1691566}, \"phones\": [{\"number\": \"(215) 848-2210\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.336110"
+}

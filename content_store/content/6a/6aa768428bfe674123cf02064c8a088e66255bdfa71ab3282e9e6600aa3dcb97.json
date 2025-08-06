@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" SVDP/St. Raphael's Food Pantry   \", \"alternate_name\": \"\", \"description\": \"Residents of Medford\", \"email\": \"\", \"url\": \"www.saintraphaelparish.org/community-service/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"38 Boston Avenue\", \"address_2\": null, \"city\": \"West Medford\", \"state_province\": \"MA\", \"postal_code\": \"02155\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4204404, \"longitude\": -71.1351806}, \"phones\": [{\"number\": \"(781) 488-5444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:20.623823"
+}

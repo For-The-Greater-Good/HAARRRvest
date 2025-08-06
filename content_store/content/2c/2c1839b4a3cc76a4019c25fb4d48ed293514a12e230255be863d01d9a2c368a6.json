@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Macedonia Helping Hand\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1927 Featherbed Lane\", \"address_2\": null, \"city\": \"Lochearn\", \"state_province\": \"MD\", \"postal_code\": \"21207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.323669, \"longitude\": -76.739785}, \"phones\": [{\"number\": \"(443) 695-7608\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.442894"
+}

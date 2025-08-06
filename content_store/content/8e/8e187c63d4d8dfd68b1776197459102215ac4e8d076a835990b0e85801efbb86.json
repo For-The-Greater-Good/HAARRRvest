@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Thornville Food Pantry - ES\", \"alternate_name\": \"\", \"description\": \"Emergency food service available outside listed hours - MUST call first!\\n\\nServing Thorn Twp\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"North Main Street\", \"address_2\": null, \"city\": \"Thornville\", \"state_province\": \"OH\", \"postal_code\": \"43076\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8983332, \"longitude\": -82.4206177}, \"phones\": [{\"number\": \"(740) 246-6110\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.600016"
+}

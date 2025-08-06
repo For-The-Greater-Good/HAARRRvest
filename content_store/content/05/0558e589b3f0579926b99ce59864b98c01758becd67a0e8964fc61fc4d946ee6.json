@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CommonPoint Queens Grocery Delivery\", \"alternate_name\": \"\", \"description\": \"To register for grocery delivery; must be 60 years or older. Must send proof of age by email; instructions will be given via phone. Once you register, you will receive weekly deliveries. Available in English & Spanish. Turnaround time is 1-3 days, and they cover Northeastern Queens.\\n\\n> **Please note that the Commonpoint Queens Food Pantries will be closed from June 22-July 4, reopening on July 5.**\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7127753, \"longitude\": -74.0059728}, \"phones\": [{\"number\": \"(718) 428-2077\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:19.624642"
+}

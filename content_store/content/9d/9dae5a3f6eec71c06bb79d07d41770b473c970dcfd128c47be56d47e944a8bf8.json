@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Society of Saint Vincent de Paul\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://bvm-darby.com/st-vincent-de-paul\", \"status\": \"active\", \"address\": {\"address_1\": \"1101 Main St\", \"address_2\": \"\", \"city\": \"Darby\", \"state_province\": \"PA\", \"postal_code\": \"19023\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.921713, \"longitude\": -75.263731}, \"phones\": [{\"number\": \"(610) 308-4246\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \" Located in the old school building on Mac Dade Blvd.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:14.573835"
+}

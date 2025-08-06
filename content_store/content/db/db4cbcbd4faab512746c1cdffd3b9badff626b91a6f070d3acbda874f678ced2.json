@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mary Parish Organization at Southern Baptist Church\", \"alternate_name\": \"\", \"description\": \"Every other week (Wednesday), the distribution is either hot meals and grocery bags, alternating.\", \"email\": \"\", \"url\": \"http://www.sbc.net/\", \"status\": \"active\", \"address\": {\"address_1\": \"12 W 108th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10025\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.79954619999999, \"longitude\": -73.9601139}, \"phones\": [{\"number\": \"(212) 663-6549\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.033903"
+}

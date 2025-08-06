@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Carroll Manor Elementary School Summer Meals\", \"alternate_name\": \"\", \"description\": \"From 23rd June Till 15th August\", \"email\": \"\", \"url\": \"https://www.bcps.org/foodandnutrition\", \"status\": \"active\", \"address\": {\"address_1\": \"5624 Adamstown Road\", \"address_2\": null, \"city\": \"Adamstown\", \"state_province\": \"MD\", \"postal_code\": \"21710\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.313581, \"longitude\": -77.46938569999999}, \"phones\": [{\"number\": \"(443) 809-7855\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:14.833262"
+}

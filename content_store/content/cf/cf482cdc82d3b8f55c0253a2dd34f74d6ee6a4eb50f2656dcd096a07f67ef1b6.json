@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"OUR LADY OF FATIMA BREAD OF LIFE\", \"alternate_name\": \"\", \"description\": \"Registration is only done on Saturdays before receiving food at the next distribution date\\n* \\tserves only residents of  Perth Amboy\", \"email\": \"\", \"url\": \"https://www.ourladyoffatimaperthamboy.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"348 Smith Street\", \"address_2\": null, \"city\": \"Perth Amboy\", \"state_province\": \"NJ\", \"postal_code\": \"08861\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5114035, \"longitude\": -74.2776416}, \"phones\": [{\"number\": \"(732) 442-6634\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.629391"
+}

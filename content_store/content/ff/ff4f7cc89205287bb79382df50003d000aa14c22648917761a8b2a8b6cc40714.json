@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Supper Club\", \"alternate_name\": \"\", \"description\": \"Contact: Lillian Lowensen\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1728 Eastern Avenue\", \"address_2\": null, \"city\": \"Upper Fells Point\", \"state_province\": \"MD\", \"postal_code\": \"21231\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2857435, \"longitude\": -76.5921661}, \"phones\": [{\"number\": \"(410) 732-7644\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.607861"
+}

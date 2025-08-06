@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hebron SDA Church\", \"alternate_name\": \"\", \"description\": \"- The food pantry is open from nine but there is a line that is long and starts being formed from 6am according to the resource. Please be sure to arrive early.\", \"email\": \"\", \"url\": \"https://www.hebronsda.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1256 Dean Street\", \"address_2\": null, \"city\": \"Crown Heights\", \"state_province\": \"NY\", \"postal_code\": \"11216\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6764879, \"longitude\": -73.9475088}, \"phones\": [{\"number\": \"(718) 778-6454\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.938762"
+}

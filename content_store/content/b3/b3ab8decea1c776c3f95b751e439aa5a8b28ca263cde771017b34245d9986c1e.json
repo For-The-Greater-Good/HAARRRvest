@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Evangelical Crusade Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.evangelicalcrusade.org/event/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"557 East 31st Street\", \"address_2\": null, \"city\": \"Little Haiti\", \"state_province\": \"NY\", \"postal_code\": \"11210\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6372784, \"longitude\": -73.94686589999999}, \"phones\": [{\"number\": \"(718) 484-8680\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:07.999236"
+}

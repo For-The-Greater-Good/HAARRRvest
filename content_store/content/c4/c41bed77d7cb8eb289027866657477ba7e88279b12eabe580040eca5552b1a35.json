@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Miriam's Kitchen\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2401 Virginia Ave NW\", \"address_2\": null, \"city\": \"Washington\", \"state_province\": \"DC\", \"postal_code\": \"20037\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.898539, \"longitude\": -77.051963}, \"phones\": [{\"number\": \"(202) 452-8926\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.466877"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Assistance Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"cfbnj.org\", \"status\": \"active\", \"address\": {\"address_1\": \"6735 Black Horse Pike\", \"address_2\": null, \"city\": \"Egg Harbor Township\", \"state_province\": \"NJ\", \"postal_code\": \"08234\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.399216, \"longitude\": -74.559402}, \"phones\": [{\"number\": \"(908) 418-8716\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"04:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"04:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:15.096770"
+}

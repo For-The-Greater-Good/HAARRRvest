@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Central United Methodist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.centralumcatl.org/cumc-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"501 Martin Luther King Junior Drive Southwest\", \"address_2\": null, \"city\": \"Atlanta University Center\", \"state_province\": \"GA\", \"postal_code\": \"30314\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7540308, \"longitude\": -84.403851}, \"phones\": [{\"number\": \"(404) 524-4263\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.975398"
+}

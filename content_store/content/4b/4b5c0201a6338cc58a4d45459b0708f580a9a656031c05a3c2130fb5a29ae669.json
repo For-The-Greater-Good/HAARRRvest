@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Marion Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"Distribution Model: Drive Thru\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"317 West Church Street\", \"address_2\": null, \"city\": \"Marion\", \"state_province\": \"OH\", \"postal_code\": \"43302\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5868829, \"longitude\": -83.1346184}, \"phones\": [{\"number\": \"(740) 382-2156\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Drive-thru delivery\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.772815"
+}

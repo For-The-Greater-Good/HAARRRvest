@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holy Trinity Lutheran Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"- they will move their pantry to Tuesday november 21 due to Thanksgiving\", \"email\": \"\", \"url\": \"https://www.facebook.com/holytrinity.eastorange.9\", \"status\": \"active\", \"address\": {\"address_1\": \"153 Glenwood Avenue\", \"address_2\": null, \"city\": \"East Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07017\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.775217, \"longitude\": -74.21596070000001}, \"phones\": [{\"number\": \"(973) 678-1484\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early to make a line starting at 9am\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.449032"
+}

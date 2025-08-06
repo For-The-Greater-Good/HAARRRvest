@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Soup Kitchen at St. Josephs Church in Greenwich Village\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.sjsk.nyc/services\", \"status\": \"active\", \"address\": {\"address_1\": \"12 West 12th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10011\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.734504, \"longitude\": -73.995177}, \"phones\": [{\"number\": \"(212) 675-6150\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.243930"
+}

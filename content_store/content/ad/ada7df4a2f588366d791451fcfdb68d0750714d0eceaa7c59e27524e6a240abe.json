@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Park United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Call in advance to make appointment for food pick up @ (201) 320-7534\\n\\nStaff only available during appointments and on Sundays Service hours. \\n\\nFood pantry staff only speaks English. Can attend all languages, but cannot make appointments in other languages--please have an interpreter ready.\", \"email\": \"\", \"url\": \"https://parkchurchweehawken.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"47 Clifton Terrace\", \"address_2\": \"\", \"city\": \"Weehawken\", \"state_province\": \"NJ\", \"postal_code\": \"07086\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7746991, \"longitude\": -74.0176872}, \"phones\": [{\"number\": \"(201) 320-7534\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Non-perishable food only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.637949"
+}

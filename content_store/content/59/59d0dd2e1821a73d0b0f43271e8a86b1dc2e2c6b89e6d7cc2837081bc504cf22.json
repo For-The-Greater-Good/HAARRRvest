@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Metro Tampa YMCA Early Head Start\", \"alternate_name\": \"\", \"description\": \"Early Head Start program is a grant-funded program for children ages 6-weeks to 3 years old. Application needs to be completed and the participants must be eligible based off of Federal Poverty guidelines which can be viewed online.\", \"email\": \"\", \"url\": \"tampaymca.org\", \"status\": \"active\", \"address\": {\"address_1\": \"110 East Oak Avenue\", \"address_2\": null, \"city\": \"Tampa Heights\", \"state_province\": \"FL\", \"postal_code\": \"33602\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9616065, \"longitude\": -82.4599161}, \"phones\": [{\"number\": \"(813) 676-5072\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:39.601898"
+}

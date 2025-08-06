@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Living Faith United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Serves: Springfield Township and Holland only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1240 Columbus Drive\", \"address_2\": null, \"city\": \"Holland\", \"state_province\": \"OH\", \"postal_code\": \"43528\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6185461, \"longitude\": -83.7106555}, \"phones\": [{\"number\": \"(419) 865-3943\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.638398"
+}

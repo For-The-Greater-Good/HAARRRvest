@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Benedict's Emergency Pantry\", \"alternate_name\": \"\", \"description\": \"Requires to call for hours.\", \"email\": \"\", \"url\": \"https://stbenedictholmdel.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"165 Bethany Road\", \"address_2\": \"(entrance on Hillcrest, located in house left of school)\", \"city\": \"Holmdel\", \"state_province\": \"NJ\", \"postal_code\": \"07733\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4052653, \"longitude\": -74.2025014}, \"phones\": [{\"number\": \"(732) 264-4712\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.611032"
+}

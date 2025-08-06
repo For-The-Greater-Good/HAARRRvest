@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mid-Ohio Market at Gantz Rd Choice Pantry\", \"alternate_name\": \"\", \"description\": \"* Client can visit once a week\\n* Open to anyone regardless of the zip code\\n* Please visit the website for more information: https://mofc.org/get-involved/find-food/ \", \"email\": \"\", \"url\": \"https://mofc.org/get-involved/find-food/ \", \"status\": \"active\", \"address\": {\"address_1\": \"4041 Gantz Road\", \"address_2\": null, \"city\": \"Grove City\", \"state_province\": \"OH\", \"postal_code\": \"43123\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8802387, \"longitude\": -83.05652510000002}, \"phones\": [{\"number\": \"(614) 317-9487\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"01:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.412852"
+}

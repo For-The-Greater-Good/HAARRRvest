@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Northside Assembly Of God\", \"alternate_name\": \"\", \"description\": \"Our food consists of baked goods from Publix. This includes breads, pastries, and desserts. These baked goods are available in our Fellowship Hall (building to the right of the sanctuary) on Sunday mornings and Wednesday evenings. \", \"email\": \"\", \"url\": \"https://www.northsidelakeland.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"411 West Robson Street\", \"address_2\": null, \"city\": \"Lakeland\", \"state_province\": \"FL\", \"postal_code\": \"33805\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0845214, \"longitude\": -81.9609376}, \"phones\": [{\"number\": \"(863) 686-1977\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:30\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.314941"
+}

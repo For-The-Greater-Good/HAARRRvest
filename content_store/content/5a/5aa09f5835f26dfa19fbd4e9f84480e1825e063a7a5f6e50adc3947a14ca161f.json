@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mark AME Church/VOH Food Pantry\", \"alternate_name\": \"\", \"description\": \"(Closed July & August)\", \"email\": \"\", \"url\": \"https://stmarkamenyc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"95-18 Northern Blvd.\", \"address_2\": \"\", \"city\": \"Jackson Heights\", \"state_province\": \"NY\", \"postal_code\": \"11372\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.756775, \"longitude\": -73.872414}, \"phones\": [{\"number\": \"(718) 899-3306\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.466310"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Vincent De Paul Society (Logan)\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"351 North Market Street\", \"address_2\": null, \"city\": \"Logan\", \"state_province\": \"OH\", \"postal_code\": \"43138\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.54318010000001, \"longitude\": -82.4090559}, \"phones\": [{\"number\": \"(740) 385-2549\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.750367"
+}

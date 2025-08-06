@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gateway Food Pantry - PennsGrove\", \"alternate_name\": \"\", \"description\": \"Please check the Facebook page for any updates on the schedule.\", \"email\": \"\", \"url\": \"https://www.facebook.com/TriCountyCAP\", \"status\": \"active\", \"address\": {\"address_1\": \"11 N Broad Street\", \"address_2\": null, \"city\": \"Penns Grove\", \"state_province\": \"NJ\", \"postal_code\": \"08069\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7347019, \"longitude\": -75.4648905}, \"phones\": [{\"number\": \"(856) 455-1589\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.290458"
+}

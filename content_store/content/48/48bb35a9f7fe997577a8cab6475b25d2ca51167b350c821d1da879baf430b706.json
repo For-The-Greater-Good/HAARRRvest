@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of Atlanta Lighthouse\", \"alternate_name\": \"\", \"description\": \"Food Pantry entrance is on the right side of the building and parking is clearly marked. Clients may call if there is an emergency outside of normal hours. Church # is 404-627-4601.\", \"email\": \"\", \"url\": \"https://www.facebook.com/ATLLight/\", \"status\": \"active\", \"address\": {\"address_1\": \"1380 Boulevard Southeast\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30315\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7164048, \"longitude\": -84.3680876}, \"phones\": [{\"number\": \"(404) 627-4601\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"09:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.081400"
+}

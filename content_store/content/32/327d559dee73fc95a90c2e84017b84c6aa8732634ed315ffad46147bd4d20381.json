@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lifeline Mission\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.acfb.org.\", \"status\": \"active\", \"address\": {\"address_1\": \"3915 Carrollton Villa Rica Highway\", \"address_2\": null, \"city\": \"Villa Rica\", \"state_province\": \"GA\", \"postal_code\": \"30180\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6436711, \"longitude\": -84.96985130000002}, \"phones\": [{\"number\": \"(770) 832-9675\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.415028"
+}

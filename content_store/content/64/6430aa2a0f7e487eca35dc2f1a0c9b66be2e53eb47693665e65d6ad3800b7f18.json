@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Franklin\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"11-13 Main Street\", \"address_2\": \"\", \"city\": \"Franklin\", \"state_province\": \"NJ \", \"postal_code\": \"7414\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.1175826, \"longitude\": -74.5913248}, \"phones\": [{\"number\": \"(973) 827-6444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.959779"
+}

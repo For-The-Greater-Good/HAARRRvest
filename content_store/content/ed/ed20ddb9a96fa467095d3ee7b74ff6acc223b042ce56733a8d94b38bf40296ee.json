@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Middlesex College Food Pantry\", \"alternate_name\": \"\", \"description\": \"Bring your Middlesex College Student ID card with you to the Hub & Pantry during drop-in hours or by appointment (contact resource_hub@middlesexcc.edu). Student ID cards are available at West Hall\\nFood Pantry (weekly grocery shop, daily grab & go snacks, meals prepared by our HCD students, new Lunch Club program) \\u2013 Visit during regular pantry hours or by appointment. Bring one reusable grocery bag. *Pantry access is limited to registered student shoppers for purposes of privacy, health and safety.\\nPantry College Center room 170/171\\n732.548.6000 x3029\", \"email\": \"\", \"url\": \"https://middlesexcollege.edu/student-life/community-resource-hub-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": null, \"state_province\": null, \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": null, \"longitude\": null}, \"phones\": [{\"number\": \"(732) 548-6000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:16.671685"
+}

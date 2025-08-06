@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Cecilia's Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"125 East 105Th  Street\", \"address_2\": \"1st floor\", \"city\": \"NY\", \"state_province\": \"NY\", \"postal_code\": \"10029\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.792255, \"longitude\": -73.947075}, \"phones\": [{\"number\": \"(212) 348-0488\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.010044"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Disability Achievement Center\", \"alternate_name\": \"\", \"description\": \"* Only for disable people \\n* Pinellas and Pasco county residents only\\n* Call 727-539-7550 to inquire\", \"email\": \"\", \"url\": \"https://www.mydacil.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"12552 South Belcher Road\", \"address_2\": null, \"city\": \"Largo\", \"state_province\": \"FL\", \"postal_code\": \"33773\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8866109, \"longitude\": -82.7461348}, \"phones\": [{\"number\": \"(727) 539-7550\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.768424"
+}

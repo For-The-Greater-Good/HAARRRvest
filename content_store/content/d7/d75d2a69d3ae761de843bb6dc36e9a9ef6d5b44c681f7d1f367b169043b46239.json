@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Masbia of Rego Park\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"East 64th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10022\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7652787, \"longitude\": -73.9656964}, \"phones\": [{\"number\": \"(718) 972-4446\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.074567"
+}

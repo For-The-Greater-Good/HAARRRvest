@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"For Hosea Williams Feed the Hungry and Homeless\", \"alternate_name\": \"\", \"description\": \"The day center is closed from June 17 to July 7 \\nCheck our site periodically because we make sure that any changes and new information is updated on our website\\nClients can visit every 90 days\", \"email\": \"\", \"url\": \"https://4hosea.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2545 Forrest Hills Drive Southwest\", \"address_2\": null, \"city\": \"Perkerson\", \"state_province\": \"GA\", \"postal_code\": \"30315\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6851572, \"longitude\": -84.4000595}, \"phones\": [{\"number\": \"(404) 755-3353\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.495111"
+}

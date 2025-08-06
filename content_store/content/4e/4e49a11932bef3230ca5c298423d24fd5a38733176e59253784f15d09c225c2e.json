@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MARYLAND CITY PARK\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.marylandfreefood.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"565 Brock Bridge Road\", \"address_2\": null, \"city\": \"Laurel\", \"state_province\": \"MD\", \"postal_code\": \"20724\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.071849, \"longitude\": -76.8320592}, \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Gives out food during Summer Camp only From July 5th to August 12th\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.347099"
+}

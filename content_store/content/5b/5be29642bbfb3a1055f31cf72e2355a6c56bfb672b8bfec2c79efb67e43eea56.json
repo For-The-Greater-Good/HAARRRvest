@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"King's County Hospital \", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.nychealthandhospitals.org/kings-county/services/wic/\", \"status\": \"active\", \"address\": {\"address_1\": \"451 Clarkson Avenue\", \"address_2\": null, \"city\": \"Little Caribbean\", \"state_province\": \"NY\", \"postal_code\": \"11203\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.655704, \"longitude\": -73.9460407}, \"phones\": [{\"number\": \"(718) 245-3126\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.169485"
+}

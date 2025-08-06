@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Schmidt Playground\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.phila.gov/food/?fbclid=IwAR1KFfmGkseNeQsSAKcOzhJXx400E4xtzNwZA10AHVSclYi7kr7dPSNDBac&address=113%20W.%20Ontario%20St.\", \"status\": \"active\", \"address\": {\"address_1\": \"113 W. Ontario St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19141\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.00197470017157, \"longitude\": -75.12944699981823}, \"phones\": [{\"number\": \"(215) 685-9895\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.483412"
+}

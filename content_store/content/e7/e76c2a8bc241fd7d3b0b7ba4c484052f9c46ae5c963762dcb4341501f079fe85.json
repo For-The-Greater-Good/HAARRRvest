@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bless Philadelphia Food Pantry\", \"alternate_name\": \"\", \"description\": \"Bless Philadelphia promotes the Peace, Prosperity, Health and Safety of Philadelpians through compassionate community engagement. \\n\\nOur neighborhood food pantry is currently open weekly on Sundays from 1-1:30pm\\n\\nIn order to receive food from our pantry, guests must be residents of Philadelphia county and must fill out the TEFAP self-declaration form\\n\\nFor more information about Bless Philadelphia visit blessphiladelphia.com\", \"email\": \"\", \"url\": \"https://www.blessphiladelphia.com/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"4610 Devereaux Street\", \"address_2\": \"\", \"city\": \"Northeast Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19135\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.02015249999999, \"longitude\": -75.0566656}, \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.464066"
+}

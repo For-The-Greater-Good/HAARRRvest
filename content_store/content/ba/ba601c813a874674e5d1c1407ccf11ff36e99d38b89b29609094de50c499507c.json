@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Atlanta Community Food Bank\", \"alternate_name\": \"\", \"description\": \"* Call to complete application over the phone with a case worker\\n* Submit paperwork requested.\\n\", \"email\": \"\", \"url\": \"http://www.acfb.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3400 North Desert Drive\", \"address_2\": null, \"city\": \"East Point\", \"state_province\": \"GA\", \"postal_code\": \"30344\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6608243, \"longitude\": -84.4954219}, \"phones\": [{\"number\": \"(678) 553-5917\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call to complete Screening Process\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.963604"
+}

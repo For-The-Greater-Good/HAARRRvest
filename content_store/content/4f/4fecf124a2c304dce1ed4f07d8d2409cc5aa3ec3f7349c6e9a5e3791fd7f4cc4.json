@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Food Pantry \\u2013 Lower Lights Church\", \"alternate_name\": \"\", \"description\": \"Distribution Model: Drive Thru\\nFranklinton county\", \"email\": \"\", \"url\": \"www.lowerlightschurch.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1066 Bellows Avenue\", \"address_2\": null, \"city\": \"Franklinton\", \"state_province\": \"OH\", \"postal_code\": \"43223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9514925, \"longitude\": -83.02763999999999}, \"phones\": [{\"number\": \"(614) 228-1262\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.860403"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Open Cupboard, Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.facebook.com/profile.php?id=100064654241127\", \"status\": \"active\", \"address\": {\"address_1\": \"433 Waco Avenue\", \"address_2\": null, \"city\": \"Odenton\", \"state_province\": \"MD\", \"postal_code\": \"21113\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.08464, \"longitude\": -76.70185}, \"phones\": [{\"number\": \"(443) 454-1511\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:29.008465"
+}

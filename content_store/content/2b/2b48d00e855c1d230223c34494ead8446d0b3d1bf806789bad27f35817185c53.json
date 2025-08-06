@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Salem Missionary Baptist\", \"alternate_name\": \"\", \"description\": \"Closed during inclement weather or emergency situations. A notice will be posted outside the food pantry location.\\n\\nPlease check https://www.facebook.com/NewSalemMBC/ for any updates on closure due to events or inclement weather.\", \"email\": \"\", \"url\": \"https://www.newsalemtampa.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"8525 North 78th Street\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33637\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0245385, \"longitude\": -82.367838}, \"phones\": [{\"number\": \"(813) 985-7825\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.440649"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dream Center\", \"alternate_name\": \"\", \"description\": \"If anyone needs food outside of our distribution time, they may send an email to outreach@thedreamcenterchurch.org and we will be happy to serve them.\", \"email\": \"\", \"url\": \"https://www.dreamcenteratl.org/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"2600 H F Shepherd Drive\", \"address_2\": null, \"city\": \"Decatur\", \"state_province\": \"GA\", \"postal_code\": \"30034\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7110823, \"longitude\": -84.2832255}, \"phones\": [{\"number\": \"(770) 396-9884\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.000131"
+}

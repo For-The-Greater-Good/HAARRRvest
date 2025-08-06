@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"4C WHITE OAK PANTRY\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"334 New Post Road\", \"address_2\": null, \"city\": \"White Oak\", \"state_province\": \"GA\", \"postal_code\": \"31568\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.0228362, \"longitude\": -81.80584209999999}, \"phones\": [{\"number\": \"(302) 222-2125\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.081493"
+}

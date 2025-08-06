@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Spring of Tampa Bay\", \"alternate_name\": \"\", \"description\": \"- Domestic violence shelter, provides hygiene items to clients, safety planning, relocation assistance, support groups, legal resources, and housing support.\\n- There is a 2 month long waitlist\", \"email\": \"\", \"url\": \"https://thespring.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"211 North Willow Avenue\", \"address_2\": null, \"city\": \"Northwest Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33606\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9463097, \"longitude\": -82.4724445}, \"phones\": [{\"number\": \"(813) 247-5433\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.855048"
+}

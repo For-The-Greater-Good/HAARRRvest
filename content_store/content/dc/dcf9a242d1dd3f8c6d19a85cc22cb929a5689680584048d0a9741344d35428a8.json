@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fall Creek Township Trustee Office\", \"alternate_name\": \"\", \"description\": \"Open to Hamilton Co., Fall Creek Twp residents. Client will be allowed 1/ every 30 days.\", \"email\": \"\", \"url\": \"https://fallcreektwp.com/services/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"11595 Brooks School Road\", \"address_2\": null, \"city\": \"Hamilton Proper\", \"state_province\": \"IN\", \"postal_code\": \"46037\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9573148, \"longitude\": -85.9428752}, \"phones\": [{\"number\": \"(317) 841-3180\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:37.362100"
+}

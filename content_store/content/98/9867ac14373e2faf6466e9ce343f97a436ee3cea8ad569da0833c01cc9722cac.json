@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Church of Pentecost USA Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.copusa.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"621 East 216th Street \", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10467\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.882416, \"longitude\": -73.866653}, \"phones\": [{\"number\": \"(718) 515-5366\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit: once a day\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.346227"
+}

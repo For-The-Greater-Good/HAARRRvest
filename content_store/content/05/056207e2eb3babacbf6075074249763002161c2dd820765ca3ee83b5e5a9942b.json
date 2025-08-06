@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christian Pentecostal Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.cpc900.org/our-ministries\", \"status\": \"active\", \"address\": {\"address_1\": \"900 Richmond Road\", \"address_2\": null, \"city\": \"Todt Hill\", \"state_province\": \"NY\", \"postal_code\": \"10304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6048581, \"longitude\": -74.0922882}, \"phones\": [{\"number\": \"(347) 613-0390\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.156410"
+}

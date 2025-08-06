@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church Of Blairstown\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"35 Main Street\", \"address_2\": null, \"city\": \"Blairstown\", \"state_province\": \"NJ\", \"postal_code\": \"07825\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9827294, \"longitude\": -74.9616554}, \"phones\": [{\"number\": \"(908) 362-5254\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.958637"
+}

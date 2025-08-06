@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Brooklyn Bay Ridge Corps\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"252 86th Street\", \"address_2\": \"\", \"city\": \"Bay Ridge\", \"state_province\": \"NY\", \"postal_code\": \"11209\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6233067, \"longitude\": -74.0321696}, \"phones\": [{\"number\": \"(718) 238-2991\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:09.950181"
+}

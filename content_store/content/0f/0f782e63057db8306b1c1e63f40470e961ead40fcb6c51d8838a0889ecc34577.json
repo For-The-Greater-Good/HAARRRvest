@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tampa Family Health Centers-Columbus Drive-SNAP Assistance\", \"alternate_name\": \"\", \"description\": \"Dedicated on-site Patient Resource Specialist to help with Food Stamp applications/recertifications as well as other services. Schedule an appointment with a \\\"Patient Resource Specialist.\\\"\", \"email\": \"\", \"url\": \"https://tampafamilyhc.com/resources/\", \"status\": \"active\", \"address\": {\"address_1\": \"4422 East Columbus Drive\", \"address_2\": null, \"city\": \"Highland Pines\", \"state_province\": \"FL\", \"postal_code\": \"33605\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9678012, \"longitude\": -82.4087043}, \"phones\": [{\"number\": \"(813) 397-5300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Accepts Walk-ins & Appointments\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:28.711658"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Maryland City Elementary\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/profile.php?id=100066705630064\", \"status\": \"active\", \"address\": {\"address_1\": \"3359 Crumpton South\", \"address_2\": null, \"city\": \"Laurel\", \"state_province\": \"MD\", \"postal_code\": \"20724\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0958376, \"longitude\": -76.8175806}, \"phones\": [{\"number\": \"(410) 553-4505\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:18.857622"
+}

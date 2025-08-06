@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"BRC Lexington Ave Shelter\", \"alternate_name\": \"\", \"description\": \"- Said they already have a clientelle base not accepting any new clients.\", \"email\": \"\", \"url\": \"https://www.brc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"85 Lexington Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11238\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6869604, \"longitude\": -73.95862559999999}, \"phones\": [{\"number\": \"(718) 857-5600\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.282723"
+}

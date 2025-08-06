@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"RCCG House of Prayer (Food Pantry)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"rccghopmd.org\", \"status\": \"active\", \"address\": {\"address_1\": \"9621 Reisterstown Road\", \"address_2\": null, \"city\": \"Owings Mills\", \"state_province\": \"MD\", \"postal_code\": \"21117\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4141555, \"longitude\": -76.771982}, \"phones\": [{\"number\": \"443-762-7259 or 678-927-6319\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.074594"
+}

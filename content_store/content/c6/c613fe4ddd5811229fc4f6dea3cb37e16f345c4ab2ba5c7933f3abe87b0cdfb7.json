@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"East Boston Neighborhood Health Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"120 Liverpool Street\", \"address_2\": null, \"city\": \"East Boston\", \"state_province\": \"MA\", \"postal_code\": \"02128\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.372969, \"longitude\": -71.0407215}, \"phones\": [{\"number\": \"(617) 568-4783\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.299434"
+}

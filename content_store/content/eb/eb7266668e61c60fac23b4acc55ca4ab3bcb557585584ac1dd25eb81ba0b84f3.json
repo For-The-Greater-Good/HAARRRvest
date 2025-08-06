@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church Ken-Gar\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.fbcofkengar.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3922 Hampden St\", \"address_2\": null, \"city\": \"Kensington\", \"state_province\": \"MD\", \"postal_code\": \"20895\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.03159, \"longitude\": -77.079728}, \"phones\": [{\"number\": \"(917) 364-1681\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.937411"
+}

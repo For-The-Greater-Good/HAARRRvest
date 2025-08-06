@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Capital Area Foodbank\", \"alternate_name\": \"\", \"description\": \"Provides 30-40 lbs of healthy groceries to seniors aged 60 or over who live in the District of Columbia or Montgomery County and meet income guidelines.\", \"email\": \"\", \"url\": \"https://www.capitalareafoodbank.org/what-we-do/direct-food-distribution-programs/senior-brown-bag/\", \"status\": \"active\", \"address\": {\"address_1\": \"4900 Puerto Rico Avenue Northeast\", \"address_2\": null, \"city\": \"Northeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20017\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9479215, \"longitude\": -76.9997668}, \"phones\": [{\"number\": \"(202) 644-9800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:45\", \"closes_at\": \"21:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:45\", \"closes_at\": \"21:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:45\", \"closes_at\": \"21:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:45\", \"closes_at\": \"21:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:45\", \"closes_at\": \"21:45\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.225216"
+}

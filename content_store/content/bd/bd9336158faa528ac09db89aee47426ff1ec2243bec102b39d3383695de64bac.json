@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"University Baptist Church \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://ubctampa.org/ministry/\", \"status\": \"active\", \"address\": {\"address_1\": \"2121 East 131st Avenue\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33612\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0648445, \"longitude\": -82.435253}, \"phones\": [{\"number\": \"(813) 971-7648\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.416985"
+}

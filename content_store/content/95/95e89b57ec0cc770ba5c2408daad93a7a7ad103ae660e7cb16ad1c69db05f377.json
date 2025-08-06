@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Islamic Society of Central Jersey Food Pantry \", \"alternate_name\": \"\", \"description\": \"Drive through food distribution available for anyone in need every other Saturday\", \"email\": \"\", \"url\": \"https://www.iscj.org/services/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"4145 U.S. 1\", \"address_2\": null, \"city\": \"Monmouth Junction\", \"state_province\": \"NJ\", \"postal_code\": \"08852\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3878313, \"longitude\": -74.57113369999999}, \"phones\": [{\"number\": \"(732) 329-6995\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:16.585558"
+}

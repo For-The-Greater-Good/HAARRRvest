@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"NAMI Connection\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"610 Valley Health Plaza\", \"address_2\": null, \"city\": \"Paramus\", \"state_province\": \"NJ\", \"postal_code\": \"07652\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9628628, \"longitude\": -74.0728798}, \"phones\": [{\"number\": \"(201) 785-9076\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"00:30\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"00:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.542518"
+}

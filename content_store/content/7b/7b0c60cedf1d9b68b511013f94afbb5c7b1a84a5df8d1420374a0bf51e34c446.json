@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Raritan Bay Area YMCA\", \"alternate_name\": \"\", \"description\": \"Serves Middlesex county only\\n*1st and 3rd Wednesday last names A through L\\n*2nd and 4th Wednesday last names M through Z\", \"email\": \"\", \"url\": \"https://www.rbaymca.org/main/food-pantry-at-the-center-for-support-success-prosperity/\", \"status\": \"active\", \"address\": {\"address_1\": \"392 Smith Street\", \"address_2\": null, \"city\": \"Perth Amboy\", \"state_province\": \"NJ\", \"postal_code\": \"08861\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5119652, \"longitude\": -74.2796571}, \"phones\": [{\"number\": \"(732) 771-9910\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Pre-registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.655666"
+}

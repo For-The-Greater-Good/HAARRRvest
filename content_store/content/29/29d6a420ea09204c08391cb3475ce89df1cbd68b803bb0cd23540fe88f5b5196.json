@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Way\", \"alternate_name\": \"\", \"description\": \"Engages people, communities, and organizations focused on meeting the needs of children and their families and creating the conditions necessary for success.\", \"email\": \"\", \"url\": \"https://unitedwaysem.org/about-us/contact-subscribe/\", \"status\": \"active\", \"address\": {\"address_1\": \"300 Michigan Avenue\", \"address_2\": null, \"city\": \"Downtown Detroit\", \"state_province\": \"MI\", \"postal_code\": \"48226\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3318248, \"longitude\": -83.0512555}, \"phones\": [{\"number\": \"(313) 226-9200\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:29.934869"
+}

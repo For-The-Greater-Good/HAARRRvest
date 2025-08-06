@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Carroll County Food Sunday\", \"alternate_name\": \"\", \"description\": \"Open to Caroll County residents\", \"email\": \"\", \"url\": \" ccfoodsunday.org\", \"status\": \"active\", \"address\": {\"address_1\": \"10 Distillery Drive\", \"address_2\": \"\", \"city\": \"Westminster\", \"state_province\": \"MD\", \"postal_code\": \"21157\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5759608, \"longitude\": -76.99407169999999}, \"phones\": [{\"number\": \"(410) 857-7926\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"05:00\", \"closes_at\": \"18:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"05:00\", \"closes_at\": \"18:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"05:00\", \"closes_at\": \"18:15\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.484926"
+}

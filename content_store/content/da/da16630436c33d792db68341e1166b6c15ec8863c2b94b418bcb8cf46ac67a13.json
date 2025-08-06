@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Vincent de Paul\", \"alternate_name\": \"\", \"description\": \"* Volunteers are needed beginning at 8:30 AM.\\n* Serves 20024 zip code only.\", \"email\": \"\", \"url\": \"https://svdpdc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"14 M Street Southeast\", \"address_2\": null, \"city\": \"Navy Yard\", \"state_province\": \"DC\", \"postal_code\": \"20003\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8766634, \"longitude\": -77.0086303}, \"phones\": [{\"number\": \"(202) 615-7862\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.256186"
+}

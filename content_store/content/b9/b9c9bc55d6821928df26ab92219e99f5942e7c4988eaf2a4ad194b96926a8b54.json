@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ridgepoint Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"100 Hatfield Road\", \"address_2\": null, \"city\": \"Winter Haven\", \"state_province\": \"FL\", \"postal_code\": \"33880\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0217042, \"longitude\": -81.7715288}, \"phones\": [{\"number\": \"(863) 965-2464\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Come as early as 7:30am\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:21.937208"
+}

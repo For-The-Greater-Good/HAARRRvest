@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Samaritan House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"62324 Van Dyke Avenue\", \"address_2\": null, \"city\": \"Washington\", \"state_province\": \"MI\", \"postal_code\": \"48094\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.7501037, \"longitude\": -83.02254889999999}, \"phones\": [{\"number\": \"(586) 336-9956\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.574029"
+}

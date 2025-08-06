@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gainesville City Schools\", \"alternate_name\": \"\", \"description\": \"Meal service will be available until May 14th\", \"email\": \"\", \"url\": \"https://www.gcssk12.net/\", \"status\": \"active\", \"address\": {\"address_1\": \"508 Oak Street\", \"address_2\": null, \"city\": \"Gainesville\", \"state_province\": \"GA\", \"postal_code\": \"30501\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.30110929872014, \"longitude\": -83.83299017764786}, \"phones\": [{\"number\": \"(770) 536-5275\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.884368"
+}

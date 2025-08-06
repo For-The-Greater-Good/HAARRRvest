@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Soup Kitchen/Morristown\", \"alternate_name\": \"\", \"description\": \"-Clients are advised to check out their website(https://nourishnj.org/programs-and-services.html) for more services that are offered. A small food pantry is also available on site.\", \"email\": \"\", \"url\": \"https://nourishnj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"36 South Street\", \"address_2\": null, \"city\": \"Morristown\", \"state_province\": \"NJ\", \"postal_code\": \"07960\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7956013, \"longitude\": -74.4795346}, \"phones\": [{\"number\": \"(973) 267-0709\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.751858"
+}

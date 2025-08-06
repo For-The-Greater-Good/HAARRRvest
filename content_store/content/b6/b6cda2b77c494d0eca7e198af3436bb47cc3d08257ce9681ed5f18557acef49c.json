@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project Hospitality - Bay St\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://projecthospitality.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"205 Canal Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10013\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.71734439999999, \"longitude\": -73.9986816}, \"phones\": [{\"number\": \"(718) 815-0800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.864317"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lazarus House Emergency Food Pantry\", \"alternate_name\": \"\", \"description\": \"Burke and Pacific Avenues, Wildwood, NJ\", \"email\": \"\", \"url\": \"https://lazarushouseministries.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1500 Central Avenue\", \"address_2\": \"Ste 100\", \"city\": \"North Wildwood\", \"state_province\": \"NJ\", \"postal_code\": \"08260\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9994991, \"longitude\": -74.8025037}, \"phones\": [{\"number\": \"(609) 522-1500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.807264"
+}

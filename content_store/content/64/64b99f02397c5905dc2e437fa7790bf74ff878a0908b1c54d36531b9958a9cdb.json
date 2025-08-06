@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Varick Memorial Food Pantry\", \"alternate_name\": \"\", \"description\": \"Registrar is required on the  saturdays that the registrar is there\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"120 Atlantic Street\", \"address_2\": null, \"city\": \"Hackensack\", \"state_province\": \"NJ\", \"postal_code\": \"07601\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8829138, \"longitude\": -74.0484869}, \"phones\": [{\"number\": \"(201) 674-7024\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.982740"
+}

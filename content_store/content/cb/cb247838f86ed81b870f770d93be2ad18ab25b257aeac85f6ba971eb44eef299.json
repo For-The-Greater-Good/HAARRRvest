@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Common Place\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.thecommonplacephilly.org/give/\", \"status\": \"active\", \"address\": {\"address_1\": \"5736 Chester ave\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19143\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.93564859997387, \"longitude\": -75.22794420028029}, \"phones\": [{\"number\": \"(267) 275-8238\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:08.984398"
+}

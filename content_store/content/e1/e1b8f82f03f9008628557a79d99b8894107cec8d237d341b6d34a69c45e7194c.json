@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Department of Probation, Brooklyn\", \"alternate_name\": \"\", \"description\": \"Neon Nutrition Kitchen food pantry is  located at 345 adams street 6th floor\", \"email\": \"\", \"url\": \"https://www.nyc.gov/site/neon/programs/nutrition-kitchen.page\", \"status\": \"active\", \"address\": {\"address_1\": \"345 Adams St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11201\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6926226, \"longitude\": -73.9884258}, \"phones\": [{\"number\": \"(718) 488-3640\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.150411"
+}

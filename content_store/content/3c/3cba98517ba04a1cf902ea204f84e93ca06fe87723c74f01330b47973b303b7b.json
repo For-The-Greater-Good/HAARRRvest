@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Community Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"24038 Harbor View Road\", \"address_2\": null, \"city\": \"Port Charlotte\", \"state_province\": \"FL\", \"postal_code\": \"33980\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.9664789, \"longitude\": -82.0563253}, \"phones\": [{\"number\": \"(941) 348-6758\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.023549"
+}

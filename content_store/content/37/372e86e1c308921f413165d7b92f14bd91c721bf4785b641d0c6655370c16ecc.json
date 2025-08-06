@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Memorial Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.fmpcdover.org/mission.html\", \"status\": \"active\", \"address\": {\"address_1\": \"51 West Blackwell Street\", \"address_2\": \"1st Fl\", \"city\": \"Dover\", \"state_province\": \"NJ\", \"postal_code\": \"07801\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.88422389999999, \"longitude\": -74.5610239}, \"phones\": [{\"number\": \"(973) 366-0216\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Non-perishable food only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:18.040683"
+}

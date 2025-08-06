@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Victory Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.olvols.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"55 North Lake Avenue\", \"address_2\": null, \"city\": \"Troy\", \"state_province\": \"NY\", \"postal_code\": \"12180\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.7418988, \"longitude\": -73.6602907}, \"phones\": [{\"number\": \"(518) 273-7602\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.531598"
+}

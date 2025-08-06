@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Iglesia Pentecostal El Tabernacle\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3408 Bergenline Avenue\", \"address_2\": null, \"city\": \"Union City\", \"state_province\": \"NJ\", \"postal_code\": \"07087\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.773194, \"longitude\": -74.02829969999999}, \"phones\": [{\"number\": \"(201) 430-8647\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.076411"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Lord's Cupboard-Atco Assembly of God\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.atcoag.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"615 Jackson Rd\", \"address_2\": \"\", \"city\": \"Atco\", \"state_province\": \"NJ\", \"postal_code\": \"08004\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.77634, \"longitude\": -74.87064}, \"phones\": [{\"number\": \"(856) 381-1563\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.547458"
+}

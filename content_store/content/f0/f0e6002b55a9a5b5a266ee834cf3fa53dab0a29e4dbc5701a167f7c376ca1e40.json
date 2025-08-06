@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wells House Inc\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"519 North Locust Street\", \"address_2\": null, \"city\": \"Hagerstown\", \"state_province\": \"MD\", \"postal_code\": \"21740\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6478237, \"longitude\": -77.7127064}, \"phones\": [{\"number\": \"(301) 739-7748\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.644525"
+}

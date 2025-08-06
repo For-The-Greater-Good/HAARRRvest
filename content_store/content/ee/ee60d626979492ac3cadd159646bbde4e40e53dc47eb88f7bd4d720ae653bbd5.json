@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"South-Western City School - Norton Middle\", \"alternate_name\": \"\", \"description\": \"Children may pick up food beginning March 23, Monday through Friday from 10:00 a.m. - noon. Service will be suspended during normally scheduled Spring Break of April 6-10.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"215 Norton Road\", \"address_2\": null, \"city\": \"Westchester-Green Countrie\", \"state_province\": \"OH\", \"postal_code\": \"43228\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9475859, \"longitude\": -83.1419493}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.395777"
+}

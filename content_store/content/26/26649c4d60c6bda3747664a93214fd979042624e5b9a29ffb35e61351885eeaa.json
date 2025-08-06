@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christus Victor Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Serving residents of zip codes 21234, 21236, and 21286.\\n\\n\", \"email\": \"\", \"url\": \"https://www.christusvictoronline.org\", \"status\": \"active\", \"address\": {\"address_1\": \"Victor's Vittles Bldg.\", \"address_2\": \"9833 Harford Road\", \"city\": \"Parkville\", \"state_province\": \"MD\", \"postal_code\": \"21234\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.402111, \"longitude\": -76.5178016}, \"phones\": [{\"number\": \"(410) 668-8089\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.177016"
+}

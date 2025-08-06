@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Metropolitan Community Service - Metropolitan SDA Church of Plainfield\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.mymetrosda.org/events\", \"status\": \"active\", \"address\": {\"address_1\": \"1003 West 4th Street\", \"address_2\": null, \"city\": \"Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07063\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.60270999999999, \"longitude\": -74.436489}, \"phones\": [{\"number\": \"(908) 561-0141\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.579842"
+}

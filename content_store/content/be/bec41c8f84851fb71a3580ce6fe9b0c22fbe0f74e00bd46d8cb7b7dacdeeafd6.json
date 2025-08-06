@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Perpetual Help - Saint Agnes Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"141 Navesink Avenue\", \"address_2\": \"\", \"city\": \"Atlantic Highlands\", \"state_province\": \"NJ\", \"postal_code\": \"07716\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3990675, \"longitude\": -73.9881107}, \"phones\": [{\"number\": \"(732) 291-0272\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:18.496913"
+}

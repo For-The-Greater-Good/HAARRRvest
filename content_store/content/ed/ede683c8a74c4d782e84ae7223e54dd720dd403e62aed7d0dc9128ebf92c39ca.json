@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Primera Iglesia Pentecostal Abrigo del Altisimo\", \"alternate_name\": \"\", \"description\": \"Call or send a text message to +1973-931-1867 to make an appointment.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"75 Cedar St\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07501\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.910461, \"longitude\": -74.164239}, \"phones\": [{\"number\": \"(973) 931-1867\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must have telephone number\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:27.949029"
+}

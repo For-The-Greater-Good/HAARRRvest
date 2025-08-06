@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Staten Island SDA Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://statenislandny.adventistchurch.org\", \"status\": \"active\", \"address\": {\"address_1\": \"80 Union Ave\", \"address_2\": \"\", \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10303\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.634773, \"longitude\": -74.15831}, \"phones\": [{\"number\": \"(718) 442-4806\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.697545"
+}

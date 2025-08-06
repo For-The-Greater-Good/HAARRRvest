@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"WIC Clinic/Dover\", \"alternate_name\": \"\", \"description\": \"WIC provides services in nearby locations in Dover, Boonton and Morristown. WIC is by appointment only from the hours of 9:30am to 2:00pm. To make an appointment, call (973) 754-4575.\", \"email\": \"\", \"url\": \"http://headstartmc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"18 Thompson Avenue\", \"address_2\": \"18 Thompson Avenue\", \"city\": \"Dover\", \"state_province\": \"NJ\", \"postal_code\": \"07801\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8824714, \"longitude\": -74.56106609999999}, \"phones\": [{\"number\": \"(973) 989-5640\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.123166"
+}

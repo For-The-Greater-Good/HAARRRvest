@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Stanhope United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2 New Jersey 183\", \"address_2\": \"\", \"city\": \"Netcong\", \"state_province\": \"NJ\", \"postal_code\": \"07857\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9015896, \"longitude\": -74.70531299999999}, \"phones\": [{\"number\": \"(973) 347-0247\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.864409"
+}

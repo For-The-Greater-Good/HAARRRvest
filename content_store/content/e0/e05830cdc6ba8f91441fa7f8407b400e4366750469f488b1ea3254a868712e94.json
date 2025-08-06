@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Maywood/Rochelle Park Welfare \", \"alternate_name\": \"\", \"description\": \"Area Served: Maywood and Rochelle Park residents \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"151 West Passaic Street\", \"address_2\": null, \"city\": \"Rochelle Park\", \"state_province\": \"NJ\", \"postal_code\": \"07662\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9123847, \"longitude\": -74.07836329999999}, \"phones\": [{\"number\": \"(201) 581-7730\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:19.906654"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ethos Caf\\u00e9 Emmanuel (LGBT)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"15 Newbury Street\", \"address_2\": null, \"city\": \"Back Bay\", \"state_province\": \"MA\", \"postal_code\": \"02116\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3526225, \"longitude\": -71.0723869}, \"phones\": [{\"number\": \"(617) 536-3355\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.499903"
+}

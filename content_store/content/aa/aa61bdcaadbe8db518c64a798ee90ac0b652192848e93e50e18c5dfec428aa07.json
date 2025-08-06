@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Salvation Army Atlanta Kroc Center\", \"alternate_name\": \"\", \"description\": \"Fulton County residents\\n\\n\", \"email\": \"\", \"url\": \"https://kroccenteratlanta.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"967 Dewey Street Southwest\", \"address_2\": null, \"city\": \"Pittsburgh\", \"state_province\": \"GA\", \"postal_code\": \"30310\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7286885, \"longitude\": -84.4076228}, \"phones\": [{\"number\": \"(404) 638-7195\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.958228"
+}

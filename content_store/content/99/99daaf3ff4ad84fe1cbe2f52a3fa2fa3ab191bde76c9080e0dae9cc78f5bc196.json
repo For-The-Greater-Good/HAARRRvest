@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project Hospitality- Heberton\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"projecthospitality.org\", \"status\": \"active\", \"address\": {\"address_1\": \"221 Heberton Avenue\", \"address_2\": \"\", \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10302\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.629398, \"longitude\": -74.076927}, \"phones\": [{\"number\": \"(718) 815-0800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.785631"
+}

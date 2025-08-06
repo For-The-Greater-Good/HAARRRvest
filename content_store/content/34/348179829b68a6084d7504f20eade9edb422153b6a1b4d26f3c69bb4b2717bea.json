@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Congreso de Latinos Unidos\", \"alternate_name\": \"\", \"description\": \"* Remote and in-person services are offered at preference of client and by appointment\\n* Project Hope is NY's COVID-19 Emotional Support Helpline. Their Crisis Counselors are trained, knowledgeable, never judgmental, and they understand what you are going through. Talking to them is free, confidential, and anonymous.\\n\", \"email\": \"\", \"url\": \"https://www.congreso.net/\", \"status\": \"active\", \"address\": {\"address_1\": \"216 West Somerset Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19133\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9928854, \"longitude\": -75.1354291}, \"phones\": [{\"number\": \"(215) 763-8870\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Helps with income, rent, utility and food stamps\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.646243"
+}

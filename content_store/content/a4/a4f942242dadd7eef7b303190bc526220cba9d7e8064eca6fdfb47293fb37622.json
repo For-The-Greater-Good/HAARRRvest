@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"So What Else @ City Place on the Avenue\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.sowhatelse.org/baltimore\", \"status\": \"active\", \"address\": {\"address_1\": \"610 Pennsylvania Avenue\", \"address_2\": null, \"city\": \"Seton Hill\", \"state_province\": \"MD\", \"postal_code\": \"21201\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2959777, \"longitude\": -76.62634489999999}, \"phones\": [{\"number\": \"(410) 709-3272\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Any resident is eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Outdoor distribution\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.490327"
+}

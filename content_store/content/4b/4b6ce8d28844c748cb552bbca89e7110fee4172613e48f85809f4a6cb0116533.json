@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Chambers Memorial Baptist Church/Love Offering\", \"alternate_name\": \"\", \"description\": \"Every Tuesday Registration\\n12pm to 1pm\", \"email\": \"\", \"url\": \"http://www.chambersmemorialbc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"219 E 123rd St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10035\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8022648, \"longitude\": -73.9358673}, \"phones\": [{\"number\": \"(347) 600-9820\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.632370"
+}

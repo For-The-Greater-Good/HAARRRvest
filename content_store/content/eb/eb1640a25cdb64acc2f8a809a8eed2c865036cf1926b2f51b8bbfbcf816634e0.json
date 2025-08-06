@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Iglesia Jesucristo Es El Se\\u00f1or\", \"alternate_name\": \"\", \"description\": \"There is a food distribution on Saturday once a month as well. This always falls the Saturday after 2nd Monday of the month. Call in advance if you have any questions about this distribution.\", \"email\": \"\", \"url\": \"https://www.ijeesi.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"201 Spring Street\", \"address_2\": \"#223\", \"city\": \"Elizabeth\", \"state_province\": \"NJ\", \"postal_code\": \"07201\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.66500600000001, \"longitude\": -74.205558}, \"phones\": [{\"number\": \"(908) 355-1335\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Second or Third Saturday of the Month. Please call to confirm\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.752558"
+}

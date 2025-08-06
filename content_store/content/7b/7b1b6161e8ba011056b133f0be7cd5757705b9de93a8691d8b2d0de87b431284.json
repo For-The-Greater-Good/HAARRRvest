@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities Brooklyn and Queens, Church of the Holy Spirit\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ccbq.org/service/food-pantry-network/\", \"status\": \"active\", \"address\": {\"address_1\": \"1712 45th Street\", \"address_2\": null, \"city\": \"Borough Park\", \"state_province\": \"NY\", \"postal_code\": \"11204\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6314169, \"longitude\": -73.9805351}, \"phones\": [{\"number\": \"(929) 466-2871\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.657014"
+}

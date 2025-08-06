@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Central Synagogue\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"652 Lexington Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10022\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7596051, \"longitude\": -73.97054299999999}, \"phones\": [{\"number\": \"(212) 838-5122\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.212088"
+}

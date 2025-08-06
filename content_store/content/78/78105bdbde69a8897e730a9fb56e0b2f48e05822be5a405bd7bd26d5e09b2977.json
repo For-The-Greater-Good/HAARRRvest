@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SUYDAM STREET REFORMED CHURCH. \", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/SuydamStreetReformedChurch/\", \"email\": \"\", \"url\": \"http://suydamstreetreformedchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"74 Drift Street\", \"address_2\": \"\", \"city\": \"New Brunswick\", \"state_province\": \"NJ\", \"postal_code\": \"08901\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.490393, \"longitude\": -74.449311}, \"phones\": [{\"number\": \"(732) 249-6803\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.287921"
+}

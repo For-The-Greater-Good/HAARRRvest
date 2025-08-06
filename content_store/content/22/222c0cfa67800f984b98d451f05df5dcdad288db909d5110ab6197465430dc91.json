@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Peace Parish\", \"alternate_name\": \"\", \"description\": \"Must bring a CURRENT (not expired) photo ID.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"32 Carroll Avenue\", \"address_2\": null, \"city\": \"Williamstown\", \"state_province\": \"NJ\", \"postal_code\": \"08094\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6795269, \"longitude\": -74.98768969999999}, \"phones\": [{\"number\": \"(856) 629-6142\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.934812"
+}

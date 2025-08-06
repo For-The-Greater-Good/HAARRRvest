@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Loaves and Fish of Macon\", \"alternate_name\": \"\", \"description\": \"Please call before attending to make an appointment. You must speak with someone to confirm your appointmnt. 484-781-1007 ext 108. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"651 Martin Luther King Junior Boulevard\", \"address_2\": null, \"city\": \"Macon\", \"state_province\": \"GA\", \"postal_code\": \"31201\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.8315735, \"longitude\": -83.6289657}, \"phones\": [{\"number\": \"(478) 741-1007\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.832928"
+}

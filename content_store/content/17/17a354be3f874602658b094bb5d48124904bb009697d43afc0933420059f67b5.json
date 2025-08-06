@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"NAPLES SENIOR CENTER\", \"alternate_name\": \"\", \"description\": \"Food receivable: fresh produce, dry goods. Serves\\ndirectly to individuals, including prepared meals.\", \"email\": \"\", \"url\": \"https://www.naplesseniorcenter.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"6200 Autumn Oaks Lane\", \"address_2\": null, \"city\": \"Urban Estates\", \"state_province\": \"FL\", \"postal_code\": \"34119\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.271234, \"longitude\": -81.73400199999999}, \"phones\": [{\"number\": \"(239) 325-4444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must show proof of age over 60 yrs old\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Customers must sign a TEFAP form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.636235"
+}

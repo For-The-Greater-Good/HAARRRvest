@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Good Deeds Food Pantry\", \"alternate_name\": \"\", \"description\": \"This is a client choice pantry with **donation of 25$**\\n\", \"email\": \"\", \"url\": \"https://gooddeedsfoodpantry.org/about-us\", \"status\": \"active\", \"address\": {\"address_1\": \"752 Hamilton Street\", \"address_2\": null, \"city\": \"Somerset\", \"state_province\": \"NJ\", \"postal_code\": \"08873\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4902138, \"longitude\": -74.47458929999999}, \"phones\": [{\"number\": \"(848) 234-6270\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Donations required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.116076"
+}

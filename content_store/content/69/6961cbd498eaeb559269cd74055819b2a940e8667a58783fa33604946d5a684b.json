@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Peter Claver Food Pantry (St. Vincent De Paul Society)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"131 Ward Street\", \"address_2\": null, \"city\": \"Macon\", \"state_province\": \"GA\", \"postal_code\": \"31204\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.84384900000001, \"longitude\": -83.6495522}, \"phones\": [{\"number\": \"(478) 743-1454\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:15\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.863425"
+}

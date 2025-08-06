@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christ of Calvary Covenant\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \" http://www.christofcalvary.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"500 South 61st Street\", \"address_2\": null, \"city\": \"West Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19143\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9540514, \"longitude\": -75.2447609}, \"phones\": [{\"number\": \"(215) 472-5548\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Currently closed due to COVID\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Expecting to resume next year\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.677869"
+}

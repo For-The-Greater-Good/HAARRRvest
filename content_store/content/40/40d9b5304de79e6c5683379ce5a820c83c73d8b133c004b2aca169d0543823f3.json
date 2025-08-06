@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" St. Vincent dePaul Food Distribution\", \"alternate_name\": \"\", \"description\": \"Contact: Ms. Helen\", \"email\": \"\", \"url\": \"https://www.olhstchurch.com/food-assistance\", \"status\": \"active\", \"address\": {\"address_1\": \"1727 Lynch Road\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21222\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2683227, \"longitude\": -76.492817}, \"phones\": [{\"number\": \"(410) 284-6600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.023526"
+}

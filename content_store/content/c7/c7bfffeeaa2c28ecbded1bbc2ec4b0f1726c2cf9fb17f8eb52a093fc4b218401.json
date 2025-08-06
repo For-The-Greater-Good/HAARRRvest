@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Word of Deliverance\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.wodca.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"3324 Chesnee Highway\", \"address_2\": null, \"city\": \"Gaffney\", \"state_province\": \"SC\", \"postal_code\": \"29341\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.1293892, \"longitude\": -81.7891041}, \"phones\": [{\"number\": \"(828) 429-5624\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:35.954877"
+}

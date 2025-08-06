@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Daily Table - Food Delivery\", \"alternate_name\": \"\", \"description\": \"* Offers very low cost groceries.\\n* Choose your closest Daily Table location here: https://dailytable.org/shop, or download the Daily Table mobile app.\\n* Customers who pay with SNAP/EBT and are within 2 miles of store locations can take advantage of the current offer of free delivery. However, delivery fees will be charged to SNAP/EBT customers who are located outside of the 2 mile radius.\\n* Delivery times are available from Monday-Saturday 10am \\u2013 6pm and Sunday 12pm-5pm\", \"email\": \"\", \"url\": \"https://dorchester.dailytable.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"420 Washington Street\", \"address_2\": null, \"city\": \"Dorchester Center\", \"state_province\": \"MA\", \"postal_code\": \"02124\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.297063, \"longitude\": -71.0720852}, \"phones\": [{\"number\": \"(617) 506-0219\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"15:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.433467"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hapeville First United Methodist Church \", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://hapevilleumc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"3510 Atlanta Avenue\", \"address_2\": null, \"city\": \"Hapeville\", \"state_province\": \"GA\", \"postal_code\": \"30354\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.658058, \"longitude\": -84.4100916}, \"phones\": [{\"number\": \"(404) 762-9677\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.957324"
+}

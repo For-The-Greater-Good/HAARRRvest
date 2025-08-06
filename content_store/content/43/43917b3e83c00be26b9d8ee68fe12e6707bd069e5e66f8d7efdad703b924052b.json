@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Lexington Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"201 Mize Road\", \"address_2\": null, \"city\": \"Lexington\", \"state_province\": \"NC\", \"postal_code\": \"27295\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.8483162, \"longitude\": -80.26475909999999}, \"phones\": [{\"number\": \"(336) 248-6285\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:34.365917"
+}

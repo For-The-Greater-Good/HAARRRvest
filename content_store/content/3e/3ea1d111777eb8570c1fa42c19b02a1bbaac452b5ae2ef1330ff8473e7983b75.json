@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Montgomery College - Germantown Campus Food Pantry\", \"alternate_name\": \"\", \"description\": \"* Each of the three main campuses has a pantry stocked with snacks, food, personal hygiene products, and household items. As an MC student, you are welcome to pick up a snack to carry you through your next class and to take a few items home.\\n* Location: Dr. DeRionne P. Pollard Student Affairs and Science Building, SA149\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"20200 Observation Dr.\", \"address_2\": null, \"city\": \"Germantown\", \"state_province\": \"MD\", \"postal_code\": \"20876\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.186621, \"longitude\": -77.247154}, \"phones\": [{\"number\": \"(251) 744-4411\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"09:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"09:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"09:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"09:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"09:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Student ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.324241"
+}

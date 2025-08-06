@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Kings Church Inc. Outreach\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7003 Beatties Ford Road\", \"address_2\": null, \"city\": \"Sunset Road\", \"state_province\": \"NC\", \"postal_code\": \"28216\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.3267645, \"longitude\": -80.86871289999999}, \"phones\": [{\"number\": \"(704) 858-7460\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Line starts at 10am in the morning\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.187997"
+}

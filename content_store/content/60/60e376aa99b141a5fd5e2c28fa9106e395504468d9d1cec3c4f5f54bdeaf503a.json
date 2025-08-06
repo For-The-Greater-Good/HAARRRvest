@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Met Council on Housing\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.metcouncilonhousing.org/help-answers/\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7127753, \"longitude\": -74.0059728}, \"phones\": [{\"number\": \"(212) 979-0611\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:30\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:19.610588"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"GREATER BETHEL AME\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"102 Peachtree Street\", \"address_2\": null, \"city\": \"Statesboro\", \"state_province\": \"GA\", \"postal_code\": \"30458\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.4470847, \"longitude\": -81.7947437}, \"phones\": [{\"number\": \"(912) 531-4481, (912) 657-5366\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.531274"
+}

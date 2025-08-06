@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dwight Morrow High School\\tLisa\", \"alternate_name\": \"\", \"description\": \"Coordinator: Abdul\\t2018626256\\t\\nStart: 06/23/2025\\tEnd: 07/24/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"274 Knickerbocker Road\", \"address_2\": null, \"city\": \"Englewood\", \"state_province\": \"NJ\", \"postal_code\": \"07631\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9074373, \"longitude\": -73.9830506}, \"phones\": [{\"number\": \"(201) 862-6256\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:10.730807"
+}

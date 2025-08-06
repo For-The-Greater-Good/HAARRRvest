@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Brendan St. Ann Parish\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://saintbrendanchurch.org/events/food-pantry-distribution-day\", \"status\": \"active\", \"address\": {\"address_1\": \"268 E 207th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10467\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8753847, \"longitude\": -73.8776494}, \"phones\": [{\"number\": \"(718) 547-6655\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"13:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.102364"
+}

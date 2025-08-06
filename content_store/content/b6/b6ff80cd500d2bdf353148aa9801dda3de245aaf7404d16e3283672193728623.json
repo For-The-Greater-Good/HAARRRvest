@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Helping Hands Food Distribution Ministry (First Rising Zion Baptist)\", \"alternate_name\": \"\", \"description\": \"Requires photo identification and proof of income.\", \"email\": \"\", \"url\": \"https://www.firstrising.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"602 N Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20001\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.907039, \"longitude\": -77.0203274}, \"phones\": [{\"number\": \"(202) 289-4480\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.257365"
+}

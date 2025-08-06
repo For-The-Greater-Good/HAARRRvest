@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mercy Keepers Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.mercykeepersinc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"2021 9th Avenue South\", \"address_2\": \"2021 9th Avenue South\", \"city\": \"Melrose-Mercy\", \"state_province\": \"FL\", \"postal_code\": \"33712\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7612579, \"longitude\": -82.6605879}, \"phones\": [{\"number\": \"(727) 823-8795\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.315787"
+}

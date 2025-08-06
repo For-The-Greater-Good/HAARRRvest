@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Swanton Christian Food Pantry McQuade Law Office \", \"alternate_name\": \"\", \"description\": \"Serves: Residents of eastern Fulton County and western Lucas County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"105 Lincoln Avenue\", \"address_2\": null, \"city\": \"Swanton\", \"state_province\": \"OH\", \"postal_code\": \"43558\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.5892964, \"longitude\": -83.890247}, \"phones\": [{\"number\": \"(419) 826-0055\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.565400"
+}

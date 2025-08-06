@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Washington Heights Community Services (Star Older Adults Center)\", \"alternate_name\": \"\", \"description\": \"You must arrive at least 15 min before 12pm to receive a lunch. A contribution of $1.50 is requested for lunch\", \"email\": \"\", \"url\": \"http://starseniorcenter.org\", \"status\": \"active\", \"address\": {\"address_1\": \"650 W 187th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10033\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8536665, \"longitude\": -73.9328342}, \"phones\": [{\"number\": \"(212) 781-8331\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.739955"
+}

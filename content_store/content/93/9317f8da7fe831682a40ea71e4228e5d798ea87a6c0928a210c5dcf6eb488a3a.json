@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Redeemed Christian Fellowship\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/redeemed.christian/\", \"status\": \"active\", \"address\": {\"address_1\": \"18641 Wyoming\", \"address_2\": \"\", \"city\": \"Detroit\", \"state_province\": null, \"postal_code\": \"48221\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.428367, \"longitude\": -83.161138}, \"phones\": [{\"number\": \"(313) 208-2537\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.118554"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"RCCG-Victory House Parish\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"501 Comly Avenue\", \"address_2\": null, \"city\": \"Collingswood\", \"state_province\": \"NJ\", \"postal_code\": \"08107\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9105346, \"longitude\": -75.08807990000001}, \"phones\": [{\"number\": \"(856) 332-0157\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.096467"
+}

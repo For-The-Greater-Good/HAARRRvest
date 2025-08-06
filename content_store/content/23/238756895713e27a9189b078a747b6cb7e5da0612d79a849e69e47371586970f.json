@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Margaret of Cortona Parish\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stmargaretlfnj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"31 Chamberlain Ave\", \"address_2\": \"\", \"city\": \"Little Ferry\", \"state_province\": \"NJ\", \"postal_code\": \"07643\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.849436, \"longitude\": -74.042297}, \"phones\": [{\"number\": \"(201) 641-2988\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.442670"
+}

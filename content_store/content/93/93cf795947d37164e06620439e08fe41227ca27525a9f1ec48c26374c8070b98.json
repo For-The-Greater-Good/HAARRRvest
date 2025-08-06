@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hendersonville Seventh-Day Adventist Church\", \"alternate_name\": \"\", \"description\": \"County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2301 Asheville Highway\", \"address_2\": null, \"city\": \"Hendersonville\", \"state_province\": \"NC\", \"postal_code\": \"28791\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.3419396, \"longitude\": -82.4754026}, \"phones\": [{\"number\": \"(828) 697-4288\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:33.039977"
+}

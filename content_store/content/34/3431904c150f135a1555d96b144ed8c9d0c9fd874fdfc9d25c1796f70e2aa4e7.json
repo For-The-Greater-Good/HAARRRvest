@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Hunterdon Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.sprucerunlutheran.com/outreach/north-hunterdon-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"442 West Hill Road\", \"address_2\": null, \"city\": \"Glen Gardner\", \"state_province\": \"NJ\", \"postal_code\": \"08826\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.70801540000001, \"longitude\": -74.9226303}, \"phones\": [{\"number\": \"(908) 537-4824\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.914314"
+}

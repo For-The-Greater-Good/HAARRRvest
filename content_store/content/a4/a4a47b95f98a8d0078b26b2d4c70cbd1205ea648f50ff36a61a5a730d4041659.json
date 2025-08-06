@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Straight-Line Church\", \"alternate_name\": \"\", \"description\": \"Clients must be a New Jersey resident and have a form of I.D. The address of the church is 207 3rd Ave., Westville, NJ 08093. Contact : Omega #856-456-4588. Appointments are encouraged. Thank you\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"207 3rd Avenue\", \"address_2\": null, \"city\": \"Westville\", \"state_province\": \"NJ\", \"postal_code\": \"08093\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.87230539999999, \"longitude\": -75.12949669999999}, \"phones\": [{\"number\": \"(856) 456-4588\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.953217"
+}

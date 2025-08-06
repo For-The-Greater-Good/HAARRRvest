@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Clonmell United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Serve Gibbstown & Paulsboro\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"516 West Broad Street\", \"address_2\": null, \"city\": \"Gibbstown\", \"state_province\": \"NJ\", \"postal_code\": \"08027\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8245373, \"longitude\": -75.2914222}, \"phones\": [{\"number\": \"(856) 423-1196\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Serves New Jersey residents\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.206037"
+}

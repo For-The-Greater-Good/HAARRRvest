@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MCNY Bronx Campus Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Basically this is only for school student and there family but if there is needy in neighborhood we will not return\", \"email\": \"\", \"url\": \"https://www.mcny.edu/mcny-bronx/\", \"status\": \"active\", \"address\": {\"address_1\": \"463 E 149th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10455\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8151917, \"longitude\": -73.9152}, \"phones\": [{\"number\": \"(718) 665-7787\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.485575"
+}

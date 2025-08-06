@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Baltimore North Cluster Food Bank\", \"alternate_name\": \"\", \"description\": \"Serving Sparks, Monkton, White Hall, & Parkton only.\\nOpen until all food is distributed.\\nVery limited capacity.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"19401 Middletown Road\", \"address_2\": null, \"city\": \"Parkton\", \"state_province\": \"MD\", \"postal_code\": \"21120\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6562754, \"longitude\": -76.6990623}, \"phones\": [{\"number\": \"(443) 791-6757\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.201031"
+}

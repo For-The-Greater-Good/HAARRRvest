@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Joseph Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Emergency requests: Lodi Residents Only \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"40 Spring Street\", \"address_2\": null, \"city\": \"Lodi\", \"state_province\": \"NJ\", \"postal_code\": \"07644\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8743245, \"longitude\": -74.0852519}, \"phones\": [{\"number\": \"(973) 779-0643\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:19.937285"
+}

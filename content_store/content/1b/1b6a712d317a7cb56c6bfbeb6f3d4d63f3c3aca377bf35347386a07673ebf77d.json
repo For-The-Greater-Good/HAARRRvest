@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"BOCA HELPING HANDS / Bethel Evangelical Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.bocahelpinghands.org/hours-and-locations\", \"status\": \"active\", \"address\": {\"address_1\": \"5780 West Atlantic Avenue\", \"address_2\": null, \"city\": \"Delray Beach\", \"state_province\": \"FL\", \"postal_code\": \"33484\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.4559032, \"longitude\": -80.1350513}, \"phones\": [{\"number\": \"(561) 417-0913\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.634173"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Unbreakable Courage Ministries\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.unbreakablecourage.com/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1078 E 37th St\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11210\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.630497, \"longitude\": -73.940865}, \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"10:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.112167"
+}

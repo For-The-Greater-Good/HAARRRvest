@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bergen's Place Youth Shelter (Division of Family Guidance)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"200 North Street\", \"address_2\": null, \"city\": \"Teterboro\", \"state_province\": \"NJ\", \"postal_code\": \"07608\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8645109, \"longitude\": -74.05360440000001}, \"phones\": [{\"number\": \"(201) 336-3951\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.859658"
+}

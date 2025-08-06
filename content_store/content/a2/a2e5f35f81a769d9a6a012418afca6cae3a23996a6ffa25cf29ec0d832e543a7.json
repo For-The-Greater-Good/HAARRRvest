@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Collective Fare\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.collectivefare.com/need-a-meal\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7127753, \"longitude\": -74.0059728}, \"phones\": [{\"number\": \"(929) 229-0029\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Collective Fare offers recurring free meal delivery or low-cost grocery delivery to East Brooklyn. Meals are free, but groceries (generous box of produce) cost $10 if paying cash/credit/debit, $7 if paying with SNAP. Delivery is free. Payment happens at time of delivery.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:19.676454"
+}

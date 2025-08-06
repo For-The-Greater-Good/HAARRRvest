@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wakefield Interfaith Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"467 Main Street\", \"address_2\": null, \"city\": \"Wakefield\", \"state_province\": \"MA\", \"postal_code\": \"01880\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.5012956, \"longitude\": -71.06987099999999}, \"phones\": [{\"number\": \"(781) 245-2510\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:30\", \"closes_at\": \"23:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.655486"
+}

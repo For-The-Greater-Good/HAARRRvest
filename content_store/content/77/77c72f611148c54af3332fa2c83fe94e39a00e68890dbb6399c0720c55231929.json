@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"located in downtown Chestertown, Maryland at Christ United Methodist Church. On the corner of High and Mill Streets, please use the Mill Street entrance.\\nResidents of Kent County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Christ United Methodist Church\", \"address_2\": \"401 High Street\", \"city\": \"Chestertown\", \"state_province\": \"MD\", \"postal_code\": \"21620\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.210391, \"longitude\": -76.0688607}, \"phones\": [{\"number\": \"(410) 778-0550\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.871950"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Joseph Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stjosephbcphilly.wordpress.com\", \"status\": \"active\", \"address\": {\"address_1\": \"224 North 54th Street\", \"address_2\": \"\", \"city\": \"Haddington\", \"state_province\": \"PA\", \"postal_code\": \"19139\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9647106, \"longitude\": -75.2281824}, \"phones\": [{\"number\": \"(215) 921-9638\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:14.679298"
+}

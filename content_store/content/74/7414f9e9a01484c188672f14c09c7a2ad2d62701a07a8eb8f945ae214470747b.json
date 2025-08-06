@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tenth Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1701 Delancey Place\", \"address_2\": null, \"city\": \"Rittenhouse Square\", \"state_province\": \"PA\", \"postal_code\": \"19103\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.94702600000001, \"longitude\": -75.1699599}, \"phones\": [{\"number\": \"(215) 735-7688\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.520983"
+}

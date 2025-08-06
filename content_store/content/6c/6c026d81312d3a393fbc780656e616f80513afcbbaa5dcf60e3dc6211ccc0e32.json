@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Paul United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Closed during Thanksgiving weekend.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1201 Madison Avenue\", \"address_2\": null, \"city\": \"Center City\", \"state_province\": \"OH\", \"postal_code\": \"43604\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6547609, \"longitude\": -83.5427952}, \"phones\": [{\"number\": \"(419) 243-8284\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.104058"
+}

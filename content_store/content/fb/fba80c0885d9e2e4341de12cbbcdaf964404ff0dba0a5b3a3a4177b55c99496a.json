@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Lexington Food Pantry (PEAP)\", \"alternate_name\": \"\", \"description\": \"Serving Pike, Bearfield, Clayton & Pleasant Twp\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5552 Ohio 37\", \"address_2\": null, \"city\": \"New Lexington\", \"state_province\": \"OH\", \"postal_code\": \"43764\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7218191, \"longitude\": -82.22768289999999}, \"phones\": [{\"number\": \"(740) 343-4169\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.624013"
+}

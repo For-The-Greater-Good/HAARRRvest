@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities of Merrimack Valley\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ccab.org/basic-needs/food-pantries/\", \"status\": \"active\", \"address\": {\"address_1\": \"70 Lawrence Street\", \"address_2\": null, \"city\": \"Lowell\", \"state_province\": \"MA\", \"postal_code\": \"01852\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6406709, \"longitude\": -71.304148}, \"phones\": [{\"number\": \"(978) 454-9946\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.978957"
+}

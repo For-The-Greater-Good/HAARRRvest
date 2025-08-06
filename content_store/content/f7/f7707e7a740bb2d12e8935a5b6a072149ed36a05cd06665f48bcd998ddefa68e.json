@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CAF Food Pantry\", \"alternate_name\": \"\", \"description\": \"They refer to loaves and fishes \\n\\nServices Provided: Emergency Food, Self sufficiency Project, Job Readiness Training\\nNutrition Assistance Project, Computer Classes, High School Equivalency, On and off site Internships and Apprenticeships.\\n\\n\", \"email\": \"\", \"url\": \"http://www.charlotteareafund.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"901 North Tryon Street\", \"address_2\": null, \"city\": \"Lockwood\", \"state_province\": \"NC\", \"postal_code\": \"28206\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2339137, \"longitude\": -80.8348031}, \"phones\": [{\"number\": \"(704) 372-3010\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.455496"
+}

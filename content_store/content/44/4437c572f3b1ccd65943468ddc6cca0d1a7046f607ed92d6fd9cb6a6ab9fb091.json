@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Union Grove Missionary Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.ugmbc-ny.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1488   Hoe Avenue\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10460\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.832905, \"longitude\": -73.889114}, \"phones\": [{\"number\": \"(347) 590-3881\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.333231"
+}

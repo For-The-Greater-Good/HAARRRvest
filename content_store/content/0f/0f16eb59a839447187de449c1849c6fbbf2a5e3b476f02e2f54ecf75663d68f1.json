@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Koinonia Christian Ministries Community Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1405 Greenville Boulevard Southwest\", \"address_2\": null, \"city\": \"Greenville\", \"state_province\": \"NC\", \"postal_code\": \"27834\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.57340260000001, \"longitude\": -77.42063449999999}, \"phones\": [{\"number\": \"(252) 752-1898\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.001936"
+}

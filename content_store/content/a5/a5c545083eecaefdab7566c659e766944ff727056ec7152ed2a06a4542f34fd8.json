@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bentley Community Services\", \"alternate_name\": \"\", \"description\": \"pantry  help low income families take $85 a month and give $1200 worth of vouchers to shop high-quality food every month so they give four vouchers each week worth $300 to every family\", \"email\": \"\", \"url\": \"https://bentleycommunityservices.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3562 New Jersey 27\", \"address_2\": null, \"city\": \"Kendall Park\", \"state_province\": \"NJ\", \"postal_code\": \"08824\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4211298, \"longitude\": -74.5765724}, \"phones\": [{\"number\": \"(908) 227-0684\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Donations required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.712999"
+}

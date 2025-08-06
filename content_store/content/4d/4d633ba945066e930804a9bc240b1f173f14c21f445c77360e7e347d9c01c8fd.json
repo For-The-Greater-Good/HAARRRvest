@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"School 22- William F. Halloran Sp 2\", \"alternate_name\": \"\", \"description\": \"Wanda\\tVasquez\\t9084365403\\tstarts: 07/01/2025\\t08/08/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"612 Pulaski Street\", \"address_2\": null, \"city\": \"Elizabeth\", \"state_province\": \"NJ\", \"postal_code\": \"07202\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.64572499999999, \"longitude\": -74.208445}, \"phones\": [{\"number\": \"(908) 436-4874\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:45\", \"closes_at\": \"15:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:45\", \"closes_at\": \"15:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:45\", \"closes_at\": \"15:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:45\", \"closes_at\": \"15:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:45\", \"closes_at\": \"15:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:13.104114"
+}

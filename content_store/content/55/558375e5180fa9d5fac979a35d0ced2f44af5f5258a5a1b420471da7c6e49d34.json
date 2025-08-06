@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SOCKS\", \"alternate_name\": \"\", \"description\": \"Only serving neighborhood.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"160 Woodlawn Street\", \"address_2\": null, \"city\": \"Belmont\", \"state_province\": \"NC\", \"postal_code\": \"28012\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2671166, \"longitude\": -81.0442194}, \"phones\": [{\"number\": \"(704) 827-8780\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:34.474247"
+}

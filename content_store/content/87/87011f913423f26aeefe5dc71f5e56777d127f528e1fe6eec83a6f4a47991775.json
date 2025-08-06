@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cathedral International Food Pantry\", \"alternate_name\": \"\", \"description\": \"Hours: Wed, 3:30 pm-5 pm & by appointment.\", \"email\": \"\", \"url\": \"https://cathedralinternational.org/asbury-park/\", \"status\": \"active\", \"address\": {\"address_1\": \"1210 Grand Avenue\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"NJ\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2242914, \"longitude\": -74.0053045}, \"phones\": [{\"number\": \"(732) 638-0700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.634316"
+}

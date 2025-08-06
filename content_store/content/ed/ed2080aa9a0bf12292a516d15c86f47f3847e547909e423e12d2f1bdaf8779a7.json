@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Concord Baptist Church\", \"alternate_name\": \"\", \"description\": \"* Hours open: the 4th Friday of each month from 10 am until food is gone .\\n* For pantry  distribution day for months of November and December please call the church to confirm date.\\n* We are primarily a drive through facility ,however we do accept walkers.\\n* We do not ask for proof of address or provide clothing.\\n* Pantry is only closed month of August .\\n* We provide groceries including meats.\\n* All are welcome.\\n* Please call church for any questions.\\n\\t* 410-367-1117\\n\\t* Food Pantry Coordinator\\n\\t* Patricia Brockington\\n\\n\", \"email\": \"\", \"url\": \"concordbaptistchurchbaltimore@gmail.com\", \"status\": \"active\", \"address\": {\"address_1\": \"5204 Liberty Heights Avenue\", \"address_2\": null, \"city\": \"Gwynn Oak\", \"state_province\": \"MD\", \"postal_code\": \"21207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3338336, \"longitude\": -76.7020512}, \"phones\": [{\"number\": \"(410) 367-1117\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.526883"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Spencer Memorial United Methodist Church - Food Distribution Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://northdavidson.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1025 East 36th Street\", \"address_2\": null, \"city\": \"North Charlotte\", \"state_province\": \"NC\", \"postal_code\": \"28205\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2435179, \"longitude\": -80.7989752}, \"phones\": [{\"number\": \"(704) 334-2550\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.961501"
+}

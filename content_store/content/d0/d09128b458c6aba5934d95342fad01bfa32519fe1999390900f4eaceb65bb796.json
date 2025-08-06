@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"East End House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ceoccambridge.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"105 Spring Street\", \"address_2\": null, \"city\": \"East Cambridge\", \"state_province\": \"MA\", \"postal_code\": \"02141\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3694944, \"longitude\": -71.0830269}, \"phones\": [{\"number\": \"(617) 876-4444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:17.246666"
+}

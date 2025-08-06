@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Allaire Crossing Mobile\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2011 New Bedford Road\", \"address_2\": null, \"city\": \"Wall Township\", \"state_province\": \"NJ\", \"postal_code\": \"07719\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1511749, \"longitude\": -74.0579092}, \"phones\": [{\"number\": \"(732) 449-5889\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.186070"
+}

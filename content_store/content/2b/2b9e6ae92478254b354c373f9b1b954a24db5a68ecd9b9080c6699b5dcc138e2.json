@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lamonte Annex\", \"alternate_name\": \"\", \"description\": \"Rasha\\tNaser\\t7323562500\\nStarts: 06/30/2025 ends:\\t07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"330 West 2nd Street\", \"address_2\": null, \"city\": \"Bound Brook\", \"state_province\": \"NJ\", \"postal_code\": \"08805\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5636482, \"longitude\": -74.54157339999999}, \"phones\": [{\"number\": \"(732) 652-7928\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:15\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:11.632503"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FBC Crystal River\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.firstbaptistcr.org/food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"700 North Citrus Avenue\", \"address_2\": null, \"city\": \"Crystal River\", \"state_province\": \"FL\", \"postal_code\": \"34428\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.9018038, \"longitude\": -82.5938849}, \"phones\": [{\"number\": \"(352) 795-3367\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.791508"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SisterHood Inc. - Food Distribution Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.philabundance.org/lets-eat/\", \"status\": \"active\", \"address\": {\"address_1\": \"402 York St\", \"address_2\": \"\", \"city\": \"Burlington\", \"state_province\": \"NJ\", \"postal_code\": \"08016\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.07796, \"longitude\": -74.85487}, \"phones\": [{\"number\": \"(609) 747-9333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.770195"
+}

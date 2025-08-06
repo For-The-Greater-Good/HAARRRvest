@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"School No. 2\", \"alternate_name\": \"\", \"description\": \"Coordinator: Carolanne\\tBerrigan\\t9084862800\\nStart: 06/30/2025\\tEnd: 08/07/2025\\n\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1700 South Wood Avenue\", \"address_2\": null, \"city\": \"Linden\", \"state_province\": \"NJ\", \"postal_code\": \"07036\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6219926, \"longitude\": -74.2376493}, \"phones\": [{\"number\": \"(908) 862-3287\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:10.649735"
+}

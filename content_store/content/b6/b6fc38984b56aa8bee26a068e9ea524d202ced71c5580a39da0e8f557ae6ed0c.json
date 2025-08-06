@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Episcopal Last Resort Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://trinitynj.com/trinity-center-for-community/\", \"status\": \"active\", \"address\": {\"address_1\": \"503 Asbury Avenue\", \"address_2\": \"(Corner of Grand)\", \"city\": \"Asbury Park\", \"state_province\": \"NJ\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2200464, \"longitude\": -74.00785479999999}, \"phones\": [{\"number\": \"(732) 775-5084\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.645326"
+}

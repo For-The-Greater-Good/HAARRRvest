@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"THE OPEN SHELTER, INC.\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://theopenshelter.org/services/\", \"status\": \"active\", \"address\": {\"address_1\": \"1037 Parsons Avenue\", \"address_2\": null, \"city\": \"South Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43206\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9424793, \"longitude\": -82.98333579999999}, \"phones\": [{\"number\": \"(614) 222-2885\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointment not required, but they prefer if you call ahead so they can have your food box ready\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.019590"
+}

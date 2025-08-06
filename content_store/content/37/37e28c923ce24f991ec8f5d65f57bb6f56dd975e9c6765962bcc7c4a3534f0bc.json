@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Self-Service DTA Kiosk at Plymouth MRC Office (limited services available)\", \"alternate_name\": \"\", \"description\": \"**Parking**\\n* Large parking lot near building.\\n\\n**Services**\\n* There is an official Department of Transitional Assistance Kiosk at this location with access to the DTA Connect mobile application and website. [Learn what you can do through DTA Connect.](https://www.mass.gov/guides/how-to-contact-dta)\\n\\n\\n***NOTE:*** DTA staff will be available every weekday, Monday - Friday, from 8:45 a.m. - 5:00 p.m.\", \"email\": \"\", \"url\": \"https://www.mass.gov/locations/self-service-dta-kiosk-at-plymouth-mrc-office-limited-services-available\", \"status\": \"active\", \"address\": {\"address_1\": \"38 Industrial Park Road\", \"address_2\": null, \"city\": \"Plymouth\", \"state_province\": \"MA\", \"postal_code\": \"02360\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.9599771, \"longitude\": -70.6997014}, \"phones\": [{\"number\": \"(877) 382-2363\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:45\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:45\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:45\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:45\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:45\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:16.033151"
+}

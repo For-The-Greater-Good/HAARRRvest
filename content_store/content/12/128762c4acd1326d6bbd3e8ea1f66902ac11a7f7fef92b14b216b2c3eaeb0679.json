@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bushwick Mutual Aid / Ayuda Mutua\", \"alternate_name\": \"\", \"description\": \"For ( **FOOD PANTRY** ) Required to fill out assistance form online. Food givien upon availability. To make an appointment, go to https://bushwickayudamutua.com/request/ currently a 4-6 week waitlist\", \"email\": \"\", \"url\": \"https://bushwickayudamutua.com/calendar/\", \"status\": \"active\", \"address\": {\"address_1\": \"176 Saint Nicholas Avenue\", \"address_2\": null, \"city\": \"Bushwick\", \"state_province\": \"NY\", \"postal_code\": \"11237\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7041015, \"longitude\": -73.9163523}, \"phones\": [{\"number\": \"(929) 277-9016\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Fill out the form on their website for assistance\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:19.297348"
+}

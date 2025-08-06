@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Eastern Interfaith\", \"alternate_name\": \"\", \"description\": \"To schedule, please call Dottie at 410-406-2288\\n\\nMust be a resident of Essex\\n\\nID required\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3 Bowleys Quarters Road\", \"address_2\": null, \"city\": \"Middle River\", \"state_province\": \"MD\", \"postal_code\": \"21220\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3418299, \"longitude\": -76.3954249}, \"phones\": [{\"number\": \"(410) 406-2288\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.122116"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holy Child Parish\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"321 Orchard Avenue\", \"address_2\": \"\", \"city\": \"Runnemede\", \"state_province\": \"NJ\", \"postal_code\": \"08078\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8524079, \"longitude\": -75.07972}, \"phones\": [{\"number\": \"(856) 939-1681\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:18.130926"
+}

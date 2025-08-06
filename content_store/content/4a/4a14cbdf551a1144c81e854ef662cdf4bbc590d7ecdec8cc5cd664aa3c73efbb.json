@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Norwood Food Pantry\", \"alternate_name\": \"\", \"description\": \"New clients are required to complete paperwork by their third visit to the pantry.  You may register online through their website or register with the Intake Coordinator when you visit the Pantry. \\n\\nVisit thier website for all documents needed (https://www.norwoodpantry.org/registration).\", \"email\": \"\", \"url\": \"https://www.norwoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"150 Chapel Street\", \"address_2\": null, \"city\": \"Norwood\", \"state_province\": \"MA\", \"postal_code\": \"02062\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1825753, \"longitude\": -71.21228479999999}, \"phones\": [{\"number\": \"(781) 291-3663\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:40\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.799764"
+}

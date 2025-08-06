@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Meal At Noon\", \"alternate_name\": \"\", \"description\": \"Providing 60 to 70 hot meals every Saturday noon.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"93 Liberty Street\", \"address_2\": null, \"city\": \"Long Branch\", \"state_province\": \"NJ\", \"postal_code\": \"07740\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3077577, \"longitude\": -73.9859883}, \"phones\": [{\"number\": \"(732) 229-1188\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.450460"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Northwest Church of God\", \"alternate_name\": \"\", \"description\": \"- Not accepting new clients\\n- A utility bill is required\", \"email\": \"\", \"url\": \"http://nwtcog.cc/\", \"status\": \"active\", \"address\": {\"address_1\": \"5131 Gunn Highway\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33624\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0573162, \"longitude\": -82.5297455}, \"phones\": [{\"number\": \"(813) 961-7278\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:30\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Driver's License\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.509481"
+}

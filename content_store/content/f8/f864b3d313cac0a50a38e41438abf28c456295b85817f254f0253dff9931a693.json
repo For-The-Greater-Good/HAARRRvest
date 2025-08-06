@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Western Fairfax Christian Ministries Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4511 Daly Dr\", \"address_2\": \"Suite J\", \"city\": \"Chantilly\", \"state_province\": \"VA\", \"postal_code\": \"20151\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.883824, \"longitude\": -77.443052}, \"phones\": [{\"number\": \"(703) 988-9656\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"22:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"22:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"22:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"22:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"22:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.300991"
+}

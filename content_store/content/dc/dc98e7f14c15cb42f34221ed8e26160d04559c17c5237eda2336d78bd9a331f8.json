@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Scarlet Raptor Food Pantry\", \"alternate_name\": \"\", \"description\": \"Rutgers students only; non-perish. & perish.; once a week\\n\\nCall the food pantry to make an appointment on Tuesday and Thursdays from 1 to 3:45 pm\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Camden Student Wellness Center\", \"address_2\": \"326 Penn Street\", \"city\": \"Cooper Grant\", \"state_province\": \"NJ\", \"postal_code\": \"08102\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.94862029999999, \"longitude\": -75.1239674}, \"phones\": [{\"number\": \"(856) 225-6005\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.882495"
+}

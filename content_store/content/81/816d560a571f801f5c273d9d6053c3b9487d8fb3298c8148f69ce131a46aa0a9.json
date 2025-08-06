@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church, Manna House Food Ministry\", \"alternate_name\": \"\", \"description\": \"FOOD PANTRY: Provides perishable and non-perishable emergency food items. Emergency food is distributed at the church's Food Distribution Center.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"523 Booth Street\", \"address_2\": null, \"city\": \"Salisbury\", \"state_province\": \"MD\", \"postal_code\": \"21801\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.37755, \"longitude\": -75.60503}, \"phones\": [{\"number\": \"(410) 548-5486\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:29.091028"
+}

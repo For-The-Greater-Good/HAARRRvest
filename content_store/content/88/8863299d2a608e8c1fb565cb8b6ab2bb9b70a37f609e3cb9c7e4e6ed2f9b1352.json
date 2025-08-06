@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Peniel Baptist Church Food Cupboard\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://penielbaptistchurch.org/contact-us\", \"status\": \"active\", \"address\": {\"address_1\": \"2515 West Jefferson Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19121\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9784343, \"longitude\": -75.1768364}, \"phones\": [{\"number\": \"(215) 983-9815\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.796514"
+}

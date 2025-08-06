@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Milford Center Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"55 East State Street\", \"address_2\": null, \"city\": \"Milford Center\", \"state_province\": \"OH\", \"postal_code\": \"43045\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1779882, \"longitude\": -83.4332132}, \"phones\": [{\"number\": \"(937) 349-3741\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.277414"
+}

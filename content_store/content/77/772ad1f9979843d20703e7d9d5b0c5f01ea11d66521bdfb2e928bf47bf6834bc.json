@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Union Pool\", \"alternate_name\": \"\", \"description\": \"Food distribute at 11am but need to be in line at 9 am pantry need to count people to distribute food among all\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"484 Union Avenue\", \"address_2\": null, \"city\": \"Williamsburg\", \"state_province\": \"NY\", \"postal_code\": \"11211\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7149739, \"longitude\": -73.9514865}, \"phones\": [{\"number\": \"(718) 609-0484\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:27.210785"
+}

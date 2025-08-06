@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Burlington Food Pantry\", \"alternate_name\": \"\", \"description\": \"Diapers and Baby Food is available.\\n\\nClient should meet the income guidelines.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"21 Murray Avenue\", \"address_2\": null, \"city\": \"Burlington\", \"state_province\": \"MA\", \"postal_code\": \"01803\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.51480369999999, \"longitude\": -71.2035155}, \"phones\": [{\"number\": \"(781) 270-6625\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.739754"
+}

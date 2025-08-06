@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"BEOF-Bayonne Economic Opportunity Foundation\", \"alternate_name\": \"\", \"description\": \"Closed during lunch hours which is beteen 12 to 1 everyday\", \"email\": \"\", \"url\": \"http://beof.org/community-outreach/\", \"status\": \"active\", \"address\": {\"address_1\": \"555 Kennedy Blvd.\", \"address_2\": \"\", \"city\": \"Bayonne\", \"state_province\": \"NJ\", \"postal_code\": \"07002\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.665421, \"longitude\": -74.124105}, \"phones\": [{\"number\": \"(201) 437-7222\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of Residency (Lease contract)\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:18.423088"
+}

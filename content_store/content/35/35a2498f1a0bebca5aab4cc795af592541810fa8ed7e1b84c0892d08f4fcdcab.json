@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Friendship Missionary Baptist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"* Located on COTA line 10.\\n* Closed the first Tuesday and first Saturday of each month\\n* Closed on the Tuesday following a major Monday Holiday\\n* Schedule by calling 211 or TEXT to 614-702-7772 with first and last name, current address, phone number and date they would like to visit. \\n* Clients may also register through the RSVP at FreshTrak.com.  \\n* Serves 43204, 43215, 43222, 43223, 43228, 43119. \", \"email\": \"\", \"url\": \"https://www.friendshipohio.org/home\", \"status\": \"active\", \"address\": {\"address_1\": \"1775 West Broad Street\", \"address_2\": null, \"city\": \"Hilltop\", \"state_province\": \"OH\", \"postal_code\": \"43223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9553462, \"longitude\": -83.04563979999999}, \"phones\": [{\"number\": \"(614) 279-0008\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.866326"
+}

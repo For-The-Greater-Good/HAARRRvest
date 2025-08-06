@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"El Centro Hispanoamericano\", \"alternate_name\": \"\", \"description\": \"We are located in the United Presbyterian Church of Plainfield. Our entrance is at the rear of the church, just off the parking lot. Look for our sign at the top of the ramp leading to our entrance.\\nAdvised to come earlier than 10 am to the food pantry because distribution starts at 10\", \"email\": \"\", \"url\": \"https://elcentronj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"525 East Front Street\", \"address_2\": \"\", \"city\": \"Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07060\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6256596, \"longitude\": -74.4178}, \"phones\": [{\"number\": \"(908) 753-8730\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Low cost/free immigration legal services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.364251"
+}

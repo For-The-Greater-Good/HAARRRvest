@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MUNA Social Services - An Namirah\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.munassinc.org/locations/brooklyn-ny\", \"status\": \"active\", \"address\": {\"address_1\": \"2135 Pitkin Ave\", \"address_2\": \"\", \"city\": \" Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11207\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6724374, \"longitude\": -73.893641}, \"phones\": [{\"number\": \"(212) 920-6202\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.715873"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Kingdom cares / East County Rec Center\", \"alternate_name\": \"\", \"description\": \"Text  \\u201cKC East County\\u201d to 240-201-3300 to register.\\n\", \"email\": \"\", \"url\": \"https://kingdom.global/kingdom-cares/\", \"status\": \"active\", \"address\": {\"address_1\": \"3310 Gateshead Manor Way\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20904\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0785773, \"longitude\": -76.9417102}, \"phones\": [{\"number\": \"(301) 589-0866\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Grab-and-Go Food Distribution\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.740236"
+}

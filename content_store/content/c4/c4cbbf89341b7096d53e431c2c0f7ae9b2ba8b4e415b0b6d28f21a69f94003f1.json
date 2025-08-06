@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Campaign Against Hunger - SuperPantry\", \"alternate_name\": \"\", \"description\": \"For pick up questions, call: 718.773.3551 x 142\\nFor delivery information, call: 917.325.2975\", \"email\": \"\", \"url\": \"https://www.tcahnyc.org/locations/\", \"status\": \"active\", \"address\": {\"address_1\": \"2004 Fulton Street\", \"address_2\": null, \"city\": \"Ocean Hill\", \"state_province\": \"NY\", \"postal_code\": \"11233\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6785159, \"longitude\": -73.9181299}, \"phones\": [{\"number\": \"(718) 773-3551\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Delivery may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:19.650730"
+}

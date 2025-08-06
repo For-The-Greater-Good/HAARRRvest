@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Boston Dream Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://bostondreamcenter.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"58 Winter Place\", \"address_2\": \"6th Floor\", \"city\": \"Downtown\", \"state_province\": \"MA\", \"postal_code\": \"02108\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3556684, \"longitude\": -71.06131859999999}, \"phones\": [{\"number\": \"(617) 350-5555\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.346931"
+}

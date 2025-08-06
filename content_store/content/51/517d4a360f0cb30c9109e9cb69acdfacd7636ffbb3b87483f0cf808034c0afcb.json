@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Philadelphia Brotherhood Rescue Mission\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"401 East Girard Avenue\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19125\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.97048119999999, \"longitude\": -75.1304804}, \"phones\": [{\"number\": \"(215) 739-4517\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.772722"
+}

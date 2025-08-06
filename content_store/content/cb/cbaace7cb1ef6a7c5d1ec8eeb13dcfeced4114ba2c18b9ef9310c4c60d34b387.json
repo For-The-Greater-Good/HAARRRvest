@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Issacs Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://isaacscenter.org/food-and-nutrition\", \"status\": \"active\", \"address\": {\"address_1\": \"415 E 93rd St\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"10128\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7812666, \"longitude\": -73.9450749}, \"phones\": [{\"number\": \"(212) 360-7620\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"For homebound seniors\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.778954"
+}

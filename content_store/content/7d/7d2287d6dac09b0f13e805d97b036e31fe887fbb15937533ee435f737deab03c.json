@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady Of Lourdes Parish\", \"alternate_name\": \"\", \"description\": \"Every month will have 4 weeks for the distribution unless - closed for a reason. You're allowed 2 visits for the distribtuion.\", \"email\": \"\", \"url\": \"http://www.ourladyoflourdesqvny.org\", \"status\": \"active\", \"address\": {\"address_1\": \"92-96 220 St.\", \"address_2\": \"\", \"city\": \"Queens Village\", \"state_province\": \"NY\", \"postal_code\": \"11428\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.722912, \"longitude\": -73.736465}, \"phones\": [{\"number\": \"(718) 479-0924\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.691290"
+}

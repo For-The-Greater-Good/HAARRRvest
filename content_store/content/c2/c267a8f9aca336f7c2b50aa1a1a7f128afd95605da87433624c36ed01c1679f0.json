@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Gambian Youth Organization Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"thegyo.com\", \"status\": \"active\", \"address\": {\"address_1\": \"214 E 181st\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10457\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.854286, \"longitude\": -73.900917}, \"phones\": [{\"number\": \"(917) 974-1095\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Temporarily closed\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.027752"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary Baptist Church\", \"alternate_name\": \"\", \"description\": \"Recipients call in at 9:00 a.m. the morning of the 3rd Thursday to reserve their box. (This continues to meet through a drive-in process during this time.)\", \"email\": \"\", \"url\": \"https://calvarybaptistdurham.org/ministries/pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1204 Lynn Road\", \"address_2\": null, \"city\": \"Durham\", \"state_province\": \"NC\", \"postal_code\": \"27703\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.9700059, \"longitude\": -78.8496332}, \"phones\": [{\"number\": \"(919) 596-2592\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:33.360067"
+}

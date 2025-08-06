@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Burke United Methodist Church\", \"alternate_name\": \"\", \"description\": \"* Open to Burke, Springfield, and Fairfax residents only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6200 Burke Centre Parkway\", \"address_2\": null, \"city\": \"Burke\", \"state_province\": \"VA\", \"postal_code\": \"22015\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.78409, \"longitude\": -77.280702}, \"phones\": [{\"number\": \"(703) 250-6100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Healthcare Programs\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.153795"
+}

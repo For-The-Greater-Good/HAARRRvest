@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dept. of Housing Neighborhood\", \"alternate_name\": \"\", \"description\": \"Contact: Deinia \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"22 South Calhoun Street\", \"address_2\": null, \"city\": \"Union Square\", \"state_province\": \"MD\", \"postal_code\": \"21223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2871989, \"longitude\": -76.63960879999999}, \"phones\": [{\"number\": \"(410) 566-6658\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.062487"
+}

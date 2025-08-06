@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Kingsley Park Apts.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1600 Gail Rd.\", \"address_2\": \"#1\", \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21221\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.295848, \"longitude\": -76.4215988}, \"phones\": [{\"number\": \"(410) 209-6597\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:42.936605"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Services\", \"alternate_name\": \"\", \"description\": \"NOTE THAT THE FOOD BANK IS CLOSED ON THE FIRST THURSDAY AND FIRST SATURDAY OF EACH MONTH.\\nThe first names and birthdays of each member of your household.\\nBags or a box to take your food with you.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1323 South Yakima Avenue\", \"address_2\": null, \"city\": \"New Tacoma\", \"state_province\": \"WA\", \"postal_code\": \"98405\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.2496849, \"longitude\": -122.4463279}, \"phones\": [{\"number\": \"(253) 383-3697\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID or proof of income is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Names of all household members\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.760431"
+}

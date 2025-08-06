@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holy Trinity Food Pantry Plus\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"2367 Lemoine Ave\", \"address_2\": null, \"city\": \"Fort Lee\", \"state_province\": \"NJ\", \"postal_code\": \"07024\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.863247, \"longitude\": -73.963409}, \"phones\": [{\"number\": \"(201) 947-1216\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:16.561166"
+}

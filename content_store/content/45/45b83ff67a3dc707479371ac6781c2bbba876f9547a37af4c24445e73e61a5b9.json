@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Senior Services of Atlantic County\", \"alternate_name\": \"\", \"description\": \"Transportation, Food, Legal Services, Home Repair, Health Services\", \"email\": \"\", \"url\": \"https://www.atlantic-county.org/intergenerational-services/senior-services.asp\", \"status\": \"active\", \"address\": {\"address_1\": \"101 Shore Road\", \"address_2\": null, \"city\": \"Northfield\", \"state_province\": \"NJ\", \"postal_code\": \"08225\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3774966, \"longitude\": -74.537311}, \"phones\": [{\"number\": \"(888) 426-9243\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.165110"
+}

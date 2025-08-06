@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Knox Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.knoxpcbaltimore.com/ministries\", \"status\": \"active\", \"address\": {\"address_1\": \"1300 North Eden Street\", \"address_2\": null, \"city\": \"Oliver\", \"state_province\": \"MD\", \"postal_code\": \"21213\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3054136, \"longitude\": -76.5998437}, \"phones\": [{\"number\": \"(410) 385-0900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.277194"
+}

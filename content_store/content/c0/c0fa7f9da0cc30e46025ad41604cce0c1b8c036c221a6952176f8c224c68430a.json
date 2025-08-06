@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Deliverance Temple\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"504 Prospect Avenue\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2204229, \"longitude\": -74.019202}, \"phones\": [{\"number\": \"(732) 774-3130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.918157"
+}

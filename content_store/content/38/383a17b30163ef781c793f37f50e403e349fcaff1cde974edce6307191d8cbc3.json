@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Camillus Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"99-15 Rockaway Beach Boulevard\", \"address_2\": null, \"city\": \"Rockaway Park\", \"state_province\": \"NY\", \"postal_code\": \"11694\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.583819, \"longitude\": -73.8206628}, \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:18.972495"
+}

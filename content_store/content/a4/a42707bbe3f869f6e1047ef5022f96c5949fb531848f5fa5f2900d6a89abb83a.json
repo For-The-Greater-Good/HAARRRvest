@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ebenezer New Testament\", \"alternate_name\": \"\", \"description\": \"Weekly pantry- call for times\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4668 15th Avenue South\", \"address_2\": null, \"city\": \"Childs Park\", \"state_province\": \"FL\", \"postal_code\": \"33711\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7553589, \"longitude\": -82.6972012}, \"phones\": [{\"number\": \"(727) 484-8982\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.728116"
+}

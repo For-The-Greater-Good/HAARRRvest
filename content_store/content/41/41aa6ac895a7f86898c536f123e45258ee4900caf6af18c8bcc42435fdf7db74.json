@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Peters Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"619 Lexington Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10022\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7588363, \"longitude\": -73.97044029999999}, \"phones\": [{\"number\": \"(212) 935-2200\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.982858"
+}

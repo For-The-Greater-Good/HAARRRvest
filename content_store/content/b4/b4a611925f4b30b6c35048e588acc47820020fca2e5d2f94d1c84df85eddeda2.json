@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mine Hill Township\", \"alternate_name\": \"\", \"description\": \"They  distribute  every 2 weeks.  They give the clients a checklist to check off the food they need and they have it ready to go on the Wednesday\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"10 Baker Street\", \"address_2\": null, \"city\": \"Mine Hill Township\", \"state_province\": \"NJ\", \"postal_code\": \"07803\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8788964, \"longitude\": -74.5993237}, \"phones\": [{\"number\": \"(973) 366-9031\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.105292"
+}

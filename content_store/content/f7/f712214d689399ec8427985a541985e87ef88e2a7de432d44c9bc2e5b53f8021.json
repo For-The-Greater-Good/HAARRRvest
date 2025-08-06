@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Care Net Pregnancy Center of Southern Maryland - Lexington Park\", \"alternate_name\": \"\", \"description\": \"- Clients service are available on Tuesday afternoon and Wednesday which might range from anything between diapers and formular depending on what they might have on stock.\\n- Call 3017374604 to set up appointments \\n- Medical services range from pregnacy tests nd other pregnancy related issues\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2196 Solomon's Island Road, Suite 3\", \"address_2\": null, \"city\": \"Prince Frederick\", \"state_province\": \"MD\", \"postal_code\": \"20670\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.281, \"longitude\": -76.42144}, \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"06:00\", \"closes_at\": \"10:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.753681"
+}

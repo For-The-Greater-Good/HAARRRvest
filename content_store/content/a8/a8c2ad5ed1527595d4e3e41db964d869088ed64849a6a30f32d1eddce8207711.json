@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"HCCC Food Pantry (JSQ)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.hccc.edu/student-success/personal-support/hudsonhelps/food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"2 Enos Place\", \"address_2\": \"Lower Level JSQ Campus \\u2013 Room J002\", \"city\": \"Journal Square\", \"state_province\": \"NJ\", \"postal_code\": \"07306\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.729665, \"longitude\": -74.0636839}, \"phones\": [{\"number\": \"(201) 360-4109\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required with valid current semester sticker\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Now offering fresh and frozen food options for those in need\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.781460"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christian Assembly Emergency Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.cadurham.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5516 North Roxboro Road\", \"address_2\": null, \"city\": \"Durham\", \"state_province\": \"NC\", \"postal_code\": \"27712\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.0949774, \"longitude\": -78.9099663}, \"phones\": [{\"number\": \"(919) 471-0220\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:33.383844"
+}

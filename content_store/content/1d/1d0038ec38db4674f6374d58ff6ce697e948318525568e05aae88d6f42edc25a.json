@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fulton NW County- SNAP local office\", \"alternate_name\": \"\", \"description\": \"If you need help completing your application or have questions about Food Stamps, Medicaid, TANF or Childcare, please contact the Customer Contact Center at: 1-877-423-4746. \\n\\nThey have services, including interpreters, who are free. If you are deaf, hard-of-hearing, deaf-blind or have difficulty speaking, you can call them at the number above by dialing 711 (Georgia Relay).\", \"email\": \"\", \"url\": \"https://dfcs.georgia.gov/locations/fulton-nw-county\", \"status\": \"active\", \"address\": {\"address_1\": \"1249 Donald Lee Hollowell Parkway Northwest\", \"address_2\": null, \"city\": \"Grove Park\", \"state_province\": \"GA\", \"postal_code\": \"30318\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7719791, \"longitude\": -84.42805609999999}, \"phones\": [{\"number\": \"(404) 206-5778\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:42.041883"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Edward Food Pantry / Mount Loretto Friendship Club\", \"alternate_name\": \"\", \"description\": \"Open every Friday except 5th Friday of the month \", \"email\": \"\", \"url\": \"https://www.facebook.com/StEdwardFoodPantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"6581 Hylan Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10309\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5107611, \"longitude\": -74.2203748}, \"phones\": [{\"number\": \"(718) 984-1625\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"06:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.022020"
+}

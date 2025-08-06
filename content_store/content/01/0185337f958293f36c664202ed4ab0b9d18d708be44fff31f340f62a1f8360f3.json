@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holy Innocents Roman Catholic Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://holyinnocents-brooklyn.org/#\", \"status\": \"active\", \"address\": {\"address_1\": \"279 E 17th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11226\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.64426, \"longitude\": -73.9625246}, \"phones\": [{\"number\": \"(718) 469-9500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Tickets are handed out as early as 9:30AM.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.379100"
+}

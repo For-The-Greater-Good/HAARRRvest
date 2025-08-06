@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Brigid's Food Pantry at St James Episcopal Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://stjames-longbranch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"300 Broadway\", \"address_2\": \"\", \"city\": \"Long Branch\", \"state_province\": \"NJ\", \"postal_code\": \"07740\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2945, \"longitude\": -73.99518}, \"phones\": [{\"number\": \"(732) 222-1411\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.540675"
+}

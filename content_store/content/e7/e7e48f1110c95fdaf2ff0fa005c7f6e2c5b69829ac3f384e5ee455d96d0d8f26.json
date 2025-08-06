@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christ Church United Methodist\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.christchurchnyc.online\", \"status\": \"active\", \"address\": {\"address_1\": \"524 Park Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10065\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7638946, \"longitude\": -73.96964849999999}, \"phones\": [{\"number\": \"(212) 838-3036\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.352671"
+}

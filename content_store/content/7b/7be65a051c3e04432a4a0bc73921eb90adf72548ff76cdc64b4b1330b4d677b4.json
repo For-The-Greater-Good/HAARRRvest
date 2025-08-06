@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace's Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.poplc-hamburg.org/missions.html\", \"status\": \"active\", \"address\": {\"address_1\": \"15 Corkhill Rd\", \"address_2\": \"\", \"city\": \"Franklin\", \"state_province\": \"NJ\", \"postal_code\": \"07416\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.10797, \"longitude\": -74.59019}, \"phones\": [{\"number\": \"(862) 266-9126\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.650516"
+}

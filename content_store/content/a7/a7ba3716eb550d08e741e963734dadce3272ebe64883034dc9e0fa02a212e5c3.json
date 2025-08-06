@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"So What Else @ St. Francis Neighborhood Center \", \"alternate_name\": \"\", \"description\": \"- They give out only 25 bags of groceries.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2405 Linden Avenue\", \"address_2\": null, \"city\": \"Reservoir Hill\", \"state_province\": \"MD\", \"postal_code\": \"21217\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.314249, \"longitude\": -76.63549210000001}, \"phones\": [{\"number\": \"(410) 523-4161\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:42.991890"
+}

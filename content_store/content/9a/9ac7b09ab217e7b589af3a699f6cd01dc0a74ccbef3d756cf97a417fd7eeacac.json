@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Philadelphia's Caring for Friends\", \"alternate_name\": \"\", \"description\": \"You can either call or fill out the request form online: https://caringforfriends.org/contact-us/self-referral/\", \"email\": \"\", \"url\": \"https://caringforfriends.org/get-help/\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": null, \"state_province\": null, \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": null, \"longitude\": null}, \"phones\": [{\"number\": \"(215) 464-2224\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.605288"
+}

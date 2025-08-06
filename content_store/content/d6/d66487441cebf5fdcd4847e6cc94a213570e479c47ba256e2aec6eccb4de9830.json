@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Middletown Food Bank\", \"alternate_name\": \"\", \"description\": \"Returning Clients:\\nALWAYS bring a photo ID with your current address (drivers license, passport, etc.). We cannot release food without proper ID. \\n\\nNew Clients:\\nBring a photo ID (drivers license, passport, etc.)\\u200b and proof of residence (a current bill with your name and address on it). These items are necessary.\", \"email\": \"\", \"url\": \"https://www.middletownvalleyfoodbank.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"301 West Main Street\", \"address_2\": \"Community Building\", \"city\": \"Middletown\", \"state_province\": \"MD\", \"postal_code\": \"21769\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4441089, \"longitude\": -77.548935}, \"phones\": [{\"number\": \"(301) 371-3182\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.359011"
+}

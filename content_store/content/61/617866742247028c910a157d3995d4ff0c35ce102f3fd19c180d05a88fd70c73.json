@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mosaic Ministries\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.mosaicministries.us/outreach/\", \"status\": \"active\", \"address\": {\"address_1\": \"1842 Broadway Street\", \"address_2\": null, \"city\": \"Southside\", \"state_province\": \"OH\", \"postal_code\": \"43609\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.628263, \"longitude\": -83.5604932}, \"phones\": [{\"number\": \"(419) 344-5844\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"22:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"22:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.872948"
+}

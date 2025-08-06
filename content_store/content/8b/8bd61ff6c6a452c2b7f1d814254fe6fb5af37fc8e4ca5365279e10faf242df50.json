@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Egypt UMC-Good Samaritan\", \"alternate_name\": \"\", \"description\": \"Central Jersey residents \", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"38 North Main Street\", \"address_2\": null, \"city\": \"New Egypt\", \"state_province\": \"NJ\", \"postal_code\": \"08533\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0698811, \"longitude\": -74.5276295}, \"phones\": [{\"number\": \"(609) 758-2147\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.820480"
+}

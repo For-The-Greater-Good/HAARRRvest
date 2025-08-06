@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2510 Richmond Hill Road\", \"address_2\": null, \"city\": \"Augusta\", \"state_province\": \"GA\", \"postal_code\": \"30906\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.4358371, \"longitude\": -82.02517739999999}, \"phones\": [{\"number\": \"(706) 790-6565\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.748218"
+}

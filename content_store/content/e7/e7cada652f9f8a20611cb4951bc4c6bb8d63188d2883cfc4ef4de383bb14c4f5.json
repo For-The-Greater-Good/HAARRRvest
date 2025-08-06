@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Benedict Food Cupboard\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1940 Chelten Avenue\", \"address_2\": \"\", \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19138\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.05128, \"longitude\": -75.151391}, \"phones\": [{\"number\": \"(215) 548-2700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:14.957079"
+}

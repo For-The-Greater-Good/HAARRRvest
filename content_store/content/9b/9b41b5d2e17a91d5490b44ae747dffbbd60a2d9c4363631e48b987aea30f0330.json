@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lillian Wald Food Pantry\", \"alternate_name\": \"\", \"description\": \"- Clients may come on site from 10-2pm on Thursdays and 10-1pm on Fridays to place orders for food. Additionally clients may use our market.metcouncil.org website to place orders in advance. Once booked, clients may come to our site and receive orders Tuesdays or Wednesdays from 10-2pm, time & date dependent on the timeslot they have chosen during their in person or online ordering process. \\n- This April, we will have kosher for Passover specific foods for the first few weeks of the month. \\n\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"12 Avenue D \", \"address_2\": \"Houston street Entrance\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10009\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.719997, \"longitude\": -73.978241}, \"phones\": [{\"number\": \"(212) 475-3857\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.788033"
+}

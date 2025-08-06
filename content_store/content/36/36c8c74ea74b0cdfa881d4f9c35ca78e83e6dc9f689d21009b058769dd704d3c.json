@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Habitat for Humanity Newark\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.habitatnewark.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"298 S Orange Ave\", \"address_2\": \"\", \"city\": \"Newark\", \"state_province\": \"NJ\", \"postal_code\": \"07103\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.73925, \"longitude\": -74.19697}, \"phones\": [{\"number\": \"(973) 624-3330\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.788793"
+}

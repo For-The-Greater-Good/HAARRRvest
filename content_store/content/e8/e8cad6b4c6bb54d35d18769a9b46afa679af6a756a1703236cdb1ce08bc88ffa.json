@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Bronx Citadel & Tremont Corps\", \"alternate_name\": \"\", \"description\": \"For food pantry: clients are required to bring picture ID with address and proof of address like utility bills or proof of lease\\n call in advance for registration 7186658472 on any MONDAY,WEDNESDAY,THURSDAY AND FRIDAY\", \"email\": \"\", \"url\": \"http://salvationarmyny.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"425 East 159th Street\", \"address_2\": null, \"city\": \"Melrose\", \"state_province\": \"NY\", \"postal_code\": \"10451\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8228824, \"longitude\": -73.9132482}, \"phones\": [{\"number\": \"(718) 665-8472\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:45\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Requires 2 different proof of address that matches ID\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:07.670029"
+}

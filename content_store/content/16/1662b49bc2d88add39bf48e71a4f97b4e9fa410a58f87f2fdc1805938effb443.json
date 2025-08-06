@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Food And Care For All, Food Pantry\", \"alternate_name\": \"\", \"description\": \"FOOD PANTRY: Offers a client choice food pantry. Indiviudals are able to receive fresh produce, dairy products, frozen meats, bread, and baked goods. Distributes clothing, shoes, hygiene supplies, and baby supplies.\\n\\nFor emergency food needs individuals can complete the [FCFA Curbside Food Pantry Order Request Form](https://docs.google.com/forms/d/e/1FAIpQLSdujXex0ugieu9Uk12HVRjUchb996ckXt41PCLfCx8mJSHakA/viewform), a Google sign in is needed, and get a response within 24-48 hours.\\n\\nhttps://www.facebook.com/fcfaglobal\", \"email\": \"\", \"url\": \"https://www.fcfaglobal.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"10262 Baltimore National Pike\", \"address_2\": null, \"city\": \"Ellicott City\", \"state_province\": \"MD\", \"postal_code\": \"21042\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.28153, \"longitude\": -76.86699}, \"phones\": [{\"number\": \"(410) 988-5392\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of Maryland residency is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.240207"
+}

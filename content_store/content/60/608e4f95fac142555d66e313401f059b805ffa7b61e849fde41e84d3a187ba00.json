@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ridgecrest YMCA\", \"alternate_name\": \"\", \"description\": \"BreakSpot Meals\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1801 119th Street North\", \"address_2\": null, \"city\": \"Largo\", \"state_province\": \"FL\", \"postal_code\": \"33778\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9003259, \"longitude\": -82.8027202}, \"phones\": [{\"number\": \"(727) 507-9622\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:39.987891"
+}

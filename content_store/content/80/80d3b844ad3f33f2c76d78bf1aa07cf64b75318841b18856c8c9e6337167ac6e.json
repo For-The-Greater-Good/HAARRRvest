@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"YMCA Boston Mobile @  Carver Lodge\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://ymcaboston.org/mobilemarket/\", \"status\": \"active\", \"address\": {\"address_1\": \"80 Talbot Avenue\", \"address_2\": null, \"city\": \"Dorchester\", \"state_province\": \"MA\", \"postal_code\": \"02124\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2939664, \"longitude\": -71.0837099}, \"phones\": [{\"number\": \"(617) 436-9841\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.605582"
+}

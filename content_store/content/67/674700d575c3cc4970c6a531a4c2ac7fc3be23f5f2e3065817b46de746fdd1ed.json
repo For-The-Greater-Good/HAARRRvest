@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"East Boston YMCA Mobile pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"Ymcaboston.org/mobilemarket\", \"status\": \"active\", \"address\": {\"address_1\": \"215 Bremen Street\", \"address_2\": null, \"city\": \"Jeffries Point\", \"state_province\": \"MA\", \"postal_code\": \"02128\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3734961, \"longitude\": -71.0331218}, \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.624063"
+}

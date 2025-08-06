@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sweetwater Mission Inc\", \"alternate_name\": \"\", \"description\": \"In order to receive food all you need is the following:\\n\\nBring Proof of Residency (less than 30 days old) in the form of mail, a rent receipt, or new lease.\\n\\nProvide your Photo ID\\n\\nProvide proof of Children that are 17 years and under.\\n\\n\", \"email\": \"\", \"url\": \"https://www.sweetwatermission.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"6130 Hotel Street\", \"address_2\": null, \"city\": \"Austell\", \"state_province\": \"GA\", \"postal_code\": \"30106\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8045893, \"longitude\": -84.64031000000001}, \"phones\": [{\"number\": \"(770) 819-0662\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed early if the weather is bad\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:25.564306"
+}

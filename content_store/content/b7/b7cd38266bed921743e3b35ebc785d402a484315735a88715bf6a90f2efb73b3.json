@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Blessed Hope Soup Kitchen\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://blesshope.org/Food-Pantry-1st---3rd-Tue-12-1pm\", \"status\": \"active\", \"address\": {\"address_1\": \"42 Mercer Street\", \"address_2\": null, \"city\": \"Phillipsburg\", \"state_province\": \"NJ\", \"postal_code\": \"08865\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6862288, \"longitude\": -75.1966472}, \"phones\": [{\"number\": \"(908) 213-5070\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.542866"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lehman College Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.lehman.edu/student-leadership/lehman-food-bank.php\", \"status\": \"active\", \"address\": {\"address_1\": \"250 Bedford Park Boulevard West\", \"address_2\": null, \"city\": \"West Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10468\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8725276, \"longitude\": -73.8934809}, \"phones\": [{\"number\": \"(718) 960-8535\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Student ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.850657"
+}

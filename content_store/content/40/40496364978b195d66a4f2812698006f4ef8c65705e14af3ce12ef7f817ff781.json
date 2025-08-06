@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Spartanburg Ministries\", \"alternate_name\": \"\", \"description\": \"The food pantry is open Mondays and Thursdays at 9:30 and we accept the first 50 people.  Remember to bring SC ID and social security card.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"680 Asheville Highway\", \"address_2\": null, \"city\": \"Northside\", \"state_province\": \"SC\", \"postal_code\": \"29303\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.9620044, \"longitude\": -81.9437983}, \"phones\": [{\"number\": \"(864) 585-9371\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once in 3 months\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:36.007835"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Goshen Temple of SDA\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/GoshenTempleCS/\", \"status\": \"active\", \"address\": {\"address_1\": \"2414 Church Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11216\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.65123103026832, \"longitude\": -73.95513951534312}, \"phones\": [{\"number\": \"(347) 451-8201\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.246363"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sylvania Area Family Services\", \"alternate_name\": \"\", \"description\": \"serves: 43560,43615,43617.43623\\nLucas County residents\", \"email\": \"\", \"url\": \"https://sa-fs.org/?page_id=17\", \"status\": \"active\", \"address\": {\"address_1\": \"5440 Marshall Road\", \"address_2\": null, \"city\": \"Sylvania\", \"state_province\": \"OH\", \"postal_code\": \"43560\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.7202381, \"longitude\": -83.67436149999999}, \"phones\": [{\"number\": \"(419) 882-8415\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.601603"
+}

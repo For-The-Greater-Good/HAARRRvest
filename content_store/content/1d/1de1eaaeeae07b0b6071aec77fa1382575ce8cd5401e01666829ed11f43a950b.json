@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Atlantic City\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://easternusa.salvationarmy.org/new-jersey/atlantic-city/\", \"status\": \"active\", \"address\": {\"address_1\": \"22 S Texas Ave\", \"address_2\": \"\", \"city\": \"Atlantic City\", \"state_province\": \"NJ\", \"postal_code\": \"08401\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.363284, \"longitude\": -74.439656}, \"phones\": [{\"number\": \"(609) 344-0660\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:18.187345"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Brigada de Esperanza\", \"alternate_name\": \"\", \"description\": \"Please check the website or their Facebook account for any updates regarding the food distribution.\", \"email\": \"\", \"url\": \"https://brigadadeesperanza.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"89-07 Astoria Blvd\", \"address_2\": null, \"city\": \"East Elmhurst\", \"state_province\": \"NY\", \"postal_code\": \"11369\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.76496238740353, \"longitude\": -73.87988788075523}, \"phones\": [{\"number\": \"(917) 502-7003\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be registered\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.553819"
+}

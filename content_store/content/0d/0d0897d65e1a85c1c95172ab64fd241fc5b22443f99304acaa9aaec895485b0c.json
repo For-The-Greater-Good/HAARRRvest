@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"All People\\u2019s Fresh Food Market\", \"alternate_name\": \"\", \"description\": \"Eligibility: based on income eligibility.\\nIntake Process: Walk in and drive thru pick up.\\nDocuments: ID & proof of income.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"946 Parsons Avenue\", \"address_2\": null, \"city\": \"South Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43206\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9443769, \"longitude\": -82.9827492}, \"phones\": [{\"number\": \"(614) 445-7342\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.317864"
+}

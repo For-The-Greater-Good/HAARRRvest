@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Good Counsel, Manhattan\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://olgcstm.org\", \"status\": \"active\", \"address\": {\"address_1\": \"230 E 90th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10128\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7806053, \"longitude\": -73.9509988}, \"phones\": [{\"number\": \"(212) 289-1742\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Breakfast\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.790705"
+}

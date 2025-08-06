@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. John's Food Pantry\", \"alternate_name\": \"\", \"description\": \"Everyone must call 732-657-6359 and leave a message. The volunteers at St. Vincent de Paul will call back from their private lines, so they most likely will block their phone numbers. This could come across looking like a spam call. I always advise people to answer all calls so they don't miss the one from our pantry.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"619 Chestnut Street\", \"address_2\": \"\", \"city\": \"Lakehurst\", \"state_province\": \"NJ\", \"postal_code\": \"08733\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0180727, \"longitude\": -74.3257709}, \"phones\": [{\"number\": \"(732) 657-6359\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.499809"
+}

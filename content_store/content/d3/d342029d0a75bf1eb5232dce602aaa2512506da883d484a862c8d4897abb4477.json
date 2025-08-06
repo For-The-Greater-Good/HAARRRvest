@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. George's Dare to Care\", \"alternate_name\": \"\", \"description\": \"* Closure Policy: We are closed when JCPS schools are closed for inclement weather; all federal holidays,\\nwhen Dare to Care offices are closed for inventory, or when a situation would make it unsafe to be open \\n\\n* Serves resident on North/South: Broadway to Hill; East/West: 32nd to 18th streets\\n\\n* If picking up for someone else, the first two items are needed in addition to a note authorizing you\\nto pick up a box in their name \", \"email\": \"\", \"url\": \"https://www.facebook.com/stgeorgeslou/\", \"status\": \"active\", \"address\": {\"address_1\": \"1205 South 26th Street\", \"address_2\": null, \"city\": \"Louisville\", \"state_province\": \"KY\", \"postal_code\": \"40210\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.237493, \"longitude\": -85.795933}, \"phones\": [{\"number\": \"(502) 776-0800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed during summer\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.301021"
+}

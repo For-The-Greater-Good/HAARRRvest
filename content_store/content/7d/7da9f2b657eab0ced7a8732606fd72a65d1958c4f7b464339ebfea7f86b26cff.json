@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Galilee Food Bank\", \"alternate_name\": \"\", \"description\": \"Call 240-312-2850 to make an appointment.\", \"email\": \"\", \"url\": \"https://www.galilee-cdc.org/william-h--bennett-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"2101 Shadyside Avenue\", \"address_2\": null, \"city\": \"Hillcrest Heights\", \"state_province\": \"MD\", \"postal_code\": \"20746\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8612612, \"longitude\": -76.933472}, \"phones\": [{\"number\": \"(240) 312-2850\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.177869"
+}

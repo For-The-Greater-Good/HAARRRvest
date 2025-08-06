@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Shepherd&#8217;s Shelf\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.christlc2.org\", \"status\": \"active\", \"address\": {\"address_1\": \"2211 Mainland Road\", \"address_2\": \"\", \"city\": \"Harleysville\", \"state_province\": \"PA\", \"postal_code\": \"19438\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.252235, \"longitude\": -75.351739}, \"phones\": [{\"number\": \"(215) 256-8738\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"23:30\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"23:30\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:14.356907"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Life Community Center \\u2013 ext. of Life Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6542 Applewood Drive\", \"address_2\": null, \"city\": \"Angus Valley\", \"state_province\": \"FL\", \"postal_code\": \"33544\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2528395, \"longitude\": -82.3761767}, \"phones\": [{\"number\": \"(813) 994-0685\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.591147"
+}

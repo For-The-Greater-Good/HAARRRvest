@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Central Union Mission\", \"alternate_name\": \"\", \"description\": \"Behind the Popeye\\u2019s. Look for the orange cones in the driveway.\", \"email\": \"\", \"url\": \"https://www.missiondc.org/need-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"3194 Bladensburg Road Northeast\", \"address_2\": null, \"city\": \"Northeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20018\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9305803, \"longitude\": -76.9591751}, \"phones\": [{\"number\": \"(202) 718-0549\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.405708"
+}

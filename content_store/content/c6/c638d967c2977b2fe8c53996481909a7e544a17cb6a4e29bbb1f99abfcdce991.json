@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ST. LAWRENCE, SOCIETY OF ST. VINCENT DEPAUL FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"Distribution is in the Parish Center next to the parking lot\", \"email\": \"\", \"url\": \"https://www.saintlawrencechurch.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"109 Laurence Parkway\", \"address_2\": null, \"city\": \"Laurence Harbor\", \"state_province\": \"NJ\", \"postal_code\": \"08879\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4518113, \"longitude\": -74.24874779999999}, \"phones\": [{\"number\": \"(732) 566-1093\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:37.053181"
+}

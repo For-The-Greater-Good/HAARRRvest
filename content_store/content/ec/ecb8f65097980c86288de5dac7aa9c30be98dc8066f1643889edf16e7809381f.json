@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Race Track Chaplaincy N.Y. Division\", \"alternate_name\": \"\", \"description\": \" Food pantry is only for people who work at the racetrack.\\n \\nNYRA ID - Required\\nFor now we don't serve the community\", \"email\": \"\", \"url\": \"https://www.rtcany.org\", \"status\": \"active\", \"address\": {\"address_1\": \"2150 Hempstead Turnpike\", \"address_2\": null, \"city\": \"Elmont\", \"state_province\": \"NY\", \"postal_code\": \"11003\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7095185, \"longitude\": -73.7204488}, \"phones\": [{\"number\": \"(516) 216-5196\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.815130"
+}

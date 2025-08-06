@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Carolina Benefits Center- SNAP Assistance\", \"alternate_name\": \"\", \"description\": \"The North Carolina Benefits Center, in partnership with the North Carolina Department of Human Services (DHHS), helps residents enroll in the Food and Nutrition Services (FNS, also known as food stamps). Operated by Benefits Data Trust, the North Carolina Benefits Center reaches likely eligible households through text message and mail outreach, and provides FNS application assistance over the phone. Since 2017, the North Carolina Benefits Center has secured over $126 million in cumulative benefits for residents in need.\", \"email\": \"\", \"url\": \"https://bdtrust.org/nc-benefits-center/\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": null, \"state_province\": \"North Carolina\", \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": 35.7595731, \"longitude\": -79.01929969999999}, \"phones\": [{\"number\": \"(866) 604-1050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:37.880076"
+}

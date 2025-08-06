@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mark\\u2019s UMC/Bread of Life\", \"alternate_name\": \"\", \"description\": \"Contact: Richard Wright \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1900 Saint Paul Street\", \"address_2\": null, \"city\": \"Midtown\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3119656, \"longitude\": -76.6153175}, \"phones\": [{\"number\": \"(410) 752-5804\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.775094"
+}

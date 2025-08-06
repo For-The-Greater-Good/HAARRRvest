@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Franciscan Center \\u2013 Food Pantry & Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"Call (410) 467-5340 to confirm if they are open on a holiday (if the distribution schedule falls on a holiday).\", \"email\": \"\", \"url\": \"https://fcbmore.org/what-we-do/culinary-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"101 West 23rd Street\", \"address_2\": null, \"city\": \"Old Goucher\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3148226, \"longitude\": -76.6186757}, \"phones\": [{\"number\": \"(410) 467-5340\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.676891"
+}

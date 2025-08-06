@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Prodigal Center\", \"alternate_name\": \"\", \"description\": \"- Might be closed when they have no food to give out and unfortunately this is spread via word of mouth\\n- \", \"email\": \"\", \"url\": \"theprodigalcenter.org\", \"status\": \"active\", \"address\": {\"address_1\": \"709 Tiffany St\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10474\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.814194, \"longitude\": -73.891403}, \"phones\": [{\"number\": \"(718) 644-8523\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"1 bag per family/person\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.984411"
+}

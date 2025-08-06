@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FoodBank Network of Somerset-Raritan\", \"alternate_name\": \"\", \"description\": \"Donations: Tuesday and Friday 6:00 pm - 8:00 pm\\nFor New Clients: Please fill up form before visiting Pantry. Form is available here:  www.raritanfoodpantry.org\\nBring completed form form on first visit\", \"email\": \"\", \"url\": \"http://www.raritanfoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"28 Thompson Street\", \"address_2\": null, \"city\": \"Raritan\", \"state_province\": \"NJ\", \"postal_code\": \"08869\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5682481, \"longitude\": -74.6326912}, \"phones\": [{\"number\": \"(908) 824-5003\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.598433"
+}

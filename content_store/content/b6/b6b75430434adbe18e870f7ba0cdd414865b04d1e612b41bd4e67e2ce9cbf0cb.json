@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Foxboro Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/profile.php?id=100057387071867\", \"email\": \"\", \"url\": \"https://foxborofoodpantry.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"3 Rockhill Street\", \"address_2\": null, \"city\": \"Foxborough\", \"state_province\": \"MA\", \"postal_code\": \"02035\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.0652103, \"longitude\": -71.2520156}, \"phones\": [{\"number\": \"(508) 543-5235\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.875976"
+}

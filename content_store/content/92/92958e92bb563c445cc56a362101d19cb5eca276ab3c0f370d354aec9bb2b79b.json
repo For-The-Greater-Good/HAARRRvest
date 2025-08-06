@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Clemmons Food Pantry\", \"alternate_name\": \"\", \"description\": \"Please check their website for holidays closure. \\n\\nhttps://www.facebook.com/clemmonsfoodpantry/\", \"email\": \"\", \"url\": \"https://clemmonsfoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2660 Neudorf Road\", \"address_2\": null, \"city\": \"Clemmons\", \"state_province\": \"NC\", \"postal_code\": \"27012\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.02474379999999, \"longitude\": -80.38417419999999}, \"phones\": [{\"number\": \"(336) 331-3432\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:36.808912"
+}

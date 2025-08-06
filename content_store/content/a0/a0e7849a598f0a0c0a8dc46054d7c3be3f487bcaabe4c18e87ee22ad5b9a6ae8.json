@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Emergency Relief Association of Lower Bucks County\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://erafoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1700 Woodbourne Road\", \"address_2\": null, \"city\": \"Levittown\", \"state_province\": \"PA\", \"postal_code\": \"19057\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1596923, \"longitude\": -74.8705868}, \"phones\": [{\"number\": \"(215) 547-1676\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.320920"
+}

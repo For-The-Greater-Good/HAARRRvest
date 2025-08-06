@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mark\\u2019s UMC/Bread of Life\", \"alternate_name\": \"\", \"description\": \"No appointment needed, although ID is required.\", \"email\": \"\", \"url\": \"https://stmumc.net/outreach-ministries/food-pantry-clothes-closet/\", \"status\": \"active\", \"address\": {\"address_1\": \"3900 Liberty Heights Avenue\", \"address_2\": null, \"city\": \"Gwynn Oak\", \"state_province\": \"MD\", \"postal_code\": \"21207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3279755, \"longitude\": -76.68337749999999}, \"phones\": [{\"number\": \"(410) 542-5338\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.270695"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pitman Road Church of Christ\", \"alternate_name\": \"\", \"description\": \"* Call to check the availability and to make an appointment\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"500 Pitman Road\", \"address_2\": null, \"city\": \"Sewell\", \"state_province\": \"NJ\", \"postal_code\": \"08080\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7359848, \"longitude\": -75.1542645}, \"phones\": [{\"number\": \"(856) 589-1360\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.523182"
+}

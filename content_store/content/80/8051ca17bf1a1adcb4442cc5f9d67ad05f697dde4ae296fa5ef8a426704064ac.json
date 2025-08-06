@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"60th Street Baptist\", \"alternate_name\": \"\", \"description\": \"Closed for the Last Friday in November and the Last Friday in December of each year.\", \"email\": \"\", \"url\": \"https://feelhislove.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"9309 60th Street\", \"address_2\": null, \"city\": \"Pinellas Park\", \"state_province\": \"FL\", \"postal_code\": \"33782\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8567805, \"longitude\": -82.7157037}, \"phones\": [{\"number\": \"(727) 557-4061\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.969356"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dept. of Social Services\", \"alternate_name\": \"\", \"description\": \"Contact: Wendie Walton\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"200 Duke Street\", \"address_2\": null, \"city\": \"Prince Frederick\", \"state_province\": \"MD\", \"postal_code\": \"20678\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.5397676, \"longitude\": -76.58100580000001}, \"phones\": [{\"number\": \"(410) 535-8700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.498228"
+}

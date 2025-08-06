@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Hoboken Shelter\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"300 Bloomfield Street\", \"address_2\": null, \"city\": \"Hoboken\", \"state_province\": \"NJ\", \"postal_code\": \"07030\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7403494, \"longitude\": -74.0312062}, \"phones\": [{\"number\": \"(201) 656-5069\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.907743"
+}

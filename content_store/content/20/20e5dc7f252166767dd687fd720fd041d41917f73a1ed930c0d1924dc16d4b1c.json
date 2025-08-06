@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SOAR Learning Center\", \"alternate_name\": \"\", \"description\": \"June 5 to July 13 (Mon-Thur; closed Fridays)\\nBreakfast 9:00-9:30 am\\nLunch 12:00-12:30 pm\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2731 North Links Avenue\", \"address_2\": null, \"city\": \"Newtown\", \"state_province\": \"FL\", \"postal_code\": \"34234\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.360288, \"longitude\": -82.53412639999999}, \"phones\": [{\"number\": \"(941) 379-6333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:42.814701"
+}

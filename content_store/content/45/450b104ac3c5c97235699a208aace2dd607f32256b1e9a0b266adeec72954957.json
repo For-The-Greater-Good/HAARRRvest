@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Solace\", \"alternate_name\": \"\", \"description\": \"** No longer accepting new clients\\n** only served 10462 zip code and must be existing client\\n\", \"email\": \"\", \"url\": \"http://www.solacedominic.org\", \"status\": \"active\", \"address\": {\"address_1\": \"731 Morris Park Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10462\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.845482, \"longitude\": -73.864914}, \"phones\": [{\"number\": \"(718) 863-3282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.722886"
+}

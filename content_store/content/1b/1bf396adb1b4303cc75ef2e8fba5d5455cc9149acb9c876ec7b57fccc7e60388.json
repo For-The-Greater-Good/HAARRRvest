@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Masbia of Flatbush Food Pantry\", \"alternate_name\": \"\", \"description\": \"* For pantry items, schedule an appointment through the Plentiful app https://www.plentifulapp.com/ or text START to 726-879\\n* Please come, at the latest, 30 minutes before the end of the time slot\\n\", \"email\": \"\", \"url\": \"http://www.masbiaflatbush.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1368 Coney Island Avenue\", \"address_2\": \"\", \"city\": \"Midwood\", \"state_province\": \"NY\", \"postal_code\": \"11230\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6241649, \"longitude\": -73.9653584}, \"phones\": [{\"number\": \"(718) 972-4446\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"23:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.226220"
+}

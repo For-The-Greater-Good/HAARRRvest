@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"River Fund Mobile - Pink Houses\", \"alternate_name\": \"\", \"description\": \"Mobile Food Distribution Program at the Louis Heaton Pink Houses Brooklyn every 2nd and 4th Tuesday of the month\\n\", \"email\": \"\", \"url\": \"https://www.river.fund\", \"status\": \"active\", \"address\": {\"address_1\": \"2628 Linden Boulevard\", \"address_2\": null, \"city\": \"East New York\", \"state_province\": \"NY\", \"postal_code\": \"11208\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6681831, \"longitude\": -73.86749569999999}, \"phones\": [{\"number\": \"(718) 441-1125\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.598922"
+}

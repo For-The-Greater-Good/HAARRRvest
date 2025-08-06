@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hyde Park United Methodist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://hydeparkumc.org/homeless/\", \"status\": \"active\", \"address\": {\"address_1\": \"500 West Platt Street\", \"address_2\": null, \"city\": \"Hyde Park\", \"state_province\": \"FL\", \"postal_code\": \"33606\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9414344, \"longitude\": -82.465333}, \"phones\": [{\"number\": \"(813) 253-5388\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.275199"
+}

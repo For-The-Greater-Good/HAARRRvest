@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Geary County Food Pantry, Inc\", \"alternate_name\": \"\", \"description\": \"Contact Person: Debbie Johns\", \"email\": \"\", \"url\": \"https://www.facebook.com/gearycofoodpantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"136 West 3rd Street\", \"address_2\": null, \"city\": \"Junction City\", \"state_province\": \"KS\", \"postal_code\": \"66441\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0253393, \"longitude\": -96.8309755}, \"phones\": [{\"number\": \"(785) 762-8830\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:41.860720"
+}

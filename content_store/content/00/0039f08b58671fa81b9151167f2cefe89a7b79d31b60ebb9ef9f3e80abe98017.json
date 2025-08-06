@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fish And Loaves--Gleaners Distribution Center\\ufeff\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.flcfp.org/need-food.html\", \"status\": \"active\", \"address\": {\"address_1\": \"25670 Northline Road\", \"address_2\": null, \"city\": \"Taylor\", \"state_province\": \"MI\", \"postal_code\": \"48180\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.21163869999999, \"longitude\": -83.2857509}, \"phones\": [{\"number\": \"(734) 442-0031\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:28.786095"
+}

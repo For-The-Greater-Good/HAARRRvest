@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Amazing Love Ministries\", \"alternate_name\": \"\", \"description\": \"Food distribution is located at the Corner East columbus and 34th Street\", \"email\": \"\", \"url\": \"http://amazinglovemin.org/ministry-hours/\", \"status\": \"active\", \"address\": {\"address_1\": \"3304 East Columbus Drive\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33605\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9669951, \"longitude\": -82.4226479}, \"phones\": [{\"number\": \"(813) 340-6048\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.617628"
+}

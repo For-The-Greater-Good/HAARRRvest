@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Whosoever Will Christian Church\", \"alternate_name\": \"\", \"description\": \"Welcome to the WWCC Food Pantry. We are available on Wednesdays of every week from 4:30pm to 6:30pm. You will be required to Sign your name, provide your contact information and your family size. No ID is required. Please call 240-832-2991 if you have questions or if you have arrived and the pantry is not yet open. We are glad to assist you. \", \"email\": \"\", \"url\": \"http://wwcapgiving.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4514 Sellman Road\", \"address_2\": null, \"city\": \"Beltsville\", \"state_province\": \"MD\", \"postal_code\": \"20705\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0358409, \"longitude\": -76.91408580000001}, \"phones\": [{\"number\": \"(301) 257-2264\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.834625"
+}

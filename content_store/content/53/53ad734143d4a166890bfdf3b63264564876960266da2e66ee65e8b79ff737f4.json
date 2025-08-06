@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Harvest Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.theharvestcenter.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1800 Brewton Drive\", \"address_2\": null, \"city\": \"Double Oaks\", \"state_province\": \"NC\", \"postal_code\": \"28206\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2481095, \"longitude\": -80.8420883}, \"phones\": [{\"number\": \"(704) 333-4280\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"11:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.890170"
+}

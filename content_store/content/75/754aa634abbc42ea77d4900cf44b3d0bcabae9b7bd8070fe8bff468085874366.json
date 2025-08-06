@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Plain City Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/plaincityfoodpantry/\", \"email\": \"\", \"url\": \"https://www.dnaplaincity.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"11100 Lafayette Plain City Road\", \"address_2\": null, \"city\": \"Plain City\", \"state_province\": \"OH\", \"postal_code\": \"43064\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1070475, \"longitude\": -83.29060849999999}, \"phones\": [{\"number\": \"(614) 824-8340\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.212907"
+}

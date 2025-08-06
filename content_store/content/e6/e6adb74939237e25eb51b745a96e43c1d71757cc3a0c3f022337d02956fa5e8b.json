@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"StreetWise Georgia, Inc.\", \"alternate_name\": \"\", \"description\": \"Call to make appointment Monday, Tuesday, & Thursday 10:00 AM \\u2013 2:00 PM or book appointment online. At : https://streetwisegeorgia.org/client-online-6-week-appointment-booking/\", \"email\": \"\", \"url\": \"streetwisegeorgia.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1770 Cedars Road\", \"address_2\": null, \"city\": \"Lawrenceville\", \"state_province\": \"GA\", \"postal_code\": \"30045\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.9807338, \"longitude\": -83.949198}, \"phones\": [{\"number\": \"(678) 985-9915\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must call during this time to register and book an appointment\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.320156"
+}

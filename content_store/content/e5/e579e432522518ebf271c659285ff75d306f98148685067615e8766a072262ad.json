@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project Plase\", \"alternate_name\": \"\", \"description\": \"ext 128 for Rachel\\next 121 for Jenifer\\ntemporary housing shelter if required \", \"email\": \"\", \"url\": \"file:///C:/Users/dipen/Desktop/Baltimore_City.pdf\", \"status\": \"active\", \"address\": {\"address_1\": \"2029 Saint Paul Street\", \"address_2\": null, \"city\": \"Barclay\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3131307, \"longitude\": -76.61484039999999}, \"phones\": [{\"number\": \"(410) 837-1400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.245549"
+}

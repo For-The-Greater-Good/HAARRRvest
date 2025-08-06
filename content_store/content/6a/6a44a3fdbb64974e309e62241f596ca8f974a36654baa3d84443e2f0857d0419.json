@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Matthew's Lutheran Church\", \"alternate_name\": \"\", \"description\": \"There is often a long line waiting to receive food. Come early if you can.\", \"email\": \"\", \"url\": \"https://www.stmatthewsjc.net/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"85 Wayne Street\", \"address_2\": null, \"city\": \"Downtown Jersey City\", \"state_province\": \"NJ\", \"postal_code\": \"07302\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7194873, \"longitude\": -74.0463971}, \"phones\": [{\"number\": \"(201) 898-2350\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Accepts Walk-ins & Appointments\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.857439"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Center Point Community Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"16 Church Street\", \"address_2\": null, \"city\": \"Anson\", \"state_province\": \"ME\", \"postal_code\": \"04911\", \"country\": \"US\"}, \"location\": {\"latitude\": 44.7988339, \"longitude\": -69.891362}, \"phones\": [{\"number\": \"(207) 431-0458\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.161250"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Shiloh Church of God 7th Day\", \"alternate_name\": \"\", \"description\": \"This is not a regular pantry, call them to inquire for food and they will arrange a food bag for you. \", \"email\": \"\", \"url\": \"https://shiloh7thday.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5701 Eastern Avenue Northeast\", \"address_2\": null, \"city\": \"West Hyattsville\", \"state_province\": \"MD\", \"postal_code\": \"20782\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9586261, \"longitude\": -76.9928946}, \"phones\": [{\"number\": \"(301) 559-5262\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.186851"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Silver Blossom of Tampa Family Health Centers-SNAP Assistance\", \"alternate_name\": \"\", \"description\": \"Dedicated on-site Patient Resource Specialist to help with Food Stamp applications/recertifications as well as other services. Schedule an appointment with a \\\"Patient Resource Specialist.\\\"\", \"email\": \"\", \"url\": \"https://tampafamilyhc.com/resources/\", \"status\": \"active\", \"address\": {\"address_1\": \"2727 West Doctor Martin Luther King Junior Boulevard\", \"address_2\": \"Suite 100\", \"city\": \"Northwest Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33607\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9819549, \"longitude\": -82.48748259999999}, \"phones\": [{\"number\": \"(813) 726-0320\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Accepts Walk-ins & Appointments\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:28.730156"
+}

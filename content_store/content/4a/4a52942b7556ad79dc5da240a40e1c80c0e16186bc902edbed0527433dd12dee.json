@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Port Charlotte \", \"alternate_name\": \"\", \"description\": \"Port Charlotte residents \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2230 Hariet Street\", \"address_2\": null, \"city\": \"Port Charlotte\", \"state_province\": \"FL\", \"postal_code\": \"33952\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.9963216, \"longitude\": -82.08903480000001}, \"phones\": [{\"number\": \"(941) 625-5045\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.120361"
+}

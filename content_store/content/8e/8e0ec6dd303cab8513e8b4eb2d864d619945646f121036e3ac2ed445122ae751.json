@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Baylife Counseling\", \"alternate_name\": \"\", \"description\": \"Provides mental health, substance abuse, and psychotherapy. They focus on a range of issues including addiction, depression, LGBT+ issues, anxiety, PTSD, and more. The cost per session depends on annual income.\", \"email\": \"\", \"url\": \"www.baylifecounseling.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"6611 U.S. 19\", \"address_2\": null, \"city\": \"New Port Richey\", \"state_province\": \"FL\", \"postal_code\": \"34652\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2536718, \"longitude\": -82.72842469999999}, \"phones\": [{\"number\": \"(727) 741-0704\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"00:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.905380"
+}

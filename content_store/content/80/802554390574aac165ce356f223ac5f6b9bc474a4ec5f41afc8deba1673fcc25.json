@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Stephen and Sandra Sheller 11th St. Family Health Services\", \"alternate_name\": \"\", \"description\": \"- Emergency food is available incase someone is at the check in desk.\", \"email\": \"\", \"url\": \"https://www.facebook.com/sheller11thstreet/\", \"status\": \"active\", \"address\": {\"address_1\": \"850 North 11th Street\", \"address_2\": null, \"city\": \"West Poplar\", \"state_province\": \"PA\", \"postal_code\": \"19123\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9679901, \"longitude\": -75.1551309}, \"phones\": [{\"number\": \"(215) 769-1100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.344740"
+}

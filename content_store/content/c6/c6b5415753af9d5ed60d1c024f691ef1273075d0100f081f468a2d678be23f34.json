@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bronx Bethany Community Corporation Food Pantry\", \"alternate_name\": \"\", \"description\": \"Scheduling an appointment through PLENTIFUL app will give fast track (priority) since there are 2 lines.\", \"email\": \"\", \"url\": \"https://www.bbccnyc.com/the-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"964 East 227th Street\", \"address_2\": \"\", \"city\": \"East Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10466\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8865032, \"longitude\": -73.85184799999999}, \"phones\": [{\"number\": \"(718) 697-9672\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on the 5th Wednesday and Thursday of the month.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.196190"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Warm Hearts Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"201 Martin Luther King Dr\", \"address_2\": null, \"city\": \"Lakewood\", \"state_province\": \"New Jersey\", \"postal_code\": \"08701\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.083627, \"longitude\": -74.2104904}, \"phones\": [{\"number\": \"(732) 791-6509\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.695519"
+}

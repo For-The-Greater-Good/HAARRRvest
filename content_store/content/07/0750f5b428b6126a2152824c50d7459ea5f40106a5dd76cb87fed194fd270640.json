@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gowanus Houses Community Center\", \"alternate_name\": \"\", \"description\": \"Distribution is outside of Gowanus Houses Community Center\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"420 Baltic Street\", \"address_2\": null, \"city\": \"Gowanus\", \"state_province\": \"NY\", \"postal_code\": \"11217\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.682725, \"longitude\": -73.9890941}, \"phones\": [{\"number\": \"(347) 546-1832\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:21.802262"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Martin's House & Barn, Food Pantry\", \"alternate_name\": \"\", \"description\": \"FOOD PANTRY: Provides emergency food to anyone in need. Disposable diapers and baby formula occasionally are available. Also offers clients to access information on community services, health information, educational opportunities, and life skills classes.\", \"email\": \"\", \"url\": \"https://www.martinshouseandbarn.org/get-help\", \"status\": \"active\", \"address\": {\"address_1\": \"14374 Benedictine Lane\", \"address_2\": null, \"city\": \"Ridgely\", \"state_province\": \"MD\", \"postal_code\": \"21660\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.00544, \"longitude\": -75.89082}, \"phones\": [{\"number\": \"(410) 634-2537\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Distribution in parking lot\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:28.971282"
+}

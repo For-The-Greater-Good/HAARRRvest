@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Northside Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.nbcstpete.com/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"6000 38th Avenue North\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33710\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8057129, \"longitude\": -82.7169292}, \"phones\": [{\"number\": \"(727) 381-3642\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring Florida ID\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.297424"
+}

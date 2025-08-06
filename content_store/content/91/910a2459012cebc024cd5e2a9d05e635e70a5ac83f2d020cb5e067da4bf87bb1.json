@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Luke's on the avenue\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.churchontheavenuehampden.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"800 West 36th Street\", \"address_2\": null, \"city\": \"Hampden\", \"state_province\": \"MD\", \"postal_code\": \"21211\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.33150639999999, \"longitude\": -76.62962859999999}, \"phones\": [{\"number\": \"(443) 402-5828\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Temporarily closed\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.037483"
+}

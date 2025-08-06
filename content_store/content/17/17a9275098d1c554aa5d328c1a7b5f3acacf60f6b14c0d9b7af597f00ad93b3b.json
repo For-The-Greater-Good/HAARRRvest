@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christ Jubilee Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/jeremiah.menyongai\", \"email\": \"\", \"url\": \"https://christjubilee.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"101 Smith Street\", \"address_2\": null, \"city\": \"Highlands\", \"state_province\": \"MA\", \"postal_code\": \"01851\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6347926, \"longitude\": -71.32310129999999}, \"phones\": [{\"number\": \"(978) 452-9976\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.419329"
+}

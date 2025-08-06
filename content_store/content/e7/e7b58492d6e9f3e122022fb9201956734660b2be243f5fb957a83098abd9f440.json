@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Crescent Avenue Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://crescentave.church/valaries-soup-kitchen\", \"status\": \"active\", \"address\": {\"address_1\": \"716 Watchung Avenue\", \"address_2\": null, \"city\": \"Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07060\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.616878, \"longitude\": -74.41450209999999}, \"phones\": [{\"number\": \"(908) 756-0750\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Grab and Go Meals\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and feminine hygiene products may be available\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.237910"
+}

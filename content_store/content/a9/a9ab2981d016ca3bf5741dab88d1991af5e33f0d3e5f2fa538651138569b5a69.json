@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pine Grove Baptist Church\", \"alternate_name\": \"\", \"description\": \"Enter the church basement from the gravel parking lot.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1624 North Carolina 56\", \"address_2\": \"\", \"city\": \"Butner\", \"state_province\": \"NC\", \"postal_code\": \"27522\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.13768090000001, \"longitude\": -78.7151362}, \"phones\": [{\"number\": \"(252) 767-1057\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"03:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"03:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.786070"
+}

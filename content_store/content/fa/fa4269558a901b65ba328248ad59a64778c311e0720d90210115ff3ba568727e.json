@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"66 South Grove Street\", \"address_2\": null, \"city\": \"East Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07018\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7548023, \"longitude\": -74.2039001}, \"phones\": [{\"number\": \"(862) 438-1027\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.277380"
+}

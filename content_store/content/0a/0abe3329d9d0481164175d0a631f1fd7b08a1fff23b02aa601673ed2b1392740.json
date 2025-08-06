@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Love Wins Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.lovewinsmovement.org\", \"status\": \"active\", \"address\": {\"address_1\": \"8187 Telegraph Road\", \"address_2\": null, \"city\": \"Severn\", \"state_province\": \"MD\", \"postal_code\": \"21144\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.10478299999999, \"longitude\": -76.69068229999999}, \"phones\": [{\"number\": \"(410) 551-6654\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Drive-thru delivery\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.029838"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Senior Centers Inc.\", \"alternate_name\": \"\", \"description\": \"CONGREGATE MEAL SITES FOR ADULTS 60 AND OLDER\\n\\n\\nRequired: Call 24 hours ahead to reserve a meal,\\nsuggested donation $2.50 per meal\\n\", \"email\": \"\", \"url\": \"https://seniorcentersinc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2308 Jefferson Avenue\", \"address_2\": null, \"city\": \"Center City\", \"state_province\": \"OH\", \"postal_code\": \"43604\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6590955, \"longitude\": -83.5537772}, \"phones\": [{\"number\": \"(419) 242-9511\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.493464"
+}

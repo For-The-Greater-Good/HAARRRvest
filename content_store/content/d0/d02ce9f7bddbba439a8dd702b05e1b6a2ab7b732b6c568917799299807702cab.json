@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ohio Department of Job & Family Services\", \"alternate_name\": \"\", \"description\": \"You can apply for food assistance https://ssp.benefits.ohio.gov/apspssp/ssp.portal/login/personalInfoSignup, or you can fill out a form called \\\"Request for Cash, Food, and Medical Assistance. This form is available online. Once you complete the form, you can submit it to your county agency. If you're not sure where to send it, you can use the online county directory or call 1-866-635-3748 for assistance. They will provide you with the address and phone number of your county agency. You can also find the contact information in the county government section of your phone book.\", \"email\": \"\", \"url\": \"https://jfs.ohio.gov/cash-food-and-refugee-assistance/food-assistance\", \"status\": \"active\", \"address\": {\"address_1\": \"30 East Broad Street\", \"address_2\": null, \"city\": \"Uptown District\", \"state_province\": \"OH\", \"postal_code\": \"43215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.96280640000001, \"longitude\": -82.99945749999999}, \"phones\": [{\"number\": \"(614) 466-6282\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.023073"
+}

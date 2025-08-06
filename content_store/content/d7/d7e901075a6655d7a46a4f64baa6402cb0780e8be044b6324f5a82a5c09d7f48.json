@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Victorious Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Our clients do not come in the building. They pull up in the first driveway connected fo the larger parking lot. We come out to meet and service them at their car.\", \"email\": \"\", \"url\": \"https://ewingnj.org/government/news/364-ewing-township-encourages-residents-to-help-fight-hunger-during-summer-food-drive\", \"status\": \"active\", \"address\": {\"address_1\": \"320 Hollowbrook Drive\", \"address_2\": null, \"city\": \"Ewing Township\", \"state_province\": \"NJ\", \"postal_code\": \"08638\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.26471739999999, \"longitude\": -74.77041659999999}, \"phones\": [{\"number\": \"(609) 771-4251\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed early if the weather is bad\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:37.968864"
+}

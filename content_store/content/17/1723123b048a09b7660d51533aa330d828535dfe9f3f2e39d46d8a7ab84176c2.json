@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Paul Life Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/SaintPaulLife\", \"status\": \"active\", \"address\": {\"address_1\": \"355 Badger Avenue\", \"address_2\": null, \"city\": \"Lower Clinton Hill\", \"state_province\": \"NJ\", \"postal_code\": \"07112\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7141811, \"longitude\": -74.19936}, \"phones\": [{\"number\": \"(862) 216-1353\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:06.544833"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Pasco\", \"alternate_name\": \"\", \"description\": \"Serving: Pasco County\", \"email\": \"\", \"url\": \"https://salvationarmyflorida.org/pasco-county/\", \"status\": \"active\", \"address\": {\"address_1\": \"7745 Ridge Road\", \"address_2\": null, \"city\": \"Port Richey\", \"state_province\": \"FL\", \"postal_code\": \"34668\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2810018, \"longitude\": -82.6860664}, \"phones\": [{\"number\": \"(727) 815-8539\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.981983"
+}

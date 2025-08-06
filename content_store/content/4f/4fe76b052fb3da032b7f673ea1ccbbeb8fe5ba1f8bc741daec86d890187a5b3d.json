@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hickman Temple AME Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/HickmanTempleAMEC/\", \"status\": \"active\", \"address\": {\"address_1\": \"1220 South 58th Street\", \"address_2\": null, \"city\": \"Southwest Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19143\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.943173, \"longitude\": -75.237642}, \"phones\": [{\"number\": \"(215) 476-5340\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:19.711269"
+}

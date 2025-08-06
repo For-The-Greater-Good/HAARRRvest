@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Luke AME Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2709 North 25th Street\", \"address_2\": null, \"city\": \"Ybor City\", \"state_province\": \"FL\", \"postal_code\": \"33605\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9673237, \"longitude\": -82.43138080000001}, \"phones\": [{\"number\": \"(813) 248-6753\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.319082"
+}

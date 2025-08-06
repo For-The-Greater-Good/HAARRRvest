@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Parkchester Baptist Church\", \"alternate_name\": \"\", \"description\": \"Food Pantry: 2nd and 4th tuesday of the Month: Starts at 11am- until supplies last\", \"email\": \"\", \"url\": \"https://www.parkchesterbaptistchurch.org\", \"status\": \"active\", \"address\": {\"address_1\": \"2021 Benedict Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10462\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.83478654531337, \"longitude\": -73.85715455795595}, \"phones\": [{\"number\": \"(718) 823-8124\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.947562"
+}

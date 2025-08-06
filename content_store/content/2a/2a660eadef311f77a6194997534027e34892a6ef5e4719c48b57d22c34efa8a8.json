@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"BREAD OF REFUGE \", \"alternate_name\": \"\", \"description\": \"Bread of Refuge provides Food boxes for families in need & hot meals for homeless\\n\\n\", \"email\": \"\", \"url\": \"http://www.breadofrefuge.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"521 Wilbur Street\", \"address_2\": null, \"city\": \"Brandon\", \"state_province\": \"FL\", \"postal_code\": \"33511\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.936043, \"longitude\": -82.2786028}, \"phones\": [{\"number\": \"(813) 381-3465\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Food donations are accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.593301"
+}

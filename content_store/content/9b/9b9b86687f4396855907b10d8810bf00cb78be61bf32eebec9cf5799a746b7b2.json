@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Middletown Senior Center\", \"alternate_name\": \"\", \"description\": \"FREE for Middletown Residents.\\nThe Nutrition Center also offers a Meals on Wheels program. Call 732-291-0999 for more information.\", \"email\": \"\", \"url\": \"https://www.middletownnj.org/256/Senior-Services\", \"status\": \"active\", \"address\": {\"address_1\": \"900 Leonardville Road\", \"address_2\": \"Leonardville Road\", \"city\": \"Leonardo\", \"state_province\": \"NJ\", \"postal_code\": \"07737\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4107047, \"longitude\": -74.05482959999999}, \"phones\": [{\"number\": \"(732) 615-2265\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Meal delivery available for seniors\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:35.811020"
+}

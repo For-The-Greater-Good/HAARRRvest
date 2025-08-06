@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary Assembly of God\", \"alternate_name\": \"\", \"description\": \"On your first visit, you are invited to enter by the Food Pantry flag door. Please bring any form of ID to verify that you are a Montgomery County resident. You will be invited to fill out a form that tells us how many people in your household and total monthly household income. A volunteer will invite you to select the items of your choosing from our supply of pasta, vegetables, protein items, and drinks. \", \"email\": \"\", \"url\": \"https://www.calvarywyncote.com\", \"status\": \"active\", \"address\": {\"address_1\": \"7910 Washington Lane\", \"address_2\": \"\", \"city\": \"Wyncote\", \"state_province\": \"PA\", \"postal_code\": \"19095\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.08267, \"longitude\": -75.143912}, \"phones\": [{\"number\": \"(215) 886-0404\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.062053"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"GRACE at the Summit Community Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.gracegivingreceiving.org\", \"status\": \"active\", \"address\": {\"address_1\": \"100 Morris Avenue\", \"address_2\": null, \"city\": \"Summit\", \"state_province\": \"NJ\", \"postal_code\": \"07901\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7113589, \"longitude\": -74.346238}, \"phones\": [{\"number\": \"(908) 259-4744\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.833014"
+}

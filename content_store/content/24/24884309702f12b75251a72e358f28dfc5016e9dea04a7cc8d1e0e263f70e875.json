@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New York City Relief,  LOWER EAST SIDE OUTREACH\", \"alternate_name\": \"\", \"description\": \" Located BTWN CHRYSTIE & FORSYTH ST\\n\\nThis location has: Soup, bread, beverages, socks, hygiene kits, prayer, & Life Care Visits (ie: one-on-one referrals to resources.)\", \"email\": \"\", \"url\": \"https://cityrelief.org/our-locations\", \"status\": \"active\", \"address\": {\"address_1\": \"Delancey Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10002\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7201909, \"longitude\": -73.993341}, \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.521360"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Brooklyn Food Corps / Brooklyn Rescue( Housing complex)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://brmuhc.org/community-food-center/bed-stuy-farm/\", \"status\": \"active\", \"address\": {\"address_1\": \"65 Martha Road\", \"address_2\": null, \"city\": \"West End\", \"state_province\": \"MA\", \"postal_code\": \"02114\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.36565969999999, \"longitude\": -71.0657015}, \"phones\": [{\"number\": \"(617) 852-5967\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:18.906022"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Elite Learners, In This Together - Food Pantry\", \"alternate_name\": \"\", \"description\": \"Offer assistance for victims of crime\", \"email\": \"\", \"url\": \"https://elitelearners.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4517 Avenue D\", \"address_2\": null, \"city\": \"Brooklyn, New York\", \"state_province\": \"NY\", \"postal_code\": \"11203\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.64261501976356, \"longitude\": -73.93329880792912}, \"phones\": [{\"number\": \"(347) 789-3988\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can come as often as they need\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.193317"
+}

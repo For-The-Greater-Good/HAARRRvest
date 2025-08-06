@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project Hospitality @ African Refugee Center\", \"alternate_name\": \"\", \"description\": \"This is a mobile pantry maybe it will be late due to the traffic please wait 15 min from the time of arrival\", \"email\": \"\", \"url\": \"https://projecthospitality.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"185 Park Hill Avenue\", \"address_2\": null, \"city\": \"Park Hill\", \"state_province\": \"NY\", \"postal_code\": \"10304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.615237, \"longitude\": -74.0821849}, \"phones\": [{\"number\": \"(718) 448-1544\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:45\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:17.215994"
+}

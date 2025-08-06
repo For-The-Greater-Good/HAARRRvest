@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Basilica of Our Lady of Perpetual Help\", \"alternate_name\": \"\", \"description\": \"Might be closing June 2023\", \"email\": \"\", \"url\": \"https://olphbkny.org\", \"status\": \"active\", \"address\": {\"address_1\": \"545 60th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11220\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6393607, \"longitude\": -74.0152313}, \"phones\": [{\"number\": \"(347) 603-3738\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.046560"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Forest Oaks Lutheran Church \", \"alternate_name\": \"\", \"description\": \"Hernando County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"8555 Forest Oaks Boulevard\", \"address_2\": null, \"city\": \"Berkeley Manor\", \"state_province\": \"FL\", \"postal_code\": \"34606\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.4878535, \"longitude\": -82.57787739999999}, \"phones\": [{\"number\": \"(352) 683-9731\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.853037"
+}

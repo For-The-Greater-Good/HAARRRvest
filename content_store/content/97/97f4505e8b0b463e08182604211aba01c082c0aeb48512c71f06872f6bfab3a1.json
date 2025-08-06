@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Shiloh IBC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.shilohibc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2400 Greenland Avenue\", \"address_2\": null, \"city\": \"Ashley Park\", \"state_province\": \"NC\", \"postal_code\": \"28208\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2261436, \"longitude\": -80.8794211}, \"phones\": [{\"number\": \"(704) 393-2065\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.645719"
+}

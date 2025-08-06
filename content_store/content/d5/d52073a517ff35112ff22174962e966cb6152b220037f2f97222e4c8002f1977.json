@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tzu Chi Foundation - Queens SNAP Assistance\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": 40.7127753, \"longitude\": -74.0059728}, \"phones\": [{\"number\": \"(718) 888-0866\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:19.640038"
+}

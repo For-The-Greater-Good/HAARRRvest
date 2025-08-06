@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Marietta Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serving Washington County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"635 Ohio 821\", \"address_2\": \"Complex #1, Building #3\", \"city\": \"Marietta\", \"state_province\": \"OH\", \"postal_code\": \"45750\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.456747, \"longitude\": -81.45006339999999}, \"phones\": [{\"number\": \"(740) 373-5741\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.543265"
+}

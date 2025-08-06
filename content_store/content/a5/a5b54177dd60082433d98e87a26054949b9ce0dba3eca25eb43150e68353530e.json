@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"American Red Cross Boston Food Pantry\", \"alternate_name\": \"\", \"description\": \"(entrance door is on Proctor Street)\", \"email\": \"\", \"url\": \"https://www.redcross.org/local/massachusetts/about-us/our-work/food-and-nutrition-programs.html\", \"status\": \"active\", \"address\": {\"address_1\": \"1033 Massachusetts Avenue\", \"address_2\": null, \"city\": \"Roxbury\", \"state_province\": \"MA\", \"postal_code\": \"02118\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3271288, \"longitude\": -71.0677022}, \"phones\": [{\"number\": \"(617) 375-0735\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will be given a Pantry ID upon registration\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.554461"
+}

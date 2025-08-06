@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Nazareth Housing - Louise's Pantry\", \"alternate_name\": \"\", \"description\": \"Appointments are required for both locations. Text \\u201cFood\\u201d to 726879 to make an appointment  or call at (212) 777-3574\", \"email\": \"\", \"url\": \"https://nazarethhousingnyc.org/services/louises-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"206 East 4th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10009\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7237446, \"longitude\": -73.9841069}, \"phones\": [{\"number\": \"(212) 477-7017\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:09.389456"
+}

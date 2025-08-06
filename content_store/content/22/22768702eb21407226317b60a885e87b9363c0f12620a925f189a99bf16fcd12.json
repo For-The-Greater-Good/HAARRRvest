@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Joseph Food Pantry\", \"alternate_name\": \"\", \"description\": \"They are in process of transitioning the Pantry, call in advance for emergency food supplies \", \"email\": \"\", \"url\": \"https://stjosephbogota.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"115 East Fort Lee Road\", \"address_2\": null, \"city\": \"Bogota\", \"state_province\": \"NJ\", \"postal_code\": \"07603\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8751938, \"longitude\": -74.02537610000002}, \"phones\": [{\"number\": \"(201) 342-6300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.034896"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"National Committee for Furtherance of Jewish Education\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.ncfje.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"824 Eastern Parkway\", \"address_2\": null, \"city\": \"Crown Heights\", \"state_province\": \"NY\", \"postal_code\": \"11213\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6688654, \"longitude\": -73.94105669999999}, \"phones\": [{\"number\": \"(718) 735-0200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:07.782517"
+}

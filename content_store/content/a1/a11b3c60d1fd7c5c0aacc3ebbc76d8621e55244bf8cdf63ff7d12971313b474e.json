@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Living Water Church (New Beginnings Food Pantry)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"291 Main Street\", \"address_2\": null, \"city\": \"Hackettstown\", \"state_province\": \"NJ\", \"postal_code\": \"07840\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8503578, \"longitude\": -74.82535349999999}, \"phones\": [{\"number\": \"(908) 852-5510\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.933826"
+}

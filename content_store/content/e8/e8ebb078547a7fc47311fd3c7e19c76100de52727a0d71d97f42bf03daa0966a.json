@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jordan\\u2019s Crossing\", \"alternate_name\": \"\", \"description\": \"* Jordan\\u2019s Closet is open every Thursday and Friday after meals\", \"email\": \"\", \"url\": \"jordanscrossingcolumbus.org\", \"status\": \"active\", \"address\": {\"address_1\": \"342 North Hague Avenue\", \"address_2\": null, \"city\": \"Hilltop\", \"state_province\": \"OH\", \"postal_code\": \"43204\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9618153, \"longitude\": -83.0756079}, \"phones\": [{\"number\": \"(614) 507-3246\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"05:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Healthcare Programs\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.471808"
+}

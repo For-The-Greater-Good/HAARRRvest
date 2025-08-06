@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Neighborhood House\", \"alternate_name\": \"\", \"description\": \"Jeffersojn county residents\", \"email\": \"\", \"url\": \"https://www.nhky.org/programs/family-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"201 North 25th Street\", \"address_2\": null, \"city\": \"Louisville\", \"state_province\": \"KY\", \"postal_code\": \"40212\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.262007, \"longitude\": -85.790672}, \"phones\": [{\"number\": \"(502) 774-2322\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.268410"
+}

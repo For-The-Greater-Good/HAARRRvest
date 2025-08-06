@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Paramus Community Pantry\", \"alternate_name\": \"\", \"description\": \"Have to be  a Paramus resident.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"105 North Farview Avenue\", \"address_2\": null, \"city\": \"Paramus\", \"state_province\": \"NJ\", \"postal_code\": \"07652\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9269037, \"longitude\": -74.066232}, \"phones\": [{\"number\": \"(201) 265-2100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.760934"
+}

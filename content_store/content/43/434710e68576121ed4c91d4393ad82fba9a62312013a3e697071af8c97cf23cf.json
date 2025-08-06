@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holy Cross Church\", \"alternate_name\": \"\", \"description\": \"- You have to live within 15 blocks  of the church\\n-Clients must live between the 5th avenue and  delton river\\n\", \"email\": \"\", \"url\": \"https://www.christinthecity.nyc/food-pantries\", \"status\": \"active\", \"address\": {\"address_1\": \"329 W 42nd St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10036\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7579652, \"longitude\": -73.9910709}, \"phones\": [{\"number\": \"(212) 246-4732\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Only serve residents of 30th to 57th Street and from 5th Avenue to 12th Avenue\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Only serve the neighborhood\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.180030"
+}

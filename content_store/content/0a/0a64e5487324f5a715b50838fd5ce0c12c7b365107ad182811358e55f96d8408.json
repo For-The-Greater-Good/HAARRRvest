@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fanwood Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"We have a box recycling program so we ask all clients to return their box to us once they have emptied the contents of it. Typically most clients will bring it back the next time that they come for food distribution  \", \"email\": \"\", \"url\": \"https://www.fanwoodpc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"74 S Martine Ave\", \"address_2\": null, \"city\": \"Fanwood\", \"state_province\": \"NJ\", \"postal_code\": \"07023\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.639408, \"longitude\": -74.382208}, \"phones\": [{\"number\": \"(908) 889-8891\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Located in Church Parking Lot\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of  need required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.250503"
+}

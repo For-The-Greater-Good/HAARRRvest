@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Peace Catholic Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://olpnp.com/parish-calendar/\", \"status\": \"active\", \"address\": {\"address_1\": \"111 South St.\", \"address_2\": \"\", \"city\": \"New Providence\", \"state_province\": \"NJ\", \"postal_code\": \"07974\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.702272, \"longitude\": -74.406669}, \"phones\": [{\"number\": \"(908) 464-7600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.219043"
+}

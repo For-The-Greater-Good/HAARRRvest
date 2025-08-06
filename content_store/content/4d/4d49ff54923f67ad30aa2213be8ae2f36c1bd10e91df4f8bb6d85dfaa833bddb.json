@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"HARRISBURG CRISIS ASSISTANCE FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"AVAILABLE FOR HARRISBURG RESIDENTS ONLY.\\n\", \"email\": \"\", \"url\": \"https://www.harrisburgumc.org/serve/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"7940 Rocky River Road\", \"address_2\": \"7940 Rocky River Road\", \"city\": \"Concord\", \"state_province\": \"NC\", \"postal_code\": \"28025\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.3077748, \"longitude\": -80.597954}, \"phones\": [{\"number\": \"(704) 957-8629\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Financial assistance for some bills, proof required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.565317"
+}

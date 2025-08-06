@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Guided Path Foundation\", \"alternate_name\": \"\", \"description\": \"Provides free hygiene products\", \"email\": \"\", \"url\": \"https://guidedpathhaven.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"711 Lithia Pinecrest Road\", \"address_2\": null, \"city\": \"Brandon\", \"state_province\": \"FL\", \"postal_code\": \"33511\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9283192, \"longitude\": -82.2742576}, \"phones\": [{\"number\": \"(813) 952-4073\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.394921"
+}

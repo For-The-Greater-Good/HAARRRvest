@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FEAST Pantry\", \"alternate_name\": \"\", \"description\": \"Bucks county residents\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1 Luther Lane\", \"address_2\": null, \"city\": \"Trumbauersville\", \"state_province\": \"PA\", \"postal_code\": \"18970\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4124983, \"longitude\": -75.3734173}, \"phones\": [{\"number\": \"(215) 536-3193\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.468186"
+}

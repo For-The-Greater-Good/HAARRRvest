@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ironbound Community Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://ironboundcc.org/seniors/\", \"status\": \"active\", \"address\": {\"address_1\": \"432 Lafayette Street\", \"address_2\": \"\", \"city\": \"North Ironbound\", \"state_province\": \"NJ\", \"postal_code\": \"07105\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7254798, \"longitude\": -74.15367669999999}, \"phones\": [{\"number\": \"(973) 465-0555\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.141700"
+}

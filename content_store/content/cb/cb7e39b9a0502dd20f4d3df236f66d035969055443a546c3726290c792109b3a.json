@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Iglesia Nueva Vida\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4423 South Main Street\", \"address_2\": null, \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27127\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.0298908, \"longitude\": -80.2425063}, \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"23:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:36.640112"
+}

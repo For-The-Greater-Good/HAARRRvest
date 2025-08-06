@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethany Baptist Myakka City\", \"alternate_name\": \"\", \"description\": \"If distribution falls on a holiday weekend, then 2nd Saturday.\\nMust be from Manatee County.\\nRegistration needs to be done every year.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"26604 Florida 64\", \"address_2\": null, \"city\": \"Myakka City\", \"state_province\": \"FL\", \"postal_code\": \"34251\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.4740956, \"longitude\": -82.2695014}, \"phones\": [{\"number\": \"(941) 302-3176\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.263603"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of God in Christ on the Hill Food Ministry\", \"alternate_name\": \"\", \"description\": \"Primarily a soup kitchen, but may also distributes pantry items\\n\", \"email\": \"\", \"url\": \"https://www.cogicoth.org\", \"status\": \"active\", \"address\": {\"address_1\": \"137 Buffalo Ave\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11213\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.674545, \"longitude\": -73.924637}, \"phones\": [{\"number\": \"(347) 216-7681\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.229454"
+}

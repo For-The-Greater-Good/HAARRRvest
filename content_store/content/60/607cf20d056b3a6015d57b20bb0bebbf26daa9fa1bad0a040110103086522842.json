@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mt. Ararat P.B. Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7793 Tallahassee Highway\", \"address_2\": null, \"city\": \"Attapulgus\", \"state_province\": \"GA\", \"postal_code\": \"39815\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.70389, \"longitude\": -84.389003}, \"phones\": [{\"number\": \"(229) 873-3583\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:35.596178"
+}

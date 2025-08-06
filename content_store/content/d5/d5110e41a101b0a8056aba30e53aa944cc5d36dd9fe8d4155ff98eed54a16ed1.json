@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hope Food Pantry \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.tbmissionofhope.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"212 South Saint Cloud Avenue\", \"address_2\": null, \"city\": \"Valrico\", \"state_province\": \"FL\", \"postal_code\": \"33594\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9348571, \"longitude\": -82.236959}, \"phones\": [{\"number\": \"(813) 716-3996\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.442180"
+}

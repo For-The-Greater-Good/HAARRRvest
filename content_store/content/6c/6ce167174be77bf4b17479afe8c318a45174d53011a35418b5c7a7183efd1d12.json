@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Second Baptist Church Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.sbcapnj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"124 Atkins Ave.\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"New Jersey\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.215884, \"longitude\": -74.020349}, \"phones\": [{\"number\": \"(732) 774-5347\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.783545"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHASI MFP- Ocean Ave & Drury Ave\", \"alternate_name\": \"\", \"description\": \"There is no income requirement for food pantry services. All are welcome. Everything is free. Please bring personal identification with you and proof of household size if you have it.\\n\\nCHASI is using Plentiful to improve your service and to make it easier for you to find other pantries to meet your needs. Text the word \\u201cFOOD\\u201d to PANTRY (726-879) from any phone to get the Plentiful app, or bring your ID and we\\u2019ll help you connect!\", \"email\": \"\", \"url\": \"https://chasiny.org/services/food-pantry-mobile-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1 Drury Avenue\", \"address_2\": null, \"city\": \"South Beach\", \"state_province\": \"NY\", \"postal_code\": \"10305\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5942, \"longitude\": -74.0618625}, \"phones\": [{\"number\": \"(718) 808-1300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:16.839244"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Good Samaritan Mission \", \"alternate_name\": \"\", \"description\": \"Must take 1/2 hr class to earn 1 token per bag of groceries. 1/2 classes run consecutively starting a 9:30am.\", \"email\": \"\", \"url\": \"https://gsmission.org/contact.html\", \"status\": \"active\", \"address\": {\"address_1\": \"14920 Balm Wimauma Road\", \"address_2\": null, \"city\": \"Wimauma\", \"state_province\": \"FL\", \"postal_code\": \"33598\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.758472, \"longitude\": -82.2598014}, \"phones\": [{\"number\": \"(813) 634-7136\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.593845"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Silver Run Elementary School\", \"alternate_name\": \"\", \"description\": \"Coordinator: Linda\\tPolhamus\\t8563276161\\t\\nStart: 07/01/2025\\tEnd: 07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"301 Silver Run Road\", \"address_2\": null, \"city\": \"Millville\", \"state_province\": \"NJ\", \"postal_code\": \"08332\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3869872, \"longitude\": -75.0441963}, \"phones\": [{\"number\": \"(856) 293-2183\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:45\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:10.010018"
+}

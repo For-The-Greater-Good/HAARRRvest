@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wiley Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"* Distributes to 50-60 families.\\n* Need to present a photo ID with address\\n* Serves Mt. Laurel, Marlton, and Medford residents only.\", \"email\": \"\", \"url\": \"https://wileymission.org/foodpantry\", \"status\": \"active\", \"address\": {\"address_1\": \"99 East Main Street\", \"address_2\": null, \"city\": \"Marlton\", \"state_province\": \"NJ\", \"postal_code\": \"08053\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8884969, \"longitude\": -74.91296899999999}, \"phones\": [{\"number\": \"(856) 983-0506\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.931965"
+}

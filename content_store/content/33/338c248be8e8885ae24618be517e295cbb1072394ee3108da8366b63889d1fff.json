@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Colony-South Brooklyn Houses\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.colonysouth.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"297 Dean St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11217\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6844755, \"longitude\": -73.98195059999999}, \"phones\": [{\"number\": \"(718) 625-3810\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.524547"
+}

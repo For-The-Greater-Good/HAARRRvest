@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FAWN Food Pantry at Tilden Middle School\", \"alternate_name\": \"\", \"description\": \"* Appointments are strongly recommended. Call or text 445-216-9766 to get in touch. If interested in diapers and wipes, proof of child needed.\\n* Enter by parking lot on 66th St.\", \"email\": \"\", \"url\": \"https://www.facebook.com/FoodandWellnessNetwork/\", \"status\": \"active\", \"address\": {\"address_1\": \"6601 Elmwood Avenue\", \"address_2\": null, \"city\": \"Elmwood Park\", \"state_province\": \"PA\", \"postal_code\": \"19142\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9215039, \"longitude\": -75.232455}, \"phones\": [{\"number\": \"(267) 639-0208\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed during summer\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.023459"
+}

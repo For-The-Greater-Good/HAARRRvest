@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethel Seventh Day Adventist Church\", \"alternate_name\": \"\", \"description\": \"Line for food pantry usually forms around noon.\", \"email\": \"\", \"url\": \" http://www.bethelsda.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"457 Grand Ave\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11238\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.681774, \"longitude\": -73.961273}, \"phones\": [{\"number\": \"(718) 783-3630\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.061200"
+}

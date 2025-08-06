@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Eliot Congregational Church (Boston Treatment Ctr)\", \"alternate_name\": \"\", \"description\": \"No Timing\\n\\nEliot Congregational Church\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"56 Dale Street\", \"address_2\": null, \"city\": \"Roxbury\", \"state_province\": \"MA\", \"postal_code\": \"02119\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3209161, \"longitude\": -71.0854789}, \"phones\": [{\"number\": \"(617) 445-7525\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:45\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.914312"
+}

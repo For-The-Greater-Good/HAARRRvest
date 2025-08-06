@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Chrill Care Mobile Meals of Essex County\", \"alternate_name\": \"\", \"description\": \"weekday hot meal delivery is provided to clients who are mostly homebound due to illness, physical limitation, advanced age, or inadequate cooking facilities. The meals are delivered usually between 10:00 a.m. and 2:00 p.m. to the client\\u2019s home by trained delivery drivers. Contact our mobile meals manager at (973) 744-0473\", \"email\": \"\", \"url\": \"https://ccihomecare.com/mobile-meals/\", \"status\": \"active\", \"address\": {\"address_1\": \"201 Bloomfield Avenue\", \"address_2\": null, \"city\": \"Verona\", \"state_province\": \"NJ\", \"postal_code\": \"07044\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8259554, \"longitude\": -74.2351151}, \"phones\": [{\"number\": \"(973) 744-8103\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"For homebound seniors\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:14.851391"
+}

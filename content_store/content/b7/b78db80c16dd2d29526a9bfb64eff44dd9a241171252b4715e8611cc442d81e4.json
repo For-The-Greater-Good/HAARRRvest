@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Global Health and Environment Foundation\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"13003 9th Street\", \"address_2\": null, \"city\": \"Bowie\", \"state_province\": \"MD\", \"postal_code\": \"20720\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0081016, \"longitude\": -76.7809678}, \"phones\": [{\"number\": \"(301) 377-1224\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.736630"
+}

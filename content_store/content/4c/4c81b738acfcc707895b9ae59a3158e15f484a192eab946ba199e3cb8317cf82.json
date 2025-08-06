@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Central Baptist Church of Baltimore City\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/cbcbaltomd\", \"email\": \"\", \"url\": \"https://www.thecentralbaptistchurch.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"2031 West Baltimore Street\", \"address_2\": null, \"city\": \"Booth-Boyd\", \"state_province\": \"MD\", \"postal_code\": \"21223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2877604, \"longitude\": -76.6497376}, \"phones\": [{\"number\": \"(410) 233-8558\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.089559"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gethsemane United Methodist\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.gethsemaneumc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"910 Addison Road South\", \"address_2\": null, \"city\": \"Capitol Heights\", \"state_province\": \"MD\", \"postal_code\": \"20743\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8771425, \"longitude\": -76.8944796}, \"phones\": [{\"number\": \"(301) 336-1219\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.171772"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greengrove Baptist Church Food Kitchen\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://greengrovebaptist.com/ourministries/\", \"status\": \"active\", \"address\": {\"address_1\": \"240 Cushman Avenue\", \"address_2\": null, \"city\": \"West Berlin\", \"state_province\": \"NJ\", \"postal_code\": \"08091\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.794949, \"longitude\": -74.9154606}, \"phones\": [{\"number\": \"(856) 767-5423\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.715956"
+}

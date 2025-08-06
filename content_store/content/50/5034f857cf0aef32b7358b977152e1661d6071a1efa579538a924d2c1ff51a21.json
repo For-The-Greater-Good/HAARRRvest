@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bon Secours Community Resource Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.bonsecours.com/locations/community-services/baltimore/bon-secours-community-works-community-resource-center\", \"status\": \"active\", \"address\": {\"address_1\": \"31 South Payson Street\", \"address_2\": null, \"city\": \"Booth-Boyd\", \"state_province\": \"MD\", \"postal_code\": \"21223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2868358, \"longitude\": -76.6482357}, \"phones\": [{\"number\": \"(401) 801-5100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.276511"
+}

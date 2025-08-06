@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Assembly of God (Feed the Need)\", \"alternate_name\": \"\", \"description\": \"Clients are asked to complete application from Community Food Bank Of NJ (with ID).\", \"email\": \"\", \"url\": \"http://www.trinitypassaic.org/ministries/feed-the-need-ministry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"160 Passaic Avenue\", \"address_2\": null, \"city\": \"PASSAIC\", \"state_province\": \"NJ\", \"postal_code\": \"07055\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.855349, \"longitude\": -74.13046}, \"phones\": [{\"number\": \"(973) 779-6047\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.474534"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Hope Center Development Corporation - Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.hopecenterdevelopment.org/causes/new-item-here/\", \"status\": \"active\", \"address\": {\"address_1\": \"414 E 95th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11212\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.657257, \"longitude\": -73.918297}, \"phones\": [{\"number\": \"(718) 385-1043\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.996482"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Apostles' House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://theapostleshouse.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"18-24 Grant Street\", \"address_2\": null, \"city\": \"Mount Pleasant/Lower Broadway\", \"state_province\": \"NJ\", \"postal_code\": \"07104\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7483605, \"longitude\": -74.16895}, \"phones\": [{\"number\": \"(973) 482-0625\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.529711"
+}

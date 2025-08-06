@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New York City Family Justice Centers (FJCs) - Staten Island\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www1.nyc.gov/site/ocdv/get-help/covid-19-update.page\", \"status\": \"active\", \"address\": {\"address_1\": \"126 Stuyvesant Pl\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10301\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6429169, \"longitude\": -74.0772726}, \"phones\": [{\"number\": \"(718) 697-4300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.970399"
+}

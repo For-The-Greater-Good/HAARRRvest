@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Paul\\u2019s Place Outreach Center\", \"alternate_name\": \"\", \"description\": \"Paul's Place is open M-F. Please call 410-625-0775 for the hours of a specific program.\", \"email\": \"\", \"url\": \"https://paulsplaceoutreach.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1118 Ward Street\", \"address_2\": \"\", \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21230\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.282067, \"longitude\": -76.6328461}, \"phones\": [{\"number\": \"(410) 625-0775\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.085349"
+}

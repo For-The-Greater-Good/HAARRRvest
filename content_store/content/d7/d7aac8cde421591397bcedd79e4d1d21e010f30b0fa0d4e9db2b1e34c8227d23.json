@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"John Jay College Campus Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.jjay.cuny.edu/john-jay-food-bank\", \"status\": \"active\", \"address\": {\"address_1\": \"524 W 59th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10019\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7711041, \"longitude\": -73.9897134}, \"phones\": [{\"number\": \"(212) 237-8052\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"maclarke@jjay.cuny.edu\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.540755"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Homefront\", \"alternate_name\": \"\", \"description\": \"* Clients can visit: Once a month\\n* Housing assistance\\n* Diapers, wipes and Clothes upon availability.\\n* They offer refarals for other services such as legal immagration etc\\n* They have books, sewing and knitting classes and a painting workshop.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1880 Princeton Avenue\", \"address_2\": null, \"city\": \"Lawrence Township\", \"state_province\": \"NJ\", \"postal_code\": \"08648\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.24767442817799, \"longitude\": -74.74392170049744}, \"phones\": [{\"number\": \"(609) 989-9417\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Other services: referral\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.629888"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Edmunds Youth Programs, Inc.\", \"alternate_name\": \"\", \"description\": \"Requires ticket but you will still be served, priority is given to those with tickets.\\nTickets are taken in person\", \"email\": \"\", \"url\": \"https://www.foodpantries.org/li/st._edmunds_youth_programs_inc._10453\", \"status\": \"active\", \"address\": {\"address_1\": \"1905 Morris Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10453\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8499279, \"longitude\": -73.9082118}, \"phones\": [{\"number\": \"(718) 466-9370\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.578012"
+}

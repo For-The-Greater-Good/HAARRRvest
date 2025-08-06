@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Montgomery College - Rockville Campus Food Pantry\", \"alternate_name\": \"\", \"description\": \"* Each of the three main campuses has a pantry stocked with snacks, food, personal hygiene products, and household items. As an MC student, you are welcome to pick up a snack to carry you through your next class and to take a few items home.\\n* Location: Long Nguyen and Kimmy Duong Student Services Center, SV316\", \"email\": \"\", \"url\": \"https://www.montgomerycollege.edu/life-at-mc/student-health-and-wellness/fuel-for-success-food-campaign.html?fbclid=IwAR0rUziSyYdjXgOy3zalKydPFZNZSdKqNB1w5RoyqLT7PUvTCqGnMyDpHhw\", \"status\": \"active\", \"address\": {\"address_1\": \"51 Mannakee St.\", \"address_2\": null, \"city\": \"Rockville\", \"state_province\": \"MD\", \"postal_code\": \"20850\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.098232, \"longitude\": -77.158899}, \"phones\": [{\"number\": \"(251) 744-4411\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Student ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.330197"
+}

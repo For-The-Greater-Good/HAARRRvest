@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"EGG HARBOR CITY MORAVIAN CHURCH\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://www.eggharborcitymoravian.org/kitchen-door-food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"245 Boston Avenue\", \"address_2\": null, \"city\": \"Egg Harbor City\", \"state_province\": \"NJ\", \"postal_code\": \"08215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5276144, \"longitude\": -74.6398449}, \"phones\": [{\"number\": \"(609) 965-1920\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:37.839017"
+}

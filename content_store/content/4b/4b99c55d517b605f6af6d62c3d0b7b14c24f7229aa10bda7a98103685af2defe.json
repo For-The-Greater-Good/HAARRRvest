@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Puritan St. Church of Christ\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"19451 Conant\", \"address_2\": null, \"city\": \"Nolan\", \"state_province\": \"MI\", \"postal_code\": \"48234\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4372455, \"longitude\": -83.0771532}, \"phones\": [{\"number\": \"(313) 893-1002\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.616655"
+}

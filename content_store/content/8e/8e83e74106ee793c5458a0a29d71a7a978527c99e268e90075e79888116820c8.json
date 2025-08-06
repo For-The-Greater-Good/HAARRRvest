@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"LPC Mission Project\", \"alternate_name\": \"\", \"description\": \"Call 908-486-3073 to make an appointment for the food pantry on the 4th weekend of the month. Emergency food are available, must call the same number to inquire.\", \"email\": \"\", \"url\": \"https://www.lindenpres.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1506 Orchard Terrace\", \"address_2\": null, \"city\": \"Linden\", \"state_province\": \"NJ\", \"postal_code\": \"07036\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6390384, \"longitude\": -74.2695131}, \"phones\": [{\"number\": \"(908) 486-3073\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Household items upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.293894"
+}

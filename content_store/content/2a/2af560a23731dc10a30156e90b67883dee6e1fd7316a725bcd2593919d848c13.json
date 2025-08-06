@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lake Panasoffkee UMC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.lakepanumc.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"589 East C 470\", \"address_2\": null, \"city\": \"Lake Panasoffkee\", \"state_province\": \"FL\", \"postal_code\": \"33538\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.7514475, \"longitude\": -82.09556549999999}, \"phones\": [{\"number\": \"(352) 793-3438\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.385295"
+}

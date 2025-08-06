@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Visitation of the Blessed Virgin Mary Roman Catholic Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://visitationbvm-brooklyn.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"98 Richards St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11231\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.678878, \"longitude\": -74.0089394}, \"phones\": [{\"number\": \"(718) 624-1572\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Grab and Go Meals\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.170960"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Community Corporation Community Fridge - 332 S 8th St\", \"alternate_name\": \"\", \"description\": \"Refills are made between 10 am to 2 pm daily.\\nFood runs out very quickly ..\", \"email\": \"\", \"url\": \"https://uccnewark.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"332 South 8th Street\", \"address_2\": null, \"city\": \"West Side\", \"state_province\": \"NJ\", \"postal_code\": \"07103\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.73850059999999, \"longitude\": -74.19919829999999}, \"phones\": [{\"number\": \"(973) 621-8295\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open 24/7! Free, outdoor community fridge/pantry operated by local volunteers.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"For more info: fooddistribution@uccnewark.org\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:06.663772"
+}

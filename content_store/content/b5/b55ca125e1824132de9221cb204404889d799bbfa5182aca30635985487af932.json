@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project Hospitality -Parkhill Mobile Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.africanrefuge.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"185 Park Hill Avenue\", \"address_2\": \"\", \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6151882, \"longitude\": -74.08210369999999}, \"phones\": [{\"number\": \"(718) 701-4055\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:45\", \"closes_at\": \"18:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.262982"
+}

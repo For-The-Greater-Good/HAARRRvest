@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Heavenly Temple Comm.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://heavenlytemple.net/what-we-do/\", \"status\": \"active\", \"address\": {\"address_1\": \"15 Martin Luther King Drive\", \"address_2\": null, \"city\": \"Greenville\", \"state_province\": \"NJ\", \"postal_code\": \"07305\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7010984, \"longitude\": -74.09083509999999}, \"phones\": [{\"number\": \"(201) 332-8974\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.040272"
+}

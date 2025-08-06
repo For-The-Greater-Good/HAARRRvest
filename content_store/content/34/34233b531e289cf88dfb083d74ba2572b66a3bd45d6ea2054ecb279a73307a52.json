@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Azalea Recreation Center\", \"alternate_name\": \"\", \"description\": \"BreakSpot Meals\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1600 72nd Street North\", \"address_2\": null, \"city\": \"Azalea Homes\", \"state_province\": \"FL\", \"postal_code\": \"33710\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7872055, \"longitude\": -82.7375023}, \"phones\": [{\"number\": \"(727) 893-7150\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.042175"
+}

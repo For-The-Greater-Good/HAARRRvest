@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Northwest Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"Food receivable: fresh produce, refrigerated,\\nfrozen, dry goods. Serves directly to individuals,\\nincluding prepared meals.\", \"email\": \"\", \"url\": \"https://www.nwpchurchfl.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"6330 54th Avenue North\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33709\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8204531, \"longitude\": -82.72262610000001}, \"phones\": [{\"number\": \"(727) 544-4551\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Food donations are accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.047642"
+}

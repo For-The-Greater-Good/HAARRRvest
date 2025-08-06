@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Westland Ecumenical Community Pantry\", \"alternate_name\": \"\", \"description\": \"Call (614) 341-2282 to inquire about grocery delivery. Deliveries can be requested once a month.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"775 Galloway Road\", \"address_2\": null, \"city\": \"Westland\", \"state_province\": \"OH\", \"postal_code\": \"43119\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.935808, \"longitude\": -83.16029379999999}, \"phones\": [{\"number\": \"(614) 341-2282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Clients can receive grocery delivery maximum of once a month (not guaranteed)\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.131323"
+}

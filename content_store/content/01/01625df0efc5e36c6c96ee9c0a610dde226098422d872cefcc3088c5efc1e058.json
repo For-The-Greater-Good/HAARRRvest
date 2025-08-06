@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fish-St. Paul\\u2019s Lutheran Ch.\", \"alternate_name\": \"\", \"description\": \"Hours: On-call Daily.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"428 Battery Drive\", \"address_2\": null, \"city\": \"Havre de Grace\", \"state_province\": \"MD\", \"postal_code\": \"21078\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5407996, \"longitude\": -76.1071031}, \"phones\": [{\"number\": \"(410) 939-5753\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.336501"
+}

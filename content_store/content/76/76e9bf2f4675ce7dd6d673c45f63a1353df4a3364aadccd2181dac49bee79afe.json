@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mazzoni Center\", \"alternate_name\": \"\", \"description\": \"Referral from their medical case manager \", \"email\": \"\", \"url\": \"https://www.mazzonicenter.org/supportive-services/food-bank\", \"status\": \"active\", \"address\": {\"address_1\": \"1348 Bainbridge Street\", \"address_2\": \"\", \"city\": \"Hawthorne\", \"state_province\": \"PA\", \"postal_code\": \"19147\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.94263460000001, \"longitude\": -75.1650837}, \"phones\": [{\"number\": \"(215) 563-0652\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:19.822515"
+}

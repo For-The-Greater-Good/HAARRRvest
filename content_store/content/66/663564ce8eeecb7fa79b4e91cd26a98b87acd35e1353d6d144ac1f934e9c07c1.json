@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Food Pantry at Columbia\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://lernerhall.columbia.edu/food-bank-columbia\", \"status\": \"active\", \"address\": {\"address_1\": \"2920 Broadway, 582 Lerner Hall\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10027\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.807001, \"longitude\": -73.9640299}, \"phones\": [{\"number\": \"(347) 927-2449\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.133588"
+}

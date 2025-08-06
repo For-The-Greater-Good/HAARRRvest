@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Bethany Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/newbethanybaptistchurchsouthphilly/\", \"status\": \"active\", \"address\": {\"address_1\": \"1415 South 23rd Street\", \"address_2\": null, \"city\": \"Point Breeze\", \"state_province\": \"PA\", \"postal_code\": \"19146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9342421, \"longitude\": -75.1825125}, \"phones\": [{\"number\": \"(215) 336-4166\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.894152"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Rainbow Park Baptist Church\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/VisitthePark/\", \"email\": \"\", \"url\": \"https://rainbowparkbaptist.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"2941 Columbia Drive\", \"address_2\": null, \"city\": \"Decatur\", \"state_province\": \"GA\", \"postal_code\": \"30034\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.70023700000001, \"longitude\": -84.2524413}, \"phones\": [{\"number\": \"(404) 288-1910\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients may visit twice a week\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:25.928591"
+}

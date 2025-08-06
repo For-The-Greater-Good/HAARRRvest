@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"DreamCenterNYC -Hamilton Heights\", \"alternate_name\": \"\", \"description\": \"In front of PS 153 Adam Clayton Powell\\n\", \"email\": \"\", \"url\": \"https://www.dreamcenter.nyc/\", \"status\": \"active\", \"address\": {\"address_1\": \"1750 Amsterdam Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10031\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8266666, \"longitude\": -73.94764649999999}, \"phones\": [{\"number\": \"(917) 327-6050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.284526"
+}

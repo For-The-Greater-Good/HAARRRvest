@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bonney Lake Food Bank\", \"alternate_name\": \"\", \"description\": \"* Located on a farm just outside Bonney Lake city limits.\\n* Please schedule a reservation to shop prior to your arrival at reservations@bonneylakefoodbank.org or by texting 253-303-5909\\n\\nWays to Shop:\\n1) SHOP by emailing reservations@bonneylakefoodbank.org\\n2) LOCKER pickup by emailing lockers@bonneylakefoodbank.org\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"24015 Washington 410\", \"address_2\": null, \"city\": \"Buckley\", \"state_province\": \"WA\", \"postal_code\": \"98321\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.1658012, \"longitude\": -122.1087805}, \"phones\": [{\"number\": \"(253) 863-4043\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.121785"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Bridge Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"240 State Road\", \"address_2\": \"\", \"city\": \"West Grove\", \"state_province\": \"PA\", \"postal_code\": \"19390\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.819526, \"longitude\": -75.814491}, \"phones\": [{\"number\": \"(610) 869-9500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:14.424603"
+}

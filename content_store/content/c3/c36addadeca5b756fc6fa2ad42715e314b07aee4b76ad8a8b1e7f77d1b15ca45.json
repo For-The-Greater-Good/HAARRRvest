@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities\", \"alternate_name\": \"\", \"description\": \"Requirements: NJ residents only / proof of residency & income required\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"387 South Main Street\", \"address_2\": \"\", \"city\": \"Phillipsburg\", \"state_province\": \"NJ\", \"postal_code\": \"08865\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6863557, \"longitude\": -75.1922396}, \"phones\": [{\"number\": \"(908) 859-5447\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.964640"
+}

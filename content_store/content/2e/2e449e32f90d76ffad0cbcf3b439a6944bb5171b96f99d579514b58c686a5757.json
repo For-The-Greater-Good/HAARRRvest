@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Balto. Co. Health Dept. Geriatric Services\", \"alternate_name\": \"\", \"description\": \"Contact: Pat Smith\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1 Olympic Place\", \"address_2\": null, \"city\": \"Towson\", \"state_province\": \"MD\", \"postal_code\": \"21204\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.40289, \"longitude\": -76.60290979999999}, \"phones\": [{\"number\": \"(410) 887-2754\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.614618"
+}

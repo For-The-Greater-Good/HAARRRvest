@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bed Stuy Campaign Against Hunger\", \"alternate_name\": \"\", \"description\": \"For delivery information, call: 917.325.2975\\nAll other questions call 718.773.3551\", \"email\": \"\", \"url\": \"https://www.tcahnyc.org/locations/\", \"status\": \"active\", \"address\": {\"address_1\": \"975 Shepherd Avenue\", \"address_2\": null, \"city\": \"East New York\", \"state_province\": \"NY\", \"postal_code\": \"11208\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6608784, \"longitude\": -73.8737686}, \"phones\": [{\"number\": \"(917) 325-2975\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Delivery may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:16.026871"
+}

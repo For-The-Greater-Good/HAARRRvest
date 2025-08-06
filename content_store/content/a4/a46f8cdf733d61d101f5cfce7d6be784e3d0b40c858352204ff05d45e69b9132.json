@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lutheran Settlement\", \"alternate_name\": \"\", \"description\": \"- can only visit once a month\\n- closed during holidays\", \"email\": \"\", \"url\": \"https://www.lutheransettlement.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1340 Frankford Avenue\", \"address_2\": \"\", \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19125\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9714613, \"longitude\": -75.1346765}, \"phones\": [{\"number\": \"(215) 426-8610\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID or proof of income is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Any resident is eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:09.841053"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FOSTERING CARE AND HOPE\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1301 Pipkin Road\", \"address_2\": null, \"city\": \"Hinesville\", \"state_province\": \"GA\", \"postal_code\": \"31313\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.8279508, \"longitude\": -81.6235908}, \"phones\": [{\"number\": \"(912) 492-1376\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.654055"
+}

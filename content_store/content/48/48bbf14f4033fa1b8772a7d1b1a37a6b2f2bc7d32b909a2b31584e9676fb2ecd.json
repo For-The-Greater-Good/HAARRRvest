@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Care Food and Clothing Pantry\", \"alternate_name\": \"\", \"description\": \"Check their website for distribution dates: https://foodpantrynj.org/\", \"email\": \"\", \"url\": \"https://www.foodpantrynj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"238 Sicklerville Road\", \"address_2\": null, \"city\": \"Sicklerville\", \"state_province\": \"NJ\", \"postal_code\": \"08081\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7122172, \"longitude\": -74.9616948}, \"phones\": [{\"number\": \"(856) 875-1633\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.404112"
+}

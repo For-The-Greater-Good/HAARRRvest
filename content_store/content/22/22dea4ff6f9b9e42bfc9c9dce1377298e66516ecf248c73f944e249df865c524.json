@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United House of Prayer\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://tuhopfap.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3401 Edgewood Road\", \"address_2\": null, \"city\": \"Ashburton\", \"state_province\": \"MD\", \"postal_code\": \"21215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3261197, \"longitude\": -76.6736663}, \"phones\": [{\"number\": \"(410) 542-5300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.251862"
+}

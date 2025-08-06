@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The REID Foundation\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9150 Marshall Street\", \"address_2\": null, \"city\": \"Northeast Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19114\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0738603, \"longitude\": -75.03108689999999}, \"phones\": [{\"number\": \"(484) 684-9867\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.266720"
+}

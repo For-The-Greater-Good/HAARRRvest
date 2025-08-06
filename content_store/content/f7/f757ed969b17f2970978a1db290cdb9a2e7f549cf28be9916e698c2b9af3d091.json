@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Union Baptist Church, Inc.\", \"alternate_name\": \"\", \"description\": \"Closed on 22nd and 29th dec 23\", \"email\": \"\", \"url\": \"https://www.ubcofharlem.org/view-calendar\", \"status\": \"active\", \"address\": {\"address_1\": \"240 W 145th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10039\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.822057, \"longitude\": -73.9409878}, \"phones\": [{\"number\": \"(212) 862-3002\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.513647"
+}

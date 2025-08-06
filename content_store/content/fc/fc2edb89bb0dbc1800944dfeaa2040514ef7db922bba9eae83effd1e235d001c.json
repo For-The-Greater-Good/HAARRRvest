@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Max Block Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food receivable: fresh produce, refrigerated,\\nfrozen, dry goods. Serves directly to individuals\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6261 Dupont Station Court\", \"address_2\": null, \"city\": \"San Jose\", \"state_province\": \"FL\", \"postal_code\": \"32217\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.2571003, \"longitude\": -81.62204609999999}, \"phones\": [{\"number\": \"(904) 448-1933\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed during Jewish Holiday, Thanksgiving and New years day\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.931305"
+}

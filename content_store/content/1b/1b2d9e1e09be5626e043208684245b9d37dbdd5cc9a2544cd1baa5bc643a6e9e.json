@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mesivtha of Staten Island\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://hungryonstatenisland.com/pantries.htm\", \"status\": \"active\", \"address\": {\"address_1\": \"1870 Drumgoole Rd E\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10309\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5274306, \"longitude\": -74.2141716}, \"phones\": [{\"number\": \"(718) 356-5412\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Copy of photo ID: Medicaid/food stamp or section\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Might be closed before holidays, call to confirm.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.653434"
+}

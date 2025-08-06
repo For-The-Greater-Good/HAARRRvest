@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SICS Arrochar Friendship Club\", \"alternate_name\": \"\", \"description\": \"- Must be above 60 years of age\", \"email\": \"\", \"url\": \"https://www.nyconnects.ny.gov/services/arrochar-neighborhood-senior-center-sofanypp1901\", \"status\": \"active\", \"address\": {\"address_1\": \"85 Jerome Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10305\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.596335, \"longitude\": -74.075671}, \"phones\": [{\"number\": \"(718) 720-6110\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.183312"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FBCM Food Pantry-First Baptist Church of Mableton\", \"alternate_name\": \"\", \"description\": \"Serves Mableton, Austell, and Powder Springs residents only\", \"email\": \"\", \"url\": \"https://www.fbcmableton.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"5385 Church Street Southwest\", \"address_2\": null, \"city\": \"Mableton\", \"state_province\": \"GA\", \"postal_code\": \"30126\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8225291, \"longitude\": -84.58141719999999}, \"phones\": [{\"number\": \"(770) 948-2687\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:25.709072"
+}

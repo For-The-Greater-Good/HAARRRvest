@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Kingsville Elementary School Summer Meals\", \"alternate_name\": \"\", \"description\": \"From 23rd June Till 15th August\", \"email\": \"\", \"url\": \"https://www.bcps.org/foodandnutrition\", \"status\": \"active\", \"address\": {\"address_1\": \"7300 Sunshine Avenue\", \"address_2\": null, \"city\": \"Kingsville\", \"state_province\": \"MD\", \"postal_code\": \"21087\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4565185, \"longitude\": -76.4188925}, \"phones\": [{\"number\": \"(443) 809-7855\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:14.827287"
+}

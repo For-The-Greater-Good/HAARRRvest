@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"LSS Delaware Food Pantry\", \"alternate_name\": \"\", \"description\": \"call 211 for appointment\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"54 Ross Street\", \"address_2\": null, \"city\": \"Delaware\", \"state_province\": \"OH\", \"postal_code\": \"43015\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2934557, \"longitude\": -83.0753479}, \"phones\": [{\"number\": \"(614) 251-7685\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.296391"
+}

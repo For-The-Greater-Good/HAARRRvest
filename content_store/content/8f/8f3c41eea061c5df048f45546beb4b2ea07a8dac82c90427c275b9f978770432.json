@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Vincent dePaul\", \"alternate_name\": \"\", \"description\": \"Serves Cumberland County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"916 Landis Avenue\", \"address_2\": null, \"city\": \"Vineland\", \"state_province\": \"NJ\", \"postal_code\": \"08360\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4876928, \"longitude\": -75.04322479999999}, \"phones\": [{\"number\": \"(856) 691-2400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.990256"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethany Baptist Church- Plant City\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://ibelongatbethany.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"3409 Cork Road\", \"address_2\": null, \"city\": \"Plant City\", \"state_province\": \"FL\", \"postal_code\": \"33565\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.048945, \"longitude\": -82.1758526}, \"phones\": [{\"number\": \"(813) 752-9209\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:30\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"11:30\", \"closes_at\": \"13:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.599867"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Beth-El Farmworker Ministry, Inc.\", \"alternate_name\": \"\", \"description\": \"Hillsborough County residents only\", \"email\": \"\", \"url\": \"https://beth-el.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"18240 U.S. 301\", \"address_2\": null, \"city\": \"Wimauma\", \"state_province\": \"FL\", \"postal_code\": \"33598\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.66309, \"longitude\": -82.3619326}, \"phones\": [{\"number\": \"(813) 633-1548\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.353042"
+}

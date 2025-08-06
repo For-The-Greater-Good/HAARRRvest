@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CDA Philadelphia Ministry\", \"alternate_name\": \"\", \"description\": \"Call (215) 888-0272 to make an appointment\", \"email\": \"\", \"url\": \"https://www.cdaministryphiladelphia.com/#CommunityOutreach\", \"status\": \"active\", \"address\": {\"address_1\": \"301 Saint Vincent St\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19111\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.06078845725861, \"longitude\": -75.08771343859271}, \"phones\": [{\"number\": \"(215) 888-0272\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:06.311074"
+}

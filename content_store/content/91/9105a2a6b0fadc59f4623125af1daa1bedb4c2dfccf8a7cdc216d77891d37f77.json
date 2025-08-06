@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater St. Paul FSC\", \"alternate_name\": \"\", \"description\": \"- Food pantry is across from the church\\n- \", \"email\": \"\", \"url\": \"https://www.gspmbic.org/greater-st-paul-s-family-services\", \"status\": \"active\", \"address\": {\"address_1\": \"1130 North Webster Avenue\", \"address_2\": null, \"city\": \"Lakeland\", \"state_province\": \"FL\", \"postal_code\": \"33805\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0582918, \"longitude\": -81.9700587}, \"phones\": [{\"number\": \"(863) 686-8865\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID or proof of income is required.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.614119"
+}

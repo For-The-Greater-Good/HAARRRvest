@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Remnant Project Ministries\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"531 East Flint Street\", \"address_2\": null, \"city\": \"Lake Orion\", \"state_province\": \"MI\", \"postal_code\": \"48362\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.7844439, \"longitude\": -83.2334948}, \"phones\": [{\"number\": \"(248) 765-2233\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.599020"
+}

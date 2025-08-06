@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Faith Baptist Church\", \"alternate_name\": \"\", \"description\": \"Appointments can be made after registration\\n\", \"email\": \"\", \"url\": \"http://www.faithbaptistministries.com\", \"status\": \"active\", \"address\": {\"address_1\": \"1515 Wistar Road\", \"address_2\": \"\", \"city\": \"Fairless Hills\", \"state_province\": \"PA\", \"postal_code\": \"19030\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.166089, \"longitude\": -74.868198}, \"phones\": [{\"number\": \"(215) 946-7550\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"01:30\", \"closes_at\": \"02:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"23:30\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:14.974529"
+}

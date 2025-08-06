@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Wintergarden Presbyterian\", \"alternate_name\": \"\", \"description\": \"Food receivable: dry goods. Serves directly to\\nindividuals, including prepared meals.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"18305 Wintergarden Avenue\", \"address_2\": null, \"city\": \"Port Charlotte\", \"state_province\": \"FL\", \"postal_code\": \"33948\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.987982, \"longitude\": -82.14632499999999}, \"phones\": [{\"number\": \"(941) 743-5335\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.017742"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Clayton Area Ministries\", \"alternate_name\": \"\", \"description\": \"Clayton Area residents\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"780 Durham Street\", \"address_2\": null, \"city\": \"Clayton\", \"state_province\": \"NC\", \"postal_code\": \"27520\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.6397026, \"longitude\": -78.45954220000002}, \"phones\": [{\"number\": \"(919) 553-5654\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:32.858519"
+}

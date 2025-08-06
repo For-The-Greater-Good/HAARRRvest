@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities\", \"alternate_name\": \"\", \"description\": \"Contact: Emma Burj\\n\\nSocial Service Referral needed initially. Appointment needed-but will not turn anyone away. Limited to 1 time every 3 months.\\n\\nanyone in need all ages individuals families\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"114 State Street\", \"address_2\": null, \"city\": \"Penns Grove\", \"state_province\": \"NJ\", \"postal_code\": \"08069\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7266245, \"longitude\": -75.4728004}, \"phones\": [{\"number\": \"(856) 299-1296\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.786655"
+}

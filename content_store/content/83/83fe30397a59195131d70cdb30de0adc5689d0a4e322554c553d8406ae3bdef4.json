@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Margaret Vetter School\", \"alternate_name\": \"\", \"description\": \"Stacey\\tCosta\\t7326435843\\nFrom: 07/01/2025\\tTill: 07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3 Grant Avenue\", \"address_2\": null, \"city\": \"Eatontown\", \"state_province\": \"NJ\", \"postal_code\": \"07724\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2976463, \"longitude\": -74.0643738}, \"phones\": [{\"number\": \"(732) 935-3302\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:13.962953"
+}

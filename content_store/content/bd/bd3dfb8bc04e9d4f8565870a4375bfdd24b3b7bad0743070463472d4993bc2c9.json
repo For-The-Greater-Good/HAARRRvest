@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Care Net Pregnancy Center of Southern Maryland - Lexington Park\", \"alternate_name\": \"\", \"description\": \"- Clients service are available on Monday and Wednesday and Thursday which might range from anything between diapers and formular depending on what they might have on stock.\\n- Call 3017374604 to set up appointments \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"21562 Thames Avenue\", \"address_2\": null, \"city\": \"Lexington Park\", \"state_province\": \"MD\", \"postal_code\": \"20653\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.27218, \"longitude\": -76.46636}, \"phones\": [{\"number\": \"(301) 737-4604\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.747840"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"J. Frank Troy Senior Center\", \"alternate_name\": \"\", \"description\": \"Meal Service: Monday-Friday 11:30am-12:30pm\\nRequired: Complete application, suggested donation\\n$2.50 per meal; Guests under age 60 pay $2.50 \", \"email\": \"\", \"url\": \"https://nhainc.org/j-frank-troy-senior-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"1235 Division Street\", \"address_2\": null, \"city\": \"Roosevelt\", \"state_province\": \"OH\", \"postal_code\": \"43604\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6527717, \"longitude\": -83.5525748}, \"phones\": [{\"number\": \"(419) 255-6206\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.262890"
+}

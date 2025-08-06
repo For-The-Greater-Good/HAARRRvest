@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Thomas Promise\", \"alternate_name\": \"\", \"description\": \"Call (813) 782-0000 in advance to make an appointment.\", \"email\": \"\", \"url\": \"https://www.thethomaspromise.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4424 Gall Boulevard\", \"address_2\": null, \"city\": \"Zephyrhills\", \"state_province\": \"FL\", \"postal_code\": \"33542\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2220761, \"longitude\": -82.1793085}, \"phones\": [{\"number\": \"(813) 782-0000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.005527"
+}

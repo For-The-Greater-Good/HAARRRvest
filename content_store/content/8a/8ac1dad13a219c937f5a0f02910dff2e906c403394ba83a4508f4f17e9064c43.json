@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lutheran Social Services Mobile\", \"alternate_name\": \"\", \"description\": \"Must pre-register\\n\\n2nd Tuesday, Rutland Civic Center, 12:00pm-2:00pm.\\n\\nServing Meigs County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"377 Main Street\", \"address_2\": null, \"city\": \"Rutland\", \"state_province\": \"OH\", \"postal_code\": \"45775\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0469484, \"longitude\": -82.13069949999999}, \"phones\": [{\"number\": \"(877) 704-3663\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"03:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.661137"
+}

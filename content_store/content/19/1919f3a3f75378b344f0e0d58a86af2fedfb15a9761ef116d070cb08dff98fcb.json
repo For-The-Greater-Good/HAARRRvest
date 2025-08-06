@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Helping Hand Food Pantry/St. James Episcopal Church \", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.ceoccambridge.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1991 Massachusetts Avenue\", \"address_2\": null, \"city\": \"North Cambridge\", \"state_province\": \"MA\", \"postal_code\": \"02140\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.39071999999999, \"longitude\": -71.120918}, \"phones\": [{\"number\": \"(617) 868-2900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.394723"
+}

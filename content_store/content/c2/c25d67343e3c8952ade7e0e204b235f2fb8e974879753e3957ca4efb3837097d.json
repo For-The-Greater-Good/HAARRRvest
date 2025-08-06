@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Church of ST. HELENA'S Roman Catholic\", \"alternate_name\": \"\", \"description\": \"Line starts at 12 pm \", \"email\": \"\", \"url\": \"https://churchofsthelena.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"2057 Westchester Avenue\", \"address_2\": \"\", \"city\": \"Parkchester\", \"state_province\": \"NY\", \"postal_code\": \"10462\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8339357, \"longitude\": -73.8556079}, \"phones\": [{\"number\": \"(718) 892-3232\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Pre-registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:33.413580"
+}

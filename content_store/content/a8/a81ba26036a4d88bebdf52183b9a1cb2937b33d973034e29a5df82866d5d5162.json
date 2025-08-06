@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Table at the Family Support Center at NYU Langone\", \"alternate_name\": \"\", \"description\": \"- There is a waiting list, so please call in advance!\\n- Must have an appoinment before going in to pick up food.\\n- Must go through a councelling session.\", \"email\": \"\", \"url\": \"https://nyulangone.org/locations/family-health-centers-at-nyu-langone/community-based-programs-family-health-centers-at-nyu-langone\", \"status\": \"active\", \"address\": {\"address_1\": \"6025 6th Avenue\", \"address_2\": \"\", \"city\": \"Sunset Park\", \"state_province\": \"NY\", \"postal_code\": \"11220\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6375482, \"longitude\": -74.0141754}, \"phones\": [{\"number\": \"(718) 630-7171\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"There is a waiting list. People need to be registered to receive food\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.192044"
+}

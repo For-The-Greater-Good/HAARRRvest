@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Stephen's Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Ocean County.\", \"email\": \"\", \"url\": \"https://saintstephenswaretown.org/min-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"367 U.S. 9\", \"address_2\": null, \"city\": \"Waretown\", \"state_province\": \"NJ\", \"postal_code\": \"08758\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7819665, \"longitude\": -74.2036622}, \"phones\": [{\"number\": \"(609) 698-8561\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.408301"
+}

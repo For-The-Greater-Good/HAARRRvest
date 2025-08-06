@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Crossover Church\", \"alternate_name\": \"\", \"description\": \"This is a first-come, first-served distribution. Food goes quickly, so we highly recommend arriving right at the start time to ensure you don\\u2019t miss out\", \"email\": \"\", \"url\": \"https://www.crossoverchurch.org/ministries\", \"status\": \"active\", \"address\": {\"address_1\": \"1235 East Fowler Avenue\", \"address_2\": null, \"city\": \"North Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33612\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0530853, \"longitude\": -82.4474626}, \"phones\": [{\"number\": \"(813) 971-8887\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"17:15\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"17:15\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:19.735836"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"South Hall Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Hall County Residents; first visit need to show photo ID and SS cards for household residents\", \"email\": \"\", \"url\": \"http://www.shcfp.org/our-services.html\", \"status\": \"active\", \"address\": {\"address_1\": \"4211 Walnut Street\", \"address_2\": null, \"city\": \"Oakwood\", \"state_province\": \"GA\", \"postal_code\": \"30566\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.2275957, \"longitude\": -83.8834643}, \"phones\": [{\"number\": \"(678) 865-6588\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.839699"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Northwest Ohio Area Services\", \"alternate_name\": \"\", \"description\": \"Required: Photo ID for all household residents\\n(age 19 and over), proof of household income within\\nthe last 30 days, proof of address within the last\\n30 days (unless client is declaring homeless status),\\nBirth certificates or JFS printout for proof\\nof minor children\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"620 North Erie Street\", \"address_2\": null, \"city\": \"Center City\", \"state_province\": \"OH\", \"postal_code\": \"43604\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6571825, \"longitude\": -83.5333692}, \"phones\": [{\"number\": \"(419) 241-3549\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.116236"
+}

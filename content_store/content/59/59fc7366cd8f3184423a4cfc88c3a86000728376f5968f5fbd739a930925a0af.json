@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ebenezer AME\", \"alternate_name\": \"\", \"description\": \"* The soup kitchen is available every Thursday EXCEPT the first Thursday of the month.\", \"email\": \"\", \"url\": \"https://www.ebenezer-amec-baltimore.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"18 West Montgomery Street\", \"address_2\": null, \"city\": \"Federal Hill-Montgomery\", \"state_province\": \"MD\", \"postal_code\": \"21230\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2800447, \"longitude\": -76.61519799999999}, \"phones\": [{\"number\": \"(410) 783-0190\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.689346"
+}

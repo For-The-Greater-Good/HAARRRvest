@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Brooklyn Faith Feeding Program\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.brooklynfaith.org/community-services\", \"status\": \"active\", \"address\": {\"address_1\": \"5518 Church Ave \", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11203\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.652275, \"longitude\": -73.924889}, \"phones\": [{\"number\": \"(718) 342-8421\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.900196"
+}

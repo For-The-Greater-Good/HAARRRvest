@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"College Park Church of the Nazarene\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9704 Rhode Island Ave\", \"address_2\": null, \"city\": \"College Park\", \"state_province\": \"MD\", \"postal_code\": \"20740\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.012637, \"longitude\": -76.922326}, \"phones\": [{\"number\": \"(301) 364-4931\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.876580"
+}

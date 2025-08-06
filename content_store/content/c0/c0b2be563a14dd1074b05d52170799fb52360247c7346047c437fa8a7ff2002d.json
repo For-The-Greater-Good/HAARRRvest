@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Unique People Services \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"uniquepeopleservices.org\", \"status\": \"active\", \"address\": {\"address_1\": \"3510 Bainbridge Avenue \", \"address_2\": \"S3 \", \"city\": \"Bronx \", \"state_province\": \"NY\", \"postal_code\": \"10467\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.881416, \"longitude\": -73.878349}, \"phones\": [{\"number\": \"(718) 231-4900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.820998"
+}

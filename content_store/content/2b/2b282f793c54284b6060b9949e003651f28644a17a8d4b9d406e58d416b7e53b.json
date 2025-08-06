@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Action for Human Services\", \"alternate_name\": \"\", \"description\": \"Call (718) 588-5388 (Direct) or (718) 655-7700 and choose Page Apartments from the prompt to make an appointment\", \"email\": \"\", \"url\": \"https://cahsinc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1455 Fulton Avenue\", \"address_2\": null, \"city\": \"Morrisania\", \"state_province\": \"NY\", \"postal_code\": \"10456\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8358452, \"longitude\": -73.9012994}, \"phones\": [{\"number\": \"(718) 588-5388\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:17.786032"
+}

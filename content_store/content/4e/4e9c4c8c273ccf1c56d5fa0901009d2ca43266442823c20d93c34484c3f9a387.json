@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Y Fresh Mart at the Y in Parkville, Food Pantry\", \"alternate_name\": \"\", \"description\": \"FOOD PANTRY: Provides produce, meat, and nonperishable food to those living in Baltimore County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"8910 Waltham Woods Road\", \"address_2\": null, \"city\": \"Parkville\", \"state_province\": \"MD\", \"postal_code\": \"21234\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.40187, \"longitude\": -76.53977}, \"phones\": [{\"number\": \"(410) 663-1300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.677056"
+}

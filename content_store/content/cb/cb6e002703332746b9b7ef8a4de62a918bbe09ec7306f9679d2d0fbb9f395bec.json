@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethel Worship Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://bethelbilingualpa.adventistchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"169 W. Wyoming Ave.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19140\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.02204028509775, \"longitude\": -75.12701982723131}, \"phones\": [{\"number\": \"(215) 767-1799\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.204060"
+}

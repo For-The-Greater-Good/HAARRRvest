@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"RMBC Missions Place Food Pantry Ministry\", \"alternate_name\": \"\", \"description\": \" Please call 704-802-9548 to make an appointment to visit our Pantry, leave a message and your call will be returned within 2 business days.\", \"email\": \"\", \"url\": \"https://reederministries.org/missions-place/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"3715 Beatties Ford Road\", \"address_2\": \"Missions Place\", \"city\": \"Firestone - Garden Park\", \"state_province\": \"NC\", \"postal_code\": \"28216\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2850995, \"longitude\": -80.8600458}, \"phones\": [{\"number\": \"(704) 398-2914\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.957371"
+}

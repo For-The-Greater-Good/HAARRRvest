@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wildwood Housing Authority Mobile Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://cfbnj.org/find-foods-services/?\", \"status\": \"active\", \"address\": {\"address_1\": \"3700 New Jersey Avenue\", \"address_2\": null, \"city\": \"Wildwood\", \"state_province\": \"NJ\", \"postal_code\": \"08260\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9900533, \"longitude\": -74.81724489999999}, \"phones\": [{\"number\": \"(908) 838-4981\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:18.430144"
+}

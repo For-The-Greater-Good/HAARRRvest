@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Queens Community Justice Center\", \"alternate_name\": \"\", \"description\": \"tickets are handed out early at 11:00am distribution starts:12 PM\", \"email\": \"\", \"url\": \"https://queensdefenders.org/community-outreach/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"148-02 Jamaica Avenue\", \"address_2\": null, \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11435\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.701536, \"longitude\": -73.8060189}, \"phones\": [{\"number\": \"(718) 261-3047\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.532218"
+}

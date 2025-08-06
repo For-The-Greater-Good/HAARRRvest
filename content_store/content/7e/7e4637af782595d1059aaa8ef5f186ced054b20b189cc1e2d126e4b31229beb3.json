@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Palumbo Recreation Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://palumborec.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"725 S 10th St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19147\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.94130090306564, \"longitude\": -75.1587299398319}, \"phones\": [{\"number\": \"(215) 686-1783\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.444524"
+}

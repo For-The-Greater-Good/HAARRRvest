@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethlehem Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://bbcraleigh.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7215 Six Forks Road\", \"address_2\": null, \"city\": \"North Raleigh\", \"state_province\": \"NC\", \"postal_code\": \"27615\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.87874889999999, \"longitude\": -78.6461624}, \"phones\": [{\"number\": \"(919) 847-5219\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"00:00\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:31.861550"
+}

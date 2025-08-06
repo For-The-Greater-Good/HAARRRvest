@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Freehold Family Health Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"597 Park Avenue\", \"address_2\": null, \"city\": \"Freehold\", \"state_province\": \"NJ\", \"postal_code\": \"07728\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2502614, \"longitude\": -74.2699121}, \"phones\": [{\"number\": \"(732) 294-2540\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.203624"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lake Wales Community Kitchen\", \"alternate_name\": \"\", \"description\": \"https://web.facebook.com/lakewalescarecenter\", \"email\": \"\", \"url\": \"https://lakewalescarecenter.com/programs/\", \"status\": \"active\", \"address\": {\"address_1\": \"200 East Crystal Avenue\", \"address_2\": null, \"city\": \"Lake Wales\", \"state_province\": \"FL\", \"postal_code\": \"33853\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9040474, \"longitude\": -81.58804549999999}, \"phones\": [{\"number\": \"(863) 676-3500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:30\", \"closes_at\": \"05:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.772553"
+}

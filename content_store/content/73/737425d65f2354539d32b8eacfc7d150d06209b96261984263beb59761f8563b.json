@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHAPS (Charlotte HIV/AIDS People Support)\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"18200 Paulson Drive\", \"address_2\": null, \"city\": \"Port Charlotte\", \"state_province\": \"FL\", \"postal_code\": \"33954\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.0172109, \"longitude\": -82.1478611}, \"phones\": [{\"number\": \"(941) 625-2552\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.197582"
+}

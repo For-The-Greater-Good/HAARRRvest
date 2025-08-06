@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Telamon Corporation\", \"alternate_name\": \"\", \"description\": \"Contact: Jeffifer Shahan\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"31901 Tri-County Way\", \"address_2\": null, \"city\": \"Salisbury\", \"state_province\": \"MD\", \"postal_code\": \"21804\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.3756067, \"longitude\": -75.5070264}, \"phones\": [{\"number\": \"(410) 546-4604\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.782553"
+}

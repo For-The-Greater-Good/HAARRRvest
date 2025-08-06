@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Luke Temple\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1821 North Smallwood Street\", \"address_2\": null, \"city\": \"Easterwood\", \"state_province\": \"MD\", \"postal_code\": \"21216\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3091395, \"longitude\": -76.6519431}, \"phones\": [{\"number\": \"(410) 225-9409\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"23:00\", \"closes_at\": \"01:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.054630"
+}

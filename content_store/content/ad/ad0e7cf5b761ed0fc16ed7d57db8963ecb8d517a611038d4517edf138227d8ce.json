@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Brice United Methodist Church \", \"alternate_name\": \"\", \"description\": \"Must be in these zip codes: 43068, 43147, \\n43110, 43109, 43125 and 43207\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Brice Road North\", \"address_2\": null, \"city\": \"East Broad\", \"state_province\": \"OH\", \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": 39.98480440000001, \"longitude\": -82.8215874}, \"phones\": [{\"number\": \"(614) 866-3025\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social security cards or Birth certificates for every member of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:20.384128"
+}

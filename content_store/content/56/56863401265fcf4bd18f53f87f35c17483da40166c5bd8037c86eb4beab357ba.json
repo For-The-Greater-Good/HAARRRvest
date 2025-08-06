@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Communities for Healthy Food @ West Harlem Group Assistance, Inc.\", \"alternate_name\": \"\", \"description\": \"West Harlem Group Assistance, Inc. which is beside the food pantry location is open 9AM-5PM also assists with housing, employment, public assistance, etc.\\n\", \"email\": \"\", \"url\": \"www.whgainc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"625 Malcolm X Boulevard\", \"address_2\": \"Store Front\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10030\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8183018, \"longitude\": -73.9383013}, \"phones\": [{\"number\": \"(212) 690-7900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients may visit twice a week\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.597290"
+}

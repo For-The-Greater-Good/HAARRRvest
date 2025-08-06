@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lombard Central Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"Distribute Food until supplies last\", \"email\": \"\", \"url\": \"http://www.lombardcentral.org/soup-kitchen/\", \"status\": \"active\", \"address\": {\"address_1\": \"4201 Powelton Avenue\", \"address_2\": \"\", \"city\": \"West Powelton\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9591628, \"longitude\": -75.20685929999999}, \"phones\": [{\"number\": \"(215) 222-3044\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.161599"
+}

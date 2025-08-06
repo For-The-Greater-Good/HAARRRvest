@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ethos Covenant House Caf\\u00e9\", \"alternate_name\": \"\", \"description\": \"For more information or to register to attend a Community Cafe near you, please call 617-477-6688 or email ethosmeals@ethocare.org.\", \"email\": \"\", \"url\": \"https://www.ethocare.org/services/nutrition/community-cafes/\", \"status\": \"active\", \"address\": {\"address_1\": \"30 Washington Street\", \"address_2\": null, \"city\": \"Commonwealth\", \"state_province\": \"MA\", \"postal_code\": \"02135\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3428796, \"longitude\": -71.14209}, \"phones\": [{\"number\": \"(617) 477-6688\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:45\", \"closes_at\": \"22:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:45\", \"closes_at\": \"22:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.493846"
+}

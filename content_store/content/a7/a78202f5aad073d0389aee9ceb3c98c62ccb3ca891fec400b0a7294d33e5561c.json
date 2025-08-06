@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace Cafe\", \"alternate_name\": \"\", \"description\": \"Clients can come anytime\\nAccess to computer\\nShowers and laundry. First come first serve basis Mon-Thurs 9am\", \"email\": \"\", \"url\": \"https://thecenterphiladelphia.org/grace-cafe/\", \"status\": \"active\", \"address\": {\"address_1\": \"55 North Broad Street\", \"address_2\": \"\", \"city\": \"Center City\", \"state_province\": \"PA\", \"postal_code\": \"19107\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9540848, \"longitude\": -75.16288329999999}, \"phones\": [{\"number\": \"(215) 568-6250\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.615045"
+}

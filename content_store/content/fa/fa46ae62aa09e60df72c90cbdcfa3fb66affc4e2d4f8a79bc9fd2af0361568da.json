@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fort Mill Care Center\", \"alternate_name\": \"\", \"description\": \"New clients must be signed in by 11:30 for services that day.\", \"email\": \"\", \"url\": \"fortmillcarecenter.org\", \"status\": \"active\", \"address\": {\"address_1\": \"2760 Old Nation Road\", \"address_2\": null, \"city\": \"Fort Mill\", \"state_province\": \"SC\", \"postal_code\": \"29715\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.067021, \"longitude\": -80.93112830000001}, \"phones\": [{\"number\": \"(803) 547-7620\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:34.414726"
+}

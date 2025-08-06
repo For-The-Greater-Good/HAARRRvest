@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Chapel Hill Church of Christ\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.chapelhilldrivecoc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"4500 Chapel Hill Drive\", \"address_2\": null, \"city\": \"Macon\", \"state_province\": \"GA\", \"postal_code\": \"31206\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.7804752, \"longitude\": -83.68167609999999}, \"phones\": [{\"number\": \"(478) 781-1000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.078893"
+}

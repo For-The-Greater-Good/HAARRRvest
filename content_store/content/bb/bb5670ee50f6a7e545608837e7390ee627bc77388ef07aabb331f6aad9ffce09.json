@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHASI MFP - New Lane\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://chasiny.org/services/food-pantry-mobile-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"70 New Ln\", \"address_2\": null, \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10305\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.612881, \"longitude\": -74.061913}, \"phones\": [{\"number\": \"(718) 873-6270\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:17.122425"
+}

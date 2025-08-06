@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army\", \"alternate_name\": \"\", \"description\": \"Lunch: 12:00 noon\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"402 Massachusetts Avenue\", \"address_2\": null, \"city\": \"Cambridgeport\", \"state_province\": \"MA\", \"postal_code\": \"02139\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3630642, \"longitude\": -71.10052019999999}, \"phones\": [{\"number\": \"(617) 547-3400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.634153"
+}

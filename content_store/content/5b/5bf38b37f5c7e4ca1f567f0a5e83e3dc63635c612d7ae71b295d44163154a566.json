@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Clayton Baptist Church\", \"alternate_name\": \"\", \"description\": \"Drive up pantry.\\nEntrance and food line is on West Linden Street.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"110 South Delsea Drive\", \"address_2\": null, \"city\": \"Clayton\", \"state_province\": \"NJ\", \"postal_code\": \"08312\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6536975, \"longitude\": -75.0912141}, \"phones\": [{\"number\": \"(856) 881-5454\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.230240"
+}

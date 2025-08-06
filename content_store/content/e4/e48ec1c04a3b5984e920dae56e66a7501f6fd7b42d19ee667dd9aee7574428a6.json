@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jamil Niner Student Pantry\", \"alternate_name\": \"\", \"description\": \"The pantry's online form for student shoppers opens every Sunday morning at 7:00 a.m. Shopping appointments can be scheduled between 11:00 - 4:30 p.m\", \"email\": \"\", \"url\": \"https://ninerpantry.charlotte.edu/food-pantry-request\", \"status\": \"active\", \"address\": {\"address_1\": \"1224 John Kirk Drive\", \"address_2\": null, \"city\": \"University City South\", \"state_province\": \"NC\", \"postal_code\": \"28262\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.3099496, \"longitude\": -80.7239851}, \"phones\": [{\"number\": \"(704) 687-0289\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:20.408386"
+}

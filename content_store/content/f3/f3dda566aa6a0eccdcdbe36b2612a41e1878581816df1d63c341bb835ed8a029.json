@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FoodCommune\", \"alternate_name\": \"\", \"description\": \"* If you can volunteer, please come for any hours between 10:00a-10:00p.\\n* If you can donate $30, to get 3 crates of food, come between 12:00-4:00p.\\n* If you can donate $10, to get 1 crate of food, come between 4:00-7:00.\\n* If you can donate just a couple of dollars, or are unable to donate at all due to financial hardship, come between 8:00p-12:00m.\\n* If you have livestock to feed or gardens to mulch, come between 8:00p-12:00m to get the leftovers.\\n* FoodCommune takes these 5 methods of payment: Cash, Cashapp, Venmo, PayPal, and Zelle.   (no plastic cards accepted)\", \"email\": \"\", \"url\": \"https://www.foodcommune.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"368 Candler Road Southeast\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30317\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7423911, \"longitude\": -84.2893048}, \"phones\": [{\"number\": \"(404) 822-5685\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.988878"
+}

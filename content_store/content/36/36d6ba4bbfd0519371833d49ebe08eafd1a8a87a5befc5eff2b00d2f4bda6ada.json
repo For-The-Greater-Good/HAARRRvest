@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ELCC (Eternal Life Christian Center)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://visitelcc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"322 Franklin Blvd\", \"address_2\": null, \"city\": \"Somerset\", \"state_province\": \"NJ\", \"postal_code\": \"08873\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4969216, \"longitude\": -74.4779154}, \"phones\": [{\"number\": \"(732) 846-9153\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.685918"
+}

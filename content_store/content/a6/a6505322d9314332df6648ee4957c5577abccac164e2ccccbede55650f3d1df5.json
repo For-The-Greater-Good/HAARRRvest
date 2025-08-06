@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Roosevelt Island Disabled Association\", \"alternate_name\": \"\", \"description\": \"The line starts at 3pm. Registration required on location.\", \"email\": \"\", \"url\": \"ridainc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"546 Main Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10044\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.76174989999999, \"longitude\": -73.94964399999999}, \"phones\": [{\"number\": \"(646) 361-6469\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:50\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Covid vaccine card\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Pet food upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Need vaccination card if person wants to enter the building\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.218110"
+}

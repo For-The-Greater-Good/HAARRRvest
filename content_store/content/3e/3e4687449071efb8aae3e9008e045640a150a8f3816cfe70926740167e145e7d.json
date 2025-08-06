@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Household of Faith\", \"alternate_name\": \"\", \"description\": \"Photo ID required.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"North 40th Street\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33605\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0072084, \"longitude\": -82.414206}, \"phones\": [{\"number\": \"(813) 368-6453\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.307173"
+}

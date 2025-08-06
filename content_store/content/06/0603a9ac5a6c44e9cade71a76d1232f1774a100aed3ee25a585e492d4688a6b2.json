@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Emmanuel Food Pantry/ Vannesa's Pantry\", \"alternate_name\": \"\", \"description\": \"Entrance is at the back of the building \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2 Kirkpatrick Street\", \"address_2\": null, \"city\": \"New Brunswick\", \"state_province\": \"NJ\", \"postal_code\": \"08901\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4928755, \"longitude\": -74.4464717}, \"phones\": [{\"number\": \"(732) 545-2673\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.129487"
+}

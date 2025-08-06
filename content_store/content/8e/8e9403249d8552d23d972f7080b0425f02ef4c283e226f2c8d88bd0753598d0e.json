@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lutheran Church of Our Savior\", \"alternate_name\": \"\", \"description\": \"* If you're not available on Monday, please call (910) 347-2207 to make an appointment (9:30 AM-4:00 PM) on other day pickup. \\n* Bring photo ID\\n* Can come once every 30 days unless emergency need\", \"email\": \"\", \"url\": \"https://www.lcosjax.com/events/food-pantry/2023-10-02\", \"status\": \"active\", \"address\": {\"address_1\": \"1115 Lejeune Boulevard\", \"address_2\": null, \"city\": \"Jacksonville\", \"state_province\": \"NC\", \"postal_code\": \"28540\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.7473085, \"longitude\": -77.4049725}, \"phones\": [{\"number\": \"(910) 347-2207\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:32.334036"
+}

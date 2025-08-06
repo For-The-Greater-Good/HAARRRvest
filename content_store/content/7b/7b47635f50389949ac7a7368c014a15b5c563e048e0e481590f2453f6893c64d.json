@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Roessler Park\", \"alternate_name\": \"\", \"description\": \"Coordinator: Yasmin\\tMunoz\\t7328261690\\nStart: 07/01/2025\\tEnds: 08/29/2025\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"17 Water Street\", \"address_2\": null, \"city\": \"Perth Amboy\", \"state_province\": \"NJ\", \"postal_code\": \"08861\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4996143, \"longitude\": -74.2684934}, \"phones\": [{\"number\": \"(732) 826-1690\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:10.435934"
+}

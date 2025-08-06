@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Dearborn Heights\", \"alternate_name\": \"\", \"description\": \"Our client choice food pantry is available for anyone in our service area. We service residents in Redford, Garden City, Dearborn, Dearborn Heights, and Livonia. \\n\\nPlease call or email ahead to make an appointment.\\nContact Christine: 313-563-4457, ext. 500; christine.snyder@usc.salvationarmy.org\", \"email\": \"\", \"url\": \"https://centralusa.salvationarmy.org/dearbornheights/overcome-poverty/\", \"status\": \"active\", \"address\": {\"address_1\": \"26700 West Warren Avenue\", \"address_2\": null, \"city\": \"Dearborn Heights\", \"state_province\": \"MI\", \"postal_code\": \"48127\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3408183, \"longitude\": -83.3030088}, \"phones\": [{\"number\": \"(313) 563-4457\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.529475"
+}

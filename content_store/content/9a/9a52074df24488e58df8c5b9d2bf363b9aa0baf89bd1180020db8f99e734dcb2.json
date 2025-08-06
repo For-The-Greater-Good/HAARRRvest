@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Corpus Christi Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://corpuschristibaltimore.org/ministry/food-ministry/\", \"status\": \"active\", \"address\": {\"address_1\": \"110 West Lafayette Avenue\", \"address_2\": null, \"city\": \"Bolton Hill\", \"state_province\": \"MD\", \"postal_code\": \"21217\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3083752, \"longitude\": -76.6226561}, \"phones\": [{\"number\": \"(410) 523-4161\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Lunch\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Grab and Go Meals\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.731677"
+}

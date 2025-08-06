@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Luke's Catholic Church\", \"alternate_name\": \"\", \"description\": \"Contact: Helen\\n\\nServes 21219 and 21052 zip codes only\", \"email\": \"\", \"url\": \"https://www.olhstchurch.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"7517 North Point Road\", \"address_2\": null, \"city\": \"Sparrows Point\", \"state_province\": \"MD\", \"postal_code\": \"21219\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2347921, \"longitude\": -76.4438936}, \"phones\": [{\"number\": \"(410) 477-5200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.955797"
+}

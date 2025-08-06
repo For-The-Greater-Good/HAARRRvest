@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mount Olive UMC\", \"alternate_name\": \"\", \"description\": \"You can only pick up food every two weeks\\n\", \"email\": \"\", \"url\": \"https://mountoliveumcmd.org/loaves-and-fishes/\", \"status\": \"active\", \"address\": {\"address_1\": \"5115 Old Court Road\", \"address_2\": null, \"city\": \"Randallstown\", \"state_province\": \"MD\", \"postal_code\": \"21133\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3633835, \"longitude\": -76.77644339999999}, \"phones\": [{\"number\": \"(410) 922-2853\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.093030"
+}

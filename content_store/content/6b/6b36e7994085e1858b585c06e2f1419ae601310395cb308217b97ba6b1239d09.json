@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holy Communion Lutheran Church Food Kitchen\", \"alternate_name\": \"\", \"description\": \"1st and 3rd Wednesday - 9:00 am to 10:30 am\\n2nd and 4th Thursday - 4:00 pm to 5:30 pm\\n\\nhttps://www.gift-berlin.org/#holiday\", \"email\": \"\", \"url\": \"http://www.hclchurch.org/community/god-s-interfaith-food-table-gift\", \"status\": \"active\", \"address\": {\"address_1\": \"442 New Jersey 73\", \"address_2\": null, \"city\": \"Berlin\", \"state_province\": \"NJ\", \"postal_code\": \"08009\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7937552, \"longitude\": -74.9219276}, \"phones\": [{\"number\": \"(856) 767-0650\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"03:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Client choice pantry\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.722273"
+}

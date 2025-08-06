@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lucas County Veterans Service Commission\", \"alternate_name\": \"\", \"description\": \"Pantry: At SeaGate Food Bank, Tuesday & Thursday 1:00pm\\nRequired: Call for information and to complete an application.\\nServes: for income-eligible honorably-discharged veteran, or their spouse or dependent children\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2595 Arlington Avenue\", \"address_2\": null, \"city\": \"Glendale-Heatherdowns\", \"state_province\": \"OH\", \"postal_code\": \"43614\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6225599, \"longitude\": -83.6074744}, \"phones\": [{\"number\": \"(419) 213-6090\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.541535"
+}

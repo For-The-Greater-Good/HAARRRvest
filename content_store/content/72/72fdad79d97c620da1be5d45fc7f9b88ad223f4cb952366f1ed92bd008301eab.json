@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Feeding the Flockz\", \"alternate_name\": \"\", \"description\": \"Line up before 11am for a ticket. \\nGiving numbers at 8AM\", \"email\": \"\", \"url\": \"https://www.facebook.com/feedingtheflockbaltimore\", \"status\": \"active\", \"address\": {\"address_1\": \"5801 Harford Road\", \"address_2\": null, \"city\": \"Glenham-Belford\", \"state_province\": \"MD\", \"postal_code\": \"21214\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.354969, \"longitude\": -76.558476}, \"phones\": [{\"number\": \"(410) 426-0709\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early. Line starts at 8am\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.017646"
+}

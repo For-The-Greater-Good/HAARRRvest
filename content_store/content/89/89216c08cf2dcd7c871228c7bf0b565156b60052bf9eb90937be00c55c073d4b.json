@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"GOOD NEIGHBOR COMMUNITY OUTREACH AGENCY INC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3356 Seymour Avenue\", \"address_2\": null, \"city\": \"Laconia\", \"state_province\": \"NY\", \"postal_code\": \"10469\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8755143, \"longitude\": -73.8485268}, \"phones\": [{\"number\": \"(718) 652-3288\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"07:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"23:00\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:09.478084"
+}

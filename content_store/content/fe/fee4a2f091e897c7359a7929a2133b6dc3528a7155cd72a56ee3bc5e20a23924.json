@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Newark Public Library (Main)\", \"alternate_name\": \"\", \"description\": \"Natasha\\tOsborne\\t9737339309\\tStarts: 06/30/2025\\t08/29/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5 Washington Street\", \"address_2\": null, \"city\": \"Central Ward\", \"state_province\": \"NJ\", \"postal_code\": \"07102\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7445146, \"longitude\": -74.17076229999999}, \"phones\": [{\"number\": \"(973) 733-7797\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:12.808638"
+}

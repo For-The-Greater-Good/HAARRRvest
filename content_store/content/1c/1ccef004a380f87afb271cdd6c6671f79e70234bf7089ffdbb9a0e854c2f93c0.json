@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The MSB Outreach House\", \"alternate_name\": \"\", \"description\": \"Must be a resident of Ward 5.\", \"email\": \"\", \"url\": \"https://www.umc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2411 Lawrence Street Northeast\", \"address_2\": null, \"city\": \"Northeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20018\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9319462, \"longitude\": -76.9715119}, \"phones\": [{\"number\": \"(202) 635-7559\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.176920"
+}

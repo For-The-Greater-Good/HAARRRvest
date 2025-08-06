@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Beloved Baptist Church, Inc. Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.hungercoalition.org/food-pantries/beloved-baptist-church-inc-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"2107 West Toronto Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19132\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0010207, \"longitude\": -75.16514049999999}, \"phones\": [{\"number\": \"(215) 225-0318\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.602537"
+}

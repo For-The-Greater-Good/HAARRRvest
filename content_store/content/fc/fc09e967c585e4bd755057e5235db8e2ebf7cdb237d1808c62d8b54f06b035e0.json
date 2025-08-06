@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Met Council - Chazaq\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.chazaq.org/about-us/services\", \"status\": \"active\", \"address\": {\"address_1\": \"141- 47 72nd Avenue\", \"address_2\": null, \"city\": \"Flushing\", \"state_province\": \"NY\", \"postal_code\": \"11367\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.72674379999999, \"longitude\": -73.8222096}, \"phones\": [{\"number\": \"(718) 285-9132\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.482079"
+}

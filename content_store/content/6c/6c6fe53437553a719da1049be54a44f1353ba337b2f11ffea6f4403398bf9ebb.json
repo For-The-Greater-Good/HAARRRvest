@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Church\", \"alternate_name\": \"\", \"description\": \"Contact: Bob Nerthling\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"914 Essex Avenue\", \"address_2\": null, \"city\": \"Essex\", \"state_province\": \"MD\", \"postal_code\": \"21221\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3186499, \"longitude\": -76.462599}, \"phones\": [{\"number\": \"(410) 687-7354\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.570494"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Louis de Montfort Catholic Comm.-Sally Burton Food Pantry\", \"alternate_name\": \"\", \"description\": \"Open to Hamilton Co residents. Clients will be allowed 1/month.\\n\\nState-issued Photo ID One document showing proof of address (mail, lease, rent receipt) required.\", \"email\": \"\", \"url\": \"https://sldmfishers.org/sally-burton-food-pantry-sbfp-food-delivery-to-seniors\", \"status\": \"active\", \"address\": {\"address_1\": \"11441 Hague Road\", \"address_2\": null, \"city\": \"Fishers\", \"state_province\": \"IN\", \"postal_code\": \"46038\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9519364, \"longitude\": -86.032005}, \"phones\": [{\"number\": \"(317) 842-6778\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:15\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:37.367682"
+}

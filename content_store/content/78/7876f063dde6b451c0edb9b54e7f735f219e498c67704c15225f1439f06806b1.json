@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Temple Community Development Center\", \"alternate_name\": \"\", \"description\": \"Need help call: 9737714078\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"115 Greenwood Ave\", \"address_2\": null, \"city\": \"Montclair\", \"state_province\": \"NJ\", \"postal_code\": \"07042\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.815847, \"longitude\": -74.210091}, \"phones\": [{\"number\": \"(973) 931-7652\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:09.717457"
+}

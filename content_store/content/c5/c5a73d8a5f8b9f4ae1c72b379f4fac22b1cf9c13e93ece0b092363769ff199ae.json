@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"LINK Mobile Food Pantry - Christ the Redeemer Catholic Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.linkagainsthunger.org/home\", \"status\": \"active\", \"address\": {\"address_1\": \"46833 Harry Byrd Hwy\", \"address_2\": null, \"city\": \"Sterling\", \"state_province\": \"VA\", \"postal_code\": \"20164\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.017799, \"longitude\": -77.379318}, \"phones\": [{\"number\": \"(703) 973-4444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.253239"
+}

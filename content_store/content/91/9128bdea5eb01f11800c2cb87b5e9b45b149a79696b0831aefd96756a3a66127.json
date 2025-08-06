@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Imagine Schools North Port \\u2013 Elementary Campus\", \"alternate_name\": \"\", \"description\": \"June 5 to July 28 (Mon-Fri)\\nBreakfast 7:45-9:15 am\\nLunch 11:00 am-12:30 pm\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1000 Innovation Avenue\", \"address_2\": null, \"city\": \"North Port\", \"state_province\": \"FL\", \"postal_code\": \"34289\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.0889391, \"longitude\": -82.15618649999999}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:42.753624"
+}

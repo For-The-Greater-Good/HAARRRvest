@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Yes I Can Tutoring Services LLC (Summer Meal Site)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5359 Wynnefield Avenue\", \"address_2\": null, \"city\": \"Wynnefield\", \"state_province\": \"PA\", \"postal_code\": \"19131\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.992085, \"longitude\": -75.2333791}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Text FOOD to 304304\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:06.894814"
+}

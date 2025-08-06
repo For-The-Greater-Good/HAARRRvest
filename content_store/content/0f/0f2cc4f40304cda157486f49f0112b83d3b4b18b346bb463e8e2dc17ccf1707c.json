@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bergen County Division of Senior Services / Palisades Park Senior Activity Center\", \"alternate_name\": \"\", \"description\": \"Please reserve lunch by 11:30 AM the day before \\n\", \"email\": \"\", \"url\": \"https://www.co.bergen.nj.us/division-of-senior-services/senior-activity-centers\", \"status\": \"active\", \"address\": {\"address_1\": \"300 Highland Avenue\", \"address_2\": null, \"city\": \"Koreatown\", \"state_province\": \"NJ\", \"postal_code\": \"07650\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8492937, \"longitude\": -73.998559}, \"phones\": [{\"number\": \"(201) 944-5616\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must call during this time to register and book an appointment\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Lunch\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A donation of $1.25 is accepted for each meal\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:37.797313"
+}

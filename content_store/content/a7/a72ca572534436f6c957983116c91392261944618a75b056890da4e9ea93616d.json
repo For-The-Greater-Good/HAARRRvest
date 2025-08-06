@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Stephen's Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5757 Temple Hill Road\", \"address_2\": null, \"city\": \"Camp Springs\", \"state_province\": \"MD\", \"postal_code\": \"20748\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.803948, \"longitude\": -76.933127}, \"phones\": [{\"number\": \"(301) 899-8885\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.545824"
+}

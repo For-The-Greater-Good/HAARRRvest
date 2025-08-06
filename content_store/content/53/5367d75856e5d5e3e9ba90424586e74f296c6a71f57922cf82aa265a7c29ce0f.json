@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Metropolitan Ministries Pasco\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.metromin.org/get-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"14108 5th Street\", \"address_2\": null, \"city\": \"Dade City\", \"state_province\": \"FL\", \"postal_code\": \"33525\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.3631717, \"longitude\": -82.1873835}, \"phones\": [{\"number\": \"(813) 209-1000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of Residency (Lease contract)\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.812805"
+}

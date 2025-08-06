@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Vets House Honor - VFW (Springfield Blvd)\", \"alternate_name\": \"\", \"description\": \"Vets with ID will be prioritized\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"143 Springfield Boulevard\", \"address_2\": null, \"city\": \"Springfield Gardens\", \"state_province\": \"NY\", \"postal_code\": \"11413\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6637849, \"longitude\": -73.75912980000001}, \"phones\": [{\"number\": \"(646) 261-1973\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring proof of Veteran status\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:15.761909"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sacred Heart Church/His Heart Society\", \"alternate_name\": \"\", \"description\": \"Needs to live in Pinellas Park.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4661 82nd Avenue North\", \"address_2\": null, \"city\": \"Pinellas Park\", \"state_province\": \"FL\", \"postal_code\": \"33781\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8459747, \"longitude\": -82.69654650000001}, \"phones\": [{\"number\": \"(727) 544-5445\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.561899"
+}

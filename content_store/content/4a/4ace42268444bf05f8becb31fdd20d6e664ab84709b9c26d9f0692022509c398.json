@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Unitarian Church of All Souls\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://allsoulsnyc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"140 East 80th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10075\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7755966, \"longitude\": -73.9587019}, \"phones\": [{\"number\": \"(212) 535-5530\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients may visit twice a week\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.174016"
+}

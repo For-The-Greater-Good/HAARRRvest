@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Life Church Emergency Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Gloucester County.\", \"email\": \"\", \"url\": \"https://www.facebook.com/LifeChurchWilliamstown\", \"status\": \"active\", \"address\": {\"address_1\": \"1509 North Main Street\", \"address_2\": null, \"city\": \"Williamstown\", \"state_province\": \"NJ\", \"postal_code\": \"08094\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.706609, \"longitude\": -75.02200619999999}, \"phones\": [{\"number\": \"(856) 629-4680\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.940712"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Epiphany Lutheran Church (Feed Your Neighbor Food Program)\", \"alternate_name\": \"\", \"description\": \"\\n\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"915 North Reynolds Road\", \"address_2\": null, \"city\": \"Toledo\", \"state_province\": \"OH\", \"postal_code\": \"43615\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.64894899999999, \"longitude\": -83.6654853}, \"phones\": [{\"number\": \"(419) 536-5986\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.998198"
+}

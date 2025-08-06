@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Allen Outreach Ministry Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://allencathedral.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"110-31 Merrick Boulevard\", \"address_2\": null, \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11433\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6948239, \"longitude\": -73.7814381}, \"phones\": [{\"number\": \"(718) 206-4600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.976283"
+}

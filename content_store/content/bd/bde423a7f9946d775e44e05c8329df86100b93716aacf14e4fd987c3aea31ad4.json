@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Union United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Call (617) 536-0872 or email office@unionboston.org to arrange food delivery.\\nMust live within driving-distance from food pantry\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"485 Columbus Avenue\", \"address_2\": null, \"city\": \"South End\", \"state_province\": \"MA\", \"postal_code\": \"02118\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3431615, \"longitude\": -71.0791651}, \"phones\": [{\"number\": \"(617) 536-0872\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Contact in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.086256"
+}

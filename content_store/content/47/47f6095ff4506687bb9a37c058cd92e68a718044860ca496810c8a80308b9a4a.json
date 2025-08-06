@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Samuel Recreation Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.phila.gov/food/?fbclid=IwAR1KFfmGkseNeQsSAKcOzhJXx400E4xtzNwZA10AHVSclYi7kr7dPSNDBac&address=3539%20Gaul%20St.\", \"status\": \"active\", \"address\": {\"address_1\": \"3539 Gaul St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19134\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.99111229998739, \"longitude\": -75.09707949998219}, \"phones\": [{\"number\": \"(215) 685-1246\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"07:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"07:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"07:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"07:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"07:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:07.301379"
+}

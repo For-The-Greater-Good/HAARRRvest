@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Young Israel of Forest Hills\", \"alternate_name\": \"\", \"description\": \"Closed during Jewish Holiday, Thanksgiving day and New years day\\n\", \"email\": \"\", \"url\": \"https://www.yifh.org\", \"status\": \"active\", \"address\": {\"address_1\": \"68-07 Burns St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11375\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7216287, \"longitude\": -73.85177949999999}, \"phones\": [{\"number\": \"(718) 520-2305\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:15\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.860928"
+}

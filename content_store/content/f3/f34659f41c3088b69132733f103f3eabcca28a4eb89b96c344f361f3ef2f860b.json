@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Garden of Prayer\", \"alternate_name\": \"\", \"description\": \"Tickets are available to be picked from 7am and distribution starts at 11:30\", \"email\": \"\", \"url\": \"https://www.facebook.com/TheGardenofPrayerCathedral/\", \"status\": \"active\", \"address\": {\"address_1\": \"1874 Washington ave\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10457\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.846313, \"longitude\": -73.898064}, \"phones\": [{\"number\": \"(201) 921-2806\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.409121"
+}

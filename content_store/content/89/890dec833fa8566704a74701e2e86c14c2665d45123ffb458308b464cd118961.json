@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Family Place\", \"alternate_name\": \"\", \"description\": \"CALL BEFORE GOING, SCHEDULE VARIES. We have free pantry food product bags. Walk-ins can request one per month. Fresh produce are available on third Wedsnesday of the month. \", \"email\": \"\", \"url\": \"https://www.thefamilyplacedc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3309 16th Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20010\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9319061, \"longitude\": -77.0360795}, \"phones\": [{\"number\": \"(202) 265-0149\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.036356"
+}

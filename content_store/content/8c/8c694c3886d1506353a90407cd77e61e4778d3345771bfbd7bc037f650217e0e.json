@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Covenant Christian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6814 Indiana Avenue\", \"address_2\": null, \"city\": \"New Port Richey\", \"state_province\": \"FL\", \"postal_code\": \"34653\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2529912, \"longitude\": -82.7019542}, \"phones\": [{\"number\": \"(727) 842-4566\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"04:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"04:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.603057"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"J&C UNITY INC\", \"alternate_name\": \"\", \"description\": \"The distribution is twice a month (mostly Sundays), must call ahead +1 (410)335-0059 to confirm which day is the distribution.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7006 Graces Quarters Road\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21220\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3620532, \"longitude\": -76.3659669}, \"phones\": [{\"number\": \"(410) 335-0059\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.017564"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"HELPING HANDS FOOD PANTRY OF TEANECK\", \"alternate_name\": \"\", \"description\": \"- Follow on instagram and facebook for any updates on the pantry.\\n- Only residents of Teanack can visit the pantry twice a week.Everyone else can visit once a month\", \"email\": \"\", \"url\": \"https://teaneckpantry.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"191 The Plaza\", \"address_2\": null, \"city\": \"Teaneck\", \"state_province\": \"NJ\", \"postal_code\": \"07666\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9022756, \"longitude\": -74.0044257}, \"phones\": [{\"number\": \"(201) 357-2545\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.980138"
+}

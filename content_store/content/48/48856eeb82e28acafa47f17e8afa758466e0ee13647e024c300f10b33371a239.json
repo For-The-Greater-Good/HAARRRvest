@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Madison Meels on Wheels\", \"alternate_name\": \"\", \"description\": \"Eligibility: Persons age 60+, homebound because of illness, loss of mobility, or other medical or nutritional problems.\\n\\nArea served: Madison & Florham Park \\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"10 Maple Avenue\", \"address_2\": null, \"city\": \"Madison\", \"state_province\": \"NJ\", \"postal_code\": \"07940\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7563062, \"longitude\": -74.4162197}, \"phones\": [{\"number\": \"(973) 593-3095\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.111208"
+}

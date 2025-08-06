@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"19 West Main Street\", \"address_2\": null, \"city\": \"Moorestown-Lenola\", \"state_province\": \"NJ\", \"postal_code\": \"08057\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9636737, \"longitude\": -74.9478697}, \"phones\": [{\"number\": \"(856) 235-1180\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.293369"
+}

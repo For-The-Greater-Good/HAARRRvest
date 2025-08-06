@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ocean City Ecumenical Council \", \"alternate_name\": \"\", \"description\": \"Residents in need receive a generous emergency supply of food once every 30 days. Non-perishable food is provided in pre-packed bags that are filled according to family size. A one-time emergency need is given, or a referral for food every 30 days can be obtained from the OC Social Services office located at 821 Central Avenue, Ocean City, NJ.\\nClients can call between 12:30 to 3:00 PM \\nMonday through Thursday. \\nLeave your phone number and address for \\nreturn \", \"email\": \"\", \"url\": \"https://www.ocecnj.org/food-cupboard \", \"status\": \"active\", \"address\": {\"address_1\": \"501 East 8th Street\", \"address_2\": null, \"city\": \"Ocean City\", \"state_province\": \"NJ\", \"postal_code\": \"08226\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.27942170000001, \"longitude\": -74.5736426}, \"phones\": [{\"number\": \"(609) 398-3191\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:19.993679"
+}

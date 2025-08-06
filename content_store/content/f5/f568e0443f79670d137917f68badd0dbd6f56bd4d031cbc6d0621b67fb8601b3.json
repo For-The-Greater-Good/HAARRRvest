@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Men and Families Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2228 East Fayette Street\", \"address_2\": null, \"city\": \"Middle East\", \"state_province\": \"MD\", \"postal_code\": \"21231\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.29457600000001, \"longitude\": -76.585426}, \"phones\": [{\"number\": \"(410) 614-5353\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.390043"
+}

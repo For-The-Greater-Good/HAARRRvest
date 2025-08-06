@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"THE PLANT\", \"alternate_name\": \"\", \"description\": \"We offer a \\\"food pantry\\\" on the sidewalk in front of The Plant.  Indoors free clothes and free food available in two refrigerators.\", \"email\": \"\", \"url\": \"https://theplantartscenter.wordpress.com/contact/\", \"status\": \"active\", \"address\": {\"address_1\": \"517 West Gaines Street\", \"address_2\": null, \"city\": \"All Saints\", \"state_province\": \"FL\", \"postal_code\": \"32301\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.4352967, \"longitude\": -84.2892081}, \"phones\": [{\"number\": \"(850) 597-4942\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.624150"
+}

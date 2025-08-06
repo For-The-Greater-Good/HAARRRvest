@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Love of God \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3216 West Baltimore Street\", \"address_2\": null, \"city\": \"Carroll South\", \"state_province\": \"MD\", \"postal_code\": \"21229\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2860094, \"longitude\": -76.67182729999999}, \"phones\": [{\"number\": \"(410) 947-2109\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.116682"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Safe Passage\", \"alternate_name\": \"\", \"description\": \"Contact: Pyche Wilcox\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1300 Thurman Street\", \"address_2\": null, \"city\": \"Whitman Park\", \"state_province\": \"NJ\", \"postal_code\": \"08104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9270753, \"longitude\": -75.1014696}, \"phones\": [{\"number\": \"(856) 577-8719\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.492999"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3501 Bemiss Road\", \"address_2\": null, \"city\": \"Valdosta\", \"state_province\": \"GA\", \"postal_code\": \"31605\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.8903324, \"longitude\": -83.2713149}, \"phones\": [{\"number\": \"(229) 242-3468\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:34.778218"
+}

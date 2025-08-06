@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Rising Sun Food Pantry\", \"alternate_name\": \"\", \"description\": \"Call for hours.\", \"email\": \"\", \"url\": \"https://www.risingsunfbc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2211 Saint Lukes Lane\", \"address_2\": null, \"city\": \"Gwynn Oak\", \"state_province\": \"MD\", \"postal_code\": \"21207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.334803, \"longitude\": -76.73897579999999}, \"phones\": [{\"number\": \"(410) 944-4471\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.610356"
+}

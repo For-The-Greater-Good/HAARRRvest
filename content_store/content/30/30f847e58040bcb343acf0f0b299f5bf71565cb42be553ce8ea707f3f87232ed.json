@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hampden United Methodist Church, Hampden Food Pantry\", \"alternate_name\": \"\", \"description\": \"FOOD PANTRY: Offers non-perishable food items. The pantry is open 9AM-11AM on the first 4 Wednesdays of the month, to anyone residing in Baltimore City, if there is a 5th Wednesday within a month the pantry is closed. Clients can access the pantry once a month. Formula, baby food and toiletries are rarely available. Call with special requests (baby formula, special dietary needs) before going to the pantry.\", \"email\": \"\", \"url\": \"https://hampdenchurch.org/hampden-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"3449 Falls Road, Hampden United Methodist Church\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21211\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.327, \"longitude\": -76.6383}, \"phones\": [{\"number\": \"(410) 366-9138\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:28.977188"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Iris House, at Denny Moes Barbershop\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2496 Frederick Doublas Blvd.\", \"address_2\": null, \"city\": null, \"state_province\": null, \"postal_code\": \"10030\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8153744, \"longitude\": -73.9469807}, \"phones\": [{\"number\": \"(646) 548-0100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early. Line starts at 8am\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.544557"
+}

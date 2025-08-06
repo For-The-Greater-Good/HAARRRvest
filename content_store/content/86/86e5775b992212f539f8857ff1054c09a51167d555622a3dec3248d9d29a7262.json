@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SEED HOPE INC.\", \"alternate_name\": \"\", \"description\": \"\\t\\t\\t\\tWCase Management/Resources\\n\\nContact: Julian Lugo\\n\\nNotes: The center\\u2019s goal is to help men gain employment, disability coverage, or housing and teach them important life skills.\", \"email\": \"\", \"url\": \"https://sohopefl.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5668 Fishhawk Crossing Boulevard\", \"address_2\": null, \"city\": \"Fish Hawk\", \"state_province\": \"FL\", \"postal_code\": \"33547\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8527941, \"longitude\": -82.2051145}, \"phones\": [{\"number\": \"(813) 606-5557\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:39.685217"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fort Greene Fresh Pantry - Ingersoll\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.onecommunitynyc.org/freshpantries\", \"status\": \"active\", \"address\": {\"address_1\": \"177 Myrtle Avenue\", \"address_2\": null, \"city\": \"Downtown Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11201\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6938415, \"longitude\": -73.9820439}, \"phones\": [{\"number\": \"(347) 351-4242\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.666906"
+}

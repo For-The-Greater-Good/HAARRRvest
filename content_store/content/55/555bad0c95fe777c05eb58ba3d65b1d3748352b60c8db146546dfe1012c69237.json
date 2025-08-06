@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hugh Gilroy Senior Center\", \"alternate_name\": \"\", \"description\": \"Food pantry is every Tuesday but sometimes they do not receive food from food bank so on that Tuesday food pantry will not distribute food. Advised to call ahead. Soup kitchen is for registered seniors only.\", \"email\": \"\", \"url\": \"https://www.fortgreenecouncil.org/hugh-gilroy-oac\", \"status\": \"active\", \"address\": {\"address_1\": \"447 Kingsborough, 4th Walk\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11233\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6750905, \"longitude\": -73.9246081}, \"phones\": [{\"number\": \"(718) 756-8400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.033352"
+}

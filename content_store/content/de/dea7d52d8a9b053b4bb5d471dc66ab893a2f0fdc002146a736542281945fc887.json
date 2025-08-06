@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Murray Hill Neighborhood Association (MHNA)\", \"alternate_name\": \"\", \"description\": \"We are currently not open for walk-ins. If you are in need of food, please contact us. 646) 584-9118\", \"email\": \"\", \"url\": \"http://www.murrayhillflushing.com/mhna-food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"41-54 Murray St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"11355\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7616793, \"longitude\": -73.8126363}, \"phones\": [{\"number\": \"(646) 584-9118\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Temporarily closed\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.516077"
+}

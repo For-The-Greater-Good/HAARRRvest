@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ridgewood Older Adult Center\", \"alternate_name\": \"\", \"description\": \"ROAC is a non profit older adult center offering congregate lunch and activities to 60+ yrs old adults residing in Queens CD5. In addition, the center operates a food pantry program, for the community, on the 2nd and 4th Thursdays of the month, 1pm-3pm. When we do operate our pantry, we check for valid IDs to confirm that a recipient resides in Queens CD5 and we prioritize older adults 60+ yrs old. \\n\\nWe update operating days for each month on our website, www.roacny.org, as needed. \\n\", \"email\": \"\", \"url\": \"http://www.roacny.org\", \"status\": \"active\", \"address\": {\"address_1\": \"59-14 70th Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11385\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7010742, \"longitude\": -73.8998118}, \"phones\": [{\"number\": \"(718) 456-2000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Temporarily closed\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:20.755015"
+}

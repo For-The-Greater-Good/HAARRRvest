@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Harvard Square Churches Meal Program\", \"alternate_name\": \"\", \"description\": \"Doors open at 5:00pm with the meal served, restaurant-style at 5:30 pm\", \"email\": \"\", \"url\": \"harvardsquaremeals.org\", \"status\": \"active\", \"address\": {\"address_1\": \"0 Garden Street\", \"address_2\": \"C/O Christ Church\", \"city\": \"West Cambridge\", \"state_province\": \"MA\", \"postal_code\": \"02138\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3753143, \"longitude\": -71.1205744}, \"phones\": [{\"number\": \"(617) 876-0200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.883514"
+}

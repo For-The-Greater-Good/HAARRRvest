@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Word for the World Ministries\", \"alternate_name\": \"\", \"description\": \"Serves Mercer County.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"31 West Front Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"NJ\", \"postal_code\": \"08608\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2194126, \"longitude\": -74.76740029999999}, \"phones\": [{\"number\": \"(609) 394-9094\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.554059"
+}

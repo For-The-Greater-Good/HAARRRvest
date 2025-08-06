@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Harlem Children's Zone Lincoln Harvest\", \"alternate_name\": \"\", \"description\": \"Members of\\n the Harlem\\n Children\\u2019s Zone\\n community\\n can access FREE fresh\\n local produce\\n provided by HCZ's\\n Healthy Harlem and\\n Community Pride.\", \"email\": \"\", \"url\": \"https://hcz.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2150 Madison Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10037\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8119769, \"longitude\": -73.93652589999999}, \"phones\": [{\"number\": \"(212) 932-1920\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed early if the weather is bad\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:17.154057"
+}

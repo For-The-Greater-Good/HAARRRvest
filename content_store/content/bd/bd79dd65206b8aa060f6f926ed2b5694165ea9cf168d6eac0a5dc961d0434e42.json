@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church in Jamaica Food Pantry\", \"alternate_name\": \"\", \"description\": \"Schedule appointment through the Plentiful app\", \"email\": \"\", \"url\": \"http://firstchurchjamaica.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"89-60 164th Street \", \"address_2\": \"\", \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11432\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.705776, \"longitude\": -73.796661}, \"phones\": [{\"number\": \"(718) 526-4775\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.383743"
+}

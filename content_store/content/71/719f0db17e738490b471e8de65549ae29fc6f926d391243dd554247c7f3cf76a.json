@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Final Harvest Ministry\", \"alternate_name\": \"\", \"description\": \"Signing their names after getting their meal. Monday thru Wednesday: Bagged lunches; Thursday-Friday: Hot meals.\\nOne meal per person.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1200 Alleghany Street\", \"address_2\": null, \"city\": \"Ashley Park\", \"state_province\": \"NC\", \"postal_code\": \"28208\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2380951, \"longitude\": -80.8888484}, \"phones\": [{\"number\": \"(704) 499-2424\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.011746"
+}

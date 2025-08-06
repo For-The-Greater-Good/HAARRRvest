@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Francis Food Pantry\", \"alternate_name\": \"\", \"description\": \"Residents of North Arlington or member of Queen of Peace Parish\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"17 Franklin Street\", \"address_2\": \"\", \"city\": \"Silver Lake\", \"state_province\": \"NJ\", \"postal_code\": \"07003\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7836914, \"longitude\": -74.1831333}, \"phones\": [{\"number\": \"(201) 997-2086\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Holiday bags\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.585688"
+}

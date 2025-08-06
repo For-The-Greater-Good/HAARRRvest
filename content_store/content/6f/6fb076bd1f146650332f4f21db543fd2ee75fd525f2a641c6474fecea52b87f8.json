@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Iglesia Ciudad de Refugio\", \"alternate_name\": \"\", \"description\": \"call for appointment +1 (732) 221-4303\", \"email\": \"\", \"url\": \"https://www.bowlforhunger.com/food-pantry-directory\", \"status\": \"active\", \"address\": {\"address_1\": \"436 Market Street\", \"address_2\": null, \"city\": \"Perth Amboy\", \"state_province\": \"NJ\", \"postal_code\": \"08861\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5110975, \"longitude\": -74.2822341}, \"phones\": [{\"number\": \"(732) 826-0058\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.187976"
+}

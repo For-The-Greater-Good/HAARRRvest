@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"HELP Ministries\", \"alternate_name\": \"\", \"description\": \"Troutman residents only\", \"email\": \"\", \"url\": \"https://www.facebook.com/HelpMinistriesOfTroutman/\", \"status\": \"active\", \"address\": {\"address_1\": \"220 Morgan Street\", \"address_2\": null, \"city\": \"Troutman\", \"state_province\": \"NC\", \"postal_code\": \"28166\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7047917, \"longitude\": -80.8889908}, \"phones\": [{\"number\": \"(704) 528-0779\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:36.291911"
+}

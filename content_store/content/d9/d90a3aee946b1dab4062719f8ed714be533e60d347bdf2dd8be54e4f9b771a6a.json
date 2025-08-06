@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ocean Christian Community Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"405 Washington Street\", \"address_2\": null, \"city\": \"Toms River\", \"state_province\": \"New Jersey\", \"postal_code\": \"08753\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9520452, \"longitude\": -74.186292}, \"phones\": [{\"number\": \"(732) 240-5998\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.814593"
+}

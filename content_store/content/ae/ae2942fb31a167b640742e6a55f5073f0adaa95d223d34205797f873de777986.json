@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Academy Medical & Public Health\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.amphsonline.org\", \"status\": \"active\", \"address\": {\"address_1\": \"5306 3rd Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11220\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.64617474840536, \"longitude\": -74.01691260214258}, \"phones\": [{\"number\": \"(212) 256-9036\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.626604"
+}

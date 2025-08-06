@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fortune Society\", \"alternate_name\": \"\", \"description\": \" Must make a reservation one week in advance\", \"email\": \"\", \"url\": \"https://fortunesociety.org/food-pantry-addresses-community-needs/\", \"status\": \"active\", \"address\": {\"address_1\": \"625 W 140th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10031\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.824066, \"longitude\": -73.954147}, \"phones\": [{\"number\": \"(646) 308-6984\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Pre-registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:21.845875"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Solidarity\", \"alternate_name\": \"\", \"description\": \"- The Community Solidarity Bedford-Stuyvesant Food Share distributes outside of Von King/Tompkins Park (on the northwest corner, of Lafayette and Marcy).\", \"email\": \"\", \"url\": \"https://communitysolidarity.org/foodshares/bedstuy\", \"status\": \"active\", \"address\": {\"address_1\": \"654 Lafayette Avenue\", \"address_2\": null, \"city\": \"Bedford-Stuyvesant\", \"state_province\": \"NY\", \"postal_code\": \"11216\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6899349, \"longitude\": -73.94904629999999}, \"phones\": [{\"number\": \"(631) 223-4370\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Corner of Marcy & Lafayette Ave\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:10.814728"
+}

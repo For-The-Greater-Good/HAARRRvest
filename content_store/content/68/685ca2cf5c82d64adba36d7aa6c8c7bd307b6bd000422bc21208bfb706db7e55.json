@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Betsy and Peter Fischer Food Pantry (Samost Jewish Family & Children's Service of SNJ)\", \"alternate_name\": \"\", \"description\": \"* If you are new to JFCS and need food assistance, please call (856) 424-1333 or email faphelp@jfedsnj.org to schedule a confidential intake appointment.\\n\\n* JFCS provides monthly distributions of kosher, non-perishable food, household essentials, and personal care items to food-insecure residents of Camden, Burlington, and Gloucester Counties\", \"email\": \"\", \"url\": \"https://jfcssnj.org/pantry-assistance-requests/\", \"status\": \"active\", \"address\": {\"address_1\": \"6 East Miami Avenue\", \"address_2\": null, \"city\": \"Cherry Hill\", \"state_province\": \"NJ\", \"postal_code\": \"08034\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9182218, \"longitude\": -75.00509360000001}, \"phones\": [{\"number\": \"(856) 424-1333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.074633"
+}

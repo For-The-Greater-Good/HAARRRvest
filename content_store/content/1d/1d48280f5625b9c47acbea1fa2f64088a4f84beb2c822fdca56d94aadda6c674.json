@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Bethel AME Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://newbethelame.church/\", \"status\": \"active\", \"address\": {\"address_1\": \"8350 Rockbridge Road Southwest\", \"address_2\": null, \"city\": \"Lithonia\", \"state_province\": \"GA\", \"postal_code\": \"30058\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7728531, \"longitude\": -84.0631016}, \"phones\": [{\"number\": \"(770) 484-3350\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed before, during, and after holidays.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.422412"
+}

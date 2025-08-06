@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christian Center Church Gahanna\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"298 Rocky Fork Drive South\", \"address_2\": null, \"city\": \"Gramercy Park Estates\", \"state_province\": \"OH\", \"postal_code\": \"43230\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0102419, \"longitude\": -82.8713454}, \"phones\": [{\"number\": \"(614) 471-3036\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of family composition required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:46.311590"
+}

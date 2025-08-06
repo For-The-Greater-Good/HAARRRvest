@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Panther Valley Ecumenical Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/PantherValleyChurch/\", \"status\": \"active\", \"address\": {\"address_1\": \"1490 County Road 517\", \"address_2\": \"\", \"city\": \"Hackettstown\", \"state_province\": \"NJ\", \"postal_code\": \"07840\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8960134, \"longitude\": -74.8254449}, \"phones\": [{\"number\": \"(908) 852-5444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.886077"
+}

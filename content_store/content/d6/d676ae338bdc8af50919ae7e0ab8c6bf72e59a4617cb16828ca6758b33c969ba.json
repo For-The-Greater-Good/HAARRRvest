@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Grace World Outreach\", \"alternate_name\": \"\", \"description\": \"Distributions are scheduled several times per week \\u2013 call 410 483 3700 for the current schedule.\", \"email\": \"\", \"url\": \"https://ggwo.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"6025 Moravia Park Drive\", \"address_2\": null, \"city\": \"Pulaski Industrial Area\", \"state_province\": \"MD\", \"postal_code\": \"21206\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3151503, \"longitude\": -76.5428689}, \"phones\": [{\"number\": \"(410) 483-3700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.696899"
+}

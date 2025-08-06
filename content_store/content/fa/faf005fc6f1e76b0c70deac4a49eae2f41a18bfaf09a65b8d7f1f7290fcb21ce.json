@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Northgate Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://myngbc.com/ministries/foodpantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1301 West Linebaugh Avenue\", \"address_2\": null, \"city\": \"Forest Hills\", \"state_province\": \"FL\", \"postal_code\": \"33612\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0402821, \"longitude\": -82.471595}, \"phones\": [{\"number\": \"(813) 892-2073\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.637766"
+}

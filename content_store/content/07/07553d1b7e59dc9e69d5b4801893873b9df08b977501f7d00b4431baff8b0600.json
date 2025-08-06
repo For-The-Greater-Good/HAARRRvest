@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Colonial Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9411 Liberty Road\", \"address_2\": null, \"city\": \"Randallstown\", \"state_province\": \"MD\", \"postal_code\": \"21133\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.372906, \"longitude\": -76.8098567}, \"phones\": [{\"number\": \"(410) 655-1080\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.582352"
+}

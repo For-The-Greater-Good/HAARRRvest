@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Father and Son Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.fatherandsonfreefoodpantry.org/events/free-grocery-shopping-1\", \"status\": \"active\", \"address\": {\"address_1\": \"21418 Carson Drive\", \"address_2\": null, \"city\": \"Land O' Lakes\", \"state_province\": \"FL\", \"postal_code\": \"34639\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.19329889999999, \"longitude\": -82.46191619999999}, \"phones\": [{\"number\": \"(813) 846-9993\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.627631"
+}

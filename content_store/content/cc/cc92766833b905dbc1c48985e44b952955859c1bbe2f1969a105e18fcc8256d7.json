@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Culmore Family Resource Center\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"3304b Culmore Court\", \"address_2\": null, \"city\": \"Falls Church\", \"state_province\": \"VA\", \"postal_code\": \"22041\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8559188, \"longitude\": -77.14133850000002}, \"phones\": [{\"number\": \"(703) 379-5217\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:28.076957"
+}

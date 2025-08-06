@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Shepherd's Heart Missionary\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.shepherdsheartmissionary.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5405 York Road\", \"address_2\": null, \"city\": \"Mid-Govans\", \"state_province\": \"MD\", \"postal_code\": \"21212\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.355783, \"longitude\": -76.6095672}, \"phones\": [{\"number\": \"(410) 323-4544\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:21.397757"
+}

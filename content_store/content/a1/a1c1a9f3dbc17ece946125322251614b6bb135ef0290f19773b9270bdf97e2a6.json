@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary Baptist Church\", \"alternate_name\": \"\", \"description\": \"The food pantry is on the last saturday of every other month with the next one being on June 28th.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"38 McKinley Ave\", \"address_2\": \"\", \"city\": \"Carteret\", \"state_province\": \"NJ\", \"postal_code\": \"07008\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.57401, \"longitude\": -74.22814}, \"phones\": [{\"number\": \"(732) 912-6007\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.824870"
+}

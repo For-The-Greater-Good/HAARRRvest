@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Blessed Sacrament\", \"alternate_name\": \"\", \"description\": \"- Timings may vary dependig on te resources received\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"7001 South 12th Avenue\", \"address_2\": null, \"city\": \"Greater Palm River Point CDC\", \"state_province\": \"FL\", \"postal_code\": \"33619\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9366755, \"longitude\": -82.3771766}, \"phones\": [{\"number\": \"(813) 626-2984\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.521388"
+}

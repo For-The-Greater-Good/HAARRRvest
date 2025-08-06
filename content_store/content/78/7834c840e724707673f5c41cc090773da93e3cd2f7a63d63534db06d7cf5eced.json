@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"West Side Campaign Against Hunger\", \"alternate_name\": \"\", \"description\": \"For prompt service, we recommend arriving at least \\u00bd hour before closing time.\", \"email\": \"\", \"url\": \"https://www.wscah.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"263 West 86th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10024\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.78896770000001, \"longitude\": -73.9772637}, \"phones\": [{\"number\": \"(212) 362-3662\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Delivery may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.972096"
+}

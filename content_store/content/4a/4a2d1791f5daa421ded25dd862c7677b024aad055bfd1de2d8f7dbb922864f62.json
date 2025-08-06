@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Franciscan Outreach Program\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"25225 Code Road\", \"address_2\": null, \"city\": \"Southfield\", \"state_province\": \"MI\", \"postal_code\": \"48033\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4734518, \"longitude\": -83.2661135}, \"phones\": [{\"number\": \"(248) 356-6350\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.976589"
+}

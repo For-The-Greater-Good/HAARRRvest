@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ohio Serving Humanity Pantry\", \"alternate_name\": \"\", \"description\": \"Walk-up Service\", \"email\": \"\", \"url\": \"https://www.facebook.com/ohioservinghumanity/\", \"status\": \"active\", \"address\": {\"address_1\": \"2773 Cleveland Avenue\", \"address_2\": null, \"city\": \"North Linden\", \"state_province\": \"OH\", \"postal_code\": \"43224\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.02391739999999, \"longitude\": -82.9647957}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.848145"
+}

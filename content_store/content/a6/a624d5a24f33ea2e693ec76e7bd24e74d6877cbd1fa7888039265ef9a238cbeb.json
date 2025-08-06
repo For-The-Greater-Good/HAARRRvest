@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bell Chapel UMC Good Samaritan Fund\", \"alternate_name\": \"\", \"description\": \"Every Thursday before the last Thursday of the month\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3419 Ohio 213\", \"address_2\": null, \"city\": \"Pleasant Hill\", \"state_province\": \"OH\", \"postal_code\": \"43952\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.42220580000001, \"longitude\": -80.65879009999999}, \"phones\": [{\"number\": \"(740) 283-2239\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.459945"
+}

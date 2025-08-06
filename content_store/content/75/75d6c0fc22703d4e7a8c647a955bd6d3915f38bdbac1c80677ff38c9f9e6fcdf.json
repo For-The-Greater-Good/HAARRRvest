@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Medfield Food Cupboard @ United Church of Christ\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"496 Main Street\", \"address_2\": null, \"city\": \"Medfield\", \"state_province\": \"MA\", \"postal_code\": \"02052\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1860855, \"longitude\": -71.3060148}, \"phones\": [{\"number\": \"(508) 359-4958\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:39\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.851546"
+}

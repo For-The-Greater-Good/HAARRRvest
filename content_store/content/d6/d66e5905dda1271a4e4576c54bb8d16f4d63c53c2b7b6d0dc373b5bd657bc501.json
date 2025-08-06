@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Boston Food Bank\", \"alternate_name\": \"\", \"description\": \"Families need to complete the 2024-25 school meal & summer EBT application to receive summer benefits ($120 per eligible child)- name spelling, address, etc. all need to be up to date and accurate! Apply online at\\\" https://www.mass.gov/massachusetts-summer-ebt-program\\nCall 617-598-5022 or fill out the form on website link, and they will contact you.\\nPlease note: They are only able to assist Massachusetts residents with SNAP eligibility and applications. Nonresidents should contact their state agency or local food bank.\", \"email\": \"\", \"url\": \"https://www.gbfb.org/what-we-do/our-programs/snap/\", \"status\": \"active\", \"address\": {\"address_1\": \"70 South Bay Avenue\", \"address_2\": null, \"city\": \"South Boston\", \"state_province\": \"MA\", \"postal_code\": \"02118\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3341818, \"longitude\": -71.0659336}, \"phones\": [{\"number\": \"(617) 598-5002\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"SNAP assistance available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.852361"
+}

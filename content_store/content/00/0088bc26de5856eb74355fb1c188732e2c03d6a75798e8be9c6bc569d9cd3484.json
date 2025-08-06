@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Urban Mission, Unity Kitchen\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.urbanmission.org/need-help/food/\", \"status\": \"active\", \"address\": {\"address_1\": \"142 North 6th Street\", \"address_2\": null, \"city\": \"Steubenville\", \"state_province\": \"OH\", \"postal_code\": \"43952\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.361769, \"longitude\": -80.6167521}, \"phones\": [{\"number\": \"(740) 283-1621\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.733572"
+}

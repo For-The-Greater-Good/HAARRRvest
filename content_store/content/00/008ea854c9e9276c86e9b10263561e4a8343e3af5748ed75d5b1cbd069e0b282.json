@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"South Baltimore Homeless Shelter\", \"alternate_name\": \"\", \"description\": \"Service Provided: Shelter and Drug & Alcohol Rehab.\", \"email\": \"\", \"url\": \"https://www.baltimorestation.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"140 West West Street\", \"address_2\": null, \"city\": \"Sharp Leadenhall\", \"state_province\": \"MD\", \"postal_code\": \"21230\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2761535, \"longitude\": -76.6184814}, \"phones\": [{\"number\": \"(410) 752-5917\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.208532"
+}

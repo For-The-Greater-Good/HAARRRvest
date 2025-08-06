@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Zion Baptist Church (North Campus)\", \"alternate_name\": \"\", \"description\": \"November and December distribution will be on 3rd Thursday since there will not be any distribution on holidays. Line starts at 10am.\", \"email\": \"\", \"url\": \"https://ziondc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"11005 Dayton St\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20902\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.036647, \"longitude\": -77.043496}, \"phones\": [{\"number\": \"(240) 876-5167\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.247395"
+}

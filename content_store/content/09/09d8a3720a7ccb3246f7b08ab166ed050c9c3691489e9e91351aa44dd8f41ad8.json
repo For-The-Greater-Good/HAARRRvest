@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"South County Food Bank\", \"alternate_name\": \"\", \"description\": \"blessing box 24/7 365 days outside shelf \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"64 South Main Street\", \"address_2\": null, \"city\": \"Boonsboro\", \"state_province\": \"MD\", \"postal_code\": \"21713\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5046633, \"longitude\": -77.6515766}, \"phones\": [{\"number\": \"(301) 432-2226\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.947182"
+}

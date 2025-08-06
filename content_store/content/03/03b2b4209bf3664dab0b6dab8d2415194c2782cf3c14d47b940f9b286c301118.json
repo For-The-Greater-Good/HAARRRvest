@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Linworth Road Church Pantry\", \"alternate_name\": \"\", \"description\": \"Llame a 211 to make appointment\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5400 Linworth Road\", \"address_2\": null, \"city\": \"Indian Hills\", \"state_province\": \"OH\", \"postal_code\": \"43235\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0745532, \"longitude\": -83.04328009999999}, \"phones\": [{\"number\": \"(614) 442-5722\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.797725"
+}

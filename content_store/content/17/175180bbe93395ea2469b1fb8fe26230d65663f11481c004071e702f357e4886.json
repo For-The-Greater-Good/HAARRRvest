@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Emergency Shelter\", \"alternate_name\": \"\", \"description\": \"Registration required on site at 9:00am and distribution starts at 1pm serves Pinellas County \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1400 4th Street South\", \"address_2\": null, \"city\": \"St. Petersburg Innovation District\", \"state_province\": \"FL\", \"postal_code\": \"33701\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7562847, \"longitude\": -82.6377255}, \"phones\": [{\"number\": \"(727) 822-4954\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:39.902804"
+}

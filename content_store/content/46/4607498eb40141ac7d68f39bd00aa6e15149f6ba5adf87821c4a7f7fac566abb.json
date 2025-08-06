@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Feed My Sheep Ministries\", \"alternate_name\": \"\", \"description\": \"Every Saturday Morning at 9 am (Except the 1st week of the month) at Feed My Sheep\", \"email\": \"\", \"url\": \"feedmysheepministry.com\", \"status\": \"active\", \"address\": {\"address_1\": \"2364 West Broad Street\", \"address_2\": null, \"city\": \"Hilltop\", \"state_province\": \"OH\", \"postal_code\": \"43204\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9557146, \"longitude\": -83.0635082}, \"phones\": [{\"number\": \"(614) 721-5414\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:49.477672"
+}

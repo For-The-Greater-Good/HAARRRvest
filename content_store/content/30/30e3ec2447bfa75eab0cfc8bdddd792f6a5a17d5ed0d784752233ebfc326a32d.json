@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Martin de Porres Center\", \"alternate_name\": \"\", \"description\": \"Distribution is done after the 10 AM Sunday service\", \"email\": \"\", \"url\": \"http://smdpphiladelphia.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"2338 West Lehigh Avenue\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19132\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9956175, \"longitude\": -75.1706633}, \"phones\": [{\"number\": \"(215) 225-2127\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.848846"
+}

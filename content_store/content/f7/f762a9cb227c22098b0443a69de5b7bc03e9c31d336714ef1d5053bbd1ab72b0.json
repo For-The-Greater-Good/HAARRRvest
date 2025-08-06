@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mark MB\", \"alternate_name\": \"\", \"description\": \"- Call +1 (813) 839-5263 and use ext 3 for the food pantry. Clients need to call on tuesday or wednesday for appointment to get food on 1st and 3rd thursday, if church will not receive the call you need to left vm with name, so the church will call back between 3pm to 4pm\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7221 South Sherrill Street\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33616\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8612103, \"longitude\": -82.5313278}, \"phones\": [{\"number\": \"(813) 839-5263\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"09:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:45.420837"
+}

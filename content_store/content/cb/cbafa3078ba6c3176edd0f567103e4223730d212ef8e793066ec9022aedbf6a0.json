@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jericho - Deptford Community Development Pantry -      First Baptist Church of Jericho\", \"alternate_name\": \"\", \"description\": \"Seniors activity 9:45AM TO 11:15 LUNCH SERVED : 11:15 TO 12: PM\\nFor lunch call to reserve your seat by 12pm day before you arrive : 8564681648\\n\", \"email\": \"\", \"url\": \"https://fbcjerichoweb.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"981 Mail Avenue\", \"address_2\": null, \"city\": \"Deptford\", \"state_province\": \"NJ\", \"postal_code\": \"08096\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8072686, \"longitude\": -75.1429208}, \"phones\": [{\"number\": \"(856) 468-8686\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.278275"
+}

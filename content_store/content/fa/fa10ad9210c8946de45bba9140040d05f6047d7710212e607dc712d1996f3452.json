@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Woodley House Food Pantry\", \"alternate_name\": \"\", \"description\": \"Hours of operation: Open Every Tuesday Afternoon 1:30-2:30 PM. \\n\\nRequired: Proof of DC residency is needed. Please bring a current photo ID such as a driver's license, passport or other identification card, along with proof of residency such as utility bill, etc. \", \"email\": \"\", \"url\": \"http://woodleyhouse.org/other-services/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"2711 Connecticut Avenue Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20008\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9260398, \"longitude\": -77.0525313}, \"phones\": [{\"number\": \"(202) 830-3508\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:30\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Must be a resident of Washington DC\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.306881"
+}

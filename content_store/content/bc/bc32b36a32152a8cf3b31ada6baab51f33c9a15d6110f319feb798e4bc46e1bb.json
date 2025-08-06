@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FBC Lake Alfred\", \"alternate_name\": \"\", \"description\": \"Polk County Residents\", \"email\": \"\", \"url\": \"https://www.fbclakealfred.com/ministries/united-h-o-p-e-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"280 East Pierce Street\", \"address_2\": null, \"city\": \"Lake Alfred\", \"state_province\": \"FL\", \"postal_code\": \"33850\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0911897, \"longitude\": -81.7276319}, \"phones\": [{\"number\": \"(863) 956-1477\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.658407"
+}

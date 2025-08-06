@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of the Resurrection\", \"alternate_name\": \"\", \"description\": \"- Have to live within the township\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"200 Tuckahoe Road\", \"address_2\": null, \"city\": \"Marmora\", \"state_province\": \"NJ\", \"postal_code\": \"08223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2663039, \"longitude\": -74.6556422}, \"phones\": [{\"number\": \"(609) 390-0664\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.817436"
+}

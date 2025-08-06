@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holy Redeemer Food Bank\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1801 U.S. 9\", \"address_2\": null, \"city\": \"Cape May Court House\", \"state_province\": \"NJ\", \"postal_code\": \"08210\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1398068, \"longitude\": -74.769823}, \"phones\": [{\"number\": \"(609) 465-2082\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.214333"
+}

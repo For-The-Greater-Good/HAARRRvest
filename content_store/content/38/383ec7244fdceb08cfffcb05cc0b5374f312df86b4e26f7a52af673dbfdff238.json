@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHRISTINA HOME CARE FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"Can call director \", \"email\": \"\", \"url\": \"https://www.care.com/b/l/christine-home-care-services-inc/south-richmond-hill-ny\", \"status\": \"active\", \"address\": {\"address_1\": \"120-19 Liberty Avenue\", \"address_2\": null, \"city\": \"South Richmond Hill\", \"state_province\": \"NY\", \"postal_code\": \"11419\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6870632, \"longitude\": -73.8225504}, \"phones\": [{\"number\": \"(917) 592-8686\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.689213"
+}

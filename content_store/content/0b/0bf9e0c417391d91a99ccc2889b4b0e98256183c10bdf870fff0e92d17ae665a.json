@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul's Pantry \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://fulfillnj.org/wp-content/uploads/2020/07/Ocean-County-Pantries-S.-Kitchens-7.14.20.pdf\", \"status\": \"active\", \"address\": {\"address_1\": \"130 Cable Avenue\", \"address_2\": null, \"city\": \"Beachwood\", \"state_province\": \"NJ\", \"postal_code\": \"08722\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9379068, \"longitude\": -74.1889958}, \"phones\": [{\"number\": \"(732) 349-0871\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.808435"
+}

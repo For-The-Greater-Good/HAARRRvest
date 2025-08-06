@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MUNA Center of Jamaica\", \"alternate_name\": \"\", \"description\": \"For volunteers, send your resume with volunteer experience to munacjny@gmail.com\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"195-196 Dunton Avenue\", \"address_2\": \"\", \"city\": \"Hollis\", \"state_province\": \"NY\", \"postal_code\": \"11423\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7189091, \"longitude\": -73.7678074}, \"phones\": [{\"number\": \"(718) 627-4625\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.670023"
+}

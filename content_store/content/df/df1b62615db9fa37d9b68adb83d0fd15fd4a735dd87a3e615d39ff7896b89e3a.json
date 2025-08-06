@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"TRS Office Free Food Distribution Event\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://trsboston.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1542 Columbus Avenue\", \"address_2\": null, \"city\": \"Roxbury\", \"state_province\": \"MA\", \"postal_code\": \"02119\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3234107, \"longitude\": -71.09826369999999}, \"phones\": [{\"number\": \"(617) 858-7800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:27.112849"
+}

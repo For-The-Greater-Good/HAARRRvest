@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"College Achieve - Ellison St.\", \"alternate_name\": \"\", \"description\": \"Joe\\tPonteliona\\t9733211000\\nFrom: 07/07/2025\\t07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"137 Ellison Street\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07505\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9175259, \"longitude\": -74.1715665}, \"phones\": [{\"number\": \"(973) 452-8545\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:13.841506"
+}

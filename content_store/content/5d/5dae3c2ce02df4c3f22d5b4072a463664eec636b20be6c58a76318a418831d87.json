@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"East Lake YMCA\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"275 Eva Davis Way Southeast\", \"address_2\": null, \"city\": \"Villages of East Lake\", \"state_province\": \"GA\", \"postal_code\": \"30317\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.74584039999999, \"longitude\": -84.31500590000002}, \"phones\": [{\"number\": \"(404) 373-6561\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Temporarily closed\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Drive-up Food Pantry\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:26.039552"
+}

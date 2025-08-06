@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mantua Haverford Community Center/Mt. Vernon Manor CDC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://mvmcdc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"631 North 39th Street\", \"address_2\": null, \"city\": \"Mantua\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9640638, \"longitude\": -75.19956499999999}, \"phones\": [{\"number\": \"(215) 475-9492\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.073220"
+}

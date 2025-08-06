@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Harvest Heritage Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"100 Quarry Road\", \"address_2\": null, \"city\": \"McAfee\", \"state_province\": \"NJ\", \"postal_code\": \"07419\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.1397058, \"longitude\": -74.5647989}, \"phones\": [{\"number\": \"(973) 827-4076\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.137504"
+}

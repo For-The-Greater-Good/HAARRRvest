@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Haven Ministries Food Pantry\", \"alternate_name\": \"\", \"description\": \"Open for Queen Anne\\u2019s County residents only.\", \"email\": \"\", \"url\": \"https://www.facebook.com/havenministriesshelter/\", \"status\": \"active\", \"address\": {\"address_1\": \"206 Del Rhodes Avenue\", \"address_2\": null, \"city\": \"Queenstown\", \"state_province\": \"MD\", \"postal_code\": \"21658\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9897122, \"longitude\": -76.1570662}, \"phones\": [{\"number\": \"(410) 827-7194\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.859044"
+}

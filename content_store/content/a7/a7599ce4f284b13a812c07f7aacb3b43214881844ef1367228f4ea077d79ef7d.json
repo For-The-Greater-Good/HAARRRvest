@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Solid Rock SDA Church \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.solidrocksda.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5205 Rockaway Beach Boulevard\", \"address_2\": \"\", \"city\": \"Far Rockaway\", \"state_province\": \"NY\", \"postal_code\": \"11691\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5926907, \"longitude\": -73.78267249999999}, \"phones\": [{\"number\": \"(718) 474-9306\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.615482"
+}

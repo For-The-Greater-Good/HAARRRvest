@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"LEH Admin Building\", \"alternate_name\": \"\", \"description\": \"Linda\\tMeehan\\t6092961719\\nStarts07/07/2025\\t08/07/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"307 Frog Pond Road\", \"address_2\": null, \"city\": \"Little Egg Harbor Township\", \"state_province\": \"NJ\", \"postal_code\": \"08087\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6293782, \"longitude\": -74.3279144}, \"phones\": [{\"number\": \"(609) 296-1719\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:15\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:15\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:15\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:15\", \"closes_at\": \"15:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:11.323539"
+}

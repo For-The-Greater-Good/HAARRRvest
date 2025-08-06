@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Center at Journey\\u2019s Way\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.intercommunityaction.org\", \"status\": \"active\", \"address\": {\"address_1\": \"403 Rector St.\", \"address_2\": \"\", \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19128\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.02763011471859, \"longitude\": -75.21402719536984}, \"phones\": [{\"number\": \"(215) 487-1750\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Groceries may be available through the Commodity Supplemental Food Program (for those 60+, must be income-eligible)\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:14.980999"
+}

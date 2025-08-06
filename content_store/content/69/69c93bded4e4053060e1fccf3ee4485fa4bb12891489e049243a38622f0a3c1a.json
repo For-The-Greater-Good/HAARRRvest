@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"World Outreach International\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://worldoutreach.us/\", \"status\": \"active\", \"address\": {\"address_1\": \"3333 Keystone Road\", \"address_2\": null, \"city\": \"Tarpon Springs\", \"state_province\": \"FL\", \"postal_code\": \"34688\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.1453027, \"longitude\": -82.6818696}, \"phones\": [{\"number\": \"(727) 937-7333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:45\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:45\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.798707"
+}

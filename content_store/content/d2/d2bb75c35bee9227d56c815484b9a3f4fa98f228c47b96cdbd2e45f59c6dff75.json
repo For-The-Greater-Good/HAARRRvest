@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SVDP Corpus Christi\", \"alternate_name\": \"\", \"description\": \"Clients required to provide ID and two forms of mail for proof of address.\\n\\nExcept 5th Saturday \\n\\nZip codes served: 33617, 33637\", \"email\": \"\", \"url\": \"https://spiritualhome.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"9715 North 56th Street\", \"address_2\": null, \"city\": \"Temple Terrace\", \"state_province\": \"FL\", \"postal_code\": \"33617\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0367439, \"longitude\": -82.39290849999999}, \"phones\": [{\"number\": \"(813) 899-4603\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:40.178215"
+}

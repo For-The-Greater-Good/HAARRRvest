@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Round Valley United Methodist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Must be a participant of one of the five programs to qualify:\\n* TANF (Temporary Assistance to Needy Families)\\n* SNAP/ Food Stamps (Supplemental Nutrition Assistance Program)\\n* SSI/SSD (Supplemental Security Income-- No Social Security)\\n* WIC (Women, Infants and Children Program)\\n* Medicaid \\n\\n**OR** have income below the Federal guidelines or are in a disaster relief situation (divorce, domestic violence, unusual expense, loss of employment, etc.).\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"30 Main Street\", \"address_2\": null, \"city\": \"Lebanon\", \"state_province\": \"NJ\", \"postal_code\": \"08833\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6429139, \"longitude\": -74.84088969999999}, \"phones\": [{\"number\": \"(908) 391-8933\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.888490"
+}

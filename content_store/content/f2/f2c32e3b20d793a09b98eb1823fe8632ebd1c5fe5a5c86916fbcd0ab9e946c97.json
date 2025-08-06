@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Original Congregational Church\", \"alternate_name\": \"\", \"description\": \"Resident of Wrentham\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1 East Street\", \"address_2\": null, \"city\": \"Wrentham\", \"state_province\": \"MA\", \"postal_code\": \"02093\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.067112, \"longitude\": -71.32712400000001}, \"phones\": [{\"number\": \"(508) 384-3110\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.712552"
+}

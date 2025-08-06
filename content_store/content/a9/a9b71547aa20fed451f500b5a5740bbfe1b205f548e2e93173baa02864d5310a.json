@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Crossroads of Michigan\", \"alternate_name\": \"\", \"description\": \"Tuesday - Friday visit main office for appointment : 2424 West Grand Boulevard Detroit, MI 48208 \", \"email\": \"\", \"url\": \"http://www.crossroadsofmichigan.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"14641 East Jefferson Avenue\", \"address_2\": null, \"city\": \"Riverbend\", \"state_province\": \"MI\", \"postal_code\": \"48215\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3742594, \"longitude\": -82.94162709999999}, \"phones\": [{\"number\": \"(313) 822-5200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:29.902833"
+}

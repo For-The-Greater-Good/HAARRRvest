@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dedham Food pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://dedhamfoodpantry.org/need-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"600 Washington Street\", \"address_2\": null, \"city\": \"Dedham\", \"state_province\": \"MA\", \"postal_code\": \"02026\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2412316, \"longitude\": -71.1782084}, \"phones\": [{\"number\": \"(781) 320-9442\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:27.012456"
+}

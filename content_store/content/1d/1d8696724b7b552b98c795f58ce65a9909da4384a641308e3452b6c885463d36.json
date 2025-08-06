@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Woodrow Wilson Play Safe\", \"alternate_name\": \"\", \"description\": \"Luis\\tGuardado\\t7327455300\\tstarts: 06/30/2025\\t08/07/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"133 Tunison Road\", \"address_2\": null, \"city\": \"New Brunswick\", \"state_province\": \"NJ\", \"postal_code\": \"08901\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4854024, \"longitude\": -74.4060295}, \"phones\": [{\"number\": \"(732) 331-0573\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"04:15\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"04:15\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:15\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"04:15\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:13.345698"
+}

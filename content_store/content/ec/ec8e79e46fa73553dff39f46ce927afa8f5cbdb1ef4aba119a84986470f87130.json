@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Friendly Center, Inc.\", \"alternate_name\": \"\", \"description\": \"Serves:43608,43604,43611\\n\\nRequired: Photo ID, proof of address\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1324 North Superior Street\", \"address_2\": null, \"city\": \"Toledo\", \"state_province\": \"OH\", \"postal_code\": \"43604\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.660501, \"longitude\": -83.52065259999999}, \"phones\": [{\"number\": \"(419) 243-1289\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:45\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.129201"
+}

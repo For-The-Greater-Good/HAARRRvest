@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Boonton Food Pantry\", \"alternate_name\": \"\", \"description\": \"Area served: Boonton & surrounding areas. Located on the second floor near the Health and Construction Departments\", \"email\": \"\", \"url\": \"https://www.boonton.org/630/Food-Pantries-Financial-Assistance\", \"status\": \"active\", \"address\": {\"address_1\": \"100 Washington Street\", \"address_2\": \"100 Washington Street\", \"city\": \"Boonton\", \"state_province\": \"NJ\", \"postal_code\": \"07005\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9019471, \"longitude\": -74.40689549999999}, \"phones\": [{\"number\": \"(800) 427-3244\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"For women and children only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:18.089736"
+}

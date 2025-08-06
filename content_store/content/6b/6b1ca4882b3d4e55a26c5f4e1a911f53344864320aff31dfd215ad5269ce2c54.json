@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fouse Center\", \"alternate_name\": \"\", \"description\": \"there is a sign board on the entrance of meadow road,This road will lead you toward fouse food pantry, Marked the way in image\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6401 Ritchie Highway\", \"address_2\": null, \"city\": \"Glen Burnie\", \"state_province\": \"MD\", \"postal_code\": \"21061\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2004467, \"longitude\": -76.61349009999999}, \"phones\": [{\"number\": \"(410) 609-1224\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.719102"
+}

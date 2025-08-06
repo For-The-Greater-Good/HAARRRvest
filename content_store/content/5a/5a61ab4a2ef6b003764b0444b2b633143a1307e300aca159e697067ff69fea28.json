@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Area Agency on Aging of Pinellas and Pasco County\", \"alternate_name\": \"\", \"description\": \"Serves seniors over the age of 60 and in Pasco and Pinellas counties.\", \"email\": \"\", \"url\": \"https://agingcarefl.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"9549 Koger Boulevard North\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33702\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8586908, \"longitude\": -82.6401992}, \"phones\": [{\"number\": \"(727) 570-9696\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:39.084709"
+}

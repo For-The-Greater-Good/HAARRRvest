@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bailey House \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"baileyhouse.org\", \"status\": \"active\", \"address\": {\"address_1\": \"57 Willoughby Street\", \"address_2\": \"3rd Floor\", \"city\": \"Downtown Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11201\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6923438, \"longitude\": -73.9866352}, \"phones\": [{\"number\": \"(212) 633-2500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.278602"
+}

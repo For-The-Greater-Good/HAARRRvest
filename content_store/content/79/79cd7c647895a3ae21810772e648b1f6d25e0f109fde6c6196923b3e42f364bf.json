@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"OPEN HEART FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"Food receivable: fresh produce, refrigerated,\\nfrozen, dry goods. Serves directly to individuals. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1708 North State Road 7\", \"address_2\": null, \"city\": \"Hollywood\", \"state_province\": \"FL\", \"postal_code\": \"33021\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.025498, \"longitude\": -80.210323}, \"phones\": [{\"number\": \"(954) 322-4324\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.079256"
+}

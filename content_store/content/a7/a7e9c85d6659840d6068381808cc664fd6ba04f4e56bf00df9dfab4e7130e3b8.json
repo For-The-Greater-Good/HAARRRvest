@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Living Hope Outreach Center\", \"alternate_name\": \"\", \"description\": \"Food and necessities are available to residents once a month. \", \"email\": \"\", \"url\": \"https://www.livinghopeoutreachcenter.com/default.asp?sec_id=180005616\", \"status\": \"active\", \"address\": {\"address_1\": \"201 Whittier Avenue\", \"address_2\": null, \"city\": \"Dunellen\", \"state_province\": \"NJ\", \"postal_code\": \"08812\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5874683, \"longitude\": -74.4618528}, \"phones\": [{\"number\": \"(732) 424-7363\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.103255"
+}

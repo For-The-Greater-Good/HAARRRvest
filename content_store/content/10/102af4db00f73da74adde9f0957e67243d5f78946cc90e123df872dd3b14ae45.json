@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"South County Assistance Network\", \"alternate_name\": \"\", \"description\": \"FOOD PANTRY: Offers a food pantry with perishable and non-perishable food items. Sometimes has baby food and personal items.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5757 Solomons Island Road\", \"address_2\": null, \"city\": \"Lothian\", \"state_province\": \"MD\", \"postal_code\": \"20711\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.78971, \"longitude\": -76.59662}, \"phones\": [{\"number\": \"(410) 867-2838\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:29.219324"
+}

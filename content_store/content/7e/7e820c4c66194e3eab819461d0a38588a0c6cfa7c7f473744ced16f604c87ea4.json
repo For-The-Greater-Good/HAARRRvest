@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Vincent DePaul Food Pantry, Perth Amboy\", \"alternate_name\": \"\", \"description\": \"* Serves Perth Amboy residents \", \"email\": \"\", \"url\": \"https://www.bowlforhunger.com/food-pantry-directory\", \"status\": \"active\", \"address\": {\"address_1\": \"230 New Brunswick Avenue\", \"address_2\": \"\", \"city\": \"Perth Amboy\", \"state_province\": \"NJ\", \"postal_code\": \"08861\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5124325, \"longitude\": -74.27059779999999}, \"phones\": [{\"number\": \"(732) 548-4317\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:45\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.183618"
+}

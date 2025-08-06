@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"PATHHSEO, Inc.\", \"alternate_name\": \"\", \"description\": \"Fridays: Provides tickets as early as 6:30 AM and the distribution starts at 11:30 AM. Serves 250 families.\\nSaturdays: Grab and Go meals provided to 300 guest. Starts at 11:30 until food supplies last.\\n\", \"email\": \"\", \"url\": \"pathhseo.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1357 Southern Boulevard\", \"address_2\": \"\", \"city\": \"West Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10459\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8322459, \"longitude\": -73.89130109999999}, \"phones\": [{\"number\": \"(646) 938-0093\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.080504"
+}

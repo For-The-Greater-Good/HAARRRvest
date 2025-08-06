@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Evangelical Free Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"12 McLellan Street\", \"address_2\": null, \"city\": \"Skowhegan\", \"state_province\": \"ME\", \"postal_code\": \"04976\", \"country\": \"US\"}, \"location\": {\"latitude\": 44.7587196, \"longitude\": -69.7229633}, \"phones\": [{\"number\": \"(207) 474-8833\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.096291"
+}

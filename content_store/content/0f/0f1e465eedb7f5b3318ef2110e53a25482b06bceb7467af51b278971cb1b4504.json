@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"QCH Forest Hills\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.qchnyc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"108-25 62nd Drive\", \"address_2\": \"\", \"city\": \"Forest Hills\", \"state_province\": \"NY\", \"postal_code\": \"11375\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7362957, \"longitude\": -73.85014129999999}, \"phones\": [{\"number\": \"(718) 699-1010\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.777575"
+}

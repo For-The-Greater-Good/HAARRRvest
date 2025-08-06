@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Foundry\", \"alternate_name\": \"\", \"description\": \"* Can line in cars as early as  7am\", \"email\": \"\", \"url\": \"https://www.facebook.com/TheFoundryBurke\", \"status\": \"active\", \"address\": {\"address_1\": \"9800 Old Keene Mill Road\", \"address_2\": null, \"city\": \"Burke\", \"state_province\": \"VA\", \"postal_code\": \"22015\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.774396, \"longitude\": -77.283562}, \"phones\": [{\"number\": \"(703) 455-7041\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.624576"
+}

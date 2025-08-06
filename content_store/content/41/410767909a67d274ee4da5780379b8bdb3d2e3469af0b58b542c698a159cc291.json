@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hope Station \", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.ocamd.org/hope-station\", \"status\": \"active\", \"address\": {\"address_1\": \"632 North Centre Street\", \"address_2\": null, \"city\": \"Cumberland\", \"state_province\": \"MD\", \"postal_code\": \"21502\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6585934, \"longitude\": -78.7726349}, \"phones\": [{\"number\": \"(301) 722-8266\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.317135"
+}

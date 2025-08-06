@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Charles Foundation\", \"alternate_name\": \"\", \"description\": \"- no need volunters as of now\", \"email\": \"\", \"url\": \"www.thecharlesfoundation.com\", \"status\": \"active\", \"address\": {\"address_1\": \"605 North 52nd Street\", \"address_2\": null, \"city\": \"West Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19131\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9697538, \"longitude\": -75.22515190000001}, \"phones\": [{\"number\": \"(215) 868-9543\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.173397"
+}

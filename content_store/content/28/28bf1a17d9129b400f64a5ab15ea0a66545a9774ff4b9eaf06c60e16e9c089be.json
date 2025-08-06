@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"House of Love - Newark\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://www.houseoflovesoupkitchen.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"589-595 Central Avenue\", \"address_2\": null, \"city\": \"Fairmount\", \"state_province\": \"NJ\", \"postal_code\": \"07107\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7500275, \"longitude\": -74.1992084}, \"phones\": [{\"number\": \"(973) 489-3804\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.302936"
+}

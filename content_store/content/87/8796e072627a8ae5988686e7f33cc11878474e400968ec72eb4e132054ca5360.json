@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Crossroads Community Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://crossroadsphilly.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2916 North 6th Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19133\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9959509, \"longitude\": -75.14155199999999}, \"phones\": [{\"number\": \"(215) 223-7897\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for seniors\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.640204"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"PLEASANT GROVE BAPTIST CHURCH\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.pgbcnewark.org/food-pantry-pgbc\", \"status\": \"active\", \"address\": {\"address_1\": \"198 Chadwick Avenue\", \"address_2\": null, \"city\": \"Newark\", \"state_province\": \"NJ\", \"postal_code\": \"07108\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.719239, \"longitude\": -74.201951}, \"phones\": [{\"number\": \"(862) 231-2306\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.838912"
+}

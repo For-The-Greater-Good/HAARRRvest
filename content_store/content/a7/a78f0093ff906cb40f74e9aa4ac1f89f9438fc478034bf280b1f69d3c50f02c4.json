@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"NEW COVENANT CHURCH OF GOD\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://newcovenantnj.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"225 E. 7th St\", \"address_2\": null, \"city\": \"Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07060\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.618044, \"longitude\": -74.415083}, \"phones\": [{\"number\": \"(908) 226-0223\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.213110"
+}

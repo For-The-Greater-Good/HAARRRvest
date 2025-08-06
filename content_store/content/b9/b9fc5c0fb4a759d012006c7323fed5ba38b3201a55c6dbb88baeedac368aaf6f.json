@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Brooklyn Homes Brown Bag Club\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4140 10th Street\", \"address_2\": null, \"city\": \"Brooklyn Homes\", \"state_province\": \"MD\", \"postal_code\": \"21225\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2286006, \"longitude\": -76.59907299999999}, \"phones\": [{\"number\": \"(410) 355-9514\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.910037"
+}

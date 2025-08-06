@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Central United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.centralumchurchdetroit.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"23 East Adams Avenue\", \"address_2\": null, \"city\": \"Downtown Detroit\", \"state_province\": \"MI\", \"postal_code\": \"48226\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3369708, \"longitude\": -83.0505427}, \"phones\": [{\"number\": \"(313) 965-5422\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:29.702732"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Masbia of Boro Park\", \"alternate_name\": \"\", \"description\": \"For food pantry be sure to make appointment every time you come to pick up pantry items, TEXT ( FOOD) TO 726879\\nFor food pantry appointment via Plentyfull please select location ( Masbia BP) for this address .\", \"email\": \"\", \"url\": \"http://www.masbiaboropark.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5402 New Utrecht Avenue\", \"address_2\": \"\", \"city\": \"Borough Park\", \"state_province\": \"NY\", \"postal_code\": \"11219\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6323632, \"longitude\": -73.9955253}, \"phones\": [{\"number\": \"(718) 972-4446\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.142992"
+}

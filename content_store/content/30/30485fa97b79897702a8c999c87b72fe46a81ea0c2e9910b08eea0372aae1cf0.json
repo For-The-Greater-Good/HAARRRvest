@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Park Naylor Community Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2574 Naylor Road Southeast\", \"address_2\": null, \"city\": \"Southeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20020\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.863888, \"longitude\": -76.969365}, \"phones\": [{\"number\": \"(202) 575-2544\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"06:15\", \"closes_at\": \"06:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"06:15\", \"closes_at\": \"06:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"06:15\", \"closes_at\": \"06:45\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:59.097752"
+}

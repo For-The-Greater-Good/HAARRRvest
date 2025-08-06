@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Feed the Fridge  - Rita Bright Family and Youth Center\", \"alternate_name\": \"\", \"description\": \"Fridge is located in the building \\nFridge filled with 100 meals every morning \", \"email\": \"\", \"url\": \"https://feedthefridge.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2500 14th Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20009\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9221203, \"longitude\": -77.0324964}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Grab and Go Meals\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:47.766840"
+}

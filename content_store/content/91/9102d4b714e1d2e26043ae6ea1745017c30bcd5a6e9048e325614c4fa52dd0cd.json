@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Rainbow Community Development Center\", \"alternate_name\": \"\", \"description\": \"* Serves Montgomery County, MD clients only and they must show photo id with MoCo address\\n* Tuesday and Thursdays by appointment only.  2nd and 4th Saturdays are Grab and Go. To schedule an appointment for food, please call 301-625-2561.\\n* Client can visit once every two weeks as needed.\\n*  Pantry Location: Set navigation for 2120 Tech Road, Silver Spring, MD (the pantry's entrance is on the back side of the building, facing Tech Road.\\n* There are TEFAP income eligible requirements\", \"email\": \"\", \"url\": \"www.rainbowcdc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"2120 Industrial Parkway\", \"address_2\": \"A\", \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20904\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.054789, \"longitude\": -76.969193}, \"phones\": [{\"number\": \"(240) 888-1437\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.052693"
+}

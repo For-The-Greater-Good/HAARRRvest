@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holy Name of Jesus \\u2013 St. Gregory The Great\", \"alternate_name\": \"\", \"description\": \"The Social Services Referral program are offered Tuesdays and Thursdays from 10 am to 1 pm, and continues to assist hundreds of individuals and families in a variety of social services ranging from assistance with housing, social security, food stamp benefits, obtaining medical insurance, and life-event counseling.\", \"email\": \"\", \"url\": \"https://www.holynamenyc.org/food-program\", \"status\": \"active\", \"address\": {\"address_1\": \"214 West 97th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10025\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7948241, \"longitude\": -73.9706954}, \"phones\": [{\"number\": \"(212) 932-8040\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:11.301632"
+}

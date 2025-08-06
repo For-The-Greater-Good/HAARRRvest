@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"Please fill the form and bring it with you to receive food box ( file:///C:/Users/AtoZ/Downloads/JFS-04221-ENG-Rev.-7.2022.pdf\", \"email\": \"\", \"url\": \"https://loganfpc.org/mission-and-outreach/\", \"status\": \"active\", \"address\": {\"address_1\": \"2 West Hunter Street\", \"address_2\": null, \"city\": \"Logan\", \"state_province\": \"OH\", \"postal_code\": \"43138\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5414662, \"longitude\": -82.4089501}, \"phones\": [{\"number\": \"(740) 385-2242\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:48.766764"
+}

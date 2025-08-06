@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Woodbury Cooperative Ministries\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://gwcm.org/food-pantries\", \"status\": \"active\", \"address\": {\"address_1\": \"330 East Barber Avenue\", \"address_2\": \"\", \"city\": \"Woodbury\", \"state_province\": \"NJ\", \"postal_code\": \"08096\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.832121, \"longitude\": -75.14617319999999}, \"phones\": [{\"number\": \"(856) 848-8975\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.777114"
+}

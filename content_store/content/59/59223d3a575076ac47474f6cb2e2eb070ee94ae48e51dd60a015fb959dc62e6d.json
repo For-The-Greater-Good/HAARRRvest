@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Golden Gate\", \"alternate_name\": \"\", \"description\": \"Call to verify availability\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"253 Maple Street\", \"address_2\": null, \"city\": \"Clayton\", \"state_province\": \"NJ\", \"postal_code\": \"08312\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6567065, \"longitude\": -75.0973983}, \"phones\": [{\"number\": \"(856) 863-4900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.474297"
+}

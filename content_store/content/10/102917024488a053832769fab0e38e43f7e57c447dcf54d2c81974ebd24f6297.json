@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New York School of Urban Ministry (NISUM)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://nysum.org\", \"status\": \"active\", \"address\": {\"address_1\": \"31-10 47th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11103\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.758787, \"longitude\": -73.912174}, \"phones\": [{\"number\": \"(718) 204-6471\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.245916"
+}

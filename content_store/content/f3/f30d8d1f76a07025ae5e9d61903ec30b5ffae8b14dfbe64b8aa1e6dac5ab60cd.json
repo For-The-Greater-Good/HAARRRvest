@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Nourish Food Bank Holy Disciples Catholic Church\", \"alternate_name\": \"\", \"description\": \"All guests will be asked for their name, the number of people in their household needing food, their address or zip code and the dates of birth of all household members. (No identification, proof of address or proof of income are needed.)\\n-No disribution on the 4th of July\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"10425 187th Street East\", \"address_2\": null, \"city\": \"Puyallup\", \"state_province\": \"WA\", \"postal_code\": \"98374\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.0880289, \"longitude\": -122.2915886}, \"phones\": [{\"number\": \"(253) 846-3805\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.049398"
+}

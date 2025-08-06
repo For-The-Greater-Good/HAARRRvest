@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Restoration Outreach Programs\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"ropserves.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1540 Boston St\", \"address_2\": null, \"city\": \"Aurora\", \"state_province\": \"CO\", \"postal_code\": \"80010\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.740971, \"longitude\": -104.87973}, \"phones\": [{\"number\": \"(720) 859-2513\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.447303"
+}

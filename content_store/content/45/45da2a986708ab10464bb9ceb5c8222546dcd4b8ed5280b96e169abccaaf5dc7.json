@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"From the Heart Outreach\", \"alternate_name\": \"\", \"description\": \"Bring ID and intake form\", \"email\": \"\", \"url\": \"https://www.lamisionera.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"10651 Anderson Road\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33624\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.045487, \"longitude\": -82.5409957}, \"phones\": [{\"number\": \"(813) 964-8500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:39.806088"
+}

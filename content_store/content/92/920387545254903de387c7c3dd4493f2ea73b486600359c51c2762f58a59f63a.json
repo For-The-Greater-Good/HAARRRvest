@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Emmaus SDA Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.emmaussda.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1144 Flatbush Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11226\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.642389, \"longitude\": -73.9578937}, \"phones\": [{\"number\": \"(718) 287-2121\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.983948"
+}

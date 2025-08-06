@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities Atlantic Family and Community Services Center\", \"alternate_name\": \"\", \"description\": \"By appointment only. Contact Adam Fishman, 609) 345-3448 extension 12.\\nMondays \\u2014Adult Clothing\\nWednesdays \\u2014Children\\u2019s Clothing & Household Items\", \"email\": \"\", \"url\": \"https://catholiccharitiessouthjersey.org/atlantic-county-2/\", \"status\": \"active\", \"address\": {\"address_1\": \"9 North Georgia Avenue\", \"address_2\": null, \"city\": \"Ducktown\", \"state_province\": \"NJ\", \"postal_code\": \"08401\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.35752919999999, \"longitude\": -74.440724}, \"phones\": [{\"number\": \"(609) 345-3448\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:55.414711"
+}

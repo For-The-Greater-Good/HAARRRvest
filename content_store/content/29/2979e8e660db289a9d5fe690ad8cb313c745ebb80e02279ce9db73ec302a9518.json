@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Freedom Family Foundation Inc\", \"alternate_name\": \"\", \"description\": \"Every week, Freedom Family Foundation gives food to members of the community. Food can be given monthly per household. In order to receive services, simply fill out the application form below and please ensure you bring ID at the time of pickup! https://www.freedomfamilyfoundation.com/contact-us\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"313 Clifton Street\", \"address_2\": null, \"city\": \"Greenville\", \"state_province\": \"NC\", \"postal_code\": \"27858\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.5908595, \"longitude\": -77.37502909999999}, \"phones\": [{\"number\": \"(252) 414-4059\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:32.584389"
+}

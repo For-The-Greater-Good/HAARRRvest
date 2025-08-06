@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Vincent de Paul Pantry - Holy Trinity Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"17 Clinton Place\", \"address_2\": null, \"city\": \"Hackensack\", \"state_province\": \"NJ\", \"postal_code\": \"07601\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8938423, \"longitude\": -74.0402362}, \"phones\": [{\"number\": \"(201) 343-5170\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:37.821423"
+}

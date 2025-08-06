@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lenora Park Gwinnett Mobile Pantry\", \"alternate_name\": \"\", \"description\": \"Food Distribution Dates \\nFebruary 11, 2025\\nMay 13, 2025\\nAugust 12, 2025\\nNovember 4, 2025\", \"email\": \"\", \"url\": \"https://www.gwinnettcounty.com/departments/communityservices/foodsecurityresources\", \"status\": \"active\", \"address\": {\"address_1\": \"4515 Lenora Church Road\", \"address_2\": null, \"city\": \"Snellville\", \"state_province\": \"GA\", \"postal_code\": \"30039\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7882013, \"longitude\": -84.00133129999999}, \"phones\": [{\"number\": \"(770) 822-7955\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:19.339657"
+}

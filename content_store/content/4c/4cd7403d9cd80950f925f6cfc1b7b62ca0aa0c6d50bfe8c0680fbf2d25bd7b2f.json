@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Jerusalem Baptist Church - Food Distribution Center\", \"alternate_name\": \"\", \"description\": \"Please call the organizations for their hours and availability of services\", \"email\": \"\", \"url\": \"https://www.newjerusalemmissionarybaptistchurchwsnc.org/njmb-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1212 North Dunleith Avenue\", \"address_2\": null, \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27101\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.1101206, \"longitude\": -80.2272993}, \"phones\": [{\"number\": \"(336) 723-9743\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:36.784299"
+}

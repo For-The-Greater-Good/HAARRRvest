@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Vineland Public Charter School\", \"alternate_name\": \"\", \"description\": \"Coordinator: Holly\\tCordova\\t8566911611\\t\\nStart: 07/15/2025 End: \\t07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1480 Pennsylvania Avenue\", \"address_2\": null, \"city\": \"Vineland\", \"state_province\": \"NJ\", \"postal_code\": \"08361\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4332431, \"longitude\": -75.0024459}, \"phones\": [{\"number\": \"(856) 691-1611\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:45\", \"closes_at\": \"15:55\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:45\", \"closes_at\": \"15:55\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:45\", \"closes_at\": \"15:55\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:09.877642"
+}

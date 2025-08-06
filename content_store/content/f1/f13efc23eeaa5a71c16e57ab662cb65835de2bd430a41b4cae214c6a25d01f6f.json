@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christian Caring Center\", \"alternate_name\": \"\", \"description\": \"Serves Burlington County. On Wednesday and Friday, deliver lunch to people who can not come to the center.\", \"email\": \"\", \"url\": \"https://www.christiancaringcenter.net/\", \"status\": \"active\", \"address\": {\"address_1\": \"378 Lakehurst Road\", \"address_2\": null, \"city\": \"Browns Mills\", \"state_province\": \"NJ\", \"postal_code\": \"08015\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9619345, \"longitude\": -74.5712034}, \"phones\": [{\"number\": \"(609) 893-0701\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"06:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"06:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"06:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"06:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"06:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.863980"
+}

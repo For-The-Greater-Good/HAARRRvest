@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Whippany\", \"alternate_name\": \"\", \"description\": \"We have a Food Pantry, open to anyone with need. Please call the church office and leave a message: 973-887-2197, and a Deacon will call you back to make an appointment. \", \"email\": \"\", \"url\": \"https://whippanychurch.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"494 New Jersey 10\", \"address_2\": \"\", \"city\": \"Whippany\", \"state_province\": \"NJ\", \"postal_code\": \"07981\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8221934, \"longitude\": -74.4112955}, \"phones\": [{\"number\": \"(973) 887-2197\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.290525"
+}

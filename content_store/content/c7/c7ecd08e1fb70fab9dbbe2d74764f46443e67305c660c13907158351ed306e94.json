@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Urban Promise Millville\", \"alternate_name\": \"\", \"description\": \"Krista\\tSmith\\t8564558030\\tStarts: 06/30/2025\\t08/07/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"221 East Broad Street\", \"address_2\": null, \"city\": \"Millville\", \"state_province\": \"NJ\", \"postal_code\": \"08332\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.401826, \"longitude\": -75.03636600000002}, \"phones\": [{\"number\": \"(609) 501-9076\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"04:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"04:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"04:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:12.910898"
+}

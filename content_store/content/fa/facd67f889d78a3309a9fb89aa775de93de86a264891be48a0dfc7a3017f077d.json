@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SPAN\", \"alternate_name\": \"\", \"description\": \"SPAN\\u2019s primary service areas include: Severna Park, Millersville, Arnold and Broadneck.\", \"email\": \"\", \"url\": \"https://www.spanhelps.org/food_drive\", \"status\": \"active\", \"address\": {\"address_1\": \"400 Benfield Road\", \"address_2\": null, \"city\": \"Severna Park\", \"state_province\": \"MD\", \"postal_code\": \"21146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.078641, \"longitude\": -76.5703676}, \"phones\": [{\"number\": \"(410) 647-0889\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.151778"
+}

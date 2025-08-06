@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"African Services Committee\", \"alternate_name\": \"\", \"description\": \"Get referral from We Are Not Afraid Community Center at St. Mary's Episcopal Church\\n\\nEnterance is 423 West\", \"email\": \"\", \"url\": \"http://www.africanservices.org/about-us/contact-asc\", \"status\": \"active\", \"address\": {\"address_1\": \"429 West 127th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10027\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.813453, \"longitude\": -73.9544556}, \"phones\": [{\"number\": \"(212) 222-3882\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:22.652443"
+}

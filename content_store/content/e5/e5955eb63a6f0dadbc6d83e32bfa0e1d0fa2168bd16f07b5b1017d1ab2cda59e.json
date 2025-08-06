@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Albans Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.sabcny.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"196-20 119th Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11412\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.690698, \"longitude\": -73.753923}, \"phones\": [{\"number\": \"(917) 916-8434\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.257836"
+}

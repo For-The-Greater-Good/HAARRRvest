@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Mews Pantry\", \"alternate_name\": \"\", \"description\": \"- Serves ocean and Manmoth countys\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"2 Liron Lane\", \"address_2\": null, \"city\": \"Farmingdale\", \"state_province\": \"New Jersey\", \"postal_code\": \"07727\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2243176, \"longitude\": -74.1330987}, \"phones\": [{\"number\": \"(732) 919-6227\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.707858"
+}

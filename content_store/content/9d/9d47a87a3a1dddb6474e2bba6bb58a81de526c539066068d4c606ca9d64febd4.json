@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Antioch Baptist Church of Clinton\", \"alternate_name\": \"\", \"description\": \"* Serves Montomery or PG County residents\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9107 Pine View Lane\", \"address_2\": null, \"city\": \"Clinton\", \"state_province\": \"MD\", \"postal_code\": \"20735\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.764499, \"longitude\": -76.889513}, \"phones\": [{\"number\": \"(716) 228-1777\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"1 bag per family/person\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.422779"
+}

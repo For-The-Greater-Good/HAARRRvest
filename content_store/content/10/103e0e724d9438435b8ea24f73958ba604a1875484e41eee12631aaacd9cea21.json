@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Perkins Square Baptist Church, Food Pantry and Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://sites.google.com/view/perkinssquare/home\", \"status\": \"active\", \"address\": {\"address_1\": \"2500 Edmondson Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.28026, \"longitude\": -76.65054}, \"phones\": [{\"number\": \"(410) 945-0445\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Observances and Religious Holy Days\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:29.254298"
+}

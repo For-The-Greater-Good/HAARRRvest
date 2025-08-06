@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CYO's Bromley Neighborhood Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.cyobromley.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1801 E State St\", \"address_2\": \"\", \"city\": \"Hamilton\", \"state_province\": \"NJ\", \"postal_code\": \"08609\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2258, \"longitude\": -74.74308}, \"phones\": [{\"number\": \"(609) 587-8100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Hamilton Township residents only\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:18.415682"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Laurens House\", \"alternate_name\": \"\", \"description\": \"Contact: Rosalie\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1330 Laurens Street\", \"address_2\": null, \"city\": \"Sandtown-Winchester\", \"state_province\": \"MD\", \"postal_code\": \"21217\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3035533, \"longitude\": -76.6399335}, \"phones\": [{\"number\": \"(410) 728-5551\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"22:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.932925"
+}

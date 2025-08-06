@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Department of Probation, Staten Island\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www1.nyc.gov/site/probation/index.page\", \"status\": \"active\", \"address\": {\"address_1\": \"340 Bay St\", \"address_2\": null, \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10301\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6339765, \"longitude\": -74.0754038}, \"phones\": [{\"number\": \"(718) 273-2167\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Priority given to seniors & disabled persons\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.014887"
+}

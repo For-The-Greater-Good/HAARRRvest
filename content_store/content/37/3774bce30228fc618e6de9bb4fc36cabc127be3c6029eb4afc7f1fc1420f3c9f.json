@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" St. Philip Neri Roman Catholic Congregation\", \"alternate_name\": \"\", \"description\": \"* Call **443-312-9919** to make a reservation **before the third Thursday of the month**.\\n* Only open to **Anne Arundel county** residents. Must bring ID and proof of address.\", \"email\": \"\", \"url\": \"https://saintphilipnerichurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"6405 South Orchard Road\", \"address_2\": null, \"city\": \"Linthicum Heights\", \"state_province\": \"MD\", \"postal_code\": \"21090\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2020742, \"longitude\": -76.6449714}, \"phones\": [{\"number\": \"(443) 312-9919\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.733742"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church Of New Hope And Faith\", \"alternate_name\": \"\", \"description\": \"serves 19104 zipcode only.\\nReferral number \\\" 8005486479\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"661 North 39th Street\", \"address_2\": null, \"city\": \"Mantua\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.96502359999999, \"longitude\": -75.1997013}, \"phones\": [{\"number\": \"(215) 222-7672\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.660154"
+}

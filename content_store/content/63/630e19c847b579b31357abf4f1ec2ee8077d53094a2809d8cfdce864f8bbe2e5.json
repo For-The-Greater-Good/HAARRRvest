@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Neighborhood Center\", \"alternate_name\": \"\", \"description\": \"Requires to call for hours. Serves Camden County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"278 Kaighn Avenue\", \"address_2\": null, \"city\": \"Central Waterfront\", \"state_province\": \"NJ\", \"postal_code\": \"08103\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9301572, \"longitude\": -75.1245738}, \"phones\": [{\"number\": \"(856) 365-5295\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.558191"
+}

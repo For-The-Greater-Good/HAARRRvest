@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Butler Church of the Nazarene\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.bconlove.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"188-190 Kiel Ave.\", \"address_2\": null, \"city\": \"Butler\", \"state_province\": \"NJ\", \"postal_code\": \"07405\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.002303, \"longitude\": -74.355285}, \"phones\": [{\"number\": \"(973) 838-1027\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Accepts Walk-ins & Appointments\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.425760"
+}

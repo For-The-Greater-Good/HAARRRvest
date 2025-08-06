@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Church of Jesus Christ\", \"alternate_name\": \"\", \"description\": \"Clients can wait inside the church for the food to be given out. Not required that clients give contact information. Clients must bring their own bags. \", \"email\": \"\", \"url\": \"https://unitedchurchbx.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3936 Bronxwood Avenue\", \"address_2\": null, \"city\": \"East Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10466\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8849486, \"longitude\": -73.85490879999999}, \"phones\": [{\"number\": \"(718) 881-4479\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.237787"
+}

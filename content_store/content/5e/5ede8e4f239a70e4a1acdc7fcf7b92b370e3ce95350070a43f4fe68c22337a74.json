@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Amazing Grace Lutheran Church\", \"alternate_name\": \"\", \"description\": \"SOUP KITCHEN: Bread for the Journey Community Meal provides lunches on Tuesdays at 12Noon-1:30PM. Open to Baltimore City residents only. FRESH FOOD: Offers produce boxes every Thu, 6:30AM- 7AM. Walk in for assistance or RSVP on the website. https://www.amazinggracelutheran.org/event-details-registration/produce-box-giveaway-2024-04-18-06-30 FOOD PANTRIES: Fridays from 10AM- 12Noon, walk in or RSVP online at, https://www.amazinggracelutheran.org/event-details-registration/food-supplies-pantry-2024-04-19-10-00\", \"email\": \"\", \"url\": \"https://www.amazinggracelutheran.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2424 McElderry Street\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21205\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.29777, \"longitude\": -76.58293}, \"phones\": [{\"number\": \"(410) 276-5674\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"10:30\", \"closes_at\": \"11:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.418572"
+}

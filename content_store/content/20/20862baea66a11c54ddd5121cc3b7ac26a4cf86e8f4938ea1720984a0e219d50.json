@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Oxford Village Food Cupboard\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6150 Algon Avenue\", \"address_2\": null, \"city\": \"Northeast Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19111\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0407876, \"longitude\": -75.0885217}, \"phones\": [{\"number\": \"(215) 684-5997\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.814256"
+}

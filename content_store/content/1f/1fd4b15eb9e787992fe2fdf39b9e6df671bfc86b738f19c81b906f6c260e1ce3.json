@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Messengers of Hope - Gulf Highlands\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7831 Gulf Highlands Drive\", \"address_2\": null, \"city\": \"Gulf Highlands\", \"state_province\": \"FL\", \"postal_code\": \"34668\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.3260999, \"longitude\": -82.68483789999999}, \"phones\": [{\"number\": \"(813) 404-2300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:24.659927"
+}

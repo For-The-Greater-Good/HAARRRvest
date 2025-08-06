@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mark the Evangelist\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9724 Cross Creek Boulevard\", \"address_2\": null, \"city\": \"County Line Coalition\", \"state_province\": \"FL\", \"postal_code\": \"33647\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.1445105, \"longitude\": -82.3356469}, \"phones\": [{\"number\": \"(813) 907-7746\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Drive-up Food Pantry\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:43.237341"
+}

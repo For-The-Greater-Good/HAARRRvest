@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Keyport Central School\", \"alternate_name\": \"\", \"description\": \"Anthony\\tRapolla\\t7326435843\\tstarts: 06/30/2025\\t07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"335 Broad Street\", \"address_2\": null, \"city\": \"Keyport\", \"state_province\": \"NJ\", \"postal_code\": \"07735\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.43012179999999, \"longitude\": -74.1973101}, \"phones\": [{\"number\": \"(609) 457-4000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:12.979798"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"COMMUNITY FOOD CENTER \\u2013 STONE MOUNTAIN\", \"alternate_name\": \"\", \"description\": \"To make an appointment to get food:  Text FOOD to 678-884-4564 or call 478-394-4547.\", \"email\": \"\", \"url\": \"https://www.acfb.org/community-food-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"1979 Parker Court\", \"address_2\": null, \"city\": \"Stone Mountain\", \"state_province\": \"GA\", \"postal_code\": \"30087\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8265496, \"longitude\": -84.1068282}, \"phones\": [{\"number\": \"(478) 394-4547\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.945613"
+}

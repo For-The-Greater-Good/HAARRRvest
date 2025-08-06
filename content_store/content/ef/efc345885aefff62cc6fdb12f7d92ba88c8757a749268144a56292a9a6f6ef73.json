@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bread for the City-Northwest Food Pantry\", \"alternate_name\": \"\", \"description\": \"Fresh produce & meat available at every visit. Delivery available on a case by case basis; please call to inquire. Medical care is also available by appointment, including dental and vision.\\nThey have their farmers market open on alternating fridays and will be open on the 16th of May and alternate from there on\", \"email\": \"\", \"url\": \"https://breadforthecity.org/food/\", \"status\": \"active\", \"address\": {\"address_1\": \"1525 7th Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20001\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.910317, \"longitude\": -77.0215888}, \"phones\": [{\"number\": \"(202) 265-2400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Client choice pantry\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.324371"
+}

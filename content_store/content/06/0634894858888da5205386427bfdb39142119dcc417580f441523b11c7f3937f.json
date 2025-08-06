@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Confident Care Corp\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3 University Plaza Drive\", \"address_2\": null, \"city\": \"Hackensack\", \"state_province\": \"NJ\", \"postal_code\": \"07601\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8958331, \"longitude\": -74.03432699999999}, \"phones\": [{\"number\": \"(201) 498-9400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.703088"
+}

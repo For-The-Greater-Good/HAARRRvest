@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Willow Grove Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.willowgrovebaptist.org/pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"3600 Welsh Road\", \"address_2\": null, \"city\": \"Willow Grove\", \"state_province\": \"PA\", \"postal_code\": \"19090\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.151169, \"longitude\": -75.13557899999999}, \"phones\": [{\"number\": \"(215) 659-4505\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.381655"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Potters Pantry at Cedar Creek Community Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.cedarcreekcommunity.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"370 Nixon Ave.\", \"address_2\": null, \"city\": \"Bayville\", \"state_province\": \"New Jersey\", \"postal_code\": \"08721\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.897159, \"longitude\": -74.186406}, \"phones\": [{\"number\": \"(609) 709-1241\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.947270"
+}

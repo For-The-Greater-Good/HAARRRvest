@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mount Pisgah AME Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"354 Forrest Street\", \"address_2\": null, \"city\": \"Bergen-Lafayette\", \"state_province\": \"NJ\", \"postal_code\": \"07304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7140537, \"longitude\": -74.0785243}, \"phones\": [{\"number\": \"(201) 435-3680\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:18.687308"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Monmouth Worship Ctr. Pantry\", \"alternate_name\": \"\", \"description\": \"-  You are advised to call first before going to make sure they are open.\\n-  Advised to go to the back door upon arrival and knock to let them know you are there.\\n-  For ONLY EMERGENCY situations, call on any day to be given food.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"37 Vanderburg Road\", \"address_2\": null, \"city\": \"Marlboro\", \"state_province\": \"New Jersey\", \"postal_code\": \"07746\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3148087, \"longitude\": -74.2392346}, \"phones\": [{\"number\": \"(732) 332-9600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"04:00\", \"closes_at\": \"06:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Adult diapers available\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Female hygiene products\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.826315"
+}

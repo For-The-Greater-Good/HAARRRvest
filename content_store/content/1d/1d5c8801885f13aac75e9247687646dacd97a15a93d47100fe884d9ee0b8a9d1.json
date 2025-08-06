@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Madison Avenue Crossroads Community\", \"alternate_name\": \"\", \"description\": \"CLOSED: First Week of Each Month but OPEN for emergencies\\n\", \"email\": \"\", \"url\": \"https://madisonavecrossroads.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"498 Madison Avenue\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07514\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9237922, \"longitude\": -74.1524135}, \"phones\": [{\"number\": \"(973) 278-5627\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.391117"
+}

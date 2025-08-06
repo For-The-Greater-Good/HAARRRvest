@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SOUTH RIVER FOOD BANK\", \"alternate_name\": \"\", \"description\": \"Must be South River resident\", \"email\": \"\", \"url\": \"https://www.southrivernj.org/316/Food-Bank\", \"status\": \"active\", \"address\": {\"address_1\": \"98 Jackson Street\", \"address_2\": null, \"city\": \"South River\", \"state_province\": \"NJ\", \"postal_code\": \"08882\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4476574, \"longitude\": -74.38104609999999}, \"phones\": [{\"number\": \"(732) 238-3020\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:37.065361"
+}

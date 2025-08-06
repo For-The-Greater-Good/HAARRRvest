@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Atlantic City High School\", \"alternate_name\": \"\", \"description\": \"Start date\\t7/6/2025\\nEnd date\\t7/30/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1400 North Albany Avenue\", \"address_2\": null, \"city\": \"Atlantic City\", \"state_province\": \"NJ\", \"postal_code\": \"08401\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3646798, \"longitude\": -74.4757569}, \"phones\": [{\"number\": \"(609) 343-7200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:30\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:45\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:45\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:45\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:45\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:14.363850"
+}

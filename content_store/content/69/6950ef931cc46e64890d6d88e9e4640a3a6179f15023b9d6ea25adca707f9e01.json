@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Shalom Mission (Lacey United Meth.)\", \"alternate_name\": \"\", \"description\": \"Located behind the Joy of Angels Thrift Shoppe in Garage\\nLow cost thrift store available\", \"email\": \"\", \"url\": \"https://www.laceyumc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"203 W. Lacey Road\", \"address_2\": null, \"city\": \"Forked River\", \"state_province\": \"New Jersey\", \"postal_code\": \"08731\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8444413, \"longitude\": -74.1943911}, \"phones\": [{\"number\": \"(609) 693-5222\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.770939"
+}

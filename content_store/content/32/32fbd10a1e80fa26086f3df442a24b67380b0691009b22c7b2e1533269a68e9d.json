@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jones Chapel A.M.E Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"317 West Railroad Street\", \"address_2\": null, \"city\": \"Sylvester\", \"state_province\": \"GA\", \"postal_code\": \"31791\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.527114, \"longitude\": -83.8418468}, \"phones\": [{\"number\": \"(229) 776-2600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:35.036478"
+}

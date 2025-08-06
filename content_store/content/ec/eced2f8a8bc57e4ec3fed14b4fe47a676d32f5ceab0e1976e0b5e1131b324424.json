@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Shalom Senior Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://chcentral.org/shalom-senior-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"483 Albany Avenue\", \"address_2\": null, \"city\": \"Little Caribbean\", \"state_province\": \"NY\", \"postal_code\": \"11203\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6634051, \"longitude\": -73.9396896}, \"phones\": [{\"number\": \"(718) 774-9213\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:25.511419"
+}

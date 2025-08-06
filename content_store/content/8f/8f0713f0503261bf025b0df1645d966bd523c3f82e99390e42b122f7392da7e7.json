@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Mary's Roman Catholic Church\", \"alternate_name\": \"\", \"description\": \"Social Service Referral needed initially\\nAppointment needed\\nLimited to 1 time every 3 months\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"25 Oak Street\", \"address_2\": null, \"city\": \"Salem\", \"state_province\": \"NJ\", \"postal_code\": \"08079\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5709467, \"longitude\": -75.4714992}, \"phones\": [{\"number\": \"(856) 299-1296\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.781013"
+}

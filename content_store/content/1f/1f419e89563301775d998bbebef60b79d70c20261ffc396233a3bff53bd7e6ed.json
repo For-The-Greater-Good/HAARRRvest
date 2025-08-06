@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Luke's Pantry - St Luke's Episcopal Church\", \"alternate_name\": \"\", \"description\": \"Serves Warren County.\", \"email\": \"\", \"url\": \"http://www.stlukesnj.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"500 Hillcrest Boulevard\", \"address_2\": null, \"city\": \"Phillipsburg\", \"state_province\": \"NJ\", \"postal_code\": \"08865\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6982437, \"longitude\": -75.1886139}, \"phones\": [{\"number\": \"(908) 859-1479\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Accepts food items that have not expired and  non-perishable\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Form needs to be filled out with household size \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.984685"
+}

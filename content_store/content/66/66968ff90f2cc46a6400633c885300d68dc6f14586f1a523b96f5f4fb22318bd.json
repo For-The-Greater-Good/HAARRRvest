@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Belton Creek Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"4153 State Highway 96\", \"address_2\": null, \"city\": \"Oxford\", \"state_province\": \"NC\", \"postal_code\": \"27565\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.2425758, \"longitude\": -78.5875339}, \"phones\": [{\"number\": \"(912) 693-1727\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Curbside Pick-up only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:38.767671"
+}

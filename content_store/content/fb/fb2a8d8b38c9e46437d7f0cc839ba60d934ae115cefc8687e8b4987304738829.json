@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Helping Hands Food Pantry\", \"alternate_name\": \"\", \"description\": \"Call (410) 592-2226 to make an appointment so the volunteers can prepare the food box/groceries ahead of time.\", \"email\": \"\", \"url\": \"https://www.salemunited.org/helping-hands-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"7901 Bradshaw Road\", \"address_2\": \"P.O. Box 192\", \"city\": \"Upper Falls\", \"state_province\": \"MD\", \"postal_code\": \"21156\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.435494, \"longitude\": -76.40127919999999}, \"phones\": [{\"number\": \"(410) 592-2226\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:53.583761"
+}

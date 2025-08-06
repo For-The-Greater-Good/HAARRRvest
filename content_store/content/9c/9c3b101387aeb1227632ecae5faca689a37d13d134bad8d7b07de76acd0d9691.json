@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ABCD Mattapan  Family Service Center\", \"alternate_name\": \"\", \"description\": \"- Heating assistance\\n- Summer walks.\\n- \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"535 River Street\", \"address_2\": null, \"city\": \"Southern Mattapan\", \"state_province\": \"MA\", \"postal_code\": \"02126\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2672192, \"longitude\": -71.0955553}, \"phones\": [{\"number\": \"(617) 298-2045\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.141710"
+}

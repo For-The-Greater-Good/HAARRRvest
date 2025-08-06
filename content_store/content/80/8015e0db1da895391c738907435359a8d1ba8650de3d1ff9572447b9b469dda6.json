@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Food Bank Network of Somerset County - Main Pantry\", \"alternate_name\": \"\", \"description\": \"Somerset County residents only. **We do not serve residents of Franklin Park and Somerset since they have their own foodbank.**\", \"email\": \"\", \"url\": \"https://www.somersetfoodbank.org/need-help/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"7E Easy Street\", \"address_2\": null, \"city\": \"Martinsville\", \"state_province\": \"NJ\", \"postal_code\": \"08805\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5716395, \"longitude\": -74.5578063}, \"phones\": [{\"number\": \"(732) 560-1813\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.123622"
+}

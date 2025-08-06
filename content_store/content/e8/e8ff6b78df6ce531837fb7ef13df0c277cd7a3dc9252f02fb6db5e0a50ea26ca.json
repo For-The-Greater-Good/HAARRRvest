@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New York City Love Kitchen - Pop -Up Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.nyclovekitchen.com\", \"status\": \"active\", \"address\": {\"address_1\": \"3540 Broadway\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10031\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8261096, \"longitude\": -73.95026519999999}, \"phones\": [{\"number\": \"(470) 838-9292\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:21.375547"
+}

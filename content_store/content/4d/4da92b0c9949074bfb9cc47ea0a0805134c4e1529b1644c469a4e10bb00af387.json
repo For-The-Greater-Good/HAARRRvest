@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sacred Heart Food Bank\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"680 Elm Avenue\", \"address_2\": null, \"city\": \"Gervais\", \"state_province\": \"OR\", \"postal_code\": \"97026\", \"country\": \"US\"}, \"location\": {\"latitude\": 45.1093591, \"longitude\": -122.9006453}, \"phones\": [{\"number\": \"(503) 792-4231\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:28.472052"
+}

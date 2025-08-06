@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Covenant Christian Center\", \"alternate_name\": \"\", \"description\": \"Anyone needing resources at this location is requested to call ahead at (586)463-1987\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"91 Welts Street\", \"address_2\": null, \"city\": \"Canfield Manor\", \"state_province\": \"MI\", \"postal_code\": \"48043\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6045147, \"longitude\": -82.8767647}, \"phones\": [{\"number\": \"(586) 463-1987\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:25.126883"
+}

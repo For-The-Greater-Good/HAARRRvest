@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Epworth United Methodist Chapel, Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://epworthchapel.org/contact-us/\", \"status\": \"active\", \"address\": {\"address_1\": \"3317 St. Luke's Lane\", \"address_2\": null, \"city\": \"Gwynn Oak\", \"state_province\": \"MD\", \"postal_code\": \"21207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.34229, \"longitude\": -76.72772}, \"phones\": [{\"number\": \"(410) 944-1070\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Line starts at 10am in the morning\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"To-go bags\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:29.181672"
+}

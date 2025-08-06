@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Browns Memorial Baptist Church\", \"alternate_name\": \"\", \"description\": \"Contact: Barbara Cole\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3215 West Belvedere Avenue\", \"address_2\": null, \"city\": \"Central Park Heights\", \"state_province\": \"MD\", \"postal_code\": \"21215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3483699, \"longitude\": -76.676328}, \"phones\": [{\"number\": \"(410) 542-5701\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:52.701278"
+}

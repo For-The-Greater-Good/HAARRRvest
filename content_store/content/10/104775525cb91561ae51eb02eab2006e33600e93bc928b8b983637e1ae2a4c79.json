@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Reformation Food Pantry\", \"alternate_name\": \"\", \"description\": \"-clothing closet open on the  1st and 3rd saturday from 8am-9:30am.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"992 Broadway\", \"address_2\": null, \"city\": \"West Long Branch\", \"state_province\": \"New Jersey\", \"postal_code\": \"07764\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2986176, \"longitude\": -74.016838}, \"phones\": [{\"number\": \"(732) 229-9180\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:03.789502"
+}

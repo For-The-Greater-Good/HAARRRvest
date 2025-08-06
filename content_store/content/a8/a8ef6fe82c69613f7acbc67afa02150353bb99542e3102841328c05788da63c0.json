@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Canaan Family Life Center Food and Clothes Program\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"304 West School House Lane\", \"address_2\": null, \"city\": \"Northwest Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19144\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0286851, \"longitude\": -75.1781817}, \"phones\": [{\"number\": \"(215) 848-2290\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:15.702708"
+}

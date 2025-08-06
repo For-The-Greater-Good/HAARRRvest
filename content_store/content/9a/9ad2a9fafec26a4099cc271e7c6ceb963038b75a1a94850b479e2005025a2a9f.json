@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Turners Station Conservation Teams, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"323 Sollers Point Road \", \"address_2\": \"Sollers Point Multipurpose Center\", \"city\": \"Dundalk\", \"state_province\": \"MD\", \"postal_code\": \"21222\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2435987, \"longitude\": -76.5085821}, \"phones\": [{\"number\": \"(410) 302-2903\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.926672"
+}

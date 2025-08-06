@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Loaves and Fishes Food Pantry @ Boonton United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.lfcfp.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"513 Birch Street\", \"address_2\": null, \"city\": \"Bontoon\", \"state_province\": \"NJ\", \"postal_code\": \"07005\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9065452, \"longitude\": -74.4097862}, \"phones\": [{\"number\": \"(973) 919-3470\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must show a New Jersey photo ID\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.333301"
+}

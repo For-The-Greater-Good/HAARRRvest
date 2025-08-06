@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Columbia Food Pantry, The Medical Center\", \"alternate_name\": \"\", \"description\": \"Pantry is open to the public.\", \"email\": \"\", \"url\": \"https://thefoodpantry.studentgroups.columbia.edu\", \"status\": \"active\", \"address\": {\"address_1\": \"616 West 114th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10025\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.80694159999999, \"longitude\": -73.9658462}, \"phones\": [{\"number\": \"(212) 854-1492\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:23.181059"
+}

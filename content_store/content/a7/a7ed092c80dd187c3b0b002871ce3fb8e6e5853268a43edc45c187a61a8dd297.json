@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christ Church Rockaway\", \"alternate_name\": \"\", \"description\": \"Schedule an appointment HERE to receive nonperishable food items: https://portal.carecenternj.org/page/207?returnurl=%252fpage%252f793\", \"email\": \"\", \"url\": \"https://carecenterofnewjersey.org/foodforhope\", \"status\": \"active\", \"address\": {\"address_1\": \"140 Green Pond Road\", \"address_2\": null, \"city\": \"Rockaway Township\", \"state_province\": \"NJ\", \"postal_code\": \"07866\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9281315, \"longitude\": -74.4846408}, \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:18.485998"
+}

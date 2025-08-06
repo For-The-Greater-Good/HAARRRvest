@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wesley United Methodist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.wesleystpete.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"301 37th Avenue North\", \"address_2\": null, \"city\": \"North East Park\", \"state_province\": \"FL\", \"postal_code\": \"33704\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8060966, \"longitude\": -82.637498}, \"phones\": [{\"number\": \"(727) 896-4797\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.248285"
+}

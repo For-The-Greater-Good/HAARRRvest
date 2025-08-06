@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Disciples' Pantry\", \"alternate_name\": \"\", \"description\": \"Salem County Residents may come 2 times a month for food from the pantry.\\n\", \"email\": \"\", \"url\": \"https://disciplespantry.wordpress.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"149 S Main St\", \"address_2\": \"\", \"city\": \"Woodstown\", \"state_province\": \"NJ\", \"postal_code\": \"08098\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.64765, \"longitude\": -75.32731}, \"phones\": [{\"number\": \"(609) 202-4803\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:09.577014"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The West Philly Bunnyhop\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.bunnyhopphl.com\", \"status\": \"active\", \"address\": {\"address_1\": \"6250 Baltimore Avenue\", \"address_2\": null, \"city\": \"West Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19143\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9435374, \"longitude\": -75.2466355}, \"phones\": [{\"number\": \"(484) 238-0437\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.739802"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Asbury United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"87 West Street\", \"address_2\": null, \"city\": \"Annapolis\", \"state_province\": \"MD\", \"postal_code\": \"21401\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9778512, \"longitude\": -76.4965957}, \"phones\": [{\"number\": \"(410) 268-9500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.851668"
+}

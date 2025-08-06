@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hereford High School Summer Meal Program\", \"alternate_name\": \"\", \"description\": \"From June 23rd till August 15th \", \"email\": \"\", \"url\": \"https://www.bcps.org/foodandnutrition/\", \"status\": \"active\", \"address\": {\"address_1\": \"17301 York Road\", \"address_2\": null, \"city\": \"Parkton\", \"state_province\": \"MD\", \"postal_code\": \"21120\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6222824, \"longitude\": -76.6571987}, \"phones\": [{\"number\": \"(443) 809-7855\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:14.839062"
+}

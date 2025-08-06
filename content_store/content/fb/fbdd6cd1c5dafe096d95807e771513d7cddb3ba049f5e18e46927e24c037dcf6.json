@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Salvation Army - Solomon G Brown\", \"alternate_name\": \"\", \"description\": \"* Serves residents of DC Wards 7 and 8\\n\", \"email\": \"\", \"url\": \"https://salvationarmynca.org/nca/gethelp\", \"status\": \"active\", \"address\": {\"address_1\": \"2300 Martin Luther King Ave SE\", \"address_2\": null, \"city\": \"Washington\", \"state_province\": \"DC\", \"postal_code\": \"20020\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.863003, \"longitude\": -76.991283}, \"phones\": [{\"number\": \"(202) 678-9773\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:02.394070"
+}

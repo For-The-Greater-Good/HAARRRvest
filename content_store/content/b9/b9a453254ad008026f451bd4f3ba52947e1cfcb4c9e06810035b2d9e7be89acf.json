@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"So Others Might Eat (SOME)\", \"alternate_name\": \"\", \"description\": \"DINING ROOM IS UNDER CONSTRUCTION. MEAL SERVICES ARE TEMPORARILY RELOCATED TO 75 HANOVER PL. NW. Washington DC\", \"email\": \"\", \"url\": \"http://some.org/services/dining-clothing-and-shower-rooms/\", \"status\": \"active\", \"address\": {\"address_1\": \"75 Hanover Place Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20001\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9080924, \"longitude\": -77.0113287}, \"phones\": [{\"number\": \"(202) 797-8806\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.821307"
+}

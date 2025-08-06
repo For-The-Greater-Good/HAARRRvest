@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"H.O.P.E Family Resource Center\", \"alternate_name\": \"\", \"description\": \"Located in Mickey Market Place Suite 120\", \"email\": \"\", \"url\": \"https://hopefamilyresourcecenter.org/events-page\", \"status\": \"active\", \"address\": {\"address_1\": \"6108 Mableton Parkway\", \"address_2\": null, \"city\": \"Mableton\", \"state_province\": \"GA\", \"postal_code\": \"30126\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8051881, \"longitude\": -84.56974149999999}, \"phones\": [{\"number\": \"(678) 310-0525\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:25.715733"
+}

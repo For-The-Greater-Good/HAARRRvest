@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHCF/ Iglesia de Dios de La Profecia Pantry\", \"alternate_name\": \"\", \"description\": \"* The church opens its doors early at 8:05am to register walk-ins.\\n* Only one bag of groceries and produce per recipient. Unless they have proof of working as a home attendant, and provide the patient's ID, then they are provided an additional bag of groceries with produce.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"387 South 1st street\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11211\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.710381, \"longitude\": -73.951637}, \"phones\": [{\"number\": \"(212) 206-1090\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:23.406827"
+}

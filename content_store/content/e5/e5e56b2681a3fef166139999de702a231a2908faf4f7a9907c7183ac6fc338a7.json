@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Unity Faith Outreach\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.homelessshelterdirectory.org/cgi-bin/id/foodbank.cgi?foodbank=4140\", \"status\": \"active\", \"address\": {\"address_1\": \"179 Ralph Ave\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11233\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6825166, \"longitude\": -73.922411}, \"phones\": [{\"number\": \"(718) 443-4194\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:24.959871"
+}

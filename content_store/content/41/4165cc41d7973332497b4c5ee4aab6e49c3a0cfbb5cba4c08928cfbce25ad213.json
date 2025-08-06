@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Operation Attack (At Lakewood Presbyterian Church)\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://www.operationattack.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1310 22nd Avenue South\", \"address_2\": null, \"city\": \"Lake Maggiore Shore\", \"state_province\": \"FL\", \"postal_code\": \"33705\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7480708, \"longitude\": -82.652773}, \"phones\": [{\"number\": \"(727) 822-1187\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.291414"
+}

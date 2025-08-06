@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"S.D.A. Church of the Oranges\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://cotosda.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"308 Reynolds Terrace\", \"address_2\": null, \"city\": \"City of Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07050\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.76447, \"longitude\": -74.23638540000002}, \"phones\": [{\"number\": \"(973) 678-1951\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:16.120830"
+}

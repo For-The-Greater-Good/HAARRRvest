@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Paul A.M.E. Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://stpaulamephilly.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"8398 Lindbergh Blvd\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19153\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.89766768593326, \"longitude\": -75.25162369413856}, \"phones\": [{\"number\": \"(267) 593-9831\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:17.261118"
+}

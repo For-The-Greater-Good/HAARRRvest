@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Weymouth Food Pantry \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"25 Columbian Street\", \"address_2\": null, \"city\": \"Weymouth\", \"state_province\": \"MA\", \"postal_code\": \"02190\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1754443, \"longitude\": -70.9512032}, \"phones\": [{\"number\": \"(781) 331-7682\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.727852"
+}

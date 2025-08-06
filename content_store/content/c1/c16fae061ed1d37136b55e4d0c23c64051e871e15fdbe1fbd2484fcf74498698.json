@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Adventist Community Services Food Pantry  \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9 Gerry Street\", \"address_2\": null, \"city\": \"Stoneham\", \"state_province\": \"MA\", \"postal_code\": \"02180\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4752986, \"longitude\": -71.0998106}, \"phones\": [{\"number\": \"(781) 438-1374\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:20.587886"
+}

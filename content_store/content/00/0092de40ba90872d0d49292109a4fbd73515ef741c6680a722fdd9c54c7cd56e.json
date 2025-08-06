@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Reformed Church\", \"alternate_name\": \"\", \"description\": \"Serves Essex County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"510 Broad Street\", \"address_2\": null, \"city\": \"Central Ward\", \"state_province\": \"NJ\", \"postal_code\": \"07102\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7441783, \"longitude\": -74.1690836}, \"phones\": [{\"number\": \"(973) 623-3198\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.954107"
+}

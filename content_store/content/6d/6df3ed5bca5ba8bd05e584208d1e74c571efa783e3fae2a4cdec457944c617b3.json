@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Feed the Need\", \"alternate_name\": \"\", \"description\": \"Methodist Church - you have to ring the bell in order to get it\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"678 5th Street\", \"address_2\": null, \"city\": \"Lakewood\", \"state_province\": \"NJ\", \"postal_code\": \"08701\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.09378837315743, \"longitude\": -74.22363185426148}, \"phones\": [{\"number\": \"(732) 363-8885\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Ring the bell\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:56.456645"
+}

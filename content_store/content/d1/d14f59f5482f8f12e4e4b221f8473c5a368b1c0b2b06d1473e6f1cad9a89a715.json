@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Mt. Carmel.\", \"alternate_name\": \"\", \"description\": \"Once a month.\\nYou'll receive a bag of groceries (non-perishables) & $20.00 Aldi gift card.\", \"email\": \"\", \"url\": \"https://www.olmcmd.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1704 Old Eastern Avenue\", \"address_2\": null, \"city\": \"Essex\", \"state_province\": \"MD\", \"postal_code\": \"21221\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3209611, \"longitude\": -76.4486112}, \"phones\": [{\"number\": \"(410) 686-4972\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Limited food pantry. Offers canned and non perishable goods \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:54.967632"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Emma's Place Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1651 Phoenix Boulevard\", \"address_2\": null, \"city\": \"College Park\", \"state_province\": \"GA\", \"postal_code\": \"30349\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6155055, \"longitude\": -84.4435633}, \"phones\": [{\"number\": \"(770) 996-7210\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.610614"
+}

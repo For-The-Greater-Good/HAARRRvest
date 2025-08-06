@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Franklin Wright Settlements\", \"alternate_name\": \"\", \"description\": \"Emergency food available\", \"email\": \"\", \"url\": \"http://www.franklinwright.org/events\", \"status\": \"active\", \"address\": {\"address_1\": \"3360 Charlevoix Street\", \"address_2\": \"\", \"city\": \"McDougall-Hunt\", \"state_province\": \"MI\", \"postal_code\": \"48207\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3550932, \"longitude\": -83.0233554}, \"phones\": [{\"number\": \"(313) 579-1000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:30.166196"
+}

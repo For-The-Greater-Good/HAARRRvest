@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dorchester House Multi-Service Center\", \"alternate_name\": \"\", \"description\": \"For general public residents of Dorchester & Mattapan as well as patients of DotHouse Health.\", \"email\": \"\", \"url\": \"http://www.dorchesterhouse.org/services/food_pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"1353 Dorchester Avenue\", \"address_2\": null, \"city\": \"Dorchester\", \"state_province\": \"MA\", \"postal_code\": \"02122\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3044999, \"longitude\": -71.05938739999999}, \"phones\": [{\"number\": \"(617) 288-3230\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:27.140569"
+}

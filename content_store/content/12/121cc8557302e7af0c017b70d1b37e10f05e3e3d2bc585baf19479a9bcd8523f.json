@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of the Village/UMC\", \"alternate_name\": \"\", \"description\": \"Present appointment confirmation text from Plentiful when claiming food\", \"email\": \"\", \"url\": \"www.thereddoorplace.org\", \"status\": \"active\", \"address\": {\"address_1\": \"201 West 13th Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10011\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7381373, \"longitude\": -74.0003114}, \"phones\": [{\"number\": \"(347) 497-9718\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:09.870990"
+}

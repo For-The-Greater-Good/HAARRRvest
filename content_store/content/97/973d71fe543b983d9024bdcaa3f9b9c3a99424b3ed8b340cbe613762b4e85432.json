@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Emmanuel Baptist Church \", \"alternate_name\": \"\", \"description\": \"Resident of Norfolk only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"63 Rockwood Road\", \"address_2\": null, \"city\": \"Norfolk\", \"state_province\": \"MA\", \"postal_code\": \"02056\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1257733, \"longitude\": -71.33099279999999}, \"phones\": [{\"number\": \"(508) 528-5862\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:05.817270"
+}

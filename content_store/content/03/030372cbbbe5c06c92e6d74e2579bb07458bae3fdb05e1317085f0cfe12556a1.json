@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mantua Scattered Site Tentant Council\", \"alternate_name\": \"\", \"description\": \"Call (267) 242-0989 to make an appointment. The food is limited and not everyone may be accommodated.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3804 Mount Vernon Street\", \"address_2\": null, \"city\": \"Mantua\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9638739, \"longitude\": -75.19773099999999}, \"phones\": [{\"number\": \"(267) 242-0989\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"06:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"06:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"06:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"06:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"06:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:14.004857"
+}

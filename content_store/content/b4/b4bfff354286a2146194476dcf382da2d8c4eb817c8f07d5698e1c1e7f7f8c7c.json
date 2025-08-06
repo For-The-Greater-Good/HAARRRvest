@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Serenity Christian Worship Center\", \"alternate_name\": \"\", \"description\": \"We distribute food every 3rd Friday & Saturday of the month. If the month comes in on a Saturday, then it would be technically the 2nd Friday of the month, but 3rd Saturday of the month.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"22 West Maple Avenue\", \"address_2\": \"PMB 1271\", \"city\": \"Merchantville\", \"state_province\": \"NJ\", \"postal_code\": \"08109\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9500482, \"longitude\": -75.0503037}, \"phones\": [{\"number\": \"(856) 330-4915\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:45\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:04.052658"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hour Children - Our Outreach Food Pantry\", \"alternate_name\": \"\", \"description\": \"Located inside a gated parking lot on 11th Street between 36th and 37th Avenues. Look for the green awning that says \\u201cHour Children.\\u201d\", \"email\": \"\", \"url\": \"https://hourchildren.org/our-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"36-22 11th Street\", \"address_2\": null, \"city\": \"Long Island City\", \"state_province\": \"NY\", \"postal_code\": \"11106\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.76053809999999, \"longitude\": -73.940586}, \"phones\": [{\"number\": \"(718) 482-8226\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:22.793846"
+}

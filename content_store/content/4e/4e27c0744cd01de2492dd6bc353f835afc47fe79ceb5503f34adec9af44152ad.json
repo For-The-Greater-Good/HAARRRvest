@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"BUILD A BRIDGE FOUNDATION\", \"alternate_name\": \"\", \"description\": \"PANTRY: Call for Emergency Services\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5212 Silk Hope Road\", \"address_2\": null, \"city\": \"Savannah\", \"state_province\": \"GA\", \"postal_code\": \"31405\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.041758, \"longitude\": -81.198262}, \"phones\": [{\"number\": \"(912) 695-5358\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:00.846926"
+}

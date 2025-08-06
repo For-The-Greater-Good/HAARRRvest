@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Lutheran Church\", \"alternate_name\": \"\", \"description\": \"The Food Ministry building is behind the church in the back of the parking lot. It is a drive-thru pantry. Please bring your picture ID.\", \"email\": \"\", \"url\": \"TrinityJoppa.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1100 Philadelphia Road\", \"address_2\": null, \"city\": \"Joppatowne\", \"state_province\": \"MD\", \"postal_code\": \"21085\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4397346, \"longitude\": -76.33993170000001}, \"phones\": [{\"number\": \"(410) 679-4000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Drive-thru delivery\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:50.982006"
+}

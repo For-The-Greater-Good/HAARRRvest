@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Eglise Baptiste De La Nouvelle Jerualem\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \" ebnjchurch.org\", \"status\": \"active\", \"address\": {\"address_1\": \"706 Nye Avenue\", \"address_2\": null, \"city\": \"Irvington\", \"state_province\": \"NJ\", \"postal_code\": \"07111\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7249119, \"longitude\": -74.23521939999999}, \"phones\": [{\"number\": \"(973) 372-8782\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:06.557000"
+}

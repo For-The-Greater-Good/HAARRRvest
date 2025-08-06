@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"South Louisville Community Ministries\", \"alternate_name\": \"\", \"description\": \"Clothing Vouchers availablr\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"415 1/2 West Asland Ave,\", \"address_2\": null, \"city\": \"Louisville\", \"state_province\": \"KY\", \"postal_code\": \"40214\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.18578790000001, \"longitude\": -85.7683666}, \"phones\": [{\"number\": \"(502) 361-7763\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:01.368029"
+}

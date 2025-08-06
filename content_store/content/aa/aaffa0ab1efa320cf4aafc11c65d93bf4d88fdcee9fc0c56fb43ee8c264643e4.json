@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Arc's Community Choices Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"23-17 Route 4\", \"address_2\": null, \"city\": \"Fair Lawn\", \"state_province\": \"NJ\", \"postal_code\": \"07410\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.922958, \"longitude\": -74.11182939999999}, \"phones\": [{\"number\": \"(201) 794-1709\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"00:00\", \"closes_at\": \"01:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:12.549558"
+}

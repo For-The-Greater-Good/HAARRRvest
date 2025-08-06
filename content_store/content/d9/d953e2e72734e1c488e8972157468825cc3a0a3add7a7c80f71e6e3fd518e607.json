@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Clementon Elementary School\", \"alternate_name\": \"\", \"description\": \"Start date\\t7/6/2025\\nEnd date\\t8/5/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4 Audubon Avenue\", \"address_2\": null, \"city\": \"Clementon\", \"state_province\": \"NJ\", \"postal_code\": \"08021\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.80166029999999, \"longitude\": -74.991559}, \"phones\": [{\"number\": \"(856) 783-2300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:14.703593"
+}

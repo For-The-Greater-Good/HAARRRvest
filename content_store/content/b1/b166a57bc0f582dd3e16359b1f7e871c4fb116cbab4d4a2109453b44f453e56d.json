@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Food Rescue Baltimore, EAST BALTIMORE MEDICAL CENTER\", \"alternate_name\": \"\", \"description\": \"FRESH PRODUCE: Provides free produce and other food to those in need. The food is often rescued from markets, restaurants, or other organizations, to decrease waste and to help communities experiencing food insecurity. Distribution occurs at various locations throughout the city.For an updated and comprehensive list of participating sites and their giveaway times, visit the website: https://www.foodrescuebaltimore.orgPeople are encouraged to bring their own bags and select what items they want.For last minute notifications including supplies or weather-related cancellations, visit https://www.facebook.com/foodrescueday/\", \"email\": \"\", \"url\": \"https://www.foodrescuebaltimore.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1000 East Eager Street, East Baltimore Medical Center\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21202\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.30198, \"longitude\": -76.60285}, \"phones\": [{\"number\": \"(410) 522-9800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:29.817721"
+}

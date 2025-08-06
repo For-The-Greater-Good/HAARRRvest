@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Philadelphia Community Alliance Houston Center\", \"alternate_name\": \"\", \"description\": \"Once every two months per guest.\\n\\nCurrently unavailable and to check back in june to see if the waiting list is shorter\", \"email\": \"\", \"url\": \"https://www.gpca-phila.org/financial-and-food-assistance\", \"status\": \"active\", \"address\": {\"address_1\": \"2029 South 8th Street\", \"address_2\": null, \"city\": \"East Passyunk Crossing\", \"state_province\": \"PA\", \"postal_code\": \"19148\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.923234, \"longitude\": -75.1595316}, \"phones\": [{\"number\": \"(215) 468-1645\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:41:13.440797"
+}

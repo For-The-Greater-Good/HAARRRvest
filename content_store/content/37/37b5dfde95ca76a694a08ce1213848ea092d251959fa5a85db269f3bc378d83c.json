@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mastery Molina School\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"601 Vine Street\", \"address_2\": null, \"city\": \"Pyne Point\", \"state_province\": \"NJ\", \"postal_code\": \"08102\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9509946, \"longitude\": -75.1166827}, \"phones\": [{\"number\": \"(856) 966-8970\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:57.890570"
+}

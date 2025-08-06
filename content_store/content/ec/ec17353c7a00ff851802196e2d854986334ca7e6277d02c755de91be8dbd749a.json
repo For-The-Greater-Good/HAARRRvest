@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Woodlawn Park Church of Christ\", \"alternate_name\": \"\", \"description\": \"While parked or in line, please call 443-893-3114 from your car to notify food attendants that you are on site (Some basic information will be asked from you on this call).\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7222 Ambassador Road\", \"address_2\": null, \"city\": \"Windsor Mill\", \"state_province\": \"MD\", \"postal_code\": \"21244\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3291014, \"longitude\": -76.7513718}, \"phones\": [{\"number\": \"(443) 893-3114\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:51.160304"
+}

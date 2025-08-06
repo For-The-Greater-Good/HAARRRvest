@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St George's Episcopal Church - New Life Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Middlesex County.\\nYou must call to reserve your pick-up time, 32-521-0169 Kristen Tabert. Client-choice model food pantry. 1 person is allowed \\ninside at a time\", \"email\": \"\", \"url\": \"www.NewLifeFoodPantry.org  \", \"status\": \"active\", \"address\": {\"address_1\": \"56 Main Street\", \"address_2\": null, \"city\": \"Helmetta\", \"state_province\": \"NJ\", \"postal_code\": \"08828\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3774776, \"longitude\": -74.42068069999999}, \"phones\": [{\"number\": \"(732) 521-0169\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"04:00\", \"closes_at\": \"06:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:58.529048"
+}

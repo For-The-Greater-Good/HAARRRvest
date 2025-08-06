@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Joseph Lakeland\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/StJoesLakeland\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"210 West Lemon Street\", \"address_2\": null, \"city\": \"Lakeland\", \"state_province\": \"FL\", \"postal_code\": \"33815\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0424061, \"longitude\": -81.9585156}, \"phones\": [{\"number\": \"(863) 213-5280\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-06T08:40:44.470004"
+}
