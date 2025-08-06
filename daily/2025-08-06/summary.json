@@ -1,11 +1,11 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 5846,
+  "total_jobs": 5854,
   "scrapers": {
     "unknown": {
-      "count": 218,
+      "count": 226,
       "first_job": "2025-08-06T00:28:40.248389",
-      "last_job": "2025-08-06T20:50:43.173975"
+      "last_job": "2025-08-06T20:55:56.000549"
     },
     "chester_county_food_bank_pa": {
       "count": 20,
@@ -29323,6 +29323,46 @@
       "job_id": "test-job",
       "scraper_id": "unknown",
       "timestamp": "2025-08-06T20:50:43.173975"
+    },
+    {
+      "job_id": "5d87769c-9d4f-4cb0-9be8-ce3b7d37ffec",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T20:54:06.898857"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T20:54:07.382683"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T20:54:07.834089"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T20:54:08.284370"
+    },
+    {
+      "job_id": "2168b3bf-d183-43a8-9577-d1df79713c4d",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T20:55:54.586385"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T20:55:55.060025"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T20:55:55.535303"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T20:55:56.000549"
     }
   ]
 }
