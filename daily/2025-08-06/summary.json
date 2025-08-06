@@ -1,6 +1,6 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 5022,
+  "total_jobs": 5192,
   "scrapers": {
     "unknown": {
       "count": 170,
@@ -48,9 +48,9 @@
       "last_job": "2025-08-06T08:15:20.273288"
     },
     "food_lifeline_wa": {
-      "count": 60,
+      "count": 123,
       "first_job": "2025-08-06T08:15:21.042647",
-      "last_job": "2025-08-06T14:55:56.657016"
+      "last_job": "2025-08-06T15:03:14.359309"
     },
     "freshtrak": {
       "count": 801,
@@ -68,9 +68,9 @@
       "last_job": "2025-08-06T09:34:15.194411"
     },
     "mercer_food_finder": {
-      "count": 16,
+      "count": 75,
       "first_job": "2025-08-06T09:34:17.877976",
-      "last_job": "2025-08-06T14:55:55.195063"
+      "last_job": "2025-08-06T15:03:13.528426"
     },
     "the_food_pantries_org": {
       "count": 3068,
@@ -78,9 +78,9 @@
       "last_job": "2025-08-06T14:55:25.349522"
     },
     "the_food_basket_inc_hi": {
-      "count": 4,
+      "count": 52,
       "first_job": "2025-08-06T14:55:37.359475",
-      "last_job": "2025-08-06T14:55:57.595285"
+      "last_job": "2025-08-06T15:01:35.286354"
     }
   },
   "jobs": [
@@ -25193,6 +25193,856 @@
       "job_id": "1754467939.622885",
       "scraper_id": "the_food_basket_inc_hi",
       "timestamp": "2025-08-06T14:55:57.595285"
+    },
+    {
+      "job_id": "1754467942.464132",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:55:58.994426"
+    },
+    {
+      "job_id": "1754467937.580664",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:56:04.742141"
+    },
+    {
+      "job_id": "1754467942.64832",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:56:07.510281"
+    },
+    {
+      "job_id": "1754467943.859275",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:56:14.302240"
+    },
+    {
+      "job_id": "1754467948.572997",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:56:14.812727"
+    },
+    {
+      "job_id": "1754467944.954135",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:56:15.385496"
+    },
+    {
+      "job_id": "1754467946.962942",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:56:17.924335"
+    },
+    {
+      "job_id": "1754467945.518764",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:56:20.104474"
+    },
+    {
+      "job_id": "1754467948.601358",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:56:20.624870"
+    },
+    {
+      "job_id": "1754467949.768881",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:56:24.139712"
+    },
+    {
+      "job_id": "1754467951.655364",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:56:30.344711"
+    },
+    {
+      "job_id": "1754467950.500837",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:56:32.227919"
+    },
+    {
+      "job_id": "1754467952.766948",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:56:32.722708"
+    },
+    {
+      "job_id": "1754467953.620557",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:56:34.360207"
+    },
+    {
+      "job_id": "1754467954.894038",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:56:35.557931"
+    },
+    {
+      "job_id": "1754467955.845413",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:56:36.107196"
+    },
+    {
+      "job_id": "1754467956.65417",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:56:40.372442"
+    },
+    {
+      "job_id": "1754467957.989534",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:56:45.830685"
+    },
+    {
+      "job_id": "1754467959.523984",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:56:54.368482"
+    },
+    {
+      "job_id": "1754467960.656105",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:56:54.861801"
+    },
+    {
+      "job_id": "1754467963.526745",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:56:56.692078"
+    },
+    {
+      "job_id": "1754467962.735397",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:56:58.574528"
+    },
+    {
+      "job_id": "1754467964.74991",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:57:02.544855"
+    },
+    {
+      "job_id": "1754467961.790319",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:57:04.070502"
+    },
+    {
+      "job_id": "1754467966.769734",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:57:09.835624"
+    },
+    {
+      "job_id": "1754467965.814988",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:57:10.466020"
+    },
+    {
+      "job_id": "1754467968.15595",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:57:11.855606"
+    },
+    {
+      "job_id": "1754467968.761528",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:57:14.116535"
+    },
+    {
+      "job_id": "1754467969.683245",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:57:16.441226"
+    },
+    {
+      "job_id": "1754467970.903415",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:57:20.599920"
+    },
+    {
+      "job_id": "1754467971.764598",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:57:26.926734"
+    },
+    {
+      "job_id": "1754467972.711836",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:57:31.143418"
+    },
+    {
+      "job_id": "1754467973.919807",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:57:33.849053"
+    },
+    {
+      "job_id": "1754467958.745889",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:57:34.364567"
+    },
+    {
+      "job_id": "1754467974.835654",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:57:34.874862"
+    },
+    {
+      "job_id": "1754467974.829584",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:57:35.487734"
+    },
+    {
+      "job_id": "1754467974.841384",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:57:41.399086"
+    },
+    {
+      "job_id": "1754467975.706502",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:57:42.297549"
+    },
+    {
+      "job_id": "1754467977.7321",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:57:48.492382"
+    },
+    {
+      "job_id": "1754467978.687877",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:57:48.963183"
+    },
+    {
+      "job_id": "1754467980.697251",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:57:50.198863"
+    },
+    {
+      "job_id": "1754467979.843835",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:57:51.959261"
+    },
+    {
+      "job_id": "1754467976.86156",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:57:52.431436"
+    },
+    {
+      "job_id": "1754467981.597431",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:57:58.559140"
+    },
+    {
+      "job_id": "1754467980.703204",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:58:00.801025"
+    },
+    {
+      "job_id": "1754467982.865648",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:58:04.571310"
+    },
+    {
+      "job_id": "1754467983.785688",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:58:09.567789"
+    },
+    {
+      "job_id": "1754467985.950852",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:58:11.630033"
+    },
+    {
+      "job_id": "1754467985.97052",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:58:12.113878"
+    },
+    {
+      "job_id": "1754467986.781166",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:58:12.974881"
+    },
+    {
+      "job_id": "1754467988.677097",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:58:13.516863"
+    },
+    {
+      "job_id": "1754467988.999593",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:58:18.338348"
+    },
+    {
+      "job_id": "1754467990.351097",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:58:20.895202"
+    },
+    {
+      "job_id": "1754467990.672098",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:58:24.726144"
+    },
+    {
+      "job_id": "1754467993.544782",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:58:29.141433"
+    },
+    {
+      "job_id": "1754467991.822001",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:58:29.642590"
+    },
+    {
+      "job_id": "1754467992.791456",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:58:31.724022"
+    },
+    {
+      "job_id": "1754467994.696638",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:58:34.211457"
+    },
+    {
+      "job_id": "1754467995.474087",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:58:35.414164"
+    },
+    {
+      "job_id": "1754467995.480727",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:58:36.721511"
+    },
+    {
+      "job_id": "1754467997.326123",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:58:39.217266"
+    },
+    {
+      "job_id": "1754468001.119332",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:58:48.700006"
+    },
+    {
+      "job_id": "1754467997.799277",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:58:49.554550"
+    },
+    {
+      "job_id": "1754467998.66346",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:58:50.051104"
+    },
+    {
+      "job_id": "1754468002.96989",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:58:58.652010"
+    },
+    {
+      "job_id": "1754467999.863744",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:59:00.407259"
+    },
+    {
+      "job_id": "1754468004.205829",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:59:01.614981"
+    },
+    {
+      "job_id": "1754468001.727336",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:02.444926"
+    },
+    {
+      "job_id": "1754468007.124417",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:59:05.206899"
+    },
+    {
+      "job_id": "1754468004.86382",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:05.958531"
+    },
+    {
+      "job_id": "1754468005.898401",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:59:06.495471"
+    },
+    {
+      "job_id": "1754468009.105569",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:59:14.386496"
+    },
+    {
+      "job_id": "1754468008.111699",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:14.887806"
+    },
+    {
+      "job_id": "1754468010.892611",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:17.133755"
+    },
+    {
+      "job_id": "1754468011.15428",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:59:17.822330"
+    },
+    {
+      "job_id": "1754468011.509259",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:59:19.642216"
+    },
+    {
+      "job_id": "1754468014.247158",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:59:26.763781"
+    },
+    {
+      "job_id": "1754468012.862556",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:28.589223"
+    },
+    {
+      "job_id": "1754468015.747594",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:30.286613"
+    },
+    {
+      "job_id": "1754468014.765263",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:59:30.765930"
+    },
+    {
+      "job_id": "1754468017.237037",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:59:33.355779"
+    },
+    {
+      "job_id": "1754468017.965751",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:59:34.610119"
+    },
+    {
+      "job_id": "1754468018.817508",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:36.227201"
+    },
+    {
+      "job_id": "1754468020.803235",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:59:41.193094"
+    },
+    {
+      "job_id": "1754468019.779793",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:59:42.533121"
+    },
+    {
+      "job_id": "1754468022.781922",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:59:45.233601"
+    },
+    {
+      "job_id": "1754468023.914674",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T14:59:47.257160"
+    },
+    {
+      "job_id": "1754468021.483336",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:47.760121"
+    },
+    {
+      "job_id": "1754468024.562279",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:50.539937"
+    },
+    {
+      "job_id": "1754468024.556235",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T14:59:51.068401"
+    },
+    {
+      "job_id": "1754468026.246012",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:00:00.631469"
+    },
+    {
+      "job_id": "1754468026.673688",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:00:03.789866"
+    },
+    {
+      "job_id": "1754468029.759162",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:00:04.639407"
+    },
+    {
+      "job_id": "1754468028.763866",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:00:05.226430"
+    },
+    {
+      "job_id": "1754468030.800005",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:00:07.595650"
+    },
+    {
+      "job_id": "1754468032.488405",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:00:08.824372"
+    },
+    {
+      "job_id": "1754468027.948554",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:00:09.352862"
+    },
+    {
+      "job_id": "1754468033.687711",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:00:16.125001"
+    },
+    {
+      "job_id": "1754468035.537204",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:00:19.117517"
+    },
+    {
+      "job_id": "1754468034.024092",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:00:19.589591"
+    },
+    {
+      "job_id": "1754468035.300878",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:00:20.506295"
+    },
+    {
+      "job_id": "1754468038.643171",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:00:24.504536"
+    },
+    {
+      "job_id": "1754468038.46513",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:00:25.026947"
+    },
+    {
+      "job_id": "1754468036.681736",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:00:29.775513"
+    },
+    {
+      "job_id": "1754468041.005154",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:00:34.584250"
+    },
+    {
+      "job_id": "1754468039.748411",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:00:35.075741"
+    },
+    {
+      "job_id": "1754468041.850653",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:00:40.115113"
+    },
+    {
+      "job_id": "1754468042.831314",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:00:41.546431"
+    },
+    {
+      "job_id": "1754468043.579053",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:00:42.067377"
+    },
+    {
+      "job_id": "1754468045.423764",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:00:42.565041"
+    },
+    {
+      "job_id": "1754468045.830083",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:00:46.873178"
+    },
+    {
+      "job_id": "1754468046.961704",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:00:49.247345"
+    },
+    {
+      "job_id": "1754468047.544691",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:00:51.324897"
+    },
+    {
+      "job_id": "1754468048.789197",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:00:54.916122"
+    },
+    {
+      "job_id": "1754468050.171675",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:00:57.194961"
+    },
+    {
+      "job_id": "1754468051.755658",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:00:57.783227"
+    },
+    {
+      "job_id": "1754468052.798122",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:04.069311"
+    },
+    {
+      "job_id": "1754468053.644111",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:01:05.939934"
+    },
+    {
+      "job_id": "1754468050.618478",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:01:06.661772"
+    },
+    {
+      "job_id": "1754468054.769205",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:01:07.671367"
+    },
+    {
+      "job_id": "1754468056.202591",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:13.208760"
+    },
+    {
+      "job_id": "1754468058.885189",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:17.790978"
+    },
+    {
+      "job_id": "1754468057.34725",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:01:18.284638"
+    },
+    {
+      "job_id": "1754468061.582075",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:22.524979"
+    },
+    {
+      "job_id": "1754468057.753247",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:01:23.059300"
+    },
+    {
+      "job_id": "1754468060.818606",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:01:24.059887"
+    },
+    {
+      "job_id": "1754468060.019612",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:01:25.769954"
+    },
+    {
+      "job_id": "1754468063.796968",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:01:28.564908"
+    },
+    {
+      "job_id": "1754468062.747824",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:01:33.672643"
+    },
+    {
+      "job_id": "1754468063.791164",
+      "scraper_id": "the_food_basket_inc_hi",
+      "timestamp": "2025-08-06T15:01:35.286354"
+    },
+    {
+      "job_id": "1754468064.654151",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:37.934932"
+    },
+    {
+      "job_id": "1754468066.766747",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:40.321827"
+    },
+    {
+      "job_id": "1754468068.959588",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:43.293210"
+    },
+    {
+      "job_id": "1754468072.310491",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:52.185481"
+    },
+    {
+      "job_id": "1754468069.775064",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:52.643397"
+    },
+    {
+      "job_id": "1754468065.787568",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:01:53.418893"
+    },
+    {
+      "job_id": "1754468070.682353",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:01:55.264342"
+    },
+    {
+      "job_id": "1754468069.186234",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:01:57.279945"
+    },
+    {
+      "job_id": "1754468073.685437",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:01:58.570442"
+    },
+    {
+      "job_id": "1754468073.022088",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:07.500238"
+    },
+    {
+      "job_id": "1754468076.77845",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:08.237894"
+    },
+    {
+      "job_id": "1754468075.771276",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:08.970325"
+    },
+    {
+      "job_id": "1754468077.576232",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:12.478889"
+    },
+    {
+      "job_id": "1754468079.054006",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:14.104024"
+    },
+    {
+      "job_id": "1754468079.667807",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:14.617514"
+    },
+    {
+      "job_id": "1754468074.682712",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:15.169693"
+    },
+    {
+      "job_id": "1754468081.662506",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:21.071109"
+    },
+    {
+      "job_id": "1754468084.944656",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:22.777038"
+    },
+    {
+      "job_id": "1754468084.140936",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:23.336950"
+    },
+    {
+      "job_id": "1754468085.918963",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:33.837926"
+    },
+    {
+      "job_id": "1754468087.9881",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:35.367274"
+    },
+    {
+      "job_id": "1754468089.649635",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:36.593665"
+    },
+    {
+      "job_id": "1754468087.084877",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:37.110577"
+    },
+    {
+      "job_id": "1754468089.231883",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:37.593932"
+    },
+    {
+      "job_id": "1754468091.576396",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:38.925103"
+    },
+    {
+      "job_id": "1754468091.215767",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:39.919471"
+    },
+    {
+      "job_id": "1754468092.99222",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:48.814520"
+    },
+    {
+      "job_id": "1754468093.738052",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:49.995242"
+    },
+    {
+      "job_id": "1754468094.681935",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:52.617521"
+    },
+    {
+      "job_id": "1754468095.673373",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:53.100431"
+    },
+    {
+      "job_id": "1754468097.068588",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:53.868013"
+    },
+    {
+      "job_id": "1754468097.506204",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:02:54.420158"
+    },
+    {
+      "job_id": "1754468098.726083",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:02:55.356532"
+    },
+    {
+      "job_id": "1754468099.572059",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:03:03.423621"
+    },
+    {
+      "job_id": "1754468101.146896",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:03:10.731999"
+    },
+    {
+      "job_id": "1754468105.79784",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:03:11.218834"
+    },
+    {
+      "job_id": "1754468104.866346",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:03:11.718166"
+    },
+    {
+      "job_id": "1754468101.713404",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:03:12.298414"
+    },
+    {
+      "job_id": "1754468102.956313",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T15:03:13.528426"
+    },
+    {
+      "job_id": "1754468103.71679",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:03:14.359309"
     }
   ]
 }
