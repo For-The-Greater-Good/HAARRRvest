@@ -1,6 +1,6 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 5791,
+  "total_jobs": 5798,
   "scrapers": {
     "unknown": {
       "count": 170,
@@ -83,14 +83,14 @@
       "last_job": "2025-08-06T15:01:35.286354"
     },
     "second_harvest_food_bank_of_northwest_north_carolina_nc": {
-      "count": 175,
+      "count": 180,
       "first_job": "2025-08-06T15:13:32.735901",
-      "last_job": "2025-08-06T15:30:03.578165"
+      "last_job": "2025-08-06T18:28:00.158231"
     },
     "hccc_food_pantry": {
-      "count": 26,
+      "count": 28,
       "first_job": "2025-08-06T15:27:20.904776",
-      "last_job": "2025-08-06T15:30:06.012034"
+      "last_job": "2025-08-06T18:27:49.267878"
     }
   },
   "jobs": [
@@ -29048,6 +29048,41 @@
       "job_id": "1754468756.032853",
       "scraper_id": "hccc_food_pantry",
       "timestamp": "2025-08-06T15:30:06.012034"
+    },
+    {
+      "job_id": "1754468768.077394",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T18:27:48.776108"
+    },
+    {
+      "job_id": "1754468771.81539",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T18:27:49.267878"
+    },
+    {
+      "job_id": "1754468768.92884",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T18:27:52.484568"
+    },
+    {
+      "job_id": "1754468772.789047",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T18:27:52.999832"
+    },
+    {
+      "job_id": "1754468766.324216",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T18:27:54.522087"
+    },
+    {
+      "job_id": "1754468770.841496",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T18:27:57.576861"
+    },
+    {
+      "job_id": "1754468766.911467",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T18:28:00.158231"
     }
   ]
 }
