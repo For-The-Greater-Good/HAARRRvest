@@ -1,11 +1,11 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 112,
+  "total_jobs": 124,
   "scrapers": {
     "unknown": {
-      "count": 112,
+      "count": 124,
       "first_job": "2025-08-06T00:28:40.248389",
-      "last_job": "2025-08-06T05:35:25.658364"
+      "last_job": "2025-08-06T05:42:24.287324"
     }
   },
   "jobs": [
@@ -568,6 +568,66 @@
       "job_id": "test-job",
       "scraper_id": "unknown",
       "timestamp": "2025-08-06T05:35:25.658364"
+    },
+    {
+      "job_id": "1cefa239-e213-431d-84c1-7d3cb83e5abc",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:40:03.035753"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:40:03.516341"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:40:03.975154"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:40:04.447636"
+    },
+    {
+      "job_id": "358b485d-2d86-4b55-aba1-4d436d6d8070",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:41:12.502390"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:41:12.969714"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:41:13.427071"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:41:13.892966"
+    },
+    {
+      "job_id": "af128e0d-a3fa-4b44-ba39-463d08537747",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:42:22.890516"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:42:23.369532"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:42:23.823735"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:42:24.287324"
     }
   ]
 }
