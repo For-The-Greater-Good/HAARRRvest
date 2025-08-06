@@ -1,6 +1,6 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 5696,
+  "total_jobs": 5791,
   "scrapers": {
     "unknown": {
       "count": 170,
@@ -48,9 +48,9 @@
       "last_job": "2025-08-06T08:15:20.273288"
     },
     "food_lifeline_wa": {
-      "count": 395,
+      "count": 414,
       "first_job": "2025-08-06T08:15:21.042647",
-      "last_job": "2025-08-06T15:25:35.980427"
+      "last_job": "2025-08-06T15:27:18.060015"
     },
     "freshtrak": {
       "count": 801,
@@ -83,9 +83,14 @@
       "last_job": "2025-08-06T15:01:35.286354"
     },
     "second_harvest_food_bank_of_northwest_north_carolina_nc": {
-      "count": 125,
+      "count": 175,
       "first_job": "2025-08-06T15:13:32.735901",
-      "last_job": "2025-08-06T15:25:34.752744"
+      "last_job": "2025-08-06T15:30:03.578165"
+    },
+    "hccc_food_pantry": {
+      "count": 26,
+      "first_job": "2025-08-06T15:27:20.904776",
+      "last_job": "2025-08-06T15:30:06.012034"
     }
   },
   "jobs": [
@@ -28568,6 +28573,481 @@
       "job_id": "1754468653.262035",
       "scraper_id": "food_lifeline_wa",
       "timestamp": "2025-08-06T15:25:35.980427"
+    },
+    {
+      "job_id": "1754468655.359643",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:25:37.748552"
+    },
+    {
+      "job_id": "1754468654.369431",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:25:43.300228"
+    },
+    {
+      "job_id": "1754468656.494985",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:25:50.755874"
+    },
+    {
+      "job_id": "1754468659.281554",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:25:56.181850"
+    },
+    {
+      "job_id": "1754468661.343303",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:25:56.723309"
+    },
+    {
+      "job_id": "1754468658.158245",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:25:57.229172"
+    },
+    {
+      "job_id": "1754468658.17483",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:25:57.754296"
+    },
+    {
+      "job_id": "1754468661.9506",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:25:59.253143"
+    },
+    {
+      "job_id": "1754468663.452041",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:01.488070"
+    },
+    {
+      "job_id": "1754468663.542046",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:05.568283"
+    },
+    {
+      "job_id": "1754468667.479037",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:13.021422"
+    },
+    {
+      "job_id": "1754468665.296913",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:13.515059"
+    },
+    {
+      "job_id": "1754468666.267014",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:14.516516"
+    },
+    {
+      "job_id": "1754468669.330513",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:15.309488"
+    },
+    {
+      "job_id": "1754468668.326064",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:17.202275"
+    },
+    {
+      "job_id": "1754468664.400151",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:20.758956"
+    },
+    {
+      "job_id": "1754468671.263434",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:33.801880"
+    },
+    {
+      "job_id": "1754468670.194859",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:34.473297"
+    },
+    {
+      "job_id": "1754468672.158829",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:34.969063"
+    },
+    {
+      "job_id": "1754468673.655099",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:35.509893"
+    },
+    {
+      "job_id": "1754468675.352492",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:37.576339"
+    },
+    {
+      "job_id": "1754468676.418485",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:38.600346"
+    },
+    {
+      "job_id": "1754468674.18558",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:39.728143"
+    },
+    {
+      "job_id": "1754468677.356641",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:48.056723"
+    },
+    {
+      "job_id": "1754468679.216202",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:50.408477"
+    },
+    {
+      "job_id": "1754468678.542211",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:51.255999"
+    },
+    {
+      "job_id": "1754468681.683523",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:52.958852"
+    },
+    {
+      "job_id": "1754468682.861006",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:55.743072"
+    },
+    {
+      "job_id": "1754468683.689426",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:26:56.231608"
+    },
+    {
+      "job_id": "1754468680.52626",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:26:57.907146"
+    },
+    {
+      "job_id": "1754468684.696352",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:05.282783"
+    },
+    {
+      "job_id": "1754468686.010786",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:27:05.871280"
+    },
+    {
+      "job_id": "1754468686.324453",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:09.455557"
+    },
+    {
+      "job_id": "1754468687.399725",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:27:13.032083"
+    },
+    {
+      "job_id": "1754468689.301511",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:27:14.992784"
+    },
+    {
+      "job_id": "1754468689.352194",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:16.744564"
+    },
+    {
+      "job_id": "1754468689.295193",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T15:27:18.060015"
+    },
+    {
+      "job_id": "1754468691.637595",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:27:20.904776"
+    },
+    {
+      "job_id": "1754468690.564004",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:23.129748"
+    },
+    {
+      "job_id": "1754468697.79164",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:27:29.755818"
+    },
+    {
+      "job_id": "1754468700.17496",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:27:33.052768"
+    },
+    {
+      "job_id": "1754468695.98598",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:37.912908"
+    },
+    {
+      "job_id": "1754468702.261506",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:27:39.661232"
+    },
+    {
+      "job_id": "1754468698.543573",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:40.275666"
+    },
+    {
+      "job_id": "1754468700.552608",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:40.803365"
+    },
+    {
+      "job_id": "1754468696.570419",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:41.315715"
+    },
+    {
+      "job_id": "1754468702.781453",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:48.765882"
+    },
+    {
+      "job_id": "1754468706.001898",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:27:53.448746"
+    },
+    {
+      "job_id": "1754468703.634171",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:27:53.936577"
+    },
+    {
+      "job_id": "1754468706.891207",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:56.301598"
+    },
+    {
+      "job_id": "1754468708.96501",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:27:58.602332"
+    },
+    {
+      "job_id": "1754468704.759209",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:28:00.982528"
+    },
+    {
+      "job_id": "1754468710.350972",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:03.157008"
+    },
+    {
+      "job_id": "1754468707.982389",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:05.352278"
+    },
+    {
+      "job_id": "1754468710.677669",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:28:10.454629"
+    },
+    {
+      "job_id": "1754468712.767544",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:28:14.929989"
+    },
+    {
+      "job_id": "1754468713.951098",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:18.507333"
+    },
+    {
+      "job_id": "1754468711.695759",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:20.153267"
+    },
+    {
+      "job_id": "1754468716.81899",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:28:20.786390"
+    },
+    {
+      "job_id": "1754468717.976577",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:24.103551"
+    },
+    {
+      "job_id": "1754468715.93221",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:25.359747"
+    },
+    {
+      "job_id": "1754468718.756899",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:28:27.371846"
+    },
+    {
+      "job_id": "1754468721.861738",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:34.600967"
+    },
+    {
+      "job_id": "1754468721.404172",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:28:35.931029"
+    },
+    {
+      "job_id": "1754468721.414047",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:39.050074"
+    },
+    {
+      "job_id": "1754468723.760297",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:41.335373"
+    },
+    {
+      "job_id": "1754468722.655351",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:28:43.249501"
+    },
+    {
+      "job_id": "1754468724.659368",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:28:43.873733"
+    },
+    {
+      "job_id": "1754468728.054536",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:52.320586"
+    },
+    {
+      "job_id": "1754468726.270847",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:28:53.506746"
+    },
+    {
+      "job_id": "1754468726.939082",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:28:54.207276"
+    },
+    {
+      "job_id": "1754468730.420583",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:01.233435"
+    },
+    {
+      "job_id": "1754468732.592418",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:01.792510"
+    },
+    {
+      "job_id": "1754468730.644786",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:09.145789"
+    },
+    {
+      "job_id": "1754468734.848691",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:10.149790"
+    },
+    {
+      "job_id": "1754468734.099308",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:29:10.826138"
+    },
+    {
+      "job_id": "1754468735.987876",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:29:14.093820"
+    },
+    {
+      "job_id": "1754468737.357177",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:16.401956"
+    },
+    {
+      "job_id": "1754468737.664406",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:29:19.162882"
+    },
+    {
+      "job_id": "1754468738.795657",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:19.691347"
+    },
+    {
+      "job_id": "1754468739.692842",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:29:25.661568"
+    },
+    {
+      "job_id": "1754468744.041739",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:27.609284"
+    },
+    {
+      "job_id": "1754468740.902172",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:34.041686"
+    },
+    {
+      "job_id": "1754468747.549081",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:35.952782"
+    },
+    {
+      "job_id": "1754468747.876997",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:29:36.995984"
+    },
+    {
+      "job_id": "1754468744.750214",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:37.516402"
+    },
+    {
+      "job_id": "1754468745.896609",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:29:41.186852"
+    },
+    {
+      "job_id": "1754468751.214325",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:45.486001"
+    },
+    {
+      "job_id": "1754468748.627198",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:29:53.102924"
+    },
+    {
+      "job_id": "1754468753.81502",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:30:01.418470"
+    },
+    {
+      "job_id": "1754468757.558552",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:30:01.983133"
+    },
+    {
+      "job_id": "1754468752.726107",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:30:02.519363"
+    },
+    {
+      "job_id": "1754468758.142656",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:30:03.039147"
+    },
+    {
+      "job_id": "1754468755.095025",
+      "scraper_id": "second_harvest_food_bank_of_northwest_north_carolina_nc",
+      "timestamp": "2025-08-06T15:30:03.578165"
+    },
+    {
+      "job_id": "1754468756.032853",
+      "scraper_id": "hccc_food_pantry",
+      "timestamp": "2025-08-06T15:30:06.012034"
     }
   ]
 }
