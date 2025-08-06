@@ -1,6 +1,6 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 895,
+  "total_jobs": 1297,
   "scrapers": {
     "unknown": {
       "count": 170,
@@ -33,14 +33,29 @@
       "last_job": "2025-08-06T07:26:24.149961"
     },
     "food_bank_of_western_massachusetts_ma": {
-      "count": 217,
+      "count": 258,
       "first_job": "2025-08-06T07:30:06.887637",
-      "last_job": "2025-08-06T08:03:00.975667"
+      "last_job": "2025-08-06T08:07:13.497384"
     },
     "central_pennsylvania_food_bank_pa": {
       "count": 1,
       "first_job": "2025-08-06T07:39:41.016482",
       "last_job": "2025-08-06T07:39:41.016482"
+    },
+    "toledo_northwestern_ohio_food_bank_oh": {
+      "count": 119,
+      "first_job": "2025-08-06T08:10:30.074298",
+      "last_job": "2025-08-06T08:15:20.273288"
+    },
+    "food_lifeline_wa": {
+      "count": 7,
+      "first_job": "2025-08-06T08:15:21.042647",
+      "last_job": "2025-08-06T08:25:21.068737"
+    },
+    "freshtrak": {
+      "count": 235,
+      "first_job": "2025-08-06T08:15:41.839266",
+      "last_job": "2025-08-06T08:29:17.553523"
     }
   },
   "jobs": [
@@ -4518,6 +4533,2016 @@
       "job_id": "1754465973.158448",
       "scraper_id": "food_bank_of_western_massachusetts_ma",
       "timestamp": "2025-08-06T08:03:00.975667"
+    },
+    {
+      "job_id": "1754465973.162011",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:03:07.903208"
+    },
+    {
+      "job_id": "1754465973.153385",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:03:09.005481"
+    },
+    {
+      "job_id": "1754465973.160143",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:03:25.942969"
+    },
+    {
+      "job_id": "1754465973.165855",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:10.219621"
+    },
+    {
+      "job_id": "1754465973.169446",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:10.715431"
+    },
+    {
+      "job_id": "1754465973.171129",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:11.250021"
+    },
+    {
+      "job_id": "1754465973.172794",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:11.737753"
+    },
+    {
+      "job_id": "1754465973.16402",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:12.206703"
+    },
+    {
+      "job_id": "1754465973.16756",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:13.101950"
+    },
+    {
+      "job_id": "1754465973.174488",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:14.307954"
+    },
+    {
+      "job_id": "1754465973.178064",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:23.980625"
+    },
+    {
+      "job_id": "1754465973.180228",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:25.175502"
+    },
+    {
+      "job_id": "1754465973.176164",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:26.800694"
+    },
+    {
+      "job_id": "1754465973.183628",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:27.266894"
+    },
+    {
+      "job_id": "1754465973.181941",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:27.787258"
+    },
+    {
+      "job_id": "1754465973.185329",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:28.376924"
+    },
+    {
+      "job_id": "1754465973.187125",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:33.711160"
+    },
+    {
+      "job_id": "1754465973.18887",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:40.126737"
+    },
+    {
+      "job_id": "1754465973.190736",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:43.229852"
+    },
+    {
+      "job_id": "1754465973.193005",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:45.888450"
+    },
+    {
+      "job_id": "1754465973.199665",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:47.219378"
+    },
+    {
+      "job_id": "1754465973.20145",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:48.817781"
+    },
+    {
+      "job_id": "1754465973.197799",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:04:53.274163"
+    },
+    {
+      "job_id": "1754465973.210167",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:05:42.088400"
+    },
+    {
+      "job_id": "1754465973.213667",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:05:42.546007"
+    },
+    {
+      "job_id": "1754465973.208419",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:05:43.051654"
+    },
+    {
+      "job_id": "1754465973.21197",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:05:43.505018"
+    },
+    {
+      "job_id": "1754465973.205024",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:05:43.968536"
+    },
+    {
+      "job_id": "1754465973.217038",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:06:23.616734"
+    },
+    {
+      "job_id": "1754465973.218907",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:06:24.085608"
+    },
+    {
+      "job_id": "1754465973.226687",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:06:24.743255"
+    },
+    {
+      "job_id": "1754465973.222681",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:06:25.198916"
+    },
+    {
+      "job_id": "1754465973.22101",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:06:25.664045"
+    },
+    {
+      "job_id": "1754465973.224589",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:06:26.129725"
+    },
+    {
+      "job_id": "1754465973.228487",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:07:08.519401"
+    },
+    {
+      "job_id": "1754465973.232445",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:07:09.525397"
+    },
+    {
+      "job_id": "1754465973.237726",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:07:10.373675"
+    },
+    {
+      "job_id": "1754465973.234082",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:07:10.967136"
+    },
+    {
+      "job_id": "1754465973.235839",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:07:11.657343"
+    },
+    {
+      "job_id": "1754465973.230604",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:07:12.370949"
+    },
+    {
+      "job_id": "1754465973.239477",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T08:07:13.497384"
+    },
+    {
+      "job_id": "1754467812.973655",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:30.074298"
+    },
+    {
+      "job_id": "1754467812.955926",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:32.695393"
+    },
+    {
+      "job_id": "1754467813.001564",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:33.267881"
+    },
+    {
+      "job_id": "1754467812.994945",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:33.858323"
+    },
+    {
+      "job_id": "1754467812.980097",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:34.422520"
+    },
+    {
+      "job_id": "1754467812.96601",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:37.336665"
+    },
+    {
+      "job_id": "1754467812.987333",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:37.893730"
+    },
+    {
+      "job_id": "1754467813.020926",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:47.627945"
+    },
+    {
+      "job_id": "1754467813.027874",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:48.604014"
+    },
+    {
+      "job_id": "1754467813.008296",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:50.118813"
+    },
+    {
+      "job_id": "1754467813.034556",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:50.758657"
+    },
+    {
+      "job_id": "1754467813.014654",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:51.250161"
+    },
+    {
+      "job_id": "1754467813.046675",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:54.765208"
+    },
+    {
+      "job_id": "1754467813.040429",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:10:56.902751"
+    },
+    {
+      "job_id": "1754467813.053409",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:04.691477"
+    },
+    {
+      "job_id": "1754467813.060308",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:05.889630"
+    },
+    {
+      "job_id": "1754467813.074114",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:06.412861"
+    },
+    {
+      "job_id": "1754467813.067786",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:07.838538"
+    },
+    {
+      "job_id": "1754467813.080544",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:10.078595"
+    },
+    {
+      "job_id": "1754467813.086778",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:11.317844"
+    },
+    {
+      "job_id": "1754467813.09503",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:13.684045"
+    },
+    {
+      "job_id": "1754467813.121178",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:18.302588"
+    },
+    {
+      "job_id": "1754467813.135614",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:24.885290"
+    },
+    {
+      "job_id": "1754467813.142052",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:25.955793"
+    },
+    {
+      "job_id": "1754467813.128912",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:26.420746"
+    },
+    {
+      "job_id": "1754467813.101843",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:28.405890"
+    },
+    {
+      "job_id": "1754467813.150478",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:31.346860"
+    },
+    {
+      "job_id": "1754467813.172054",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:32.297054"
+    },
+    {
+      "job_id": "1754467813.179315",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:35.228808"
+    },
+    {
+      "job_id": "1754467813.193231",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:39.702278"
+    },
+    {
+      "job_id": "1754467813.186286",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:42.162509"
+    },
+    {
+      "job_id": "1754467813.199676",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:43.371349"
+    },
+    {
+      "job_id": "1754467813.206393",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:46.591692"
+    },
+    {
+      "job_id": "1754467813.21975",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:47.644032"
+    },
+    {
+      "job_id": "1754467813.225662",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:50.021429"
+    },
+    {
+      "job_id": "1754467813.213584",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:50.946874"
+    },
+    {
+      "job_id": "1754467813.233178",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:56.198931"
+    },
+    {
+      "job_id": "1754467813.239006",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:11:58.685378"
+    },
+    {
+      "job_id": "1754467813.245325",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:00.967050"
+    },
+    {
+      "job_id": "1754467813.251918",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:03.579126"
+    },
+    {
+      "job_id": "1754467813.258725",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:04.362767"
+    },
+    {
+      "job_id": "1754467813.289382",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:10.197891"
+    },
+    {
+      "job_id": "1754467813.264615",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:10.779400"
+    },
+    {
+      "job_id": "1754467813.308606",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:11.270259"
+    },
+    {
+      "job_id": "1754467813.336355",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:16.163308"
+    },
+    {
+      "job_id": "1754467813.328329",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:16.656849"
+    },
+    {
+      "job_id": "1754467813.359342",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:21.042602"
+    },
+    {
+      "job_id": "1754467813.351366",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:23.946997"
+    },
+    {
+      "job_id": "1754467813.37188",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:25.456094"
+    },
+    {
+      "job_id": "1754467813.365917",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:27.380856"
+    },
+    {
+      "job_id": "1754467813.384572",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:30.726134"
+    },
+    {
+      "job_id": "1754467813.377995",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:32.241429"
+    },
+    {
+      "job_id": "1754467813.390179",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:33.009393"
+    },
+    {
+      "job_id": "1754467813.396304",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:37.083520"
+    },
+    {
+      "job_id": "1754467813.402352",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:39.959906"
+    },
+    {
+      "job_id": "1754467813.421427",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:45.041555"
+    },
+    {
+      "job_id": "1754467813.427387",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:49.021832"
+    },
+    {
+      "job_id": "1754467813.433015",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:49.757456"
+    },
+    {
+      "job_id": "1754467813.40806",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:50.244567"
+    },
+    {
+      "job_id": "1754467813.438858",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:50.737557"
+    },
+    {
+      "job_id": "1754467813.445559",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:51.202050"
+    },
+    {
+      "job_id": "1754467813.461939",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:12:55.432496"
+    },
+    {
+      "job_id": "1754467813.468748",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:01.477492"
+    },
+    {
+      "job_id": "1754467813.50366",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:06.130916"
+    },
+    {
+      "job_id": "1754467813.487496",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:07.084861"
+    },
+    {
+      "job_id": "1754467813.510283",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:08.180344"
+    },
+    {
+      "job_id": "1754467813.494145",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:08.808164"
+    },
+    {
+      "job_id": "1754467813.480931",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:10.076162"
+    },
+    {
+      "job_id": "1754467813.517279",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:12.708956"
+    },
+    {
+      "job_id": "1754467813.523363",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:19.731013"
+    },
+    {
+      "job_id": "1754467813.557555",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:21.626861"
+    },
+    {
+      "job_id": "1754467813.575897",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:22.094985"
+    },
+    {
+      "job_id": "1754467813.529559",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:22.863538"
+    },
+    {
+      "job_id": "1754467813.535818",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:25.109963"
+    },
+    {
+      "job_id": "1754467813.542813",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:26.019323"
+    },
+    {
+      "job_id": "1754467813.583927",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:28.716125"
+    },
+    {
+      "job_id": "1754467813.633443",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:34.244089"
+    },
+    {
+      "job_id": "1754467813.6269",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:34.714587"
+    },
+    {
+      "job_id": "1754467813.639886",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:39.548114"
+    },
+    {
+      "job_id": "1754467813.655803",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:40.009725"
+    },
+    {
+      "job_id": "1754467813.697077",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:42.370848"
+    },
+    {
+      "job_id": "1754467813.690842",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:42.847374"
+    },
+    {
+      "job_id": "1754467813.671741",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:45.315318"
+    },
+    {
+      "job_id": "1754467813.703674",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:49.036372"
+    },
+    {
+      "job_id": "1754467813.717068",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:51.008653"
+    },
+    {
+      "job_id": "1754467813.729628",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:56.034121"
+    },
+    {
+      "job_id": "1754467813.723201",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:13:58.033296"
+    },
+    {
+      "job_id": "1754467813.736424",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:01.719154"
+    },
+    {
+      "job_id": "1754467813.742498",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:02.225059"
+    },
+    {
+      "job_id": "1754467813.75442",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:03.424694"
+    },
+    {
+      "job_id": "1754467813.748066",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:04.159751"
+    },
+    {
+      "job_id": "1754467813.760243",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:08.862946"
+    },
+    {
+      "job_id": "1754467813.766494",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:11.567575"
+    },
+    {
+      "job_id": "1754467813.772635",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:16.780494"
+    },
+    {
+      "job_id": "1754467813.804674",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:21.409261"
+    },
+    {
+      "job_id": "1754467813.797748",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:21.871977"
+    },
+    {
+      "job_id": "1754467813.812809",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:25.901327"
+    },
+    {
+      "job_id": "1754467813.820311",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:26.926678"
+    },
+    {
+      "job_id": "1754467813.837283",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:29.699494"
+    },
+    {
+      "job_id": "1754467813.826376",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:33.150073"
+    },
+    {
+      "job_id": "1754467813.846375",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:37.639680"
+    },
+    {
+      "job_id": "1754467813.868698",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:38.168199"
+    },
+    {
+      "job_id": "1754467813.880894",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:38.711701"
+    },
+    {
+      "job_id": "1754467813.90457",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:43.392212"
+    },
+    {
+      "job_id": "1754467813.898055",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:45.939666"
+    },
+    {
+      "job_id": "1754467813.916758",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:49.889036"
+    },
+    {
+      "job_id": "1754467813.91077",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:51.350166"
+    },
+    {
+      "job_id": "1754467813.974925",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:53.500120"
+    },
+    {
+      "job_id": "1754467813.929065",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:53.984320"
+    },
+    {
+      "job_id": "1754467813.968459",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:55.725215"
+    },
+    {
+      "job_id": "1754467814.022592",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:14:59.873533"
+    },
+    {
+      "job_id": "1754467814.01666",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:15:00.408645"
+    },
+    {
+      "job_id": "1754467814.059928",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:15:07.167927"
+    },
+    {
+      "job_id": "1754467814.218145",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:15:09.984899"
+    },
+    {
+      "job_id": "1754467814.100567",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:15:11.259471"
+    },
+    {
+      "job_id": "1754467814.2009",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:15:12.554895"
+    },
+    {
+      "job_id": "1754467814.189372",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:15:13.442142"
+    },
+    {
+      "job_id": "1754467814.147003",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:15:14.751628"
+    },
+    {
+      "job_id": "1754467814.209244",
+      "scraper_id": "toledo_northwestern_ohio_food_bank_oh",
+      "timestamp": "2025-08-06T08:15:20.273288"
+    },
+    {
+      "job_id": "1754467817.586763",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T08:15:21.042647"
+    },
+    {
+      "job_id": "1754467819.587746",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T08:15:23.722835"
+    },
+    {
+      "job_id": "1754467823.622399",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T08:15:25.188055"
+    },
+    {
+      "job_id": "1754467821.529794",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T08:15:26.086289"
+    },
+    {
+      "job_id": "1754467827.529934",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T08:15:29.104722"
+    },
+    {
+      "job_id": "1754467825.936387",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T08:15:29.630946"
+    },
+    {
+      "job_id": "1754467828.845359",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:15:41.839266"
+    },
+    {
+      "job_id": "1754467828.858196",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:15:43.401022"
+    },
+    {
+      "job_id": "1754467828.839387",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:15:51.161345"
+    },
+    {
+      "job_id": "1754467828.86522",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:15:53.701580"
+    },
+    {
+      "job_id": "1754467828.871373",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:15:54.814914"
+    },
+    {
+      "job_id": "1754467828.877203",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:15:59.135708"
+    },
+    {
+      "job_id": "1754467828.851441",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:15:59.637324"
+    },
+    {
+      "job_id": "1754467828.831143",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:02.348947"
+    },
+    {
+      "job_id": "1754467828.883505",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:03.550503"
+    },
+    {
+      "job_id": "1754467828.907629",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:08.951341"
+    },
+    {
+      "job_id": "1754467828.901683",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:15.403033"
+    },
+    {
+      "job_id": "1754467828.889973",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:16.169856"
+    },
+    {
+      "job_id": "1754467828.913857",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:18.848896"
+    },
+    {
+      "job_id": "1754467828.925624",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:23.732316"
+    },
+    {
+      "job_id": "1754467828.931536",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:24.737614"
+    },
+    {
+      "job_id": "1754467828.937575",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:27.274936"
+    },
+    {
+      "job_id": "1754467828.919771",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:27.777337"
+    },
+    {
+      "job_id": "1754467828.955178",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:35.532225"
+    },
+    {
+      "job_id": "1754467828.94338",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:46.527920"
+    },
+    {
+      "job_id": "1754467828.980193",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:47.020667"
+    },
+    {
+      "job_id": "1754467828.966913",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:52.503302"
+    },
+    {
+      "job_id": "1754467828.986255",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:54.228239"
+    },
+    {
+      "job_id": "1754467828.973827",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:54.830059"
+    },
+    {
+      "job_id": "1754467828.949311",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:16:56.839865"
+    },
+    {
+      "job_id": "1754467828.961013",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:06.153791"
+    },
+    {
+      "job_id": "1754467828.998162",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:09.018716"
+    },
+    {
+      "job_id": "1754467828.992277",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:12.721582"
+    },
+    {
+      "job_id": "1754467829.011466",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:13.233746"
+    },
+    {
+      "job_id": "1754467829.017303",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:16.020700"
+    },
+    {
+      "job_id": "1754467829.023115",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:16.835247"
+    },
+    {
+      "job_id": "1754467829.005536",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:17.339498"
+    },
+    {
+      "job_id": "1754467829.036483",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:28.614721"
+    },
+    {
+      "job_id": "1754467829.050348",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:31.045314"
+    },
+    {
+      "job_id": "1754467829.042213",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:32.104345"
+    },
+    {
+      "job_id": "1754467829.030032",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:45.753353"
+    },
+    {
+      "job_id": "1754467829.061624",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:46.214458"
+    },
+    {
+      "job_id": "1754467829.080368",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:50.423505"
+    },
+    {
+      "job_id": "1754467829.089293",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:53.115282"
+    },
+    {
+      "job_id": "1754467829.104322",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:17:56.303672"
+    },
+    {
+      "job_id": "1754467829.120053",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:04.204979"
+    },
+    {
+      "job_id": "1754467829.12792",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:05.287232"
+    },
+    {
+      "job_id": "1754467829.11191",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:05.796718"
+    },
+    {
+      "job_id": "1754467829.070419",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:06.312614"
+    },
+    {
+      "job_id": "1754467829.136353",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:09.323232"
+    },
+    {
+      "job_id": "1754467829.097649",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:12.381293"
+    },
+    {
+      "job_id": "1754467829.152121",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:24.007603"
+    },
+    {
+      "job_id": "1754467829.173603",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:26.700368"
+    },
+    {
+      "job_id": "1754467829.143562",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:27.199911"
+    },
+    {
+      "job_id": "1754467829.181942",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:27.713398"
+    },
+    {
+      "job_id": "1754467829.159257",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:28.552134"
+    },
+    {
+      "job_id": "1754467829.165486",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:29.061575"
+    },
+    {
+      "job_id": "1754467829.189343",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:35.910215"
+    },
+    {
+      "job_id": "1754467829.234367",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:42.318837"
+    },
+    {
+      "job_id": "1754467829.220947",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:42.972859"
+    },
+    {
+      "job_id": "1754467829.196754",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:51.145509"
+    },
+    {
+      "job_id": "1754467829.204053",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:55.018505"
+    },
+    {
+      "job_id": "1754467829.228079",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:56.306049"
+    },
+    {
+      "job_id": "1754467829.212748",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:18:59.331821"
+    },
+    {
+      "job_id": "1754467829.248851",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:06.486703"
+    },
+    {
+      "job_id": "1754467829.24172",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:11.123742"
+    },
+    {
+      "job_id": "1754467829.256249",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:12.887876"
+    },
+    {
+      "job_id": "1754467829.27106",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:13.698095"
+    },
+    {
+      "job_id": "1754467829.278735",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:18.089299"
+    },
+    {
+      "job_id": "1754467829.286649",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:21.357940"
+    },
+    {
+      "job_id": "1754467829.263385",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:21.859149"
+    },
+    {
+      "job_id": "1754467829.293833",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:24.853867"
+    },
+    {
+      "job_id": "1754467829.300718",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:29.266234"
+    },
+    {
+      "job_id": "1754467829.307334",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:31.831834"
+    },
+    {
+      "job_id": "1754467829.320858",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:37.055408"
+    },
+    {
+      "job_id": "1754467829.313623",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:41.558676"
+    },
+    {
+      "job_id": "1754467829.344328",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:42.040106"
+    },
+    {
+      "job_id": "1754467829.335834",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:43.571898"
+    },
+    {
+      "job_id": "1754467829.328042",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:44.211957"
+    },
+    {
+      "job_id": "1754467829.350975",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:49.734168"
+    },
+    {
+      "job_id": "1754467829.363774",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:19:56.755701"
+    },
+    {
+      "job_id": "1754467829.390715",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:02.194334"
+    },
+    {
+      "job_id": "1754467829.378345",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:03.609488"
+    },
+    {
+      "job_id": "1754467829.384593",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:04.124476"
+    },
+    {
+      "job_id": "1754467829.37081",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:04.643853"
+    },
+    {
+      "job_id": "1754467829.357607",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:07.153851"
+    },
+    {
+      "job_id": "1754467829.397944",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:13.934776"
+    },
+    {
+      "job_id": "1754467829.404462",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:16.091075"
+    },
+    {
+      "job_id": "1754467829.41145",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:20.931792"
+    },
+    {
+      "job_id": "1754467829.432805",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:22.665453"
+    },
+    {
+      "job_id": "1754467829.417764",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:23.793082"
+    },
+    {
+      "job_id": "1754467829.438768",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:27.141450"
+    },
+    {
+      "job_id": "1754467829.425043",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:27.660503"
+    },
+    {
+      "job_id": "1754467829.452616",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:34.830652"
+    },
+    {
+      "job_id": "1754467829.446071",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:38.478514"
+    },
+    {
+      "job_id": "1754467829.464889",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:42.562274"
+    },
+    {
+      "job_id": "1754467829.472007",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:43.689762"
+    },
+    {
+      "job_id": "1754467829.495533",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:45.285757"
+    },
+    {
+      "job_id": "1754467829.542635",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:50.613102"
+    },
+    {
+      "job_id": "1754467829.553357",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:51.587546"
+    },
+    {
+      "job_id": "1754467829.567127",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:56.625863"
+    },
+    {
+      "job_id": "1754467829.458609",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:20:58.483222"
+    },
+    {
+      "job_id": "1754467829.58252",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:02.315298"
+    },
+    {
+      "job_id": "1754467829.560393",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:02.812069"
+    },
+    {
+      "job_id": "1754467829.575006",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:11.226921"
+    },
+    {
+      "job_id": "1754467829.590981",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:14.277014"
+    },
+    {
+      "job_id": "1754467829.627084",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:21.925493"
+    },
+    {
+      "job_id": "1754467829.606624",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:22.674821"
+    },
+    {
+      "job_id": "1754467829.599124",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:23.314470"
+    },
+    {
+      "job_id": "1754467829.614181",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:24.184447"
+    },
+    {
+      "job_id": "1754467829.620437",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:25.381114"
+    },
+    {
+      "job_id": "1754467829.634025",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:32.695752"
+    },
+    {
+      "job_id": "1754467829.672834",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:42.852713"
+    },
+    {
+      "job_id": "1754467829.656858",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:43.375863"
+    },
+    {
+      "job_id": "1754467829.649955",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:46.020374"
+    },
+    {
+      "job_id": "1754467829.664822",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:47.428196"
+    },
+    {
+      "job_id": "1754467829.680897",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:49.064258"
+    },
+    {
+      "job_id": "1754467829.689191",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:50.541977"
+    },
+    {
+      "job_id": "1754467829.643011",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:21:52.309308"
+    },
+    {
+      "job_id": "1754467829.706496",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:07.643770"
+    },
+    {
+      "job_id": "1754467829.697756",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:09.074902"
+    },
+    {
+      "job_id": "1754467829.724422",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:09.815395"
+    },
+    {
+      "job_id": "1754467829.741097",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:12.303346"
+    },
+    {
+      "job_id": "1754467829.74892",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:13.118667"
+    },
+    {
+      "job_id": "1754467829.715645",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:15.246528"
+    },
+    {
+      "job_id": "1754467829.765308",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:25.655321"
+    },
+    {
+      "job_id": "1754467829.732579",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:29.517940"
+    },
+    {
+      "job_id": "1754467829.757136",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:35.492179"
+    },
+    {
+      "job_id": "1754467829.797758",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:36.719236"
+    },
+    {
+      "job_id": "1754467829.789905",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:39.256312"
+    },
+    {
+      "job_id": "1754467829.781634",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:44.127728"
+    },
+    {
+      "job_id": "1754467829.773138",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:44.851066"
+    },
+    {
+      "job_id": "1754467829.805811",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:45.697663"
+    },
+    {
+      "job_id": "1754467829.814386",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:51.626370"
+    },
+    {
+      "job_id": "1754467829.830557",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:54.181568"
+    },
+    {
+      "job_id": "1754467829.839699",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:54.813703"
+    },
+    {
+      "job_id": "1754467829.822505",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:22:56.938548"
+    },
+    {
+      "job_id": "1754467829.856634",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:05.620907"
+    },
+    {
+      "job_id": "1754467829.848058",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:08.120651"
+    },
+    {
+      "job_id": "1754467829.888349",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:18.029662"
+    },
+    {
+      "job_id": "1754467829.881133",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:19.321034"
+    },
+    {
+      "job_id": "1754467829.864958",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:20.827198"
+    },
+    {
+      "job_id": "1754467829.896895",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:24.056057"
+    },
+    {
+      "job_id": "1754467829.905424",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:27.197157"
+    },
+    {
+      "job_id": "1754467829.873043",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:33.048783"
+    },
+    {
+      "job_id": "1754467829.921323",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:36.358600"
+    },
+    {
+      "job_id": "1754467829.95429",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:41.761499"
+    },
+    {
+      "job_id": "1754467829.93885",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:42.322831"
+    },
+    {
+      "job_id": "1754467829.930032",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:44.332483"
+    },
+    {
+      "job_id": "1754467829.962413",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:45.704259"
+    },
+    {
+      "job_id": "1754467829.94731",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:49.498034"
+    },
+    {
+      "job_id": "1754467829.970469",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:23:50.161297"
+    },
+    {
+      "job_id": "1754467829.99337",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:01.051791"
+    },
+    {
+      "job_id": "1754467830.009173",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:07.890253"
+    },
+    {
+      "job_id": "1754467829.977339",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:08.355492"
+    },
+    {
+      "job_id": "1754467830.00082",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:08.854240"
+    },
+    {
+      "job_id": "1754467829.985429",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:09.564960"
+    },
+    {
+      "job_id": "1754467830.017711",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:10.389283"
+    },
+    {
+      "job_id": "1754467830.026863",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:12.868961"
+    },
+    {
+      "job_id": "1754467830.034849",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:23.653804"
+    },
+    {
+      "job_id": "1754467830.050844",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:28.536483"
+    },
+    {
+      "job_id": "1754467830.074669",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:30.784766"
+    },
+    {
+      "job_id": "1754467830.04334",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:34.659730"
+    },
+    {
+      "job_id": "1754467830.067042",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:35.712107"
+    },
+    {
+      "job_id": "1754467830.05925",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:48.353060"
+    },
+    {
+      "job_id": "1754467830.122723",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:49.700548"
+    },
+    {
+      "job_id": "1754467830.097524",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:52.900612"
+    },
+    {
+      "job_id": "1754467830.08283",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:55.394011"
+    },
+    {
+      "job_id": "1754467830.113935",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:24:58.386017"
+    },
+    {
+      "job_id": "1754467830.10564",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:00.087019"
+    },
+    {
+      "job_id": "1754467830.090158",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:01.891512"
+    },
+    {
+      "job_id": "1754467830.131782",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:12.508467"
+    },
+    {
+      "job_id": "1754467830.164638",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:12.981361"
+    },
+    {
+      "job_id": "1754467830.179409",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:14.794918"
+    },
+    {
+      "job_id": "1754467830.142138",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:16.165022"
+    },
+    {
+      "job_id": "1754467830.185793",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:19.130859"
+    },
+    {
+      "job_id": "1754467830.172925",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:20.503725"
+    },
+    {
+      "job_id": "1754467830.189654",
+      "scraper_id": "food_lifeline_wa",
+      "timestamp": "2025-08-06T08:25:21.068737"
+    },
+    {
+      "job_id": "1754467830.196834",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:28.000211"
+    },
+    {
+      "job_id": "1754467830.220564",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:35.937441"
+    },
+    {
+      "job_id": "1754467830.204854",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:37.041778"
+    },
+    {
+      "job_id": "1754467830.240005",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:40.314251"
+    },
+    {
+      "job_id": "1754467830.252991",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:50.024035"
+    },
+    {
+      "job_id": "1754467830.227031",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:51.879846"
+    },
+    {
+      "job_id": "1754467830.24699",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:52.758989"
+    },
+    {
+      "job_id": "1754467830.234024",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:53.773328"
+    },
+    {
+      "job_id": "1754467830.259005",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:25:55.199959"
+    },
+    {
+      "job_id": "1754467830.270719",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:04.710658"
+    },
+    {
+      "job_id": "1754467830.31536",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:06.748143"
+    },
+    {
+      "job_id": "1754467830.322802",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:08.985545"
+    },
+    {
+      "job_id": "1754467830.330175",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:13.415408"
+    },
+    {
+      "job_id": "1754467830.343227",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:13.949220"
+    },
+    {
+      "job_id": "1754467830.336599",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:19.022062"
+    },
+    {
+      "job_id": "1754467830.26484",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:21.962504"
+    },
+    {
+      "job_id": "1754467830.349521",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:27.699355"
+    },
+    {
+      "job_id": "1754467830.362821",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:31.341060"
+    },
+    {
+      "job_id": "1754467830.36968",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:36.660550"
+    },
+    {
+      "job_id": "1754467830.388766",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:43.196188"
+    },
+    {
+      "job_id": "1754467830.395054",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:47.211311"
+    },
+    {
+      "job_id": "1754467830.401274",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:48.337135"
+    },
+    {
+      "job_id": "1754467830.356632",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:50.539807"
+    },
+    {
+      "job_id": "1754467830.382504",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:51.458533"
+    },
+    {
+      "job_id": "1754467830.37613",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:26:52.909322"
+    },
+    {
+      "job_id": "1754467830.408371",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:05.885742"
+    },
+    {
+      "job_id": "1754467830.44148",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:10.062477"
+    },
+    {
+      "job_id": "1754467830.426903",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:11.656543"
+    },
+    {
+      "job_id": "1754467830.434427",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:16.258877"
+    },
+    {
+      "job_id": "1754467830.414149",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:17.663060"
+    },
+    {
+      "job_id": "1754467830.44844",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:21.232940"
+    },
+    {
+      "job_id": "1754467830.420475",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:23.197505"
+    },
+    {
+      "job_id": "1754467830.455203",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:29.821816"
+    },
+    {
+      "job_id": "1754467830.47042",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:30.289221"
+    },
+    {
+      "job_id": "1754467830.462953",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:32.198444"
+    },
+    {
+      "job_id": "1754467830.477883",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:33.334391"
+    },
+    {
+      "job_id": "1754467830.491464",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:38.584722"
+    },
+    {
+      "job_id": "1754467830.499706",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:43.727093"
+    },
+    {
+      "job_id": "1754467830.485143",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:45.820369"
+    },
+    {
+      "job_id": "1754467830.513499",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:49.014640"
+    },
+    {
+      "job_id": "1754467830.507503",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:27:49.564702"
+    },
+    {
+      "job_id": "1754467830.533669",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:06.192783"
+    },
+    {
+      "job_id": "1754467830.552471",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:09.802447"
+    },
+    {
+      "job_id": "1754467830.545653",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:10.303394"
+    },
+    {
+      "job_id": "1754467830.526554",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:11.731759"
+    },
+    {
+      "job_id": "1754467830.539641",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:15.958178"
+    },
+    {
+      "job_id": "1754467830.519621",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:17.513827"
+    },
+    {
+      "job_id": "1754467830.564545",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:22.130316"
+    },
+    {
+      "job_id": "1754467830.558583",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:22.762810"
+    },
+    {
+      "job_id": "1754467830.584334",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:25.154778"
+    },
+    {
+      "job_id": "1754467830.577904",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:26.328392"
+    },
+    {
+      "job_id": "1754467830.570905",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:29.719379"
+    },
+    {
+      "job_id": "1754467830.590486",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:33.856692"
+    },
+    {
+      "job_id": "1754467830.596746",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:37.391995"
+    },
+    {
+      "job_id": "1754467830.608976",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:42.135496"
+    },
+    {
+      "job_id": "1754467830.627478",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:48.741129"
+    },
+    {
+      "job_id": "1754467830.62119",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:49.558485"
+    },
+    {
+      "job_id": "1754467830.602877",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:50.926577"
+    },
+    {
+      "job_id": "1754467830.641134",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:57.122261"
+    },
+    {
+      "job_id": "1754467830.634873",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:28:57.570231"
+    },
+    {
+      "job_id": "1754467830.615112",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:29:05.144727"
+    },
+    {
+      "job_id": "1754467830.655233",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:29:10.345147"
+    },
+    {
+      "job_id": "1754467830.647855",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:29:10.797803"
+    },
+    {
+      "job_id": "1754467830.662249",
+      "scraper_id": "freshtrak",
+      "timestamp": "2025-08-06T08:29:17.553523"
     }
   ]
 }
