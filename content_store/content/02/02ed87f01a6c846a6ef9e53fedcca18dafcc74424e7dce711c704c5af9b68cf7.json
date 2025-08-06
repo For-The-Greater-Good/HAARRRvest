@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1614, \"name\": \"SVDP/Immaculate Conception Food Pantry\", \"nickname\": \"SVDP/Immaculate Conception Food Pantry\", \"address\": \"2101 17th St SW\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44314\", \"phone\": \"330-753-8429\", \"latitude\": 41.04641, \"longitude\": -81.56125, \"estimated_distance\": 902.7, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2423, \"name\": \"Pantry\", \"address\": \"2101 17th St SW\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44314\", \"latitude\": 41.0466016, \"longitude\": -81.56139536, \"event_details\": \"Regular Hours - Thursday from 12-2pm | Appointments Required: self-schedule with the red \\\"Book Now\\\" button or call 330-848-2803 on Tuesdays 10am-2pm | Households can receive assistance once each month | Services 44314\", \"estimated_distance\": 902.7, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358824, \"event_id\": 2423, \"capacity\": 20, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-07\"}, {\"id\": 358825, \"event_id\": 2423, \"capacity\": 20, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-14\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.583387"
+}

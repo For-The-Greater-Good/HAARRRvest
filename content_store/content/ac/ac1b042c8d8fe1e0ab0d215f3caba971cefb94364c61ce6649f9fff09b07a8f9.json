@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1842, \"name\": \"Pickaway County Community Action\", \"nickname\": \"PICCA\", \"address\": \"469 E OHIO ST\", \"city\": \"CIRCLEVILLE\", \"state\": \"OH\", \"zip\": \"43113\", \"phone\": \"740-477-1655\", \"latitude\": 39.59265, \"longitude\": -82.93792, \"estimated_distance\": 835.33, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2813, \"name\": \"Circleville Produce\", \"address\": \"722 Clinton St\", \"city\": \"CIRCLEVILLE\", \"state\": \"OH\", \"zip\": \"43113\", \"latitude\": 39.5926102, \"longitude\": -82.9380847, \"event_details\": \"\", \"estimated_distance\": 835.33, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360889, \"event_id\": 2813, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-14\"}, {\"id\": 360890, \"event_id\": 2813, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.726349"
+}

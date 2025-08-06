@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3611, \"name\": \"Cornerstone United Methodist Church\", \"nickname\": \"Cornerstone United Methodist Church\", \"address\": \"2949 W RIVER RD N\", \"city\": \"ELYRIA\", \"state\": \"OH\", \"zip\": \"44035\", \"phone\": \"\", \"latitude\": 41.4152, \"longitude\": -82.11209, \"estimated_distance\": 874.5, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6325, \"name\": \"Cornerstone Methodist Hot Meal\", \"address\": \"2949 W RIVER RD N\", \"city\": \"ELYRIA\", \"state\": \"OH\", \"zip\": \"44035\", \"latitude\": 41.40032455, \"longitude\": -82.1071986, \"event_details\": \"\", \"estimated_distance\": 874.5, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359511, \"event_id\": 6325, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"1:30 PM\", \"date\": \"2025-08-12\"}, {\"id\": 359512, \"event_id\": 6325, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:19.751156"
+}

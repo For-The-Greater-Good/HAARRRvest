@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4666, \"name\": \"Gloria's Welcoming Hands Inc\", \"nickname\": \"Gloria's Welcoming Hands Inc\", \"address\": \"150 Oakwood St\", \"city\": \"Ravenna\", \"state\": \"OH\", \"zip\": \"44266\", \"phone\": \"330-592-5000\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 918.65, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8618, \"name\": \"Pantry\", \"address\": \"150 Oakwood St\", \"city\": \"Ravenna\", \"state\": \"OH\", \"zip\": \"44266\", \"latitude\": 41.1603616, \"longitude\": -81.2566706, \"event_details\": \"Regular Hours - 2nd Wednesday from 9-2pm\", \"estimated_distance\": 918.65, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360257, \"event_id\": 8618, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-13\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:21.143283"
+}

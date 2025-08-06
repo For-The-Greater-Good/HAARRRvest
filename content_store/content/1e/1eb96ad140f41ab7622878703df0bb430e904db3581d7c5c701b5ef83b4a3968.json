@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1887, \"name\": \"Greater Bethlehem / Turnkey Dev\", \"nickname\": \"Greater Bethlehem GBTC\", \"address\": \"1725 E MAIN ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43205\", \"phone\": \"614-258-6263\", \"latitude\": 39.95722, \"longitude\": -82.95318, \"estimated_distance\": 832.2, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2882, \"name\": \"Pantry\", \"address\": \"1725 E MAIN ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43205\", \"latitude\": 39.9571111, \"longitude\": -82.9530647, \"event_details\": \"Drive Thru service\", \"estimated_distance\": 832.2, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355631, \"event_id\": 2882, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.745304"
+}

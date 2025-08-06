@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1729, \"name\": \"Victory Center Food Pantry\", \"nickname\": \"Victory Center\", \"address\": \"13488 CEMETERY RD\", \"city\": \"WAPAKONETA\", \"state\": \"OH\", \"zip\": \"45895\", \"phone\": \"419-303-8156\", \"latitude\": 40.52953, \"longitude\": -84.16439, \"estimated_distance\": 766.08, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2603, \"name\": \"Pantry\", \"address\": \"13488 CEMETERY RD\", \"city\": \"WAPAKONETA\", \"state\": \"OH\", \"zip\": \"45895\", \"latitude\": 40.5478113, \"longitude\": -84.16453186, \"event_details\": \"\", \"estimated_distance\": 766.08, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357879, \"event_id\": 2603, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.677526"
+}

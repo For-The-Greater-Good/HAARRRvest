@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3790, \"name\": \"ACRFB Pop-Up (Stark)\", \"nickname\": \"ACRFB Pop-Up (Stark)\", \"address\": \"2628 13th St SW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44710\", \"phone\": \"330-535-6900\", \"latitude\": 40.78792, \"longitude\": -81.40438, \"estimated_distance\": 911.2, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 9118, \"name\": \"Pantry\", \"address\": \"1400 Sherrick Rd SE\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44707\", \"latitude\": 40.7849186, \"longitude\": -81.3628625, \"event_details\": \"Regular Hours - 1st Tuesday from 2-4pm\", \"estimated_distance\": 913.39, \"exception_note\": \"\", \"event_dates\": [{\"id\": 367966, \"event_id\": 9118, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-09-02\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:20.128446"
+}

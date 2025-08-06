@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4349, \"name\": \"MP - Bishop\", \"nickname\": \"MP Bishop\", \"address\": \"103 E JOYCE ST\", \"city\": \"BISHOP\", \"state\": \"TX\", \"zip\": \"78343\", \"phone\": \"(361)206-1714\", \"latitude\": 27.58143, \"longitude\": -97.80057, \"estimated_distance\": 852.28, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7936, \"name\": \"Mobile Pantry Bishop\", \"address\": \"103 E JOYCE ST\", \"city\": \"BISHOP\", \"state\": \"TX\", \"zip\": \"78343\", \"latitude\": 27.5817556, \"longitude\": -97.80074332, \"event_details\": \"\", \"estimated_distance\": 852.28, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358586, \"event_id\": 7936, \"capacity\": 80, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-06\"}, {\"id\": 365752, \"event_id\": 7936, \"capacity\": 80, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:20.663274"
+}

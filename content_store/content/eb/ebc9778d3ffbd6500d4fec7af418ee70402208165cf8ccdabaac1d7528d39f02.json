@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2989, \"name\": \"Vine Of Hope\", \"nickname\": \"Vine of Hope\", \"address\": \"1310 COLORADO AVE\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44052\", \"phone\": \"(440) 277-1335\", \"latitude\": 41.46511, \"longitude\": -82.15828, \"estimated_distance\": 871.96, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4736, \"name\": \"Pantry\", \"address\": \"1310 COLORADO AVE\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44052\", \"latitude\": 41.46512179, \"longitude\": -82.1587236, \"event_details\": \"\", \"estimated_distance\": 871.96, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361060, \"event_id\": 4736, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-12\"}, {\"id\": 361061, \"event_id\": 4736, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:19.221603"
+}

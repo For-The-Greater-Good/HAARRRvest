@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4090, \"name\": \"MP - Mi Casa Home Health Agency\", \"nickname\": \"Alice\", \"address\": \"2020 N JOHNSON ST\", \"city\": \"ALICE\", \"state\": \"TX\", \"zip\": \"78332\", \"phone\": \"(361)664-3900\", \"latitude\": 27.73989, \"longitude\": -98.08245, \"estimated_distance\": 840.6, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7290, \"name\": \"Alice Mobile Pantry\", \"address\": \"2020 N JOHNSON ST\", \"city\": \"ALICE\", \"state\": \"TX\", \"zip\": \"78332\", \"latitude\": 27.73977313, \"longitude\": -98.08245183, \"event_details\": \"Only residents with last names that begin with letters M-Z.\", \"estimated_distance\": 840.6, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357365, \"event_id\": 7290, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:20.431805"
+}

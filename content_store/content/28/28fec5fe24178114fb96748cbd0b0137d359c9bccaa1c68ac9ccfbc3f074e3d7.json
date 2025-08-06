@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2352, \"name\": \"Nueva Luz\", \"nickname\": \"Nueva Luz\", \"address\": \"221 W.21st\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44052\", \"phone\": \"440-233-1086\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 871.46, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3745, \"name\": \"Pantry\", \"address\": \"221 W.21st\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44052\", \"latitude\": 41.45132329, \"longitude\": -82.16774924, \"event_details\": \"By Appointment only. Call 440-233-1086 to schedule an appointment!\", \"estimated_distance\": 871.46, \"exception_note\": \"By appointment only, call 440-233-1086\", \"event_dates\": [{\"id\": 360701, \"event_id\": 3745, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-14\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.999305"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4364, \"name\": \"Care on the Square\", \"nickname\": \"Care on the Square\", \"address\": \"1226 Substation Rd\", \"city\": \"Brunswick\", \"state\": \"OH\", \"zip\": \"44212\", \"phone\": \"330-225-4600\", \"latitude\": 41.24116, \"longitude\": -81.86074, \"estimated_distance\": 887.11, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7979, \"name\": \"Pantry\", \"address\": \"1226 Substation Rd\", \"city\": \"Brunswick\", \"state\": \"OH\", \"zip\": \"44212\", \"latitude\": 41.24165361, \"longitude\": -81.8607131, \"event_details\": \"Regular Hours - 3rd Saturday from 10-12pm | Intended for Medina residents\", \"estimated_distance\": 887.11, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359581, \"event_id\": 7979, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:20.687087"
+}

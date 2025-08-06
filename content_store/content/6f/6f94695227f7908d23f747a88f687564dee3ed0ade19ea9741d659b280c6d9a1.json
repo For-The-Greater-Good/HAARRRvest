@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3151, \"name\": \"North Canton Cares Pantry LLC/The Summit Church\", \"nickname\": \"The Summit Church\", \"address\": \"1300 Pittsburg Ave NW\", \"city\": \"North Canton\", \"state\": \"OH\", \"zip\": \"44720\", \"phone\": \"330-871-9282\", \"latitude\": 40.89033, \"longitude\": -81.41953, \"estimated_distance\": 910.28, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4993, \"name\": \"Pantry\", \"address\": \"1300 Pittsburg Ave NW\", \"city\": \"North Canton\", \"state\": \"OH\", \"zip\": \"44720\", \"latitude\": 40.88984434, \"longitude\": -81.41906333, \"event_details\": \"Regular Hours - 2nd and 4th Monday from 5-7pm | Intended for residents in North Canton City School District including the following zip codes: 44270, 44685, 44718, 44709, 44721, and 44630 | As well as all Veterans and Military families | Website: mccpantry.com\", \"estimated_distance\": 910.28, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359122, \"event_id\": 4993, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"7:30 PM\", \"date\": \"2025-08-11\"}, {\"id\": 359123, \"event_id\": 4993, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"7:30 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:19.279296"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3899, \"name\": \"Guys and Gals Community Partnership Inc.\", \"nickname\": \"Guys and Gals\", \"address\": \"327 Cuyahoga St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"phone\": \"330-689-8816\", \"latitude\": 41.10027, \"longitude\": -81.52178, \"estimated_distance\": 904.78, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6964, \"name\": \"Pantry\", \"address\": \"327 Cuyahoga St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"latitude\": 41.0992745, \"longitude\": -81.5214827, \"event_details\": \"Regular Hours - 4th Tuesday from 12-2pm\", \"estimated_distance\": 904.78, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360127, \"event_id\": 6964, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:20.280461"
+}

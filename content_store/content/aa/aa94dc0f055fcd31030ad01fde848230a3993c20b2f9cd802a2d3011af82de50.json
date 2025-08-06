@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 356, \"name\": \"Sarah's House Inc\", \"nickname\": \"Sarah's House Inc\", \"address\": \"414 Pine St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44307\", \"phone\": \"330-535-7272\", \"latitude\": 41.0772, \"longitude\": -81.52933, \"estimated_distance\": 904.37, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 503, \"name\": \"Pantry\", \"address\": \"414 Pine St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44307\", \"latitude\": 41.07721873, \"longitude\": -81.52934226, \"event_details\": \"Regular Hours - 1st Sunday from 8-9:30am and the 3rd Saturday from 3-5pm\", \"estimated_distance\": 904.37, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358964, \"event_id\": 503, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}, {\"id\": 8491, \"name\": \"Meal\", \"address\": \"414 Pine St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44307\", \"latitude\": 41.07721873, \"longitude\": -81.52934226, \"event_details\": \"Regular Hours - 3rd Saturday from 8-10am | Meals to Go\", \"estimated_distance\": 904.37, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361062, \"event_id\": 8491, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:16.868908"
+}

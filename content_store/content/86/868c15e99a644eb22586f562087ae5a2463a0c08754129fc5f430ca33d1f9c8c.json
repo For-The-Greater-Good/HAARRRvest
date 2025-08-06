@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1000, \"name\": \"First Baptist Church of Akron\", \"nickname\": \"First Baptist Church of Akron\", \"address\": \"1670 Shatto Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44313\", \"phone\": \"330-666-3564\", \"latitude\": 41.11587, \"longitude\": -81.57289, \"estimated_distance\": 902.09, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1460, \"name\": \"Pantry\", \"address\": \"1670 Shatto Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44313\", \"latitude\": 41.11587624, \"longitude\": -81.57289393, \"event_details\": \"Regular Hours - 3rd Saturday from 12-2pm | Drive-thru only.\", \"estimated_distance\": 902.09, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358920, \"event_id\": 1460, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.063336"
+}

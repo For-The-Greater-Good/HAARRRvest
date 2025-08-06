@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3939, \"name\": \"New Hope Baptist Church\", \"nickname\": \"New Hope\", \"address\": \"1706 S Hawkins Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44320\", \"phone\": \"330-865-9472\", \"latitude\": 41.0622, \"longitude\": -81.57008, \"estimated_distance\": 902.25, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7067, \"name\": \"Pantry\", \"address\": \"1706 S Hawkins Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44320\", \"latitude\": 41.0627158, \"longitude\": -81.5699012, \"event_details\": \"Regular Hours - 4th Saturday from 11:30-1pm\", \"estimated_distance\": 902.25, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360150, \"event_id\": 7067, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11:30 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:20.292462"
+}

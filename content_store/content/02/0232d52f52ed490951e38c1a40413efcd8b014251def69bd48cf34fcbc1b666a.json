@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 226, \"name\": \"Pantry Plus of Seneca County\", \"nickname\": \"Pantry Plus\", \"address\": \"115 S MAIN ST\", \"city\": \"FOSTORIA\", \"state\": \"OH\", \"zip\": \"44830\", \"phone\": \"419-619-0183\", \"latitude\": 41.15663, \"longitude\": -83.41415, \"estimated_distance\": 805.77, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 305, \"name\": \"Pantry\", \"address\": \"115 S MAIN ST\", \"city\": \"FOSTORIA\", \"state\": \"OH\", \"zip\": \"44830\", \"latitude\": 41.1569901, \"longitude\": -83.414242, \"event_details\": \"\", \"estimated_distance\": 805.77, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358382, \"event_id\": 305, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-19\"}, {\"id\": 358383, \"event_id\": 305, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:16.613865"
+}

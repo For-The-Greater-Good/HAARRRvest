@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 332, \"name\": \"Outreach Mission Pantry\", \"nickname\": \"Outreach Mission Pantry\", \"address\": \"112 LINCOLN AVE\", \"city\": \"PLEASANTVILLE\", \"state\": \"OH\", \"zip\": \"43148\", \"phone\": \"740-468-3257\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 856.01, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5598, \"name\": \"Drive Thru\", \"address\": \"112 LINCOLN AVE\", \"city\": \"PLEASANTVILLE\", \"state\": \"OH\", \"zip\": \"43148\", \"latitude\": 39.8083177, \"longitude\": -82.5214868, \"event_details\": \"Pleasantville residents only, please.\", \"estimated_distance\": 856.01, \"exception_note\": \"Pleasantville Township Residents Only\", \"event_dates\": [{\"id\": 355197, \"event_id\": 5598, \"capacity\": 26, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:16.771382"
+}

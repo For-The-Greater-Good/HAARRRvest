@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 5029, \"name\": \"Manchester Christian Church\", \"nickname\": \"Manchester Christian Church\", \"address\": \"930 W Nimisila Rd\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44319\", \"phone\": \"(330)882-4116\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 902.45, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 9354, \"name\": \"Pantry\", \"address\": \"930 W Nimisila Rd\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44319\", \"latitude\": 40.9373243, \"longitude\": -81.5673188, \"event_details\": \"Regular Hours - 1st and 3rd Saturday from 12- 2 pm\", \"estimated_distance\": 902.45, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361114, \"event_id\": 9354, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-16\"}, {\"id\": 368231, \"event_id\": 9354, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-09-06\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:21.348806"
+}

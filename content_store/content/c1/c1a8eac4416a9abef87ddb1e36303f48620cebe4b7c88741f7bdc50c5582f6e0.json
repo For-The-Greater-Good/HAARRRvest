@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1118, \"name\": \"Marcia Branson Zion Baptist Church Pantry\", \"nickname\": \"Zion Baptist Church\", \"address\": \"536 Mill St\", \"city\": \"CHILLICOTHE\", \"state\": \"OH\", \"zip\": \"45601\", \"phone\": \"740-775-0343\", \"latitude\": 39.35461, \"longitude\": -83.04716, \"estimated_distance\": 831.44, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1612, \"name\": \"Zion Pantry\", \"address\": \"536 Mill St\", \"city\": \"CHILLICOTHE\", \"state\": \"OH\", \"zip\": \"45601\", \"latitude\": 39.35461112, \"longitude\": -83.04716635, \"event_details\": \"\", \"estimated_distance\": 831.44, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355070, \"event_id\": 1612, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-12\"}, {\"id\": 355071, \"event_id\": 1612, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.196218"
+}

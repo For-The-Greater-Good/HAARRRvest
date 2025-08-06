@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2248, \"name\": \"Holy Spirit Catholic Church\", \"nickname\": \"Holy Spirit Catholic Church\", \"address\": \"4383 E BROAD ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43213\", \"phone\": \"614-579-1423\", \"latitude\": 39.97512, \"longitude\": -82.88126, \"estimated_distance\": 835.79, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3516, \"name\": \"Produce Market\", \"address\": \"4383 E BROAD ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43213\", \"latitude\": 39.97430094, \"longitude\": -82.8838093, \"event_details\": \"\", \"estimated_distance\": 835.79, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356492, \"event_id\": 3516, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-08\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.904481"
+}

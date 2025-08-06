@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 787, \"name\": \"Word of God Community Church\", \"nickname\": \"Word of God Community Church\", \"address\": \"5445 Third St\", \"city\": \"ROSEVILLE\", \"state\": \"OH\", \"zip\": \"43777\", \"phone\": \"740-684-8444\", \"latitude\": 39.80016, \"longitude\": -82.07422, \"estimated_distance\": 879.98, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1118, \"name\": \"Mobile Market\", \"address\": \"5445 Third St\", \"city\": \"ROSEVILLE\", \"state\": \"OH\", \"zip\": \"43777\", \"latitude\": 39.80000691, \"longitude\": -82.07160343, \"event_details\": \"\", \"estimated_distance\": 879.98, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359558, \"event_id\": 1118, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-12\"}, {\"id\": 359559, \"event_id\": 1118, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:17.799464"
+}

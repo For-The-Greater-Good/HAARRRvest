@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 742, \"name\": \"Mt.Olivet Food Pantry\", \"nickname\": \"Mt.Olivet Food Pantry\", \"address\": \"428 E MAIN ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43215\", \"phone\": \"614-235-7745\", \"latitude\": 39.958, \"longitude\": -82.98798, \"estimated_distance\": 830.4, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1047, \"name\": \"Pantry\", \"address\": \"428 E MAIN ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43215\", \"latitude\": 39.95767542, \"longitude\": -82.98690866, \"event_details\": \"\", \"estimated_distance\": 830.4, \"exception_note\": \"\", \"event_dates\": [{\"id\": 354767, \"event_id\": 1047, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-27\"}, {\"id\": 354768, \"event_id\": 1047, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-13\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:17.743532"
+}

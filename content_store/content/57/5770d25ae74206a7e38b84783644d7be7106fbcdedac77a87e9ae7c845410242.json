@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1541, \"name\": \"Resurrection Evangelical Lutheran Church\", \"nickname\": \"BOLD / Res Evang Lutheran\", \"address\": \"3500 MAIN ST\", \"city\": \"HILLIARD\", \"state\": \"OH\", \"zip\": \"43026\", \"phone\": \"614-876-7926\", \"latitude\": 40.02294, \"longitude\": -83.16013, \"estimated_distance\": 820.9, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2305, \"name\": \"Pantry\", \"address\": \"3500 MAIN ST\", \"city\": \"HILLIARD\", \"state\": \"OH\", \"zip\": \"43026\", \"latitude\": 40.0229603, \"longitude\": -83.159605, \"event_details\": \"Drive Thru Service provided weekly.  Lots of fresh foods and vegetables.\", \"estimated_distance\": 820.9, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355597, \"event_id\": 2305, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-11\"}, {\"id\": 355598, \"event_id\": 2305, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-18\"}, {\"id\": 355599, \"event_id\": 2305, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.546030"
+}

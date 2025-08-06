@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3962, \"name\": \"Church Of The Open Door/We Care Elyria\", \"nickname\": \"Church Of The Open Door/We Care Elyria\", \"address\": \"43275 TELEGRAPH RD\", \"city\": \"ELYRIA\", \"state\": \"OH\", \"zip\": \"44035\", \"phone\": \"440-323-4644\", \"latitude\": 41.37256, \"longitude\": -82.16007, \"estimated_distance\": 870.62, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7098, \"name\": \"Food Pantry\", \"address\": \"43275 TELEGRAPH RD\", \"city\": \"ELYRIA\", \"state\": \"OH\", \"zip\": \"44035\", \"latitude\": 41.4334243, \"longitude\": -82.1831092, \"event_details\": \"By appointment only! Sign up at http://www.elyriacares.com. Serving residents of Lorain County. Delivery available to ELYRIA residents who are seniors and/or disabled individuals. Call 440-420-4344 for more information!\", \"estimated_distance\": 870.62, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357315, \"event_id\": 7098, \"capacity\": 200, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-15\"}, {\"id\": 364478, \"event_id\": 7098, \"capacity\": 200, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-05\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:20.303897"
+}

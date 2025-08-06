@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 963, \"name\": \"College Drive Presbyterian Pantry\", \"nickname\": \"College Drive Presbyterian Pantry\", \"address\": \"2 W HIGH ST\", \"city\": \"NEW CONCORD\", \"state\": \"OH\", \"zip\": \"43762\", \"phone\": \"740 826-4036\", \"latitude\": 39.99458, \"longitude\": -81.73757, \"estimated_distance\": 896.52, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1409, \"name\": \"Pantry\", \"address\": \"2 W HIGH ST\", \"city\": \"NEW CONCORD\", \"state\": \"OH\", \"zip\": \"43762\", \"latitude\": 39.99458993, \"longitude\": -81.73757959, \"event_details\": \"\", \"estimated_distance\": 896.52, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360515, \"event_id\": 1409, \"capacity\": 8, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-13\"}, {\"id\": 360516, \"event_id\": 1409, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"3:30 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.037808"
+}

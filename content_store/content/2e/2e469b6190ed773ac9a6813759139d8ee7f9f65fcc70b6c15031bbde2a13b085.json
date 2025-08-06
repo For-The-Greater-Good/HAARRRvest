@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3479, \"name\": \"Beatty Park Recreation Center\", \"nickname\": \"Beatty Park Recreation Center\", \"address\": \"247 N OHIO AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43203\", \"phone\": \"\", \"latitude\": 39.97077, \"longitude\": -82.9701, \"estimated_distance\": 831.24, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6037, \"name\": \"market\", \"address\": \"247 N OHIO AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43203\", \"latitude\": 39.9707018, \"longitude\": -82.9698695, \"event_details\": \"\", \"estimated_distance\": 831.24, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360247, \"event_id\": 6037, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-15\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:19.457880"
+}

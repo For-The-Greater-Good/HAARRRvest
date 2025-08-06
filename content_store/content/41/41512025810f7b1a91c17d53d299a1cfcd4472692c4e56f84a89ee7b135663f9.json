@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1673, \"name\": \"Family Resource Center\", \"nickname\": \"Family Resource Center\", \"address\": \"311 W Aurora Rd\", \"city\": \"Northfield\", \"state\": \"OH\", \"zip\": \"44067\", \"phone\": \"330-467-7939\", \"latitude\": 41.31526, \"longitude\": -81.55028, \"estimated_distance\": 903.4, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2517, \"name\": \"Pantry\", \"address\": \"311 W Aurora Rd\", \"city\": \"Northfield\", \"state\": \"OH\", \"zip\": \"44067\", \"latitude\": 41.31526814, \"longitude\": -81.55028891, \"event_details\": \"Regular Hours - 1st Tuesday from 7-7:45pm and 3rd Saturday from 9:30-10:15am.\", \"estimated_distance\": 903.4, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358903, \"event_id\": 2517, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9:30 AM\", \"end_time\": \"10:15 AM\", \"date\": \"2025-08-16\"}, {\"id\": 366064, \"event_id\": 2517, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"7 PM\", \"end_time\": \"7:45 PM\", \"date\": \"2025-09-02\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.640330"
+}

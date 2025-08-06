@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2301, \"name\": \"Second Chance Church Pantry\", \"nickname\": \"Second Chance Church Pantry\", \"address\": \"3833 WESTERVILLE RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43224\", \"phone\": \"\", \"latitude\": 40.04793, \"longitude\": -82.94572, \"estimated_distance\": 832.13, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3618, \"name\": \"Pantry\", \"address\": \"3833 WESTERVILLE RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43224\", \"latitude\": 40.04793005, \"longitude\": -82.94572169, \"event_details\": \"\", \"estimated_distance\": 832.13, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359523, \"event_id\": 3618, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-16\"}, {\"id\": 366693, \"event_id\": 3618, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-09-06\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.949022"
+}

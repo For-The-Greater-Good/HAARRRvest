@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1919, \"name\": \"Bethel Lutheran Church\", \"nickname\": \"BLC\", \"address\": \"4501 HOOVER RD\", \"city\": \"GROVE CITY\", \"state\": \"OH\", \"zip\": \"43123\", \"phone\": \"6148779638\", \"latitude\": 39.87247, \"longitude\": -83.07061, \"estimated_distance\": 826.42, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2950, \"name\": \"Produce Market\", \"address\": \"4501 HOOVER RD\", \"city\": \"GROVE CITY\", \"state\": \"OH\", \"zip\": \"43123\", \"latitude\": 39.8713436, \"longitude\": -83.0708242, \"event_details\": \"\", \"estimated_distance\": 826.42, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357345, \"event_id\": 2950, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.769416"
+}

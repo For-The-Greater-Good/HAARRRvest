@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1751, \"name\": \"Richland Road Church of Christ\", \"nickname\": \"Richland Road\", \"address\": \"535 RICHLAND RD\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"phone\": \"740-389-1017\", \"latitude\": 40.57479, \"longitude\": -83.09807, \"estimated_distance\": 822.34, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2635, \"name\": \"Pantry\", \"address\": \"535 RICHLAND RD\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"latitude\": 40.5750761, \"longitude\": -83.0979478, \"event_details\": \"\", \"estimated_distance\": 822.34, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355793, \"event_id\": 2635, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-30\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:18.690361"
+}

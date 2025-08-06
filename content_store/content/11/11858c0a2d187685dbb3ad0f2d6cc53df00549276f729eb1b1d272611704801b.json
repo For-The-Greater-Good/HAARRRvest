@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 412, \"name\": \"Nelson Garrettsville Community Cupboard\", \"nickname\": \"Nelson Garrettsville Community Cupboard\", \"address\": \"8233 Park Ave\", \"city\": \"Garrettsville\", \"state\": \"OH\", \"zip\": \"44231\", \"phone\": \"330-527-2011\", \"latitude\": 41.2805, \"longitude\": -81.09602, \"estimated_distance\": 927.01, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 576, \"name\": \"Pantry\", \"address\": \"8233 Park Ave\", \"city\": \"Garrettsville\", \"state\": \"OH\", \"zip\": \"44231\", \"latitude\": 41.2852152, \"longitude\": -81.0929142, \"event_details\": \"Regular Hours - 1st Monday from 3-5pm and 2nd Wednesday from 9-11:30am | Temporarily drive through--please make sure to clean out trunk. | For delivery: First Tuesday after the first Monday and the following Wednesday are the delivery days. Call to be put on schedule.\", \"estimated_distance\": 927.25, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359395, \"event_id\": 576, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11:30 AM\", \"date\": \"2025-08-13\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:16.952168"
+}

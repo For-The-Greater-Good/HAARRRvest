@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 374, \"name\": \"Lockwood United Methodist Church\", \"nickname\": \"Lockwood United Methodist Church\", \"address\": \"3680 Manchester Rd\", \"city\": \"Coventry Township\", \"state\": \"OH\", \"zip\": \"44319\", \"phone\": \"330-644-2227\", \"latitude\": 40.99943, \"longitude\": -81.55746, \"estimated_distance\": 902.94, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 530, \"name\": \"Pantry\", \"address\": \"3680 Manchester Rd\", \"city\": \"Coventry Township\", \"state\": \"OH\", \"zip\": \"44319\", \"latitude\": 41.00010556, \"longitude\": -81.55723146, \"event_details\": \"Regular Hours - 2nd and 4th Wednesday from 9:30-12pm\", \"estimated_distance\": 902.94, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358947, \"event_id\": 530, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9:30 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-13\"}, {\"id\": 358948, \"event_id\": 530, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9:30 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:16.912553"
+}

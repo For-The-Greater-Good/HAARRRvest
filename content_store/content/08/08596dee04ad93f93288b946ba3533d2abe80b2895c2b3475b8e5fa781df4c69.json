@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 78, \"name\": \"Vinton Baptist Church\", \"nickname\": \"VBC\", \"address\": \"11818 STATE ROUTE 160\", \"city\": \"VINTON\", \"state\": \"OH\", \"zip\": \"45686\", \"phone\": \"740-388-8671\", \"latitude\": 38.95739, \"longitude\": -82.29884, \"estimated_distance\": 875.27, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 117, \"name\": \"Vinton Baptist Church Food Pantry\", \"address\": \"11818 STATE ROUTE 160\", \"city\": \"VINTON\", \"state\": \"OH\", \"zip\": \"45686\", \"latitude\": 38.9577748, \"longitude\": -82.2989156, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. \\nPhone Number: (740) 388-8454\", \"estimated_distance\": 875.27, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357505, \"event_id\": 117, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2:30 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-11\"}, {\"id\": 357506, \"event_id\": 117, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2:30 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-18\"}, {\"id\": 357507, \"event_id\": 117, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2:30 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:16.345703"
+}

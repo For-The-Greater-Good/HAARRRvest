@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4362, \"name\": \"Seville Community Food Pantry\", \"nickname\": \"Seville Community Food Pantry\", \"address\": \"74 W Main St\", \"city\": \"Seville\", \"state\": \"OH\", \"zip\": \"44273\", \"phone\": \"330-769-2836\", \"latitude\": 41.01021, \"longitude\": -81.86626, \"estimated_distance\": 886.74, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7967, \"name\": \"Pantry\", \"address\": \"74 W Main St\", \"city\": \"Seville\", \"state\": \"OH\", \"zip\": \"44273\", \"latitude\": 41.01020765, \"longitude\": -81.86595047, \"event_details\": \"Regular Hours - 1st Monday from 6-7pm and 3rd Saturday from 10-12pm | Intended for residents of Seville and surrounding areas.\", \"estimated_distance\": 886.74, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360697, \"event_id\": 7967, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:20.681230"
+}

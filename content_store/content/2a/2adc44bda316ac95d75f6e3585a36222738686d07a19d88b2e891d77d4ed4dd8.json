@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4142, \"name\": \"MP - Falfurrias\", \"nickname\": \"Falfurrias\", \"address\": \"408 W TRAVIS ST\", \"city\": \"FALFURRIAS\", \"state\": \"TX\", \"zip\": \"78355\", \"phone\": \"\", \"latitude\": 27.23465, \"longitude\": -98.14729, \"estimated_distance\": 875.57, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7398, \"name\": \"Mobile Pantry\", \"address\": \"408 W TRAVIS ST\", \"city\": \"FALFURRIAS\", \"state\": \"TX\", \"zip\": \"78355\", \"latitude\": 27.23465331, \"longitude\": -98.14729572, \"event_details\": \"\", \"estimated_distance\": 875.57, \"exception_note\": \"\", \"event_dates\": [{\"id\": 364610, \"event_id\": 7398, \"capacity\": 250, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-05\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-06T07:40:20.513879"
+}
