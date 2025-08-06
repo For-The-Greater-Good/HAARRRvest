@@ -1,0 +1,22 @@
+{
+  "job_id": "1cefa239-e213-431d-84c1-7d3cb83e5abc",
+  "job": {
+    "id": "1cefa239-e213-431d-84c1-7d3cb83e5abc",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-08-06 05:40:02.546213+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
