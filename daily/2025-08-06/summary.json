@@ -1,11 +1,11 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 124,
+  "total_jobs": 136,
   "scrapers": {
     "unknown": {
-      "count": 124,
+      "count": 136,
       "first_job": "2025-08-06T00:28:40.248389",
-      "last_job": "2025-08-06T05:42:24.287324"
+      "last_job": "2025-08-06T05:46:42.343892"
     }
   },
   "jobs": [
@@ -628,6 +628,66 @@
       "job_id": "test-job",
       "scraper_id": "unknown",
       "timestamp": "2025-08-06T05:42:24.287324"
+    },
+    {
+      "job_id": "4a2e8575-09ad-4ea6-be34-e4b2a29aa939",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:43:33.688798"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:43:34.187029"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:43:34.651167"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:43:35.099961"
+    },
+    {
+      "job_id": "2b01716e-c18a-4472-83fc-0d43e042e6ae",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:44:57.505088"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:44:57.966361"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:44:58.423616"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:44:58.869323"
+    },
+    {
+      "job_id": "ffb37ed4-c54d-447b-a34b-e326cbac1fc5",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:46:40.910877"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:46:41.411131"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:46:41.878065"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T05:46:42.343892"
     }
   ]
 }
