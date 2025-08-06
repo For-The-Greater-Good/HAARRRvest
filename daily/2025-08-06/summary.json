@@ -1,6 +1,6 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 800,
+  "total_jobs": 826,
   "scrapers": {
     "unknown": {
       "count": 166,
@@ -33,9 +33,14 @@
       "last_job": "2025-08-06T07:26:24.149961"
     },
     "food_bank_of_western_massachusetts_ma": {
-      "count": 127,
+      "count": 152,
       "first_job": "2025-08-06T07:30:06.887637",
-      "last_job": "2025-08-06T07:35:18.768781"
+      "last_job": "2025-08-06T07:40:42.717540"
+    },
+    "central_pennsylvania_food_bank_pa": {
+      "count": 1,
+      "first_job": "2025-08-06T07:39:41.016482",
+      "last_job": "2025-08-06T07:39:41.016482"
     }
   },
   "jobs": [
@@ -4038,6 +4043,136 @@
       "job_id": "1754465385.753505",
       "scraper_id": "food_bank_of_western_massachusetts_ma",
       "timestamp": "2025-08-06T07:35:18.768781"
+    },
+    {
+      "job_id": "1754465969.360521",
+      "scraper_id": "central_pennsylvania_food_bank_pa",
+      "timestamp": "2025-08-06T07:39:41.016482"
+    },
+    {
+      "job_id": "1754465972.925521",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:39:50.381560"
+    },
+    {
+      "job_id": "1754465972.920942",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:39:51.004452"
+    },
+    {
+      "job_id": "1754465972.929312",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:39:51.512524"
+    },
+    {
+      "job_id": "1754465972.927387",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:39:52.078810"
+    },
+    {
+      "job_id": "1754465972.933116",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:39:52.593868"
+    },
+    {
+      "job_id": "1754465972.931204",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:39:53.072086"
+    },
+    {
+      "job_id": "1754465972.935091",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:03.527254"
+    },
+    {
+      "job_id": "1754465972.937247",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:06.699525"
+    },
+    {
+      "job_id": "1754465972.941031",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:07.180613"
+    },
+    {
+      "job_id": "1754465972.946433",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:09.941064"
+    },
+    {
+      "job_id": "1754465972.939257",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:10.753492"
+    },
+    {
+      "job_id": "1754465972.942785",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:11.914083"
+    },
+    {
+      "job_id": "1754465972.944678",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:13.354380"
+    },
+    {
+      "job_id": "1754465972.948216",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:22.166696"
+    },
+    {
+      "job_id": "1754465972.951899",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:22.647167"
+    },
+    {
+      "job_id": "1754465972.953594",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:25.929010"
+    },
+    {
+      "job_id": "1754465972.955378",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:26.537144"
+    },
+    {
+      "job_id": "1754465972.950009",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:27.119027"
+    },
+    {
+      "job_id": "1754465972.957073",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:27.673285"
+    },
+    {
+      "job_id": "1754465972.958939",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:29.793192"
+    },
+    {
+      "job_id": "1754465972.960814",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:39.856445"
+    },
+    {
+      "job_id": "1754465972.96264",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:40.350708"
+    },
+    {
+      "job_id": "1754465972.970619",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:41.044686"
+    },
+    {
+      "job_id": "1754465972.966055",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:41.558833"
+    },
+    {
+      "job_id": "1754465972.964363",
+      "scraper_id": "food_bank_of_western_massachusetts_ma",
+      "timestamp": "2025-08-06T07:40:42.717540"
     }
   ]
 }
