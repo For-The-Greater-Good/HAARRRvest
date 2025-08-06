@@ -1,6 +1,6 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 271,
+  "total_jobs": 395,
   "scrapers": {
     "unknown": {
       "count": 166,
@@ -13,14 +13,14 @@
       "last_job": "2025-08-06T07:04:23.604057"
     },
     "capital_area_food_bank_dc": {
-      "count": 84,
+      "count": 207,
       "first_job": "2025-08-06T07:04:32.858343",
-      "last_job": "2025-08-06T07:08:40.905560"
+      "last_job": "2025-08-06T07:14:56.255302"
     },
     "community_action_of_napa_valley_food_bank_ca": {
-      "count": 1,
+      "count": 2,
       "first_job": "2025-08-06T07:08:00.093039",
-      "last_job": "2025-08-06T07:08:00.093039"
+      "last_job": "2025-08-06T07:09:27.520598"
     }
   },
   "jobs": [
@@ -1378,6 +1378,626 @@
       "job_id": "1754463807.670881",
       "scraper_id": "capital_area_food_bank_dc",
       "timestamp": "2025-08-06T07:08:40.905560"
+    },
+    {
+      "job_id": "1754463807.727074",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:08:47.093181"
+    },
+    {
+      "job_id": "1754463807.746164",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:08:52.156796"
+    },
+    {
+      "job_id": "1754463807.782961",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:08:53.452057"
+    },
+    {
+      "job_id": "1754463807.768891",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:08:56.899460"
+    },
+    {
+      "job_id": "1754463807.792342",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:08:58.607326"
+    },
+    {
+      "job_id": "1754463807.799656",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:08:59.918643"
+    },
+    {
+      "job_id": "1754463807.807326",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:06.150370"
+    },
+    {
+      "job_id": "1754463807.833324",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:12.080433"
+    },
+    {
+      "job_id": "1754463807.818128",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:13.206402"
+    },
+    {
+      "job_id": "1754463807.840716",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:17.870631"
+    },
+    {
+      "job_id": "1754463807.847673",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:19.462447"
+    },
+    {
+      "job_id": "1754463807.873094",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:23.819316"
+    },
+    {
+      "job_id": "1754463807.760904",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:26.408574"
+    },
+    {
+      "job_id": "1754463807.888921",
+      "scraper_id": "community_action_of_napa_valley_food_bank_ca",
+      "timestamp": "2025-08-06T07:09:27.520598"
+    },
+    {
+      "job_id": "1754463807.879538",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:28.847015"
+    },
+    {
+      "job_id": "1754463807.886278",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:34.583050"
+    },
+    {
+      "job_id": "1754463807.894557",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:37.110935"
+    },
+    {
+      "job_id": "1754463807.911525",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:39.803826"
+    },
+    {
+      "job_id": "1754463807.925266",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:44.790804"
+    },
+    {
+      "job_id": "1754463807.905361",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:45.300600"
+    },
+    {
+      "job_id": "1754463807.931501",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:45.846289"
+    },
+    {
+      "job_id": "1754463807.918857",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:53.224536"
+    },
+    {
+      "job_id": "1754463807.944058",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:57.277897"
+    },
+    {
+      "job_id": "1754463807.955976",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:09:59.023180"
+    },
+    {
+      "job_id": "1754463807.937775",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:00.957033"
+    },
+    {
+      "job_id": "1754463807.949996",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:03.299815"
+    },
+    {
+      "job_id": "1754463807.962932",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:05.689453"
+    },
+    {
+      "job_id": "1754463807.970003",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:09.053908"
+    },
+    {
+      "job_id": "1754463807.976155",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:14.946961"
+    },
+    {
+      "job_id": "1754463807.983209",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:16.491511"
+    },
+    {
+      "job_id": "1754463807.996511",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:22.067608"
+    },
+    {
+      "job_id": "1754463807.989405",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:22.547133"
+    },
+    {
+      "job_id": "1754463808.002956",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:25.013105"
+    },
+    {
+      "job_id": "1754463808.01495",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:28.424648"
+    },
+    {
+      "job_id": "1754463808.00893",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:28.933565"
+    },
+    {
+      "job_id": "1754463808.020952",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:35.319145"
+    },
+    {
+      "job_id": "1754463808.026865",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:37.324011"
+    },
+    {
+      "job_id": "1754463808.03864",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:43.152249"
+    },
+    {
+      "job_id": "1754463808.045449",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:44.195116"
+    },
+    {
+      "job_id": "1754463808.0328",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:46.040808"
+    },
+    {
+      "job_id": "1754463808.051384",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:49.050011"
+    },
+    {
+      "job_id": "1754463808.057106",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:51.014579"
+    },
+    {
+      "job_id": "1754463808.06301",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:55.750229"
+    },
+    {
+      "job_id": "1754463808.069461",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:10:57.914405"
+    },
+    {
+      "job_id": "1754463808.075381",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:00.660881"
+    },
+    {
+      "job_id": "1754463808.081304",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:03.099124"
+    },
+    {
+      "job_id": "1754463808.087505",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:04.461985"
+    },
+    {
+      "job_id": "1754463808.093262",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:05.027437"
+    },
+    {
+      "job_id": "1754463808.099899",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:16.231998"
+    },
+    {
+      "job_id": "1754463808.106855",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:16.707539"
+    },
+    {
+      "job_id": "1754463808.119076",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:18.976604"
+    },
+    {
+      "job_id": "1754463808.112817",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:19.464117"
+    },
+    {
+      "job_id": "1754463808.124884",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:22.885695"
+    },
+    {
+      "job_id": "1754463808.130677",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:23.721988"
+    },
+    {
+      "job_id": "1754463808.136655",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:28.523379"
+    },
+    {
+      "job_id": "1754463808.14862",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:36.307979"
+    },
+    {
+      "job_id": "1754463808.160776",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:37.719684"
+    },
+    {
+      "job_id": "1754463808.142675",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:39.988154"
+    },
+    {
+      "job_id": "1754463808.154646",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:40.495450"
+    },
+    {
+      "job_id": "1754463808.167213",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:46.798515"
+    },
+    {
+      "job_id": "1754463808.173202",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:49.540022"
+    },
+    {
+      "job_id": "1754463808.179507",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:50.333869"
+    },
+    {
+      "job_id": "1754463808.185822",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:57.130818"
+    },
+    {
+      "job_id": "1754463808.191829",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:11:59.935584"
+    },
+    {
+      "job_id": "1754463808.204471",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:00.428863"
+    },
+    {
+      "job_id": "1754463808.197775",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:04.696738"
+    },
+    {
+      "job_id": "1754463808.216145",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:08.315838"
+    },
+    {
+      "job_id": "1754463808.22226",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:08.986430"
+    },
+    {
+      "job_id": "1754463808.210297",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:10.203986"
+    },
+    {
+      "job_id": "1754463808.259688",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:18.630968"
+    },
+    {
+      "job_id": "1754463808.265564",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:19.374271"
+    },
+    {
+      "job_id": "1754463808.271725",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:20.852016"
+    },
+    {
+      "job_id": "1754463808.278012",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:28.545404"
+    },
+    {
+      "job_id": "1754463808.289632",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:29.020828"
+    },
+    {
+      "job_id": "1754463808.283952",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:29.509347"
+    },
+    {
+      "job_id": "1754463808.295988",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:30.081012"
+    },
+    {
+      "job_id": "1754463808.301665",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:35.148097"
+    },
+    {
+      "job_id": "1754463808.307986",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:36.891804"
+    },
+    {
+      "job_id": "1754463808.313886",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:44.331408"
+    },
+    {
+      "job_id": "1754463808.331911",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:48.564713"
+    },
+    {
+      "job_id": "1754463808.33873",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:49.704264"
+    },
+    {
+      "job_id": "1754463808.320211",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:52.192621"
+    },
+    {
+      "job_id": "1754463808.32609",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:53.218425"
+    },
+    {
+      "job_id": "1754463808.350529",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:56.885793"
+    },
+    {
+      "job_id": "1754463808.344666",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:12:57.503609"
+    },
+    {
+      "job_id": "1754463808.362015",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:07.496718"
+    },
+    {
+      "job_id": "1754463808.356443",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:09.759253"
+    },
+    {
+      "job_id": "1754463808.380319",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:10.505252"
+    },
+    {
+      "job_id": "1754463808.368058",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:11.014148"
+    },
+    {
+      "job_id": "1754463808.373926",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:11.771433"
+    },
+    {
+      "job_id": "1754463808.386408",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:18.622014"
+    },
+    {
+      "job_id": "1754463808.392867",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:19.104368"
+    },
+    {
+      "job_id": "1754463808.410625",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:27.955876"
+    },
+    {
+      "job_id": "1754463808.399006",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:28.758349"
+    },
+    {
+      "job_id": "1754463808.404723",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:31.546050"
+    },
+    {
+      "job_id": "1754463808.416333",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:32.945370"
+    },
+    {
+      "job_id": "1754463808.421963",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:35.946702"
+    },
+    {
+      "job_id": "1754463808.434347",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:39.027947"
+    },
+    {
+      "job_id": "1754463808.42827",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:40.575425"
+    },
+    {
+      "job_id": "1754463808.447664",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:48.719334"
+    },
+    {
+      "job_id": "1754463808.45405",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:49.713865"
+    },
+    {
+      "job_id": "1754463808.441345",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:52.506824"
+    },
+    {
+      "job_id": "1754463808.465634",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:54.794807"
+    },
+    {
+      "job_id": "1754463808.47742",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:55.258530"
+    },
+    {
+      "job_id": "1754463808.460103",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:13:56.925953"
+    },
+    {
+      "job_id": "1754463808.471655",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:00.832889"
+    },
+    {
+      "job_id": "1754463808.483387",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:10.605297"
+    },
+    {
+      "job_id": "1754463808.489305",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:11.131763"
+    },
+    {
+      "job_id": "1754463808.495322",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:12.627049"
+    },
+    {
+      "job_id": "1754463808.501606",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:18.030459"
+    },
+    {
+      "job_id": "1754463808.51903",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:19.623704"
+    },
+    {
+      "job_id": "1754463808.507249",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:20.456210"
+    },
+    {
+      "job_id": "1754463808.513332",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:20.950006"
+    },
+    {
+      "job_id": "1754463808.525021",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:31.186651"
+    },
+    {
+      "job_id": "1754463808.536998",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:31.665802"
+    },
+    {
+      "job_id": "1754463808.530938",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:32.783121"
+    },
+    {
+      "job_id": "1754463808.543509",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:36.704733"
+    },
+    {
+      "job_id": "1754463808.549164",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:38.658546"
+    },
+    {
+      "job_id": "1754463808.554885",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:45.217565"
+    },
+    {
+      "job_id": "1754463808.561234",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:47.984808"
+    },
+    {
+      "job_id": "1754463808.573294",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:53.683421"
+    },
+    {
+      "job_id": "1754463808.567394",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:54.160005"
+    },
+    {
+      "job_id": "1754463808.585225",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:55.538898"
+    },
+    {
+      "job_id": "1754463808.591057",
+      "scraper_id": "capital_area_food_bank_dc",
+      "timestamp": "2025-08-06T07:14:56.255302"
     }
   ]
 }
