@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"1889\", \"organizationId\": \"1687\", \"name\": \"Mt Pisgah Food Pantry\", \"address1\": \"801 West Market Street\", \"address2\": \"\", \"city\": \"Bloomington\", \"state\": \"IL\", \"zipCode\": \"61701\", \"country\": null, \"phone\": \"\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"40.4825893\", \"longitude\": \"-89.0027704\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"COUNTY:  McLean\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 18, \"regionName\": \"Eastern Illinois Foodbank\", \"logoBlobNameSmall\": \"c4ca618b-3da4-4f65-b8a9-98dec847f359.png\", \"website\": \"https://www.eifoodbank.org/\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Wednesday 5:00 PM-7:00 PM\"], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 10596, \"locationId\": 1889, \"specialDate\": \"2025-08-06T00:00:00\", \"startTime\": null, \"endTime\": null, \"startTimeDescr\": null, \"endTimeDescr\": null, \"closedInd\": true, \"notes\": \"CLOSED\", \"addDateTime\": \"2025-08-01T14:53:26.54\", \"addUserName\": \"tdoherty@eifoodbank.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-06T08:47:04.171390"
+}

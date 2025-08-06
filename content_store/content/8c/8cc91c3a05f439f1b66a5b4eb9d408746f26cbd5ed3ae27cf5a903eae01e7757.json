@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"3855\", \"organizationId\": \"3312\", \"name\": \"Washington Parish Food Bank\", \"address1\": \"2208 Washington St\", \"address2\": \"\", \"city\": \"Franklinton\", \"state\": \"LA\", \"zipCode\": \"70438\", \"country\": null, \"phone\": \"\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"30.8468462\", \"longitude\": \"-90.1299207\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 38, \"regionName\": \"Second Harvest Food Bank Feeding South Louisiana\", \"logoBlobNameSmall\": \"e342973b-0cc0-4794-b3f9-080cdb5ba8df.png\", \"website\": \"https://no-hunger.org/\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Tuesday 9:00 AM-12:30 PM\", \"Thursday 9:00 AM-12:30 PM\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-06T08:46:36.865073"
+}

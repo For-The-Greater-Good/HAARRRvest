@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1472, \"name\": \"Bread of Life Market at Calvary Baptist Church\", \"address\": \"1600 Harvey Dr McAllen TX, 78501\", \"city\": \"McAllen\", \"state\": \"TX\", \"zip_code\": 78501, \"latitude\": 26.230734, \"longitude\": -98.23275, \"phone\": 9566864364, \"website\": \"\", \"organization_id\": 1472, \"pantry_id\": 3900, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"1472\", \"amenities\": [\"Speaks Spanish\"], \"conditions\": [\"Geographic Restrictions: City of McAllen\"], \"service_hours\": [{\"date\": \"2025-08-09\", \"time\": 28800, \"until\": 36000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-06T08:50:34.411122"
+}

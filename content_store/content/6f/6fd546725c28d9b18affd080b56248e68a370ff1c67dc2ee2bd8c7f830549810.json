@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"800\", \"organizationId\": \"682\", \"name\": \"Ignatian Mission Center\", \"address1\": \"1735 W Greenleaf Ave\", \"address2\": null, \"city\": \"Chicago\", \"state\": \"IL\", \"zipCode\": \"60626\", \"country\": \"US\", \"phone\": \"773-739-9255\", \"phoneExt\": null, \"website\": \"https://www.ignatianmission.org/\", \"latitude\": \"42.0100553\", \"longitude\": \"-87.6737696\", \"foodPrograms\": \"Pantry/Grocery Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"Dara Hoppe\", \"contactPhone\": null, \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 1, \"regionName\": \"Greater Chicago Food Depository\", \"logoBlobNameSmall\": \"91461b0b-88b1-4d61-98fc-b15c4eecb6d2.png\", \"website\": \"www.chicagosfoodbank.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Tuesday 3:00 PM-7:00 PM\", \"Friday 10:00 AM-12:00 PM\"], \"services\": [{\"name\": \"Pantry/Grocery Distribution\", \"category\": \"Food Program\", \"overview\": \"This program is operated in partnership with the  Greater Chicago Food Depository .\", \"qualifications\": null, \"contact\": \"Dara Hoppe (773-739-9255)\"}], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-06T08:47:08.357598"
+}
