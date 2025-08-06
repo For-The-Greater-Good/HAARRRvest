@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1070, \"name\": \"The Avenue Church\", \"address\": \"3030 Thatcher Ave Pueblo CO, 81005\", \"city\": \"Pueblo\", \"state\": \"CO\", \"zip_code\": 81005, \"latitude\": 38.258095, \"longitude\": -104.646912, \"phone\": 7195611512, \"website\": \"avenuepueblo.org\", \"organization_id\": 1070, \"pantry_id\": 3200, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1070\", \"amenities\": [], \"conditions\": [\"1 Visit per Every Calendar Month\"], \"service_hours\": [{\"date\": \"2025-09-20\", \"time\": 32400, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-18\", \"time\": 32400, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-15\", \"time\": 32400, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-06T09:15:59.841863"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"85011\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in WOODYCREST UNITED METHODIST CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-538-7500\", \"country\": \"US\"}, \"phones\": [{\"number\": \"89 WEST 166TH STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.83537, \"longitude\": -73.926513}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"WOODYCREST UNITED METHODIST CHURCH\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-06T09:13:44.097097"
+}

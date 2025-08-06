@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1205, \"name\": \"Delta County MP\", \"address\": \"Gunnison River Dr. Delta CO, 81416\", \"city\": \"Delta\", \"state\": \"CO\", \"zip_code\": 81416, \"latitude\": 38.750908, \"longitude\": -108.055679, \"phone\": 9704641138, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1205, \"pantry_id\": 3483, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1205\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-20\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-17\", \"time\": 54000, \"until\": 61200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-15\", \"time\": 46800, \"until\": 54000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-19\", \"time\": 46800, \"until\": 54000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-06T09:15:12.038999"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"82210\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in SPANISH SEVENTH DAY ADVENTIST CHURCH FOOD PANTRY\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"845-729-8804\", \"country\": \"US\"}, \"phones\": [{\"number\": \"1038 PROSPECT AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 42.448809, \"longitude\": -73.689777}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"SPANISH SEVENTH DAY ADVENTIST CHURCH FOOD PANTRY\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-06T09:15:06.232602"
+}

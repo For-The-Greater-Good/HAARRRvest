@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1061, \"name\": \"Care and Share\", \"address\": \"928 Russell St Walsenburg CO, 81089\", \"city\": \"Walsenburg\", \"state\": \"CO\", \"zip_code\": 81089, \"latitude\": 37.620571, \"longitude\": -104.776566, \"phone\": 7197382810, \"website\": \"https://careandshare.org/findfood/\", \"organization_id\": 1061, \"pantry_id\": 3180, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1061\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-07\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-04\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-02\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-06\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-12-04\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-06T09:14:01.484250"
+}
