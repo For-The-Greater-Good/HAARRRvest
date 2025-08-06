@@ -1,0 +1,22 @@
+{
+  "job_id": "2ffe2309-04c9-43f5-b202-061eae260149",
+  "job": {
+    "id": "2ffe2309-04c9-43f5-b202-061eae260149",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-08-06 02:43:40.428082+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
