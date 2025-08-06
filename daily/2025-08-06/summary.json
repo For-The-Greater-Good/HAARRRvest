@@ -1,6 +1,6 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 4482,
+  "total_jobs": 4617,
   "scrapers": {
     "unknown": {
       "count": 170,
@@ -68,14 +68,14 @@
       "last_job": "2025-08-06T09:34:15.194411"
     },
     "mercer_food_finder": {
-      "count": 10,
+      "count": 11,
       "first_job": "2025-08-06T09:34:17.877976",
-      "last_job": "2025-08-06T14:22:34.374802"
+      "last_job": "2025-08-06T14:29:58.890325"
     },
     "the_food_pantries_org": {
-      "count": 2544,
+      "count": 2678,
       "first_job": "2025-08-06T09:34:33.026130",
-      "last_job": "2025-08-06T14:27:10.663715"
+      "last_job": "2025-08-06T14:34:15.638326"
     }
   },
   "jobs": [
@@ -22488,6 +22488,681 @@
       "job_id": "1754467924.637449",
       "scraper_id": "the_food_pantries_org",
       "timestamp": "2025-08-06T14:27:10.663715"
+    },
+    {
+      "job_id": "1754467924.64347",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:14.239760"
+    },
+    {
+      "job_id": "1754467924.66966",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:20.484618"
+    },
+    {
+      "job_id": "1754467924.650356",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:23.303385"
+    },
+    {
+      "job_id": "1754467924.663232",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:24.558980"
+    },
+    {
+      "job_id": "1754467924.656803",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:25.091676"
+    },
+    {
+      "job_id": "1754467924.676021",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:25.599635"
+    },
+    {
+      "job_id": "1754467924.682025",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:28.749480"
+    },
+    {
+      "job_id": "1754467924.688583",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:38.123642"
+    },
+    {
+      "job_id": "1754467924.6945",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:40.034686"
+    },
+    {
+      "job_id": "1754467924.712489",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:40.998766"
+    },
+    {
+      "job_id": "1754467924.700649",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:44.161515"
+    },
+    {
+      "job_id": "1754467924.706492",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:46.498117"
+    },
+    {
+      "job_id": "1754467924.718745",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:47.156257"
+    },
+    {
+      "job_id": "1754467924.724927",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:49.027587"
+    },
+    {
+      "job_id": "1754467924.730999",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:27:58.748067"
+    },
+    {
+      "job_id": "1754467924.764923",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:03.088739"
+    },
+    {
+      "job_id": "1754467924.743132",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:04.396474"
+    },
+    {
+      "job_id": "1754467924.736927",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:07.251936"
+    },
+    {
+      "job_id": "1754467924.759045",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:08.455630"
+    },
+    {
+      "job_id": "1754467924.770848",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:09.989728"
+    },
+    {
+      "job_id": "1754467924.750682",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:14.680928"
+    },
+    {
+      "job_id": "1754467924.782653",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:17.640812"
+    },
+    {
+      "job_id": "1754467924.776565",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:18.278792"
+    },
+    {
+      "job_id": "1754467924.788397",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:25.482741"
+    },
+    {
+      "job_id": "1754467924.800034",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:29.611066"
+    },
+    {
+      "job_id": "1754467924.805846",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:31.450938"
+    },
+    {
+      "job_id": "1754467924.794095",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:32.048802"
+    },
+    {
+      "job_id": "1754467924.812498",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:36.138967"
+    },
+    {
+      "job_id": "1754467924.818904",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:42.234944"
+    },
+    {
+      "job_id": "1754467924.824972",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:44.825205"
+    },
+    {
+      "job_id": "1754467924.831279",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:46.361829"
+    },
+    {
+      "job_id": "1754467924.837388",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:51.235024"
+    },
+    {
+      "job_id": "1754467924.852178",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:54.344397"
+    },
+    {
+      "job_id": "1754467924.844798",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:54.814425"
+    },
+    {
+      "job_id": "1754467924.858317",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:28:57.080031"
+    },
+    {
+      "job_id": "1754467924.870997",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:02.442514"
+    },
+    {
+      "job_id": "1754467924.865149",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:03.250237"
+    },
+    {
+      "job_id": "1754467924.877419",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:05.501772"
+    },
+    {
+      "job_id": "1754467924.883318",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:15.454303"
+    },
+    {
+      "job_id": "1754467924.901244",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:17.729621"
+    },
+    {
+      "job_id": "1754467924.88896",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:19.512346"
+    },
+    {
+      "job_id": "1754467924.915249",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:20.379010"
+    },
+    {
+      "job_id": "1754467924.907085",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:21.195444"
+    },
+    {
+      "job_id": "1754467924.8955",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:21.712016"
+    },
+    {
+      "job_id": "1754467924.921442",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:24.781075"
+    },
+    {
+      "job_id": "1754467924.947843",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:36.514102"
+    },
+    {
+      "job_id": "1754467924.927325",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:37.381926"
+    },
+    {
+      "job_id": "1754467924.93346",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:37.971684"
+    },
+    {
+      "job_id": "1754467924.939925",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:40.501338"
+    },
+    {
+      "job_id": "1754467924.9626",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:41.574987"
+    },
+    {
+      "job_id": "1754467924.955709",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:42.409669"
+    },
+    {
+      "job_id": "1754467924.969451",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:29:46.985259"
+    },
+    {
+      "job_id": "1754467925.008169",
+      "scraper_id": "mercer_food_finder",
+      "timestamp": "2025-08-06T14:29:58.890325"
+    },
+    {
+      "job_id": "1754467924.99891",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:00.475166"
+    },
+    {
+      "job_id": "1754467924.976564",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:01.914484"
+    },
+    {
+      "job_id": "1754467924.984835",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:02.410347"
+    },
+    {
+      "job_id": "1754467925.004957",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:04.477654"
+    },
+    {
+      "job_id": "1754467925.033153",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:06.400955"
+    },
+    {
+      "job_id": "1754467924.993055",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:10.719966"
+    },
+    {
+      "job_id": "1754467925.054104",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:21.507142"
+    },
+    {
+      "job_id": "1754467925.047557",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:22.568518"
+    },
+    {
+      "job_id": "1754467925.060537",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:24.502575"
+    },
+    {
+      "job_id": "1754467925.039667",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:25.179220"
+    },
+    {
+      "job_id": "1754467925.067781",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:26.029347"
+    },
+    {
+      "job_id": "1754467925.074515",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:28.074197"
+    },
+    {
+      "job_id": "1754467925.080958",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:43.235158"
+    },
+    {
+      "job_id": "1754467925.112005",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:46.410780"
+    },
+    {
+      "job_id": "1754467925.087096",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:46.914131"
+    },
+    {
+      "job_id": "1754467925.106193",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:49.528428"
+    },
+    {
+      "job_id": "1754467925.117788",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:50.029500"
+    },
+    {
+      "job_id": "1754467925.099575",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:50.504205"
+    },
+    {
+      "job_id": "1754467925.093072",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:30:53.925715"
+    },
+    {
+      "job_id": "1754467925.123483",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:06.804538"
+    },
+    {
+      "job_id": "1754467925.129596",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:10.031316"
+    },
+    {
+      "job_id": "1754467925.136126",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:11.606536"
+    },
+    {
+      "job_id": "1754467925.151206",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:12.887736"
+    },
+    {
+      "job_id": "1754467925.157533",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:13.492527"
+    },
+    {
+      "job_id": "1754467925.144139",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:13.977020"
+    },
+    {
+      "job_id": "1754467925.16468",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:15.217449"
+    },
+    {
+      "job_id": "1754467925.197673",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:33.710767"
+    },
+    {
+      "job_id": "1754467925.21534",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:36.178786"
+    },
+    {
+      "job_id": "1754467925.188146",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:36.631897"
+    },
+    {
+      "job_id": "1754467925.206728",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:37.275202"
+    },
+    {
+      "job_id": "1754467925.18069",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:38.124601"
+    },
+    {
+      "job_id": "1754467925.223379",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:40.049693"
+    },
+    {
+      "job_id": "1754467925.172967",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:42.490525"
+    },
+    {
+      "job_id": "1754467925.230195",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:53.954599"
+    },
+    {
+      "job_id": "1754467925.261904",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:31:56.757068"
+    },
+    {
+      "job_id": "1754467925.267809",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:01.290705"
+    },
+    {
+      "job_id": "1754467925.28647",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:02.393695"
+    },
+    {
+      "job_id": "1754467925.25496",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:02.949382"
+    },
+    {
+      "job_id": "1754467925.273845",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:04.769011"
+    },
+    {
+      "job_id": "1754467925.280796",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:05.268175"
+    },
+    {
+      "job_id": "1754467925.298034",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:17.898958"
+    },
+    {
+      "job_id": "1754467925.321966",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:20.401271"
+    },
+    {
+      "job_id": "1754467925.303705",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:22.313091"
+    },
+    {
+      "job_id": "1754467925.292187",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:23.013041"
+    },
+    {
+      "job_id": "1754467925.315588",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:25.325269"
+    },
+    {
+      "job_id": "1754467925.30956",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:27.021001"
+    },
+    {
+      "job_id": "1754467925.327844",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:27.527823"
+    },
+    {
+      "job_id": "1754467925.357508",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:39.973370"
+    },
+    {
+      "job_id": "1754467925.33372",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:40.500257"
+    },
+    {
+      "job_id": "1754467925.34556",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:46.258796"
+    },
+    {
+      "job_id": "1754467925.339609",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:46.770921"
+    },
+    {
+      "job_id": "1754467925.363383",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:47.260844"
+    },
+    {
+      "job_id": "1754467925.351722",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:48.323354"
+    },
+    {
+      "job_id": "1754467925.369037",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:32:49.001805"
+    },
+    {
+      "job_id": "1754467925.387971",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:01.413382"
+    },
+    {
+      "job_id": "1754467925.375758",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:06.222228"
+    },
+    {
+      "job_id": "1754467925.381958",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:06.893710"
+    },
+    {
+      "job_id": "1754467925.393797",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:07.365941"
+    },
+    {
+      "job_id": "1754467925.399342",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:07.882709"
+    },
+    {
+      "job_id": "1754467925.405348",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:08.816938"
+    },
+    {
+      "job_id": "1754467925.411373",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:10.665588"
+    },
+    {
+      "job_id": "1754467925.417375",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:21.196718"
+    },
+    {
+      "job_id": "1754467925.423239",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:25.222908"
+    },
+    {
+      "job_id": "1754467925.453442",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:28.215862"
+    },
+    {
+      "job_id": "1754467925.441169",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:29.034605"
+    },
+    {
+      "job_id": "1754467925.447085",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:29.526443"
+    },
+    {
+      "job_id": "1754467925.429158",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:32.892145"
+    },
+    {
+      "job_id": "1754467925.43502",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:33.417655"
+    },
+    {
+      "job_id": "1754467925.476502",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:48.489725"
+    },
+    {
+      "job_id": "1754467925.47069",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:48.982434"
+    },
+    {
+      "job_id": "1754467925.482285",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:49.467877"
+    },
+    {
+      "job_id": "1754467925.459124",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:49.960932"
+    },
+    {
+      "job_id": "1754467925.464896",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:51.947769"
+    },
+    {
+      "job_id": "1754467925.487993",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:52.521551"
+    },
+    {
+      "job_id": "1754467925.493662",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:33:56.507715"
+    },
+    {
+      "job_id": "1754467925.505711",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:34:05.056418"
+    },
+    {
+      "job_id": "1754467925.517319",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:34:09.515849"
+    },
+    {
+      "job_id": "1754467925.500009",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:34:11.245825"
+    },
+    {
+      "job_id": "1754467925.523399",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:34:11.710214"
+    },
+    {
+      "job_id": "1754467925.529171",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:34:13.758184"
+    },
+    {
+      "job_id": "1754467925.534795",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:34:15.121580"
+    },
+    {
+      "job_id": "1754467925.511613",
+      "scraper_id": "the_food_pantries_org",
+      "timestamp": "2025-08-06T14:34:15.638326"
     }
   ]
 }
