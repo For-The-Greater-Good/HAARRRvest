@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 2250, \"name\": \"College Drive Presbyterian Mobile Market\", \"nickname\": \"College Drive Presbyterian Mobile Market\", \"address\": \"20 E HIGH ST\", \"city\": \"NEW CONCORD\", \"state\": \"OH\", \"zip\": \"43762\", \"phone\": \"740-826-4036\", \"latitude\": 39.9952, \"longitude\": -81.73252, \"estimated_distance\": 896.78, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3520, \"name\": \"Mobile Market\", \"address\": \"20 E HIGH ST\", \"city\": \"NEW CONCORD\", \"state\": \"OH\", \"zip\": \"43762\", \"latitude\": 39.9950825, \"longitude\": -81.732755, \"event_details\": \"\", \"estimated_distance\": 896.78, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359557, \"event_id\": 3520, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-13\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.910496"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3777, \"name\": \"Harmony UMC\", \"nickname\": \"Harmony\", \"address\": \"6487 so. State rt. 19\", \"city\": \"TIFFIN\", \"state\": \"OH\", \"zip\": \"44883\", \"phone\": \"4194435308\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 817.48, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6765, \"name\": \"Pantry\", \"address\": \"6487 so. State rt. 19\", \"city\": \"TIFFIN\", \"state\": \"OH\", \"zip\": \"44883\", \"latitude\": 41.03292186, \"longitude\": -83.18712617, \"event_details\": \"\", \"estimated_distance\": 817.48, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358426, \"event_id\": 6765, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:20.081212"
-}

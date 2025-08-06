@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 72, \"name\": \"New Hope Assembly of God Food Pantry\", \"nickname\": \"New Hope Assembly of God\", \"address\": \"2020 CINCINNATI ZANESVILLE RD SW\", \"city\": \"LANCASTER\", \"state\": \"OH\", \"zip\": \"43130\", \"phone\": \"740-687-3553\", \"latitude\": 39.69744, \"longitude\": -82.63943, \"estimated_distance\": 850.33, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 111, \"name\": \"Pantry\", \"address\": \"2020 CINCINNATI ZANESVILLE RD SW\", \"city\": \"LANCASTER\", \"state\": \"OH\", \"zip\": \"43130\", \"latitude\": 39.69684102, \"longitude\": -82.64212517, \"event_details\": \"\", \"estimated_distance\": 850.33, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355224, \"event_id\": 111, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:16.326643"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1224, \"name\": \"The Salvation Army (Windham) DD\", \"nickname\": \"Windham DD\", \"address\": \"9005 Wilverne Dr\", \"city\": \"Windham\", \"state\": \"OH\", \"zip\": \"44288\", \"phone\": \"330-296-7371\", \"latitude\": 41.23638, \"longitude\": -81.03816, \"estimated_distance\": 930.14, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1729, \"name\": \"Pantry\", \"address\": \"9005 Wilverne Dr\", \"city\": \"Windham\", \"state\": \"OH\", \"zip\": \"44288\", \"latitude\": 41.2362896, \"longitude\": -81.0372041, \"event_details\": \"Regular Hours - 4th Tuesday from 9-10:30am | Intended for residents in Windham, Hiram, Garrettsville, Nelson, Freedom, Mantua, Palmyria | Temporarily drive through--please make sure to clean out trunk.\", \"estimated_distance\": 930.14, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359435, \"event_id\": 1729, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.234605"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1360, \"name\": \"Central Baptist Church\", \"nickname\": \"Central Baptist Church\", \"address\": \"1955 FRANK RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43223\", \"phone\": \"614-279-3115\", \"latitude\": 39.9198, \"longitude\": -83.05449, \"estimated_distance\": 827.01, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1990, \"name\": \"Produce Market\", \"address\": \"1955 FRANK RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43223\", \"latitude\": 39.9195632, \"longitude\": -83.0546093, \"event_details\": \"\", \"estimated_distance\": 827.01, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356493, \"event_id\": 1990, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10:15 AM\", \"end_time\": \"11:30 AM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.395564"
-}

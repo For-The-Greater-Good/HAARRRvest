@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4113, \"name\": \"MP - Pawnee\", \"nickname\": \"Pawnee\", \"address\": \"14132 FM 673\", \"city\": \"PAWNEE\", \"state\": \"TX\", \"zip\": \"78145\", \"phone\": \"(361)786-2706\", \"latitude\": 28.65174, \"longitude\": -98.00255, \"estimated_distance\": 777.46, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7326, \"name\": \"Mobile Pantry\", \"address\": \"14132 FM 673\", \"city\": \"PAWNEE\", \"state\": \"TX\", \"zip\": \"78145\", \"latitude\": 28.65143743, \"longitude\": -98.0025537, \"event_details\": \"\", \"estimated_distance\": 777.46, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357724, \"event_id\": 7326, \"capacity\": 200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-13\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:20.484480"
-}

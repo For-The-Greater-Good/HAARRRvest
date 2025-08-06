@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 227, \"name\": \"Circle Of Friends Food Pantry\", \"nickname\": \"Circle of Friends\", \"address\": \"300 N. Main St\", \"city\": \"CONTINENTAL\", \"state\": \"OH\", \"zip\": \"45831\", \"phone\": \"419-5963909\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 761.08, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 306, \"name\": \"Pantry\", \"address\": \"300 N. Main St\", \"city\": \"CONTINENTAL\", \"state\": \"OH\", \"zip\": \"45831\", \"latitude\": 41.10073987, \"longitude\": -84.26595596, \"event_details\": \"\", \"estimated_distance\": 761.08, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358256, \"event_id\": 306, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:16.620437"
-}

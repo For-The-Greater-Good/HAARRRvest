@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4628, \"name\": \"Church of Our Saviour\", \"nickname\": \"Church of Our Saviour\", \"address\": \"471 Crosby St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44302\", \"phone\": \"330-535-9174\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 904.15, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8560, \"name\": \"Pantry\", \"address\": \"471 Crosby St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44302\", \"latitude\": 41.0902537, \"longitude\": -81.5335741, \"event_details\": \"Regular Hours - Last Monday from 7:30-10am\", \"estimated_distance\": 904.15, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360086, \"event_id\": 8560, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"7:30 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 8561, \"name\": \"Meal\", \"address\": \"471 Crosby St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44302\", \"latitude\": 41.0902537, \"longitude\": -81.5335741, \"event_details\": \"Regular Hours - Last two Wednesdays from 5-7pm | Carry-out only.\", \"estimated_distance\": 904.15, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360773, \"event_id\": 8561, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:21.044609"
-}

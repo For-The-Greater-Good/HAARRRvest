@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3579, \"name\": \"Healing Vine Ministries\", \"nickname\": \"Healing Vine Ministries\", \"address\": \"1752 Williams St\", \"city\": \"Cuyahoga Falls\", \"state\": \"OH\", \"zip\": \"44221\", \"phone\": \"330-923-2594\", \"latitude\": 41.12909, \"longitude\": -81.4793, \"estimated_distance\": 907.02, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6237, \"name\": \"Pantry\", \"address\": \"1752 Williams St\", \"city\": \"Cuyahoga Falls\", \"state\": \"OH\", \"zip\": \"44221\", \"latitude\": 41.1295592, \"longitude\": -81.47873296, \"event_details\": \"Regular Hours - 2nd Friday from 5-7pm\", \"estimated_distance\": 907.02, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360128, \"event_id\": 6237, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-08\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:19.663536"
-}

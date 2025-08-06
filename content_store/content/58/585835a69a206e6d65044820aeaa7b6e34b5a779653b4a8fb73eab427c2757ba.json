@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 2343, \"name\": \"Lighthouse Pantry\", \"nickname\": \"Lighthouse\", \"address\": \"8840 BLACKRUN RD\", \"city\": \"NASHPORT\", \"state\": \"OH\", \"zip\": \"43830\", \"phone\": \"\", \"latitude\": 40.09092, \"longitude\": -82.16722, \"estimated_distance\": 873.22, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3736, \"name\": \"Pantry\", \"address\": \"8840 BLACKRUN RD\", \"city\": \"NASHPORT\", \"state\": \"OH\", \"zip\": \"43830\", \"latitude\": 40.09092275, \"longitude\": -82.16722462, \"event_details\": \"\", \"estimated_distance\": 873.22, \"exception_note\": \"\", \"event_dates\": [{\"id\": 354512, \"event_id\": 3736, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-16\"}, {\"id\": 354513, \"event_id\": 3736, \"capacity\": 12, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-15\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.980671"
-}

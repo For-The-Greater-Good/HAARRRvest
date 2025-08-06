@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4178, \"name\": \"Abundant Harvest Deliverance Ministry\", \"nickname\": \"Abundant Harvest\", \"address\": \"1368 Henry Ave SW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44706\", \"phone\": \"330-915-8450\", \"latitude\": 40.78499, \"longitude\": -81.3886, \"estimated_distance\": 912.05, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7515, \"name\": \"Pantry\", \"address\": \"1368 Henry Ave SW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44706\", \"latitude\": 40.78534677, \"longitude\": -81.38829603, \"event_details\": \"Regular Hours - 3rd Saturday from 10-11am\", \"estimated_distance\": 912.05, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359806, \"event_id\": 7515, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:20.562481"
-}

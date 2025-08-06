@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 431, \"name\": \"Harvest Food Pantry\", \"nickname\": \"Harvest Food Pantry\", \"address\": \"2543 State Rd\", \"city\": \"Cuyahoga Falls\", \"state\": \"OH\", \"zip\": \"44223\", \"phone\": \"330-928-5134\", \"latitude\": 41.14308, \"longitude\": -81.50815, \"estimated_distance\": 905.49, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 597, \"name\": \"Pantry\", \"address\": \"2543 State Rd\", \"city\": \"Cuyahoga Falls\", \"state\": \"OH\", \"zip\": \"44223\", \"latitude\": 41.14308, \"longitude\": -81.50815, \"event_details\": \"Regular Hours - 1st and 3rd Wednesday from 6:30-7:15pm\", \"estimated_distance\": 905.49, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358935, \"event_id\": 597, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6:30 PM\", \"end_time\": \"7:15 PM\", \"date\": \"2025-08-06\"}, {\"id\": 358936, \"event_id\": 597, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6:30 PM\", \"end_time\": \"7:15 PM\", \"date\": \"2025-08-20\"}, {\"id\": 366100, \"event_id\": 597, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6:30 PM\", \"end_time\": \"7:15 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:17.025251"
-}

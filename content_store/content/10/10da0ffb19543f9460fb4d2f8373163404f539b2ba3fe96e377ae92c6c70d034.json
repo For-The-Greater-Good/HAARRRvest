@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1035, \"name\": \"The Salvation Army (Barberton) Direct Distribution\", \"nickname\": \"Barberton Direct Distribution\", \"address\": \"560 WOOSTER RD W\", \"city\": \"BARBERTON\", \"state\": \"OH\", \"zip\": \"44203\", \"phone\": \"(330) 745-2836\", \"latitude\": 41.01176, \"longitude\": -81.61026, \"estimated_distance\": 900.13, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1502, \"name\": \"Pantry\", \"address\": \"560 WOOSTER RD W\", \"city\": \"BARBERTON\", \"state\": \"OH\", \"zip\": \"44203\", \"latitude\": 41.01195697, \"longitude\": -81.61070331, \"event_details\": \"Regular Hours - 4th Friday from 10-11am\", \"estimated_distance\": 900.13, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360218, \"event_id\": 1502, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-22\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.127788"
-}

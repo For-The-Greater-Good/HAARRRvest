@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1128, \"name\": \"Harrison Hills Market\", \"nickname\": \"Harrison Hills Market\", \"address\": \"12 Court St\", \"city\": \"CADIZ\", \"state\": \"OH\", \"zip\": \"43907\", \"phone\": \"\", \"latitude\": 40.27866, \"longitude\": -81.00502, \"estimated_distance\": 933.92, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1623, \"name\": \"Cadiz Mobile Market\", \"address\": \"12 Court St\", \"city\": \"CADIZ\", \"state\": \"OH\", \"zip\": \"43907\", \"latitude\": 40.2789378, \"longitude\": -81.0043406, \"event_details\": \"\", \"estimated_distance\": 933.92, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358635, \"event_id\": 1623, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.203183"
-}

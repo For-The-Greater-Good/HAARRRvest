@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3666, \"name\": \"Bread of Life\", \"nickname\": \"Bread of Life\", \"address\": \"347 Stanley Ave\", \"city\": \"Barberton\", \"state\": \"OH\", \"zip\": \"44203\", \"phone\": \"330-329-4385\", \"latitude\": 40.99924, \"longitude\": -81.59812, \"estimated_distance\": 900.9, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6540, \"name\": \"Pantry\", \"address\": \"347 Stanley Ave\", \"city\": \"Barberton\", \"state\": \"OH\", \"zip\": \"44203\", \"latitude\": 40.99925823, \"longitude\": -81.59608089, \"event_details\": \"Regular Hours - Pantry and hot meal Wednesdays from 11:30-1pm | Drive through only at this time.\", \"estimated_distance\": 900.9, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360068, \"event_id\": 6540, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"12:30 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:19.826509"
-}

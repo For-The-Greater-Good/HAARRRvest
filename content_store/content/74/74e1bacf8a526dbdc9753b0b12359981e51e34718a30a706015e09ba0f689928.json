@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 2275, \"name\": \"Victory Center FP\", \"nickname\": \"Victory Center\", \"address\": \"1190 E FAIRGROUND RD\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"phone\": \"7403875722\", \"latitude\": 40.6001, \"longitude\": -83.09766, \"estimated_distance\": 822.29, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3563, \"name\": \"Pantry\", \"address\": \"1190 E FAIRGROUND RD\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"latitude\": 40.60029682, \"longitude\": -83.09809472, \"event_details\": \"\", \"estimated_distance\": 822.29, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355214, \"event_id\": 3563, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.922172"
-}

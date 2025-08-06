@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 739, \"name\": \"Faith United Methodist Church Produce Market\", \"nickname\": \"Faith United Methodist Church Produce Market\", \"address\": \"518 S 8TH ST\", \"city\": \"CAMBRIDGE\", \"state\": \"OH\", \"zip\": \"43725\", \"phone\": \"740-584-1402\", \"latitude\": 40.01926, \"longitude\": -81.5909, \"estimated_distance\": 904.17, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1043, \"name\": \"Produce Market\", \"address\": \"518 S 8TH ST\", \"city\": \"CAMBRIDGE\", \"state\": \"OH\", \"zip\": \"43725\", \"latitude\": 40.01880269, \"longitude\": -81.5909195, \"event_details\": \"\", \"estimated_distance\": 904.17, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356713, \"event_id\": 1043, \"capacity\": 200, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-14\"}, {\"id\": 356714, \"event_id\": 1043, \"capacity\": 200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:17.737516"
-}

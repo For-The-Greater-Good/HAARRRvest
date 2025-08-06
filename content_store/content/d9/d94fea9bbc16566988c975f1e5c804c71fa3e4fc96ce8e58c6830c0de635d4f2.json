@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 2288, \"name\": \"Lowell Area Mission Basket\", \"nickname\": \"LAMB\", \"address\": \"307 Walnut Street\", \"city\": \"LOWELL\", \"state\": \"OH\", \"zip\": \"45744\", \"phone\": \"740-896-3266\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 912.03, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 3588, \"name\": \"Pantry\", \"address\": \"307 Walnut Street\", \"city\": \"LOWELL\", \"state\": \"OH\", \"zip\": \"45744\", \"latitude\": 39.5297973, \"longitude\": -81.5065861, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. Phone Number: (740) 896-3266\", \"estimated_distance\": 912.03, \"exception_note\": \"Serving Lowell & Adams Townships\", \"event_dates\": [{\"id\": 357660, \"event_id\": 3588, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-13\"}, {\"id\": 357661, \"event_id\": 3588, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.928426"
-}

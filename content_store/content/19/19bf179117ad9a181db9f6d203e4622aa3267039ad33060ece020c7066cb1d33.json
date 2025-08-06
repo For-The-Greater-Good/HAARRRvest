@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3808, \"name\": \"Forest-Wharton\", \"nickname\": \"Forest-Wharton\", \"address\": \"111 E DIXON ST\", \"city\": \"FOREST\", \"state\": \"OH\", \"zip\": \"45843\", \"phone\": \"5672322190\", \"latitude\": 40.80059, \"longitude\": -83.51069, \"estimated_distance\": 800.38, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6803, \"name\": \"Pantry\", \"address\": \"111 E DIXON ST\", \"city\": \"FOREST\", \"state\": \"OH\", \"zip\": \"45843\", \"latitude\": 40.80060005, \"longitude\": -83.51072759, \"event_details\": \"\", \"estimated_distance\": 800.38, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357896, \"event_id\": 6803, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:20.201921"
-}

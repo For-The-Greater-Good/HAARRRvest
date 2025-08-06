@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 2142, \"name\": \"El Centro de Servicios Sociales, Inc.\", \"nickname\": \"El Centro\", \"address\": \"2800 PEARL AVE\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44055\", \"phone\": \"440-277-8235\", \"latitude\": 41.44476, \"longitude\": -82.13713, \"estimated_distance\": 873.04, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5919, \"name\": \"Oakwood Park\", \"address\": \"2047 E 36th street\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44055\", \"latitude\": 41.43804383, \"longitude\": -82.12651577, \"event_details\": \"Drive-Thru Mobile Pantry Food Distribution. No more than two families are served per car. Please clean out your trunk & car for easy loading! Questions? Call 440-960-2265\", \"estimated_distance\": 873.57, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361326, \"event_id\": 5919, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.843016"
-}

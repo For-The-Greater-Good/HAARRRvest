@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3649, \"name\": \"Eastside Mission Food Pantry\", \"nickname\": \"Eastside Mission Food Pantry\", \"address\": \"32 JOY AVE\", \"city\": \"DELAWARE\", \"state\": \"OH\", \"zip\": \"43015\", \"phone\": \"740-816-8826\", \"latitude\": 40.30701, \"longitude\": -83.05557, \"estimated_distance\": 825.3, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6498, \"name\": \"Pantry\", \"address\": \"32 JOY AVE\", \"city\": \"DELAWARE\", \"state\": \"OH\", \"zip\": \"43015\", \"latitude\": 40.30718715, \"longitude\": -83.05463254, \"event_details\": \"\", \"estimated_distance\": 825.3, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357264, \"event_id\": 6498, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-12\"}, {\"id\": 357265, \"event_id\": 6498, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:19.793243"
-}

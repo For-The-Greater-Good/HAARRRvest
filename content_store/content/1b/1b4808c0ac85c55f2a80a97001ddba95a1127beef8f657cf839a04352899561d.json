@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3801, \"name\": \"Grover hill food pantry\", \"nickname\": \"Grover hill\", \"address\": \"204 S HARRISON ST\", \"city\": \"GROVER HILL\", \"state\": \"OH\", \"zip\": \"45849\", \"phone\": \"4195873376\", \"latitude\": 41.0183, \"longitude\": -84.47666, \"estimated_distance\": 749.8, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6796, \"name\": \"Pantry\", \"address\": \"204 S HARRISON ST\", \"city\": \"GROVER HILL\", \"state\": \"OH\", \"zip\": \"45849\", \"latitude\": 41.01730947, \"longitude\": -84.47791193, \"event_details\": \"\", \"estimated_distance\": 749.8, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357954, \"event_id\": 6796, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-30\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:20.170590"
-}

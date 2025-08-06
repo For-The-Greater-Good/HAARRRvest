@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4644, \"name\": \"Good Shepherd Christian Church\", \"nickname\": \"Good Shepherd Christian Church\", \"address\": \"9571 Shepard Rd\", \"city\": \"Macedonia\", \"state\": \"OH\", \"zip\": \"44056\", \"phone\": \"330)-467-5644\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 906.63, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8588, \"name\": \"Meal\", \"address\": \"9571 Shepard Rd\", \"city\": \"Macedonia\", \"state\": \"OH\", \"zip\": \"44056\", \"latitude\": 41.3353968, \"longitude\": -81.4889572, \"event_details\": \"Regular Hours - 3rd Sunday from 2-3:30pm | Drive-thru meal distribution.\", \"estimated_distance\": 906.63, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360125, \"event_id\": 8588, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"3:30 PM\", \"date\": \"2025-08-17\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:21.079405"
-}

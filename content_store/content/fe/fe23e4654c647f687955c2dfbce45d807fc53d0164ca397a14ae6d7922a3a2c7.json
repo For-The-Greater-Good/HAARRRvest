@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3583, \"name\": \"Second Harvest Food Bank of NCO- HURON\", \"nickname\": \"Second Harvest Food Bank of NCO\", \"address\": \"561 Laurel W Street\", \"city\": \"WILLARD\", \"state\": \"OH\", \"zip\": \"44890\", \"phone\": \"4409602265\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 841.15, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6244, \"name\": \"Willard Parks\", \"address\": \"561 W LAUREL ST\", \"city\": \"WILLARD\", \"state\": \"OH\", \"zip\": \"44890\", \"latitude\": 41.0543108, \"longitude\": -82.7359041, \"event_details\": \"Drive-Thru Mobile Pantry Food Distribution. Please bring your Photo I.D No more than 2 families served per car. Please clean out your trunk & car for easy loading! Questions? Call 440-960-2265\", \"estimated_distance\": 841.15, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361332, \"event_id\": 6244, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"3 PM\", \"end_time\": \"4:30 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:19.675826"
-}

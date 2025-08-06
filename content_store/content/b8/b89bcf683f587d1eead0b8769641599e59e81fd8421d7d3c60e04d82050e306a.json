@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 437, \"name\": \"Community Bible Church\", \"nickname\": \"Community Bible Church\", \"address\": \"3671 Tallmadge Rd\", \"city\": \"Rootstown\", \"state\": \"OH\", \"zip\": \"44272\", \"phone\": \"330-325-9449\", \"latitude\": 41.10042, \"longitude\": -81.25968, \"estimated_distance\": 918.49, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 607, \"name\": \"Pantry\", \"address\": \"3671 Tallmadge Rd\", \"city\": \"Rootstown\", \"state\": \"OH\", \"zip\": \"44272\", \"latitude\": 41.0996673, \"longitude\": -81.2598468, \"event_details\": \"Regular Hours - Last Sunday from 12:30-1:30pm\", \"estimated_distance\": 918.49, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361255, \"event_id\": 607, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12:30 PM\", \"end_time\": \"1:30 PM\", \"date\": \"2025-08-31\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:17.056917"
-}

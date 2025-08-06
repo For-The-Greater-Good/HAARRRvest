@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 926, \"name\": \"Mizpah Community Center\", \"nickname\": \"Mizpah\", \"address\": \"1802 S CENTRAL AVE\", \"city\": \"LIMA\", \"state\": \"OH\", \"zip\": \"45804\", \"phone\": \"419-222-5011\", \"latitude\": 40.71022, \"longitude\": -84.10283, \"estimated_distance\": 769.25, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1359, \"name\": \"Produce Distribution\", \"address\": \"1802 S CENTRAL AVE\", \"city\": \"LIMA\", \"state\": \"OH\", \"zip\": \"45804\", \"latitude\": 40.7103428, \"longitude\": -84.1023574, \"event_details\": \"\", \"estimated_distance\": 769.25, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357784, \"event_id\": 1359, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-12\"}, {\"id\": 357785, \"event_id\": 1359, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.013144"
-}

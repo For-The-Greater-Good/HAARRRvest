@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 5054, \"name\": \"IBH REACH\", \"nickname\": \"IBH REACH\", \"address\": \"250 N. Firestone Park Blvd\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44301\", \"phone\": \"(330)962-5887\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 905.03, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 9417, \"name\": \"Meal\", \"address\": \"250 N. Firestone Park Blvd\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44301\", \"latitude\": 41.0438921, \"longitude\": -81.5170122, \"event_details\": \"\", \"estimated_distance\": 905.03, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361165, \"event_id\": 9417, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-06\"}, {\"id\": 361166, \"event_id\": 9417, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-20\"}, {\"id\": 368283, \"event_id\": 9417, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"1 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:21.366710"
-}

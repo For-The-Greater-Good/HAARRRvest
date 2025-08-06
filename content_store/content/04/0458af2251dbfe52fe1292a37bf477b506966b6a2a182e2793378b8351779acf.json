@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 5082, \"name\": \"Amesville School Pantry\", \"nickname\": \"Amesville\", \"address\": \"23 Main Street\", \"city\": \"AMESVILLE\", \"state\": \"OH\", \"zip\": \"45711\", \"phone\": \"740-270-3217\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 889.1, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 9479, \"name\": \"Pantry\", \"address\": \"23 Main Street\", \"city\": \"AMESVILLE\", \"state\": \"OH\", \"zip\": \"45711\", \"latitude\": 39.4022934, \"longitude\": -81.9572995, \"event_details\": \"\", \"estimated_distance\": 889.1, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361395, \"event_id\": 9479, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-12\"}, {\"id\": 361396, \"event_id\": 9479, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:21.386041"
-}

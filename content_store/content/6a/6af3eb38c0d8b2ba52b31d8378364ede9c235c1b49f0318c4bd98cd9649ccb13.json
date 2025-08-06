@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3556, \"name\": \"Loving Kindness Kitchen\", \"nickname\": \"Loving Kindness Kitchen\", \"address\": \"122 E CENTER ST\", \"city\": \"LONDON\", \"state\": \"OH\", \"zip\": \"43140\", \"phone\": \"740-852-1980\", \"latitude\": 39.88057, \"longitude\": -83.44797, \"estimated_distance\": 806.64, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6197, \"name\": \"Meal\", \"address\": \"122 E CENTER ST\", \"city\": \"LONDON\", \"state\": \"OH\", \"zip\": \"43140\", \"latitude\": 39.8841156, \"longitude\": -83.4416919, \"event_details\": \"\", \"estimated_distance\": 806.64, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360970, \"event_id\": 6197, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-11\"}, {\"id\": 360971, \"event_id\": 6197, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-18\"}, {\"id\": 360972, \"event_id\": 6197, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:19.595544"
-}

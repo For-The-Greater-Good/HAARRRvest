@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3506, \"name\": \"Faith United Methodist Church\", \"nickname\": \"Faith UMC\", \"address\": \"2560 Post Rd\", \"city\": \"Twinsburg\", \"state\": \"OH\", \"zip\": \"44087\", \"phone\": \"330-425.2565\", \"latitude\": 41.3326, \"longitude\": -81.43835, \"estimated_distance\": 909.22, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6111, \"name\": \"Pantry\", \"address\": \"2560 Post Rd\", \"city\": \"Twinsburg\", \"state\": \"OH\", \"zip\": \"44087\", \"latitude\": 41.33290291, \"longitude\": -81.43926324, \"event_details\": \"Regular Hours - 2nd Sunday from 4-5:30pm | Hot meal and pantry take place at the same time.\", \"estimated_distance\": 909.22, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360095, \"event_id\": 6111, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5:30 PM\", \"date\": \"2025-08-10\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:19.501774"
-}

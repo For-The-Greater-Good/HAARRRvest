@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4175, \"name\": \"God's Kngdom\", \"nickname\": \"God's Kngdom\", \"address\": \"423 WASHINGTON AVE\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44052\", \"phone\": \"440-444-0440\", \"latitude\": 41.46644, \"longitude\": -82.18006, \"estimated_distance\": 874.51, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7506, \"name\": \"Food Pantry\", \"address\": \"423 WASHINGTON AVE\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44052\", \"latitude\": 41.37391551, \"longitude\": -82.10587988, \"event_details\": \"\", \"estimated_distance\": 874.51, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357727, \"event_id\": 7506, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1:30 PM\", \"end_time\": \"3:30 PM\", \"date\": \"2025-08-17\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}, {\"id\": 7507, \"name\": \"Hot Meal\", \"address\": \"423 WASHINGTON AVE\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44052\", \"latitude\": 41.37391551, \"longitude\": -82.10587988, \"event_details\": \"\", \"estimated_distance\": 874.51, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357728, \"event_id\": 7507, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1:30 PM\", \"end_time\": \"3:30 PM\", \"date\": \"2025-08-17\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:20.556010"
-}

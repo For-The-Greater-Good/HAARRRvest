@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1465, \"name\": \"COGASOC Food Pantry\", \"nickname\": \"COGASOC\", \"address\": \"528 CLIFFWOOD AVE\", \"city\": \"ZANESVILLE\", \"state\": \"OH\", \"zip\": \"43701\", \"phone\": \"740-221-2089\", \"latitude\": 39.93104, \"longitude\": -82.01297, \"estimated_distance\": 882.26, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2159, \"name\": \"Pantry\", \"address\": \"528 CLIFFWOOD AVE\", \"city\": \"ZANESVILLE\", \"state\": \"OH\", \"zip\": \"43701\", \"latitude\": 39.9314909, \"longitude\": -82.0131353, \"event_details\": \"\", \"estimated_distance\": 882.26, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355211, \"event_id\": 2159, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-13\"}, {\"id\": 355212, \"event_id\": 2159, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-20\"}, {\"id\": 355213, \"event_id\": 2159, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-27\"}, {\"id\": 362364, \"event_id\": 2159, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.497093"
-}

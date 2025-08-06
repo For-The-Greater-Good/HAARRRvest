@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3129, \"name\": \"SharonWoods Church\", \"nickname\": \"SharonWoods Church\", \"address\": \"5959 SHARON WOODS BLVD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43229\", \"phone\": \"614-891-0755\", \"latitude\": 40.08951, \"longitude\": -82.97005, \"estimated_distance\": 830.62, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4960, \"name\": \"Produce Market\", \"address\": \"5959 SHARON WOODS BLVD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43229\", \"latitude\": 40.0891241, \"longitude\": -82.9704662, \"event_details\": \"\", \"estimated_distance\": 830.62, \"exception_note\": \"\", \"event_dates\": [{\"id\": 363709, \"event_id\": 4960, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-06\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:19.265955"
-}

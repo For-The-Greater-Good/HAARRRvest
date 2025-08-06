@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 726, \"name\": \"Leave a Mark Church Food Pantry\", \"nickname\": \"LAMC\", \"address\": \"4818 PARSONS AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43207\", \"phone\": \"614-940-0211\", \"latitude\": 39.86412, \"longitude\": -82.98329, \"estimated_distance\": 831.12, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1021, \"name\": \"Pantry\", \"address\": \"4818 PARSONS AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43207\", \"latitude\": 39.86412, \"longitude\": -82.98329, \"event_details\": \"\", \"estimated_distance\": 831.12, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355399, \"event_id\": 1021, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}, {\"id\": 362551, \"event_id\": 1021, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-09-06\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:17.731487"
-}

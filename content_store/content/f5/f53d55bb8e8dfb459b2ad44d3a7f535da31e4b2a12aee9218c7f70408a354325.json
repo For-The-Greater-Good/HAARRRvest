@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1344, \"name\": \"SDA Community Service Chillicothe\", \"nickname\": \"SDA Chillicothe\", \"address\": \"510 METZGER AVE\", \"city\": \"CHILLICOTHE\", \"state\": \"OH\", \"zip\": \"45601\", \"phone\": \"740-774-1295\", \"latitude\": 39.34022, \"longitude\": -82.99544, \"estimated_distance\": 834.37, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1966, \"name\": \"Pantry\", \"address\": \"510 METZGER AVE\", \"city\": \"CHILLICOTHE\", \"state\": \"OH\", \"zip\": \"45601\", \"latitude\": 39.3405122, \"longitude\": -82.9944428, \"event_details\": \"Customers can visit once every 30 days.\", \"estimated_distance\": 834.37, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355694, \"event_id\": 1966, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-12\"}, {\"id\": 355695, \"event_id\": 1966, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-19\"}, {\"id\": 355696, \"event_id\": 1966, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-26\"}, {\"id\": 362837, \"event_id\": 1966, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-02\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.364412"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3797, \"name\": \"The leipsic community center\", \"nickname\": \"Leipsic\", \"address\": \"120 E MAIN ST\", \"city\": \"LEIPSIC\", \"state\": \"OH\", \"zip\": \"45856\", \"phone\": \"4199437400\", \"latitude\": 41.15357, \"longitude\": -83.93798, \"estimated_distance\": 775.79, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6792, \"name\": \"Pantry\", \"address\": \"120 E MAIN ST\", \"city\": \"LEIPSIC\", \"state\": \"OH\", \"zip\": \"45856\", \"latitude\": 41.09856156, \"longitude\": -83.98483699, \"event_details\": \"\", \"estimated_distance\": 775.79, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357962, \"event_id\": 6792, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:20.145563"
-}

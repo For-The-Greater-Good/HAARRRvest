@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1019, \"name\": \"Koinonia Dev. Corp Pantry\", \"nickname\": \"Koinonia Dev. Corp Pantry\", \"address\": \"258 HOSACK ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43207\", \"phone\": \"614-348-4790\", \"latitude\": 39.92274, \"longitude\": -82.98943, \"estimated_distance\": 830.52, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1482, \"name\": \"Pantry\", \"address\": \"258 HOSACK ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43207\", \"latitude\": 39.92257858, \"longitude\": -82.98833798, \"event_details\": \"\", \"estimated_distance\": 830.52, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355576, \"event_id\": 1482, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-13\"}, {\"id\": 355577, \"event_id\": 1482, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.102076"
-}

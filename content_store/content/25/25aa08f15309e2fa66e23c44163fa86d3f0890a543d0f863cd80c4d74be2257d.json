@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3320, \"name\": \"Care Connection at Judah Tabernacle\", \"nickname\": \"Care Connection\", \"address\": \"3176 S HIGH ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43207\", \"phone\": \"614-599-5747\", \"latitude\": 39.89624, \"longitude\": -82.99309, \"estimated_distance\": 830.34, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5327, \"name\": \"Pantry\", \"address\": \"3176 S HIGH ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43207\", \"latitude\": 39.8965627, \"longitude\": -82.994463, \"event_details\": \"Please bring Picture ID. Drive Thru service being offered at this time.\", \"estimated_distance\": 830.34, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355227, \"event_id\": 5327, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:19.346693"
-}

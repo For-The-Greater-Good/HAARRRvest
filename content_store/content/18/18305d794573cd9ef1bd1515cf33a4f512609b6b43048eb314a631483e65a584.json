@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 3596, \"name\": \"Neffs UMC Pantry\", \"nickname\": \"Neffs UMC Pantry\", \"address\": \"54070 Belmont St\", \"city\": \"NEFFS\", \"state\": \"OH\", \"zip\": \"43940\", \"phone\": \"\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 945.31, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6290, \"name\": \"Pantry\", \"address\": \"54070 Belmont St\", \"city\": \"NEFFS\", \"state\": \"OH\", \"zip\": \"43940\", \"latitude\": 40.02793081, \"longitude\": -80.81408425, \"event_details\": \"\", \"estimated_distance\": 945.31, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358634, \"event_id\": 6290, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:19.700281"
-}

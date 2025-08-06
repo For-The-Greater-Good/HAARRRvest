@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 4737, \"name\": \"The Table at Barnhill (LifeWay Church)\", \"nickname\": \"The Table at Barnhill (LifeWay Church)\", \"address\": \"1855 Roxford St\", \"city\": \"New Philadelphia\", \"state\": \"OH\", \"zip\": \"44663\", \"phone\": \"330-417-0605\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 914.13, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8803, \"name\": \"Meal\", \"address\": \"1855 Roxford St\", \"city\": \"New Philadelphia\", \"state\": \"OH\", \"zip\": \"44663\", \"latitude\": 40.44971174, \"longitude\": -81.36563417, \"event_details\": \"Regular Hours - 2nd and 4th Tuesday from 5:30-6:30pm\", \"estimated_distance\": 914.13, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360670, \"event_id\": 8803, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-12\"}, {\"id\": 360671, \"event_id\": 8803, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:21.206372"
-}

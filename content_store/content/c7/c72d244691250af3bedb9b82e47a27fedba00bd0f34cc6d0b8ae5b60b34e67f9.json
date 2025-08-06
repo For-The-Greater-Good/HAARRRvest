@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 906, \"name\": \"Dodge Multi-Generational Center\", \"nickname\": \"Dodge Multi-Generational Center\", \"address\": \"667 SULLIVANT AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43215\", \"phone\": \"614-645-3176\", \"latitude\": 39.95234, \"longitude\": -83.01555, \"estimated_distance\": 828.79, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1327, \"name\": \"Produce Market\", \"address\": \"667 SULLIVANT AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43215\", \"latitude\": 39.95388652, \"longitude\": -83.01760061, \"event_details\": \"\", \"estimated_distance\": 828.79, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360248, \"event_id\": 1327, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-14\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:17.962490"
-}

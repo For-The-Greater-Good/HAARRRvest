@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1397, \"name\": \"Beallsville Mobile Market\", \"nickname\": \"Beallsville Mobile Market\", \"address\": \"52753 Washington St\", \"city\": \"Beallsville\", \"state\": \"OH\", \"zip\": \"43716\", \"phone\": \"\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 931.44, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2063, \"name\": \"Mobile Market\", \"address\": \"52753 Washington St\", \"city\": \"Beallsville\", \"state\": \"OH\", \"zip\": \"43716\", \"latitude\": 39.851692, \"longitude\": -81.09652323, \"event_details\": \"\", \"estimated_distance\": 931.44, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358627, \"event_id\": 2063, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-14\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
-  "metadata": {
-    "scraper_id": "freshtrak",
-    "source": "freshtrak"
-  },
-  "timestamp": "2025-08-06T07:40:18.439818"
-}
