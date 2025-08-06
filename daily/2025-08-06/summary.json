@@ -1,11 +1,11 @@
 {
   "date": "2025-08-06",
-  "total_jobs": 16,
+  "total_jobs": 20,
   "scrapers": {
     "unknown": {
-      "count": 16,
+      "count": 20,
       "first_job": "2025-08-06T00:28:40.248389",
-      "last_job": "2025-08-06T01:35:36.074296"
+      "last_job": "2025-08-06T01:53:16.578545"
     }
   },
   "jobs": [
@@ -88,6 +88,26 @@
       "job_id": "test-job",
       "scraper_id": "unknown",
       "timestamp": "2025-08-06T01:35:36.074296"
+    },
+    {
+      "job_id": "ce99bc2b-45e5-412c-b43e-3aed7b0a727e",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T01:53:08.547500"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T01:53:15.667571"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T01:53:16.126074"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-06T01:53:16.578545"
     }
   ]
 }
