@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lafayette Federated Church\\t\", \"alternate_name\": \"\", \"description\": \"* ID required (Driver's license)\\n* Located in the building behind Lafayette Federated Church\", \"email\": \"\", \"url\": \"https://www.lfc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"180 New Jersey 15\", \"address_2\": null, \"city\": \"Lafayette\", \"state_province\": \"NJ\", \"postal_code\": \"07848\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.11038929711926, \"longitude\": -74.70105390345661}, \"phones\": [{\"number\": \"(973) 383-4461\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.190374"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Urban Outreach Center of NYC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"UOCNYC.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1745 1st Avenue\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10128\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.769527, \"longitude\": -73.955467}, \"phones\": [{\"number\": \"(212) 288-6743\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"23:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.535495"
-}

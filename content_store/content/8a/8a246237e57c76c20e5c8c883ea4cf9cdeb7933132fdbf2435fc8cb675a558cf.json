@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New York Common Pantry, Bronx\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://nycommonpantry.org/home/food-programs-2/\", \"status\": \"active\", \"address\": {\"address_1\": \"1290 Hoe Ave\", \"address_2\": null, \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10459\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8307829, \"longitude\": -73.890237}, \"phones\": [{\"number\": \"(917) 720-9700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.294171"
-}

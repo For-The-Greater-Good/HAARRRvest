@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Zion Lutheran Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.zionlutheranmi.org/foodpantry\", \"status\": \"active\", \"address\": {\"address_1\": \"143 Albany Street\", \"address_2\": null, \"city\": \"Ferndale\", \"state_province\": \"MI\", \"postal_code\": \"48220\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4579504, \"longitude\": -83.1338524}, \"phones\": [{\"number\": \"(248) 398-5510\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:30.207789"
-}

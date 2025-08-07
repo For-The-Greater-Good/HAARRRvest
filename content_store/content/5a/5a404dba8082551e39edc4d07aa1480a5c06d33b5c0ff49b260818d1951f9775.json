@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Investors Academy Inc\", \"alternate_name\": \"\", \"description\": \"This resource accepts clothing and shoe donations\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"122 Howell Drive Southwest\", \"address_2\": null, \"city\": \"Adamsville\", \"state_province\": \"GA\", \"postal_code\": \"30331\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7548462, \"longitude\": -84.5031898}, \"phones\": [{\"number\": \"(470) 599-7956\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:26.300191"
-}

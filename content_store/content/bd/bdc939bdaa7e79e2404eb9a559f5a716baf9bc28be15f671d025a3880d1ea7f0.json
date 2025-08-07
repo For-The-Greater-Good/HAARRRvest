@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Harrison Park\\t\\t\", \"alternate_name\": \"\", \"description\": \"Coordinator: Nayeli\\tMorocho\\t9733425006\\nStart: 07/02/2025\\tEnd: 08/27/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"140 Spruce Street\", \"address_2\": null, \"city\": \"Springfield/Belmont\", \"state_province\": \"NJ\", \"postal_code\": \"07108\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7282223, \"longitude\": -74.1865036}, \"phones\": [{\"number\": \"(862) 899-6767\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:09.884321"
-}

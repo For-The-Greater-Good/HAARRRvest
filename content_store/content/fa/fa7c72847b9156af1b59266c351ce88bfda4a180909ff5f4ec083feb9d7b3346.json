@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Ocean Bay Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://hitesite.org/resource/9976\", \"status\": \"active\", \"address\": {\"address_1\": \"411 Beach 54th Street\", \"address_2\": \"\", \"city\": \"Arverne\", \"state_province\": \"NY\", \"postal_code\": \"11692\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.59634, \"longitude\": -73.784637}, \"phones\": [{\"number\": \"(718) 408-6265\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.235434"
-}

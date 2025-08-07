@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Laurel civic\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.laurelcivic.org/food\", \"status\": \"active\", \"address\": {\"address_1\": \"509 Collins Road\", \"address_2\": null, \"city\": \"Nokomis\", \"state_province\": \"FL\", \"postal_code\": \"34275\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.1346941, \"longitude\": -82.4506493}, \"phones\": [{\"number\": \"(941) 483-3338\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:42.777619"
-}

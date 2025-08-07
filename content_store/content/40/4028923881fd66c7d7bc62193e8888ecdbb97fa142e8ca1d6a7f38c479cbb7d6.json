@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Morristown Meals on Wheels\", \"alternate_name\": \"\", \"description\": \"- The charge for their meals is very moderate\\u2014 $7.25 per day \\n- For those unable to afford the cost of the meals, Morristown Meals on Wheels provides a limited number of client subsidies. \", \"email\": \"\", \"url\": \"https://morristownmeals-on-wheels.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"29 Elm Street\", \"address_2\": null, \"city\": \"Morristown\", \"state_province\": \"NJ\", \"postal_code\": \"07960\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7938304, \"longitude\": -74.47465799999999}, \"phones\": [{\"number\": \"(973) 532-2706\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:20.147176"
-}

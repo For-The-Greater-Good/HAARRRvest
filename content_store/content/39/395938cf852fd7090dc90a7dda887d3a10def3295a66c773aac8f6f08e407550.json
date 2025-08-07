@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bethel Outreach Center\", \"alternate_name\": \"\", \"description\": \"Call for hours.\", \"email\": \"\", \"url\": \"https://www.baltimorepc.org/v2/main/listing.php?listing_id=465\", \"status\": \"active\", \"address\": {\"address_1\": \"1429 McCulloh Street\", \"address_2\": null, \"city\": \"Madison Park\", \"state_province\": \"MD\", \"postal_code\": \"21217\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3042053, \"longitude\": -76.629409}, \"phones\": [{\"number\": \"(410) 728-2557\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.630911"
-}

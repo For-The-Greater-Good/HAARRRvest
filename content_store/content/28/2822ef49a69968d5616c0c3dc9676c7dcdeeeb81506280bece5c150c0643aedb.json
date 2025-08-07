@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Newmark Graduate School of Journalism Food Pantry\", \"alternate_name\": \"\", \"description\": \"- Food pantry is only open to their students\", \"email\": \"\", \"url\": \"https://www.journalism.cuny.edu\", \"status\": \"active\", \"address\": {\"address_1\": \"219 W 40th\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10018\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7553426, \"longitude\": -73.98884559999999}, \"phones\": [{\"number\": \"(646) 758-7700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Student\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.239597"
-}

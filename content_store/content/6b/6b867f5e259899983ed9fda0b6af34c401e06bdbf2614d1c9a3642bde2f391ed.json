@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salvation Army-Wake County\", \"alternate_name\": \"\", \"description\": \"Available Tuesdays & Thursdays\\nEach household is allowed 1-3 bags every three months\\n\\nJudy D. Zelnak Center of Hope\\n1863 Capital Blvd. Raleigh NC 27604\\n\", \"email\": \"\", \"url\": \"https://southernusa.salvationarmy.org/wake/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"902 Wake Forest Road\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"NC\", \"postal_code\": \"27604\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7924542, \"longitude\": -78.6318548}, \"phones\": [{\"number\": \"(919) 832-6918\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:32.088127"
-}

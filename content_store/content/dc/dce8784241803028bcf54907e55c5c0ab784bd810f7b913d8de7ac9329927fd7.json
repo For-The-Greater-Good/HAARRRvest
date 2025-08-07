@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St Joseph's Food Pantry of Toms River\", \"alternate_name\": \"\", \"description\": \"The St Joseph's Food Pantry is located at the rear-left side of the church (green and yellow building).\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"685 Hooper Avenue\", \"address_2\": null, \"city\": \"Toms River\", \"state_province\": \"NJ\", \"postal_code\": \"08753\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9604448, \"longitude\": -74.1890641}, \"phones\": [{\"number\": \"(732) 240-1089\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:37.648812"
-}

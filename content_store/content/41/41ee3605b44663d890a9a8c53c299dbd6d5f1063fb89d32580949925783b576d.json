@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Good Samaritan Health Clinic\", \"alternate_name\": \"\", \"description\": \"Provides health + dental services for uninsured and are ineligible for Medicaid/Medicare.\", \"email\": \"\", \"url\": \"www.Goodsamclinic.org\", \"status\": \"active\", \"address\": {\"address_1\": \"5334 Aspen Street\", \"address_2\": null, \"city\": \"Crafts\", \"state_province\": \"FL\", \"postal_code\": \"34652\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2369976, \"longitude\": -82.7206135}, \"phones\": [{\"number\": \"(727) 848-7789\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.985080"
-}

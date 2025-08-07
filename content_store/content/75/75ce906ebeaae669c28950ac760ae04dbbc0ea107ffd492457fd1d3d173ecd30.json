@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St Matthews\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://stmatthewsepiscopal.org/serve-connect/the-food-pantry-every-wed-am\", \"status\": \"active\", \"address\": {\"address_1\": \"101 Saint Matthews Lane\", \"address_2\": null, \"city\": \"Spartanburg\", \"state_province\": \"SC\", \"postal_code\": \"29301\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.9380749, \"longitude\": -81.9843741}, \"phones\": [{\"number\": \"(864) 576-0424\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Available Medical help assistance\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:35.978012"
-}

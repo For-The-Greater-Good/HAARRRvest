@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Padre Pio Prayer Center Food Distribution (St. Joachim)\", \"alternate_name\": \"\", \"description\": \"No requirements. First come, first serve. Some people line up outside the church as early as 7:00am for the 10:45am start time.\", \"email\": \"\", \"url\": \"https://www.piocenter.org/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"1527 Church St\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19124\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0118811000791, \"longitude\": -75.08971092993852}, \"phones\": [{\"number\": \"(215) 288-3081\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:45\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID or proof of income is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Residents can pick up supplemental food for their household.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Any resident is eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:09.847761"
-}

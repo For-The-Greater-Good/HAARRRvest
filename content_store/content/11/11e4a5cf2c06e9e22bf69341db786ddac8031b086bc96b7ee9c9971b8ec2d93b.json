@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Paul United Methodist Church\", \"alternate_name\": \"\", \"description\": \"The Lord's Pantry and the Lord's Clothes Closet are open twice a month:\\n*  The First (1st) Saturday from 8 am - 10:30 am  \\n*  The Third (3rd) Thursday from 3pm - 5:30pm.\\n\\nFood and clothing are offered on a first come, first serve basis.  Please bring and ID.  We use a drive-thru distribution, a vehicle is strongly suggested.  \\n\\nClients may come to the Lord's Pantry twice a month and the Lord's Clothes Closet once a month.\", \"email\": \"\", \"url\": \"http://www.stpaul-umc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1400 G St\", \"address_2\": null, \"city\": \"Woodbridge\", \"state_province\": \"VA\", \"postal_code\": \"22191\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.663506, \"longitude\": -77.257176}, \"phones\": [{\"number\": \"(703) 494-2445\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.010904"
-}

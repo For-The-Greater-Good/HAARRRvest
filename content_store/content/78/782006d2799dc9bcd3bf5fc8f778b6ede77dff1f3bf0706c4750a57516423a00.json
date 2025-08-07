@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Floris United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"13600 Frying Pan Road\", \"address_2\": null, \"city\": \"Herndon\", \"state_province\": \"VA\", \"postal_code\": \"20171\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.942751, \"longitude\": -77.416968}, \"phones\": [{\"number\": \"(212) 365-0870\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:30\", \"closes_at\": \"13:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.974534"
-}

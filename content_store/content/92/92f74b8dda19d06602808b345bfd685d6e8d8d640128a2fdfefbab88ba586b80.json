@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Safe Harbor of Chester County\", \"alternate_name\": \"\", \"description\": \"Chester County community\", \"email\": \"\", \"url\": \"https://www.safeharborgwc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"20 North Matlack Street\", \"address_2\": \"\", \"city\": \"West Chester\", \"state_province\": \"PA\", \"postal_code\": \"19380\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.961309, \"longitude\": -75.602213}, \"phones\": [{\"number\": \"(610) 692-6550\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers bread, sweets and treats. Fresh produce upon availability, selections vary\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Lunch\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.555622"
-}

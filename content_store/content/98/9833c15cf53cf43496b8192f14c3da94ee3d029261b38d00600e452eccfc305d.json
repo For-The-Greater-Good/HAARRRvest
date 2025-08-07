@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sojourner House\", \"alternate_name\": \"\", \"description\": \"- Appointments preferred but not required\\n- Call to schedule an appointment\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"85 Rockland Street\", \"address_2\": null, \"city\": \"Roxbury\", \"state_province\": \"MA\", \"postal_code\": \"02119\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3224925, \"longitude\": -71.0875512}, \"phones\": [{\"number\": \"(617) 442-0590\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.671024"
-}

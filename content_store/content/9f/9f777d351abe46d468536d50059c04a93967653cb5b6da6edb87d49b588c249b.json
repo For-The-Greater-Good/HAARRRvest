@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Beginnings Outreach Ministries\", \"alternate_name\": \"\", \"description\": \"Must Bring ID with Address\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"200 Southside Drive\", \"address_2\": null, \"city\": \"Milledgeville\", \"state_province\": \"GA\", \"postal_code\": \"31061\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.0597581, \"longitude\": -83.2083504}, \"phones\": [{\"number\": \"(478) 363-7444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.138003"
-}

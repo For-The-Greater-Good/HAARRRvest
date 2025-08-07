@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Shiloh Baptist Church\", \"alternate_name\": \"\", \"description\": \"- Daycare facility for kids starting at 2years old for a small fee.\\n- closed on the days the food bank is closed which are mainly holiday.\\n\", \"email\": \"\", \"url\": \"https://new-shiloh-baptist.edan.io/\", \"status\": \"active\", \"address\": {\"address_1\": \"2600 Elmin Street\", \"address_2\": null, \"city\": \"Pinecrest\", \"state_province\": \"NC\", \"postal_code\": \"28208\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.21272979999999, \"longitude\": -80.90372980000001}, \"phones\": [{\"number\": \"(704) 398-0184\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.301669"
-}

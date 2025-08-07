@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Saint Giles Food Pantry\", \"alternate_name\": \"\", \"description\": \"OFFERING USDA\", \"email\": \"\", \"url\": \"https://stgilespp.dioswfl.org/Get%20Involved!/st-giles-food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"8271 52nd Street North\", \"address_2\": null, \"city\": \"Pinellas Park\", \"state_province\": \"FL\", \"postal_code\": \"33781\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8469338, \"longitude\": -82.7034721}, \"phones\": [{\"number\": \"(727) 345-5215\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.731954"
-}

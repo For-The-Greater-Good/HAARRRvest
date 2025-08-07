@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Stanislaus B & M\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.stanislauschurch.us\", \"status\": \"active\", \"address\": {\"address_1\": \"101 East 7th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10009\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7268132, \"longitude\": -73.984854}, \"phones\": [{\"number\": \"(212) 475-4576\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:10.608372"
-}

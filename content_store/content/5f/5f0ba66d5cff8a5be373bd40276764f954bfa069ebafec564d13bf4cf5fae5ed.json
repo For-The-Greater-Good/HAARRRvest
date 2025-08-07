@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Springfield Branch Library\\t\\t\", \"alternate_name\": \"\", \"description\": \"Coordinator: Sharen\\tOwens\\t9737339309\\t\\nStart: 07/01/2025\\tEnd: 08/29/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"50 Hayes Street\", \"address_2\": null, \"city\": \"Springfield/Belmont\", \"state_province\": \"NJ\", \"postal_code\": \"07103\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.73605559999999, \"longitude\": -74.1889035}, \"phones\": [{\"number\": \"(973) 733-7736\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:09.937794"
-}

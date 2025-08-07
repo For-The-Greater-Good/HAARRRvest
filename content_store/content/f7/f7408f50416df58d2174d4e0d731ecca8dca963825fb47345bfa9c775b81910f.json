@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lutheran Church of the Reformation - Food Pantry\", \"alternate_name\": \"\", \"description\": \"* The food pantry is closed on the first two Mondays of April 2023.\\n* It is closed on all Federal holidays plus Easter Monday, the Friday after Thanksgiving, and December 26th-31st. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"212 East Capitol Street Northeast\", \"address_2\": null, \"city\": \"Capitol Hill\", \"state_province\": \"DC\", \"postal_code\": \"20003\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.89006570000001, \"longitude\": -77.0028518}, \"phones\": [{\"number\": \"(202) 543-4200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.672136"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Family Food Relief\", \"alternate_name\": \"\", \"description\": \"- Must call 7329057136-ext 7 to be setup for food.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"575 Prospect St., Suite 264\", \"address_2\": null, \"city\": \"Lakewood\", \"state_province\": \"New Jersey\", \"postal_code\": \"08701\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0751294, \"longitude\": -74.2296673}, \"phones\": [{\"number\": \"(732) 678-8359\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.893239"
-}

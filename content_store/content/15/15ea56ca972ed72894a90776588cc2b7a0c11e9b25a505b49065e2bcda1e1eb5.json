@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Canaan Outreach Center\", \"alternate_name\": \"\", \"description\": \"Serves: 43607, 43609, 43614\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1333 Western Avenue\", \"address_2\": null, \"city\": \"Southside\", \"state_province\": \"OH\", \"postal_code\": \"43609\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6345064, \"longitude\": -83.5738787}, \"phones\": [{\"number\": \"(419) 244-5700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.947666"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jubilee Food Pantry\", \"alternate_name\": \"\", \"description\": \"New clients please bring a valid photo ID and current utility bill.\", \"email\": \"\", \"url\": \"https://www.facebook.com/dresdenohiojubilee/\", \"status\": \"active\", \"address\": {\"address_1\": \"10516 Frazeysburg Road\", \"address_2\": null, \"city\": \"Dresden\", \"state_province\": \"OH\", \"postal_code\": \"43821\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.10717200000001, \"longitude\": -82.019666}, \"phones\": [{\"number\": \"(740) 754-3330\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.565697"
-}

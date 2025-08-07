@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Christ Lutheran Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.christud.org\", \"status\": \"active\", \"address\": {\"address_1\": \"7240 Walnut Street\", \"address_2\": \"\", \"city\": \"Upper Darby\", \"state_province\": \"PA\", \"postal_code\": \"19082\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.957337, \"longitude\": -75.26527}, \"phones\": [{\"number\": \"(610) 352-1610\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.513019"
-}

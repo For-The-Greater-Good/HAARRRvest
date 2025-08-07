@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Montrose Elementary\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Remington Road Parking Lot\", \"address_2\": \"2555 East Main Street\", \"city\": \"Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43209\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9568337, \"longitude\": -82.924478}, \"phones\": [{\"number\": \"(614) 237-4226\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Friday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open 24/7! Free, outdoor community fridge/pantry operated by local volunteers.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.432677"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Greater Philadelphia Asian Social Services (GPASS)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.gpasspa.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4943 North 5th Street\", \"address_2\": \"\", \"city\": \"Olney\", \"state_province\": \"PA\", \"postal_code\": \"19120\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0269374, \"longitude\": -75.13235019999999}, \"phones\": [{\"number\": \"(215) 456-1662\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.868562"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Project Mercy-Tioga at Mercy Neighborhood Ministries\", \"alternate_name\": \"\", \"description\": \"Serve 19140 and 19144 Zip codes. \\nWe give what we get it could be fresh produce, meal or non prishable\", \"email\": \"\", \"url\": \"https://mercyneighbors.org/what-we-do/mercy-meals/\", \"status\": \"active\", \"address\": {\"address_1\": \"1939 W. Venango St\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19140\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.00931977622765, \"longitude\": -75.16055712251035}, \"phones\": [{\"number\": \"(215) 227-4393\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"11:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:36.949960"
-}

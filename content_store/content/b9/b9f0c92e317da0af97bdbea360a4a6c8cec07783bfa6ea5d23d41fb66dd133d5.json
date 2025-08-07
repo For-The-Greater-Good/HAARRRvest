@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"V.E.T.S. Inc., Springfield Gardens\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://vfwny.com/di/vfw/v2/default.asp\", \"status\": \"active\", \"address\": {\"address_1\": \"143-17 Springfield Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11433\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6680976, \"longitude\": -73.7565971}, \"phones\": [{\"number\": \"(718) 206-2376\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.842421"
-}

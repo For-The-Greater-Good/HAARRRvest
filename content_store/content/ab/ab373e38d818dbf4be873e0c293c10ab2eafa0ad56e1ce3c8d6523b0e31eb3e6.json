@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Gaithersburg Middle School Parking Lot\", \"alternate_name\": \"\", \"description\": \"Call in advance for services\\nOur truck will set up in the upper parking lot by the cafeteria on the side of the building.\\nManna works in cooperation with certain qualifying community residences to provide food distribution.  Contact your resident manager to learn how to schedule a pick up.\\n\\n\", \"email\": \"\", \"url\": \"https://www.mannafood.org/about/contact-manna/manna-food-distribution-sites/\", \"status\": \"active\", \"address\": {\"address_1\": \"2 Teachers Way\", \"address_2\": null, \"city\": \"Gaithersburg\", \"state_province\": \"MD\", \"postal_code\": \"20877\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1438983, \"longitude\": -77.1877217}, \"phones\": [{\"number\": \"(301) 424-1130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:16.447173"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Holy Trinity Lutheran\", \"alternate_name\": \"\", \"description\": \"Use the side door on 65th street nearest the corner, if the door isn't open ring the doorbell\\n\\nThey serve lunch at 2:00 on saturdays and dinner at 5:00 on wednesdays\", \"email\": \"\", \"url\": \"holytrinitynyc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"3 West 65th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10023\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7721254, \"longitude\": -73.9796228}, \"phones\": [{\"number\": \"(212) 877-6815\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:15.173808"
-}

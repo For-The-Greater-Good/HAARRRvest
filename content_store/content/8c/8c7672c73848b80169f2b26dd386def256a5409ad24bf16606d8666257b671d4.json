@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St Gabriel\\u2019s Church\", \"alternate_name\": \"\", \"description\": \"Must call pantry first to speak with Ms. Yonari at 443-328-3230 for appointment by 2:00 PM\\n\\nInformation needed:\\n* The name of the family.\\n* How many members in the family?\\n* How many are adults 18 years old and up?\\n* How many are minors and how old are the miners?\\n* What day of the week they want to pick up the food?\", \"email\": \"\", \"url\": \"https://www.stgabrielch .org/\", \"status\": \"active\", \"address\": {\"address_1\": \"6950 Dogwood Road\", \"address_2\": null, \"city\": \"Windsor Mill\", \"state_province\": \"MD\", \"postal_code\": \"21244\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3212249, \"longitude\": -76.75664660000001}, \"phones\": [{\"number\": \"(443) 328-3230\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.961715"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"YMCA Trinity\", \"alternate_name\": \"\", \"description\": \"- distribution starts at 12 but the line forms before then hence the earlier time set\", \"email\": \"\", \"url\": \"https://feedingtampabay.org/findfood\", \"status\": \"active\", \"address\": {\"address_1\": \"8411 Photonics Drive\", \"address_2\": null, \"city\": \"New Port Richey\", \"state_province\": \"FL\", \"postal_code\": \"34655\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.1935057, \"longitude\": -82.6747835}, \"phones\": [{\"number\": \"(727) 375-9622\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.987816"
-}

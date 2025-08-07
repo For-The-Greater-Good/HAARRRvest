@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sudbury Food Pantry\", \"alternate_name\": \"\", \"description\": \"Registration begins at 11:30AM.\\n\\nThe Pantry is closed when the Sudbury schools are closed because of weather.\\n\\nhttps://www.facebook.com/sudburyfoodpantry/\", \"email\": \"\", \"url\": \"http://sudburyfoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"160 Concord Road\", \"address_2\": null, \"city\": \"Sudbury\", \"state_province\": \"MA\", \"postal_code\": \"01776\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3737492, \"longitude\": -71.41569659999999}, \"phones\": [{\"number\": \"(978) 443-7725\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.586289"
-}

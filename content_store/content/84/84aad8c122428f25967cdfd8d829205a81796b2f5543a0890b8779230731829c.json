@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Mary\\u2019s Episcopal Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://ufcnyc4love.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"521 West 126th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10027\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.814938, \"longitude\": -73.9559829}, \"phones\": [{\"number\": \"(718) 887-4544\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.800478"
-}

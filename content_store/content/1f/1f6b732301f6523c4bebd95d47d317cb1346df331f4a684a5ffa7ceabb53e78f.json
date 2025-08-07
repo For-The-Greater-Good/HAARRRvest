@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sicklerville Church\", \"alternate_name\": \"\", \"description\": \"*Open to Winslow townsip residents only\\n*The church provides local gift cards.\\n*Call anytime to make an appointment.\\n* Someone will schedule you on Tuesdays or Wednesdays.\\n*Thrift store is available on site.\\n* They need to be receiving some other assistance such as WIC, Welfare, Unemployment, Food stamps.\\n* They do not have any spanish speakers and or translators, please be sure to come with a translator to avoid misunderstanding. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"406 Church Road\", \"address_2\": null, \"city\": \"Sicklerville\", \"state_province\": \"NJ\", \"postal_code\": \"08081\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7219601, \"longitude\": -74.9659472}, \"phones\": [{\"number\": \"(856) 728-1636\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring referral Letter and/or Income or Assistance Letter\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.494560"
-}

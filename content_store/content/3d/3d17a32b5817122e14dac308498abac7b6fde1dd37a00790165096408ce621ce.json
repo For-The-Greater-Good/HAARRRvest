@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Brick Presbyterian Church Food Pantry \", \"alternate_name\": \"\", \"description\": \"* We are open on Wednesdays from 10:00 AM until 2:00 PM. \\n* We only ask clients for their first name, zip code, and number of people in the household (and how many are children). \\n* Clients pull up to our building under a portico and a representative greets them. \\n* They are given a \\u201cshopping list\\u201d to check off what they\\u2019d like to receive and a representative goes inside to fill the order. \\n* Clients are asked to stay in their car.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"111 Drum Point Road\", \"address_2\": null, \"city\": \"Brick Township\", \"state_province\": \"NJ\", \"postal_code\": \"08723\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0443584, \"longitude\": -74.1328504}, \"phones\": [{\"number\": \"(732) 477-0676\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.965867"
-}

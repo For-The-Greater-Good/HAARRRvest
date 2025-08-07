@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Temple Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1300 North 7th Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19122\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9718937, \"longitude\": -75.1481106}, \"phones\": [{\"number\": \"(215) 232-9777\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.526974"
-}

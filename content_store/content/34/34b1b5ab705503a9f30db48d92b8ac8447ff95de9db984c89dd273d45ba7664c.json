@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Pennsauken High School\", \"alternate_name\": \"\", \"description\": \"Keith\\tMeloni\\t8566628500\\nStarts: 07/07/2025\\t08/14/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"800 Hylton Road\", \"address_2\": null, \"city\": \"Pennsauken\", \"state_province\": \"NJ\", \"postal_code\": \"08110\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.98649460000001, \"longitude\": -75.0272991}, \"phones\": [{\"number\": \"(856) 662-8500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:19.753808"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Eatonville Family Agency\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"305 Center Street West\", \"address_2\": null, \"city\": \"Eatonville\", \"state_province\": \"WA\", \"postal_code\": \"98328\", \"country\": \"US\"}, \"location\": {\"latitude\": 46.8671314911069, \"longitude\": -122.2701788676264}, \"phones\": [{\"number\": \"(360) 832-6805\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.090135"
-}

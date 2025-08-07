@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \" Sullivan Center, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/profile.php?id=100067603187549\", \"status\": \"active\", \"address\": {\"address_1\": \"643 Dill Avenue Southwest\", \"address_2\": null, \"city\": \"Capitol View\", \"state_province\": \"GA\", \"postal_code\": \"30310\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.71847169999999, \"longitude\": -84.40859739999999}, \"phones\": [{\"number\": \"(404) 753-0531\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:01.130201"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Rock City Church\", \"alternate_name\": \"\", \"description\": \"Call church office for an appointment for pick-up or delivery\\n\", \"email\": \"\", \"url\": \"https://rockcitychurch.com/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1607 Cromwell Bridge Road\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21234\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4030648, \"longitude\": -76.5617297}, \"phones\": [{\"number\": \"(410) 882-2217\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.992630"
-}

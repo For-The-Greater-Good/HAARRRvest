@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Summer Fun\", \"alternate_name\": \"\", \"description\": \"Melissa\\tBenford\\t6099128710\\nFrom: 08/18/2025\\t08/28/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"105 Grand Street\", \"address_2\": null, \"city\": \"Chambersburg\", \"state_province\": \"NJ\", \"postal_code\": \"08611\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2052218, \"longitude\": -74.75012009999999}, \"phones\": [{\"number\": \"(609) 394-3111\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:14.098011"
-}

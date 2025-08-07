@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Horizon Baptist Church\", \"alternate_name\": \"\", \"description\": \"Contact: Rev. Lambert\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2200 Saint Lukes Lane\", \"address_2\": null, \"city\": \"Lochearn\", \"state_province\": \"MD\", \"postal_code\": \"21207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3341415, \"longitude\": -76.74128499999999}, \"phones\": [{\"number\": \"(410) 298-5161\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.553421"
-}

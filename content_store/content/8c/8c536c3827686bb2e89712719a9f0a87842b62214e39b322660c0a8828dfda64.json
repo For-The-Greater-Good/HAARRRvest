@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Faith Community Church, Food Pantry\", \"alternate_name\": \"\", \"description\": \"can call ahead to confirm opening 410-426-8177\\n\", \"email\": \"\", \"url\": \"http://faithcommunityhamilton.org/index.html\", \"status\": \"active\", \"address\": {\"address_1\": \"5315 Harford Road\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21214\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.35081, \"longitude\": -76.56245}, \"phones\": [{\"number\": \"410-227-4061 and 410-426-8277\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:29.145485"
-}

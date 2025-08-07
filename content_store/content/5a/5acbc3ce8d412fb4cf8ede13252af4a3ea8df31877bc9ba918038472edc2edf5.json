@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Eatontown Food Coop\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"15 Meridian Road\", \"address_2\": null, \"city\": \"Eatontown\", \"state_province\": \"NJ\", \"postal_code\": \"07724\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2772532, \"longitude\": -74.0515089}, \"phones\": [{\"number\": \"(732) 610-8588\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.911357"
-}

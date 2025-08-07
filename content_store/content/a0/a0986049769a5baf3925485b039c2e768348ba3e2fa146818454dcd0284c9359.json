@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"On Our Own\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"162 West Street\", \"address_2\": null, \"city\": \"Annapolis\", \"state_province\": \"MD\", \"postal_code\": \"21401\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9776112, \"longitude\": -76.4992552}, \"phones\": [{\"number\": \"(410) 295-1224\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.224753"
-}

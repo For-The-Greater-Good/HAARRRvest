@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Your Food Shelf\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://woodlandcdc.org/your-food-shelf/\", \"status\": \"active\", \"address\": {\"address_1\": \"1500 Federal St\", \"address_2\": \"\", \"city\": \"Camden\", \"state_province\": \"NJ\", \"postal_code\": \"08105\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.947704, \"longitude\": -75.086889}, \"phones\": [{\"number\": \"(856) 365-6475\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Assists clients with SNAP applications, Social Security, Medicaid and Medicare, and other safety net benefits from the city, state, and federal government\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.523644"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Food Bank Network of Somerset County - United Reformed Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.somersetfoodbank.org/need-help/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"100 West Main Street\", \"address_2\": null, \"city\": \"Somerville\", \"state_province\": \"NJ\", \"postal_code\": \"08876\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.569594, \"longitude\": -74.6148285}, \"phones\": [{\"number\": \"(732) 560-1813\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.581029"
-}

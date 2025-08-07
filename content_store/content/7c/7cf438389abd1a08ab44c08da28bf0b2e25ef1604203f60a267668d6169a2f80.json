@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Okolona Christian church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.okolonacc.org/pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"10801 Faithful Way\", \"address_2\": null, \"city\": \"Louisville\", \"state_province\": \"KY\", \"postal_code\": \"40229\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.0946636, \"longitude\": -85.6673553}, \"phones\": [{\"number\": \"(502) 962-6500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:01.307009"
-}

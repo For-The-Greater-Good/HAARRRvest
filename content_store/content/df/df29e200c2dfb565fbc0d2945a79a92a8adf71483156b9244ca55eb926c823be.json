@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Fort Greene Hazel Brooks - Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.fortgreenecouncil.org/hazelbrooks\", \"status\": \"active\", \"address\": {\"address_1\": \"961 Ocean Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11226\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6388434, \"longitude\": -73.9592751}, \"phones\": [{\"number\": \"(347) 435-3287\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:22.900774"
-}

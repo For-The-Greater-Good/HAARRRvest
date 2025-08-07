@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SOUTH BREVARD SHARING CENTER\", \"alternate_name\": \"\", \"description\": \"* > Registration is Tuesday thru Thursday 9:00am - 3:00pm \\n* > Bring ID and Social Security cards for each member of the household, minotrs do not need ID\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"17 East Hibiscus Boulevard\", \"address_2\": null, \"city\": \"Palm Gardens\", \"state_province\": \"FL\", \"postal_code\": \"32901\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0847288, \"longitude\": -80.62059359999999}, \"phones\": [{\"number\": \"(321) 727-8581\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.129865"
-}

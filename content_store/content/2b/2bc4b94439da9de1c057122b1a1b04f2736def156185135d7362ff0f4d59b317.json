@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Caring for Others Food Pantry\", \"alternate_name\": \"\", \"description\": \"No exact schedule but always distribute food on a Saturday.\\nPlease call ahead to make sure you know the dates for the distribution\", \"email\": \"\", \"url\": \"https://www.caring4others.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3537 Browns Mill Road Southeast\", \"address_2\": null, \"city\": \"Glenrose Heights\", \"state_province\": \"GA\", \"postal_code\": \"30354\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6601274, \"longitude\": -84.38664949999999}, \"phones\": [{\"number\": \"(404) 761-0133\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.071750"
-}

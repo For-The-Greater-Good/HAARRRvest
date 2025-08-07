@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mt. Moriah Outreach Center pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://mtmoriahoutreach.org/contact.htm\", \"status\": \"active\", \"address\": {\"address_1\": \"317 Jefferson Street\", \"address_2\": null, \"city\": \"Kernersville\", \"state_province\": \"NC\", \"postal_code\": \"27284\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.120376, \"longitude\": -80.06599949999999}, \"phones\": [{\"number\": \"(336) 283-7055\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:36.628209"
-}

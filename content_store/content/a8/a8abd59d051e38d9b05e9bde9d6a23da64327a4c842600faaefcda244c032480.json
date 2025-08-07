@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Christ Episcopal Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.christchurchdearborn.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"120 North Military Street\", \"address_2\": null, \"city\": \"Dearborn\", \"state_province\": \"MI\", \"postal_code\": \"48124\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.312458, \"longitude\": -83.25283010000001}, \"phones\": [{\"number\": \"(313) 565-8450\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:20.209565"
-}

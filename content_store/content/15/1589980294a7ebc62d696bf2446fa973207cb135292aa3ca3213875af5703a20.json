@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Helping Up Mission Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://helpingupmission.org/get-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"1029 East Baltimore Street\", \"address_2\": null, \"city\": \"Jonestown\", \"state_province\": \"MD\", \"postal_code\": \"21202\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2904962, \"longitude\": -76.6021128}, \"phones\": [{\"number\": \"(410) 675-7500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Donations required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:52.315100"
-}

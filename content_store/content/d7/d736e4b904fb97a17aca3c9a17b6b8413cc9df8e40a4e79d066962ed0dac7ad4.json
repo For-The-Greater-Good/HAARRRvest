@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Frederick Community Action Council\", \"alternate_name\": \"\", \"description\": \"Contact: Marty Qually\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"100 South Market Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MD\", \"postal_code\": \"21701\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4117322, \"longitude\": -77.4108913}, \"phones\": [{\"number\": \"(301) 694-1506\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"23:00\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.372325"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"LINCS Food Pantry\", \"alternate_name\": \"\", \"description\": \"Register to Linden social services office before start getting food. Make an appointment by calling: 9084748620\\n\\n\\n\\n\", \"email\": \"\", \"url\": \"https://www.facebook.com/LINCSFoodPantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"14 West Munsell Avenue\", \"address_2\": \"\", \"city\": \"Linden\", \"state_province\": \"NJ\", \"postal_code\": \"07036\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6282684, \"longitude\": -74.2483848}, \"phones\": [{\"number\": \"(908) 925-2523\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will be given a Pantry ID upon registration\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:15.257836"
-}

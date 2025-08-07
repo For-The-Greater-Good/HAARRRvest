@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Smithfield Rescue Mission\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"523 Glenn Street\", \"address_2\": null, \"city\": \"Smithfield\", \"state_province\": \"NC\", \"postal_code\": \"27577\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.4983507, \"longitude\": -78.34748689999999}, \"phones\": [{\"number\": \"(919) 934-9257\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:32.701838"
-}

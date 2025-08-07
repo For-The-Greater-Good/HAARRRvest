@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Tuckerton Area Interchurch Food Pantry\", \"alternate_name\": \"\", \"description\": \"Follow the signs to get to the pantry area \", \"email\": \"\", \"url\": \"https://sttheresa450.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"450 Radio Road\", \"address_2\": null, \"city\": \"Little Egg Harbor Township\", \"state_province\": \"NJ\", \"postal_code\": \"08087\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5845164, \"longitude\": -74.35799709999999}, \"phones\": [{\"number\": \"(609) 296-1345\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Drive-thru delivery\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.920916"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Steadfast Helping Hands Food Pantry\", \"alternate_name\": \"\", \"description\": \"Call Connie at 614-871-7445 to make an appointment. Leave a message with your name and number.\\n\\nThe distribution is once a month and the schedule will be provided on the call.\", \"email\": \"\", \"url\": \"https://steadfastchurch.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"4500 Broadway\", \"address_2\": null, \"city\": \"Grove City\", \"state_province\": \"OH\", \"postal_code\": \"43123\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.87255469999999, \"longitude\": -83.101263}, \"phones\": [{\"number\": \"(614) 871-1757\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"10:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"10:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"10:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"10:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"10:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.112101"
-}

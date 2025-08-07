@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Luke's Senior Community Program\", \"alternate_name\": \"\", \"description\": \"- On the First and second Wednesday they serve persons with the second name starting with A to M\\n- On the Third  and Forth Wednesday they serve persons with the second name starting withN Z\", \"email\": \"\", \"url\": \"https://stlukesbronx.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"765 E 222 Street\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10467\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.885109, \"longitude\": -73.858994}, \"phones\": [{\"number\": \"(718) 882-3060\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.722381"
-}

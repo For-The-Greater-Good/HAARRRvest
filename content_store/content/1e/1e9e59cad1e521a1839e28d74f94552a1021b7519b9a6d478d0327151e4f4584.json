@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Client can come 1x every 30 days\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"615 Oak Street\", \"address_2\": null, \"city\": \"Gainesville\", \"state_province\": \"GA\", \"postal_code\": \"30501\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.2997709, \"longitude\": -83.8337541}, \"phones\": [{\"number\": \"(678) 450-0077\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.933575"
-}

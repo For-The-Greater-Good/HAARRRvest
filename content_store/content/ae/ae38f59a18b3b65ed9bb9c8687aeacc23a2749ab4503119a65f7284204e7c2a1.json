@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Salvation Army Atlanta Harbor Light\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://southernusa.salvationarmy.org/metro-atlanta/red-shield-services\", \"status\": \"active\", \"address\": {\"address_1\": \"469 Marietta Street NorthWest\", \"address_2\": null, \"city\": \"Downtown Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30313\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7656103, \"longitude\": -84.3966499}, \"phones\": [{\"number\": \"(404) 486-2700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.964125"
-}

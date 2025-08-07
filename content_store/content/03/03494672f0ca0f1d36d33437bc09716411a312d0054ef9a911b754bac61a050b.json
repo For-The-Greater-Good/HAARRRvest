@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Davidson Family Resource Center\", \"alternate_name\": \"\", \"description\": \"Davidson County residents\", \"email\": \"\", \"url\": \"https://www.southdavidsonfrc.com/services/services.htm\", \"status\": \"active\", \"address\": {\"address_1\": \"292 South Main Street\", \"address_2\": null, \"city\": \"Denton\", \"state_province\": \"NC\", \"postal_code\": \"27239\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.6292394, \"longitude\": -80.1135235}, \"phones\": [{\"number\": \"(336) 859-5399\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:34.323591"
-}

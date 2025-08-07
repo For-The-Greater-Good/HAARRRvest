@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Met Council - Bnai Raphael\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3486 Flatlands Avenue\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11234\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6173858, \"longitude\": -73.9408919}, \"phones\": [{\"number\": \"(718) 951-6059\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.512438"
-}

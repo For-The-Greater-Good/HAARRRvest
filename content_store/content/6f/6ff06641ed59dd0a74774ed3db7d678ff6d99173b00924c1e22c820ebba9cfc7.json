@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bethany Christian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"42 Porter Avenue\", \"address_2\": null, \"city\": \"East Williamsburg\", \"state_province\": \"NY\", \"postal_code\": \"11237\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7063892, \"longitude\": -73.928657}, \"phones\": [{\"number\": \"(718) 366-9833\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:26.979865"
-}

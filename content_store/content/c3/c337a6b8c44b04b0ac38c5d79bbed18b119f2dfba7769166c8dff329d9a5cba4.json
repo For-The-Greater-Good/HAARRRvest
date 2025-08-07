@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"LIVING FAITH CHURCH\", \"alternate_name\": \"\", \"description\": \"Requires to check website for dates.\", \"email\": \"\", \"url\": \"https://lfcob.org/the-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"3251 Rock Hill Church Road\", \"address_2\": null, \"city\": \"Concord\", \"state_province\": \"NC\", \"postal_code\": \"28027\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.4042599, \"longitude\": -80.63247480000001}, \"phones\": [{\"number\": \"(704) 782-3641\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.653649"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Al'Ummah Community Center (AUCC)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"55 Hillside Avenue\", \"address_2\": null, \"city\": \"Teaneck\", \"state_province\": \"NJ\", \"postal_code\": \"07666\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8751994, \"longitude\": -74.0139753}, \"phones\": [{\"number\": \"(201) 525-2822\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Female hygiene products\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.772363"
-}

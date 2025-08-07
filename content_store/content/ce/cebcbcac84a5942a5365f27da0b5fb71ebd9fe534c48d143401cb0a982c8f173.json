@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Rosedale Baptist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Line begins to form at 4:30 and numbers given out at 5. Tickets are given out randomly, lottery style. Numbers start to get called at 5:30.\", \"email\": \"\", \"url\": \"www.rosedalebaptist.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"9202 Philadelphia Road\", \"address_2\": null, \"city\": \"Rosedale\", \"state_province\": \"MD\", \"postal_code\": \"21237\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3503393, \"longitude\": -76.4697894}, \"phones\": [{\"number\": \"(410) 682-4114\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Healthcare Programs\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers available (must have child with you)\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.142334"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Hunger for Change\", \"alternate_name\": \"\", \"description\": \"For pick-up, contact Marge\\nAdvised to  arrive early for the line\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"99 Stemmers Run Road\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21221\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.31920289999999, \"longitude\": -76.4538906}, \"phones\": [{\"number\": \"(443) 838-2126\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Delivery may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.979297"
-}

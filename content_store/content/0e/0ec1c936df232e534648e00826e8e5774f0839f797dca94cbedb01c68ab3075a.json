@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Good Samaritan Pantry of West Jefferson\", \"alternate_name\": \"\", \"description\": \"Serves West Jefferson community in the 43162 ZIP Code residents\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"36 South Center Street\", \"address_2\": null, \"city\": \"West Jefferson\", \"state_province\": \"OH\", \"postal_code\": \"43162\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9439622, \"longitude\": -83.26745129999999}, \"phones\": [{\"number\": \"(614) 379-3212\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.008025"
-}

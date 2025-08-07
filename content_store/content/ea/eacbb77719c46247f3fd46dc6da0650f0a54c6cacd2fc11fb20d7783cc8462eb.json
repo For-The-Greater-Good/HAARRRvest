@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Dayspring Community Church Pantry\", \"alternate_name\": \"\", \"description\": \"The food pantry operates by appointment only, to schedule an appointment contact the HandsOn Central Ohio food line at 614-341-2282. \\n\\nThe address for the food pantry is 3919 Brice Rd. At your scheduled time, please enter through the entrance at the rear of the church parking lot.\", \"email\": \"\", \"url\": \"food.dayspringonline.net\", \"status\": \"active\", \"address\": {\"address_1\": \"3919 Brice Road\", \"address_2\": null, \"city\": \"South Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43110\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8943527, \"longitude\": -82.836383}, \"phones\": [{\"number\": \"(614) 341-2282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"By appointment only; if you are in need of emergency assistance\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.447186"
-}

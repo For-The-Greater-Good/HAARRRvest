@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Family Life Ministries\", \"alternate_name\": \"\", \"description\": \"Applicants Must Qualify and\\nPre-Register To Receive Assistance\\nDo I qualify to receive assistance?\\nPre-registered, eligible applicants may receive assistance on Tuesdays and Thursdays from 9:30AM until 10:30AM. RESERVATION REQUIRED.\\nTo pre-register, call 404-761-6302.\", \"email\": \"\", \"url\": \"https://www.familylifehelps.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"612 College Street\", \"address_2\": \"Hapeville First Baptist Church\", \"city\": \"Hapeville\", \"state_province\": \"GA\", \"postal_code\": \"30354\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6568565, \"longitude\": -84.40885159999999}, \"phones\": [{\"number\": \"(404) 761-6302\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:01.689918"
-}

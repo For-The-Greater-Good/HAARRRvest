@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St Clairsville Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.facebook.com/p/The-Food-Pantry-of-St-Clairsville-100085586328505/\", \"status\": \"active\", \"address\": {\"address_1\": \"102 Saint Patrick's Alley\", \"address_2\": null, \"city\": \"Saint Clairsville\", \"state_province\": \"OH\", \"postal_code\": \"43950\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0791086, \"longitude\": -80.90394400000001}, \"phones\": [{\"number\": \"(740) 695-0690\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.465823"
-}

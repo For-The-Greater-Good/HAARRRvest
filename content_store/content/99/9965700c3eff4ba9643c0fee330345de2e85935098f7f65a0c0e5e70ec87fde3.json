@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Joseph Catholic Church\", \"alternate_name\": \"\", \"description\": \"How to book an appointment: The client leaves a voicemail message. A food pantry volunteer returns the call within a week or two of the next scheduled distribution. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2020 St Joseph Drive\", \"address_2\": null, \"city\": \"Largo\", \"state_province\": \"MD\", \"postal_code\": \"20774\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.918071, \"longitude\": -76.84362}, \"phones\": [{\"number\": \"(301) 773-4838\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.108179"
-}

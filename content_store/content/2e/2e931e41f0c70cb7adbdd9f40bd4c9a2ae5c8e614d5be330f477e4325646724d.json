@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Isidore Catholic Church, forgotten harvest mobile pantry\", \"alternate_name\": \"\", \"description\": \"Forgotten harvest has food distribution every 2nd and 4th Wednesday of the month. \\nPeople can get food from Parish office as well, call the office number between 8:30 am - 4pm to inquire. (Only for people living in Church boundaries)\", \"email\": \"\", \"url\": \"https://www.forgottenharvest.org/find-food/\", \"status\": \"active\", \"address\": {\"address_1\": \"18201 23 Mile Road\", \"address_2\": null, \"city\": \"Macomb\", \"state_province\": \"MI\", \"postal_code\": \"48042\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.671848, \"longitude\": -82.9435517}, \"phones\": [{\"number\": \"(586) 286-1700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:26.716340"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Healthy Waltham Mobile Pantry   \", \"alternate_name\": \"\", \"description\": \"TO RECEIVE FOOD:\\nPlease sign up for an appointment through the Your Market website link here: https://www.your-market.org/\\nChoose Healthy Waltham from the list of pantries. Registration is available in multiple languages. Please register if you have not already done so and choose your appointment time. Appointment sign-ups will be released approximately 2 weeks prior to the pantry date. Walk-ins are welcome from 4:30 pm \\u2013 5:00 pm.\", \"email\": \"\", \"url\": \"https://healthywaltham.org/food-pantries/\", \"status\": \"active\", \"address\": {\"address_1\": \"5 Cherry Street\", \"address_2\": null, \"city\": \"South Side\", \"state_province\": \"MA\", \"postal_code\": \"02453\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3673077, \"longitude\": -71.24216299999999}, \"phones\": [{\"number\": \"(781) 314-5647\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:20.551903"
-}

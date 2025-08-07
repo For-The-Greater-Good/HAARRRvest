@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Zeina Lorraine Community Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/p/Zeina-LINC-100082593199661/\", \"status\": \"active\", \"address\": {\"address_1\": \"203 West 133rd Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10030\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8142554, \"longitude\": -73.9448906}, \"phones\": [{\"number\": \"(646) 355-3008\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.746144"
-}

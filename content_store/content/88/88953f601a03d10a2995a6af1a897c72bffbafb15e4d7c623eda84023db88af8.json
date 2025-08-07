@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Catholic Charities Diocese of Charlotte\", \"alternate_name\": \"\", \"description\": \"Serve clients once a month. Provides walk-in assistance on a first-come, first-served basis during normal operating hours.\", \"email\": \"\", \"url\": \"http://ccdoc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1123 South Church Street\", \"address_2\": null, \"city\": \"Charlotte\", \"state_province\": \"NC\", \"postal_code\": \"28203\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.220657, \"longitude\": -80.854255}, \"phones\": [{\"number\": \"(704) 370-3262\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.448842"
-}

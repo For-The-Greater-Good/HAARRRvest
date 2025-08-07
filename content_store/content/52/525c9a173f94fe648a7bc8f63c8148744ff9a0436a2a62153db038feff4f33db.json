@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"19th Street Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://19thstreetbc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4606 16th Street Northwest\", \"address_2\": null, \"city\": \"Crestwood\", \"state_province\": \"DC\", \"postal_code\": \"20011\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9467007, \"longitude\": -77.0369718}, \"phones\": [{\"number\": \"(202) 829-2773\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.185190"
-}

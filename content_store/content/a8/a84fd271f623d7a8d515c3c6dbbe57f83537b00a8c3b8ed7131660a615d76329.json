@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"ST. MARYS UNITED METHODIST\", \"alternate_name\": \"\", \"description\": \"Camden County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"100 Pine Street\", \"address_2\": null, \"city\": \"St. Marys\", \"state_province\": \"GA\", \"postal_code\": \"31558\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.7588691, \"longitude\": -81.5759017}, \"phones\": [{\"number\": \"(912) 882-5505\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.162374"
-}

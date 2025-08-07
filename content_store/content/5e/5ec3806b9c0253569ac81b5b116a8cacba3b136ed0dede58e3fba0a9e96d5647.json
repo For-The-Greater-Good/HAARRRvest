@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Dallas High Shoals Christian Ministry\", \"alternate_name\": \"\", \"description\": \"serves Gaston County. \\nNo ID is required for TEFAP food assistance. \", \"email\": \"\", \"url\": \"https://www.dallaschristianministry.org/food-assistance-program\", \"status\": \"active\", \"address\": {\"address_1\": \"305 East Trade Street\", \"address_2\": null, \"city\": \"Dallas\", \"state_province\": \"NC\", \"postal_code\": \"28034\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.3160595, \"longitude\": -81.17251449999999}, \"phones\": [{\"number\": \"(704) 922-1236\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients may visit twice a week\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:36.204610"
-}

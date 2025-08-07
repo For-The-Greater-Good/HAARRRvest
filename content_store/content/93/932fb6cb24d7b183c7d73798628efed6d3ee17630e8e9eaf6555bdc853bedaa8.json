@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Open Pantry Community Services Emergency Food Pantry\", \"alternate_name\": \"\", \"description\": \"If there are children in the household, we will need their names and dates of birth.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2460 Main Street\", \"address_2\": null, \"city\": \"Memorial Square\", \"state_province\": \"MA\", \"postal_code\": \"01107\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1120279, \"longitude\": -72.60462849999999}, \"phones\": [{\"number\": \"(413) 737-5354\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.657163"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Crossroads United Methodist Church\", \"alternate_name\": \"\", \"description\": \"New clients must bring:\\nTheir photo ID\\nA piece of ID for each person in the household (such as an insurance card or Social Security car)\\nA utility bill showing the home address.\\n30 people will be served at a time.\", \"email\": \"\", \"url\": \"https://crossroadsumccolumbus.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1100 South Hague Avenue\", \"address_2\": null, \"city\": \"Hilltop\", \"state_province\": \"OH\", \"postal_code\": \"43204\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9321953, \"longitude\": -83.0751508}, \"phones\": [{\"number\": \"(614) 272-8242\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.913786"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Neighborhood Health\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.nhscnj.org/events\", \"status\": \"active\", \"address\": {\"address_1\": \"1700 Myrtle Avenue\", \"address_2\": null, \"city\": \"Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07063\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5994478, \"longitude\": -74.4560837}, \"phones\": [{\"number\": \"(908) 753-6401\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:20.539245"
-}

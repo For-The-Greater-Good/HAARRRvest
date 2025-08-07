@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Brighter Day Ministries Food Pantry\", \"alternate_name\": \"\", \"description\": \"Open to DC Residents. Please bring your DC identification card upon going.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2525 12th Place Southeast\", \"address_2\": null, \"city\": \"Southeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20020\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8515498, \"longitude\": -76.9853229}, \"phones\": [{\"number\": \"(301) 806-4305\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Must be a resident of Washington DC\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.073624"
-}

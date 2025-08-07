@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mana Mobile Pantry @ Salvation Army - Montgomery Corps\", \"alternate_name\": \"\", \"description\": \"call in advance at : (301) 424-1130 )We will set up in the upper parking lot just before the Salvation Army and behind the Regal movie theater.\", \"email\": \"\", \"url\": \"https://www.mannafood.org/about/contact-manna/manna-food-distribution-sites/\", \"status\": \"active\", \"address\": {\"address_1\": \"20021 Aircraft Drive\", \"address_2\": null, \"city\": \"Germantown\", \"state_province\": \"MD\", \"postal_code\": \"20874\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.186737, \"longitude\": -77.262571}, \"phones\": [{\"number\": \"(301) 424-1130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.219249"
-}

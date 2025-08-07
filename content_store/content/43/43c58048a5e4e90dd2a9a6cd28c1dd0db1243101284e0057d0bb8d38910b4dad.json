@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Holy Nativity Lutheran Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"* When arriving, clients should pull up to the side of the building that's alongside Shelbourne avenue where the big awning is.\", \"email\": \"\", \"url\": \"www.holy-nativity.com\", \"status\": \"active\", \"address\": {\"address_1\": \"1200 Linden Avenue\", \"address_2\": null, \"city\": \"Arbutus\", \"state_province\": \"MD\", \"postal_code\": \"21227\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2547133, \"longitude\": -76.6987728}, \"phones\": [{\"number\": \"(410) 242-9441\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.551793"
-}

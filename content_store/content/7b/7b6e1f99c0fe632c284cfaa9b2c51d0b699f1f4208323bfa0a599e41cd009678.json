@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Browns Mill United Methodist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"* Serves: Pemberton Township\\n* We have a non-perishable food pantry only.  \\n* We currently do not have a website.\\n* We do not deliver food. Clients must come to the church for pickup.  \\n* Any questions about our pantry, they can call 609-893-8347\\n\\n\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"2 Pemberton Browns Mills Road\", \"address_2\": null, \"city\": \"Browns Mills\", \"state_province\": \"NJ\", \"postal_code\": \"08015\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9729609, \"longitude\": -74.5844518}, \"phones\": [{\"number\": \"(609) 893-8347\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.227465"
-}

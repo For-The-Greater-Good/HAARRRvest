@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Canton Food Pantry2\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"960 Washington Street\", \"address_2\": null, \"city\": \"Canton\", \"state_province\": \"MA\", \"postal_code\": \"02021\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1633662, \"longitude\": -71.14434100000001}, \"phones\": [{\"number\": \"(781) 821-8062\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:15\", \"closes_at\": \"16:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:15\", \"closes_at\": \"16:15\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.892696"
-}

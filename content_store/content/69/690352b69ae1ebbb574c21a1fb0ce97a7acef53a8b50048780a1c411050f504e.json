@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"My Father's Business\", \"alternate_name\": \"\", \"description\": \"Choice Pantry\\nNo appointment needed\\nBring Photo ID and LInk2Feed* Card (if enrolled)\\n*can complete enrollment on first visit if needed\\nSAT: Check In: 9:00-11:00AM (January-October: 2nd & 4th Saturday of the Month) / (November-December: 2nd & 3rd Saturday of the Month)\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"21001 Moross Road\", \"address_2\": null, \"city\": \"Cornerstone Village\", \"state_province\": \"MI\", \"postal_code\": \"48236\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4243318, \"longitude\": -82.92603369999999}, \"phones\": [{\"number\": \"(313) 936-1537\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Client choice pantry\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"No child/children allowed inside\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:24.742447"
-}

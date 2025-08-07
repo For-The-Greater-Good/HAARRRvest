@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Springfield/Franconia Family Resource Center\", \"alternate_name\": \"\", \"description\": \"Its in person pantry, people have to go and get registered and they wil give a time for pick up\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7224 Commerce Street\", \"address_2\": null, \"city\": \"Springfield\", \"state_province\": \"VA\", \"postal_code\": \"22150\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.78171359999999, \"longitude\": -77.19128529999999}, \"phones\": [{\"number\": \"(703) 644-0000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:28.068951"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Upper Manhattan Mental Health Center\", \"alternate_name\": \"\", \"description\": \"There are times when we start 30 minutes early because of weather conditions.\\n\", \"email\": \"\", \"url\": \"bowencsc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1727 Amsterdam Ave\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10031\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.825451, \"longitude\": -73.94696}, \"phones\": [{\"number\": \"(212) 694-9200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients may visit twice a week\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \" Emergency assistance number: 347-723-6785\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.765337"
-}

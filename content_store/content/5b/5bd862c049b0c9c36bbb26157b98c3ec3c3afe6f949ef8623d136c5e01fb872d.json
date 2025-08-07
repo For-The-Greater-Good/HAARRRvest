@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salvation Army of Cabarrus County\", \"alternate_name\": \"\", \"description\": \"Clients can get food every 90 days and clothes every 6 months\", \"email\": \"\", \"url\": \"www.salvationarmycarolinas.org/cabarrus\", \"status\": \"active\", \"address\": {\"address_1\": \"216 Patterson Avenue Southeast\", \"address_2\": null, \"city\": \"Concord\", \"state_province\": \"NC\", \"postal_code\": \"28025\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.4146601, \"longitude\": -80.5743535}, \"phones\": [{\"number\": \"(704) 782-7822\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.646868"
-}

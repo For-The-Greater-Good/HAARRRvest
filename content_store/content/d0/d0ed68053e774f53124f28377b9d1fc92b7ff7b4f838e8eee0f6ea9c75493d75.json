@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"James O. and Wilhelmina Bryant Food Pantry\", \"alternate_name\": \"\", \"description\": \"Contact: Wilhelmina A. Bryant\\n\\nAvailable to once a month to Piscataway area residents who are receiving TANF, SSI, WIC, food stamps, disability, unemployment or low income. Must provide proof of identity, residency and income and may come once a month.\", \"email\": \"\", \"url\": \"https://northsteltoname.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"6 Ethel Road\", \"address_2\": null, \"city\": \"Piscataway\", \"state_province\": \"NJ\", \"postal_code\": \"08854\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.535637, \"longitude\": -74.4124636}, \"phones\": [{\"number\": \"(908) 312-0282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:37.119630"
-}

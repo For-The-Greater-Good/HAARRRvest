@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Butler United Methodist Church - Loaves and Fishes Food Pantry\", \"alternate_name\": \"\", \"description\": \"We are open the last Saturday of each month\\nand the following Monday. Changes to the\\nschedule marked with asterisks ****\\n\\n* January 27th and 29th\\n* March 23 & 25th ****\\n* April 27 & 29th\\n* May 18th & 20th ****\\n* June 29th and July 1st\\n* July 26th and 29th\\n* August 24 and 26th ****\\n* Sept 28th and 30th\\n* October 26th and 30th\\n* November 23 and 25th ****\\n* December 14th and 16th ****\", \"email\": \"\", \"url\": \"www.bumcnj.org\", \"status\": \"active\", \"address\": {\"address_1\": \"5 Bartholdi Avenue\", \"address_2\": \"\", \"city\": \"Butler\", \"state_province\": \"NJ\", \"postal_code\": \"07405\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9995519, \"longitude\": -74.3400975}, \"phones\": [{\"number\": \"(973) 838-2026\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.321114"
-}

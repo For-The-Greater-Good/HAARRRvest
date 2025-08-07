@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Dominic School\", \"alternate_name\": \"\", \"description\": \"Till August 19th 2023 \", \"email\": \"\", \"url\": \"https://nutritionaldevelopmentservices.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"8510 Frankford Avenue\", \"address_2\": null, \"city\": \"Northeast Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19136\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0471027, \"longitude\": -75.01580779999999}, \"phones\": [{\"number\": \"(215) 895-3470\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:37.672785"
-}

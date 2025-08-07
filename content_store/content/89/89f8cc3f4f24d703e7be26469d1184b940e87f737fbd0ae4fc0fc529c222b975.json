@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Community Assistance Center (CAC)\", \"alternate_name\": \"\", \"description\": \"Call (770) 552-4015 ext. 500 to make an appointment. Open to Sandy Springs and Dunwoody residents only.\", \"email\": \"\", \"url\": \"https://ourcac.org/hours-and-location/\", \"status\": \"active\", \"address\": {\"address_1\": \"8607 Roswell Road\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30350\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.99005882066766, \"longitude\": -84.35088417446896}, \"phones\": [{\"number\": \"(770) 552-4889\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:01.915117"
-}

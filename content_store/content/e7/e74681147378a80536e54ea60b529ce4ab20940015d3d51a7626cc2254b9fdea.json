@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Our Lady Queen of Peace Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1911 Union Valley Road\", \"address_2\": null, \"city\": \"Hewitt\", \"state_province\": \"NJ\", \"postal_code\": \"07421\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.15481399999999, \"longitude\": -74.3542111}, \"phones\": [{\"number\": \"(973) 728-8162\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.166801"
-}

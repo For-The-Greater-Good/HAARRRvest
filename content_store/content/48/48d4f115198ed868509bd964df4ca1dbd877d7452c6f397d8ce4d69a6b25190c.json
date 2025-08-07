@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Somerset Area Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serving Reading & Clayton Twp\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"139 East Main Street\", \"address_2\": null, \"city\": \"Somerset\", \"state_province\": \"OH\", \"postal_code\": \"43783\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8089346, \"longitude\": -82.296621}, \"phones\": [{\"number\": \"(740) 743-1029\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.612214"
-}

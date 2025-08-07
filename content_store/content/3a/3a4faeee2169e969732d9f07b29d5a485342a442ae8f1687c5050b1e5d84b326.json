@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Towson United Methodist Church- Food Pantry\", \"alternate_name\": \"\", \"description\": \"Contact: Catherine Ritter\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"501 Hampton Lane\", \"address_2\": null, \"city\": \"Towson\", \"state_province\": \"MD\", \"postal_code\": \"21286\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4140579, \"longitude\": -76.59802309999999}, \"phones\": [{\"number\": \"(410) 823-3649\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early. Line starts at 8am\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.526829"
-}

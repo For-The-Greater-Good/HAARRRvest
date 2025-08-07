@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Food Not Bombs\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Boston Common (near Park Street T)\", \"address_2\": \"\", \"city\": null, \"state_province\": null, \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": 42.3550897, \"longitude\": -71.0657256}, \"phones\": [{\"number\": \"(617) 787-3463\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.602973"
-}

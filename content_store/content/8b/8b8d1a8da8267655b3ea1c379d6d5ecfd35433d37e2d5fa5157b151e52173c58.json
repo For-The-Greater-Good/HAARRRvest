@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Cardinal Cupboard\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"601 Thea Bowman Drive\", \"address_2\": null, \"city\": \"Northeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20064\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9355439, \"longitude\": -76.9981864}, \"phones\": [{\"number\": \"(202) 319-5575\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.502795"
-}

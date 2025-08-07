@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Clintonville-Beachwood Community Resources Center\", \"alternate_name\": \"\", \"description\": \"Eligibility: Zip codes 43214, 43220, 43221, 43210, 43235 and parts of 43202 (East to I-71, west to Olentangy River Rd., south to Hudson St., north to Worthington). Outside zip codes served once only.\\n\\nIntake Process: Walk in.\\n\\nDocuments: Photo ID. Proof of income and address.\", \"email\": \"\", \"url\": \"https://www.clintonvillecrc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"14 West Lakeview Avenue\", \"address_2\": null, \"city\": \"Clintonville\", \"state_province\": \"OH\", \"postal_code\": \"43202\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0276876, \"longitude\": -83.0153505}, \"phones\": [{\"number\": \"(614) 268-8118\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.404911"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"locationId\": \"4550\", \"organizationId\": \"3828\", \"name\": \"Orangevale SDA\", \"address1\": \"5810 Pecan Avenue\", \"address2\": \"\", \"city\": \"Orangevale\", \"state\": \"CA\", \"zipCode\": \"95662\", \"country\": null, \"phone\": \"916-967-2838\", \"phoneExt\": \"\", \"website\": null, \"latitude\": \"38.67137\", \"longitude\": \"-121.22065\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"916-967-2838\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 41, \"regionName\": \"Sacramento Food Bank & Family Services\", \"logoBlobNameSmall\": \"aea8a9f0-a42b-469d-87df-c2b6c03fc519.png\", \"website\": \"https://www.sacramentofoodbank.org/\"}], \"timeZoneName\": \"Pacific Standard Time\", \"timeZoneCode\": \"PT\", \"offsetHours\": \"-7\", \"schedules\": [], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 9860, \"locationId\": 4550, \"specialDate\": \"2025-08-12T00:00:00\", \"startTime\": null, \"endTime\": null, \"startTimeDescr\": null, \"endTimeDescr\": null, \"closedInd\": true, \"notes\": \"\", \"addDateTime\": \"2025-06-24T18:37:58.277\", \"addUserName\": \"esellers@sacramentofoodbank.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
-  "metadata": {
-    "scraper_id": "vivery_api",
-    "source": "vivery_api"
-  },
-  "timestamp": "2025-08-06T08:46:58.770823"
-}

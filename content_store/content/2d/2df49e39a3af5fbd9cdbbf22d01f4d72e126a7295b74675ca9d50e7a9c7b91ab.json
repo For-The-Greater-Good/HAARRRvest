@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Exciting Central Tampa Baptist\", \"alternate_name\": \"\", \"description\": \"- They strictly serve clients on  a first come first serve basis.\", \"email\": \"\", \"url\": \"https://www.centraltampa.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"105 East Keyes Avenue\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33602\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.969695, \"longitude\": -82.4603929}, \"phones\": [{\"number\": \"(813) 226-2923\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:45.339085"
-}

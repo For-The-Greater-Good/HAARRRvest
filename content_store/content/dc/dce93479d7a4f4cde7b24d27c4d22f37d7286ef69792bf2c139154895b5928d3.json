@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Temple of Faith Church of the Living God \\u2013 RJ Hairston, Sr. Pantry\", \"alternate_name\": \"\", \"description\": \"Eligibility: Anyone. Clients can visit pantry twice per month.\\n\\nOn Saturdays, client must call by 9 a.m. for an appointment.\", \"email\": \"\", \"url\": \"https://www.templeoffaithcogic.org/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"1441 Brentnell Avenue\", \"address_2\": null, \"city\": \"North Central\", \"state_province\": \"OH\", \"postal_code\": \"43219\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9979658, \"longitude\": -82.9498617}, \"phones\": [{\"number\": \"(614) 257-7461\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.263655"
-}

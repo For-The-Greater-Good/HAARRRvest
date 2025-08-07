@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Grace and Hope Mission \\u2013 Food Pantry\", \"alternate_name\": \"\", \"description\": \"A referral from 211 Maryland is required. Call #211 for referral from 9:00am to 2:00pm.\", \"email\": \"\", \"url\": \"http://www.graceandhopemission.com/index.html\", \"status\": \"active\", \"address\": {\"address_1\": \"4 South Gay Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MD\", \"postal_code\": \"21202\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.28946639999999, \"longitude\": -76.6091161}, \"phones\": [{\"number\": \"(410) 685-5252\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:55.206984"
-}

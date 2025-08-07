@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Food For All DC\", \"alternate_name\": \"\", \"description\": \"- Screening with a social worker or case manager must be completed.\\n\\n- Eligible people are:\\n\\t- Seniors with difficulty in moving\\n\\t- Single mothers with infants or babies\\n\\t- People with mental health issues that prevent them from going out\\n\\t- People with medical conditions that prevent them from going out\\n\\t- People with disability\\n\\n- Delivery can be done on Thursdays, Fridays, and Saturday mornings but a request can be made anytime by calling 202-489-8676. Leave a voice message with your details.\", \"email\": \"\", \"url\": \"https://foodforalldc.org/contact/\", \"status\": \"active\", \"address\": {\"address_1\": \"1810 16th St NW\", \"address_2\": null, \"city\": \"Washington\", \"state_province\": \"DC\", \"postal_code\": \"20009\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.914348, \"longitude\": -77.036882}, \"phones\": [{\"number\": \"(202) 489-8676\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"An eligibility assessment is completed by a caseworker.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.369865"
-}

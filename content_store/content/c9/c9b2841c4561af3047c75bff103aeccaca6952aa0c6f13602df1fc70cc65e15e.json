@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Paul Chapel Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1217 South 21st Street\", \"address_2\": null, \"city\": \"Point Breeze\", \"state_province\": \"PA\", \"postal_code\": \"19146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9370347, \"longitude\": -75.1785578}, \"phones\": [{\"number\": \"(215) 467-2673\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.593623"
-}

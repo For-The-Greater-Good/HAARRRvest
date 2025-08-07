@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Charlie's Place\", \"alternate_name\": \"\", \"description\": \"Clothing donation drop offs are accepted Monday-Friday 10:00am-5:00pm.\", \"email\": \"\", \"url\": \"https://www.charliesplacedc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1820 Connecticut Avenue Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20009\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9151238, \"longitude\": -77.04667630000002}, \"phones\": [{\"number\": \"(202) 929-0100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"10:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"10:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"10:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.497775"
-}

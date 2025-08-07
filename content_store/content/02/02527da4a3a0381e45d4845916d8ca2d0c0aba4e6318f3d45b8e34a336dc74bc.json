@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Cumac MFP - West Milford Municipal Building\", \"alternate_name\": \"\", \"description\": \"Get registered to receive food herehttps://forms.gle/iEFqPnzdeYBefP7B9\", \"email\": \"\", \"url\": \"https://www.cumac.org/mobile-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1480 Union Valley Road\", \"address_2\": null, \"city\": \"West Milford\", \"state_province\": \"NJ\", \"postal_code\": \"07480\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.1294192, \"longitude\": -74.36912099999999}, \"phones\": [{\"number\": \"(973) 742-5518\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:17.968588"
-}

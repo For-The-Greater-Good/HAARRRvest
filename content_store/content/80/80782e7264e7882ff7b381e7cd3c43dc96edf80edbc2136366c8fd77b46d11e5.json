@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Friendship Baptist\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1515 East Eager Street\", \"address_2\": null, \"city\": \"Gay Street\", \"state_province\": \"MD\", \"postal_code\": \"21205\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3015852, \"longitude\": -76.5967257}, \"phones\": [{\"number\": \"(410) 327-0991\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.823852"
-}

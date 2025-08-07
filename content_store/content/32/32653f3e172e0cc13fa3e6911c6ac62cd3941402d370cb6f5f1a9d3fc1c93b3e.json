@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Macedonia Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1401 Hateras Avenue\", \"address_2\": null, \"city\": \"Lincoln Heights\", \"state_province\": \"NC\", \"postal_code\": \"28216\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2592447, \"longitude\": -80.84447709999999}, \"phones\": [{\"number\": \"(704) 392-8496\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.969528"
-}

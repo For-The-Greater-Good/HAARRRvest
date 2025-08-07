@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"OASIS CHURCH OF GOD\", \"alternate_name\": \"\", \"description\": \"Clients can visit Every 90 days \", \"email\": \"\", \"url\": \"https://www.facebook.com/oasiscog/\", \"status\": \"active\", \"address\": {\"address_1\": \"1163 US Highway 1 South\", \"address_2\": null, \"city\": \"Lyons\", \"state_province\": \"GA\", \"postal_code\": \"30436\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.1784414, \"longitude\": -82.3324298}, \"phones\": [{\"number\": \"(912) 526-5060\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.250663"
-}

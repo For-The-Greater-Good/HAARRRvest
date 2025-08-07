@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Fresh Fire Apostolic Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3579 Emerald Street\", \"address_2\": null, \"city\": \"Harrowgate\", \"state_province\": \"PA\", \"postal_code\": \"19134\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9988092, \"longitude\": -75.1022103}, \"phones\": [{\"number\": \"(267) 880-9733\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.080022"
-}

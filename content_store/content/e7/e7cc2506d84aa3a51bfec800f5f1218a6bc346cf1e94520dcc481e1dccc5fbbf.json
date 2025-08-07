@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Plainfield Social Services Department\", \"alternate_name\": \"\", \"description\": \"Serves: Middlesex County\", \"email\": \"\", \"url\": \"http://www.southplainfieldnj.com/spnj/Departments/Departments/Social%20Services%20-%20Welfare%20Department/\", \"status\": \"active\", \"address\": {\"address_1\": \"90 Maple Avenue\", \"address_2\": null, \"city\": \"South Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07080\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.58202170791728, \"longitude\": -74.4143575212897}, \"phones\": [{\"number\": \"(908) 226-7625\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.679286"
-}

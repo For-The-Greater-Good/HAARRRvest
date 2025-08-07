@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"9 Million Reasons\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.9millionreasons.nyc/\", \"status\": \"active\", \"address\": {\"address_1\": \"39\\u201321 Crescent Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"11101\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7542097, \"longitude\": -73.9393005}, \"phones\": [{\"number\": \"(718) 361-5454\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:19.765176"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"LAKE CARES, INC.\", \"alternate_name\": \"\", \"description\": \"Lake County residents\\n\\nNew Client or Senior Walk-Ins\\nCall 352-383-0100 for scheduling\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2001 West Old US Highway 441\", \"address_2\": null, \"city\": \"Mount Dora\", \"state_province\": \"FL\", \"postal_code\": \"32757\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.807491, \"longitude\": -81.6648534}, \"phones\": [{\"number\": \"(352) 383-0100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:43.673951"
-}

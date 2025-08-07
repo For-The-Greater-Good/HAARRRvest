@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Royalhouse Chapel International\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.royalhousemd.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7911 Braygreen Road\", \"address_2\": null, \"city\": \"Laurel\", \"state_province\": \"MD\", \"postal_code\": \"20707\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.079134, \"longitude\": -76.868556}, \"phones\": [{\"number\": \"(301) 437-9441\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.446166"
-}

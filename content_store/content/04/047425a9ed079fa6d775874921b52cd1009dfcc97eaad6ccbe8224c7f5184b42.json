@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Chantilly Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://chantillybaptist.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"14312 Chantilly Baptist Lane\", \"address_2\": null, \"city\": \"Chantilly\", \"state_province\": \"VA\", \"postal_code\": \"220175\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.899721, \"longitude\": -77.442924}, \"phones\": [{\"number\": \"(703) 554-9895\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.118591"
-}

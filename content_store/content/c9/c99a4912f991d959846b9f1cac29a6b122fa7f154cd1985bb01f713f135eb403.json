@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Fort Lewis\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"8810 Lawndale Avenue Southwest\", \"address_2\": null, \"city\": \"Lakewood\", \"state_province\": \"WA\", \"postal_code\": \"98498\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.145841, \"longitude\": -122.5541944}, \"phones\": [{\"number\": \"(253) 582-2515\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.069247"
-}

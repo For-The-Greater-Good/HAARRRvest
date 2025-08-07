@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SVDP at St. Margaret\\u2019s\", \"alternate_name\": \"\", \"description\": \"For more info about the food pantry, please contact Jim at (586) 293-2240.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"21201 East Thirteen Mile Road\", \"address_2\": null, \"city\": \"St. Clair Shores\", \"state_province\": \"MI\", \"postal_code\": \"48082\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.5260632, \"longitude\": -82.9026177}, \"phones\": [{\"number\": \"(586) 293-2240\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:24.498391"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"TRINITY U.A.M.E.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"226 Warren Street\", \"address_2\": null, \"city\": \"University Heights\", \"state_province\": \"NJ\", \"postal_code\": \"07103\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7423539, \"longitude\": -74.18312470000001}, \"phones\": [{\"number\": \"(973) 230-3264\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:19.973153"
-}

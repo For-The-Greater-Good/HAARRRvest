@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Y in Druid Hill Fresh Mart\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://ymaryland.org/locations/druidhilly\", \"status\": \"active\", \"address\": {\"address_1\": \"1609 Druid Hill Avenue\", \"address_2\": null, \"city\": \"Upton\", \"state_province\": \"MD\", \"postal_code\": \"21217\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3048698, \"longitude\": -76.6317193}, \"phones\": [{\"number\": \"(410) 728-1600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:55.146433"
-}

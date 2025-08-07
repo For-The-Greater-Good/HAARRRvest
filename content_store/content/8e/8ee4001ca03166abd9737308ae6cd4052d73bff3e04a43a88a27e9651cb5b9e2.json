@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"CENTRAL BAPTIST CHURCH\", \"alternate_name\": \"\", \"description\": \"Requires to bring photo ID.\", \"email\": \"\", \"url\": \"https://cbckannapolis.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"1810 Moose Road\", \"address_2\": null, \"city\": \"Kannapolis\", \"state_province\": \"NC\", \"postal_code\": \"28083\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.5075404, \"longitude\": -80.59511959999999}, \"phones\": [{\"number\": \"(704) 933-8006\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.659431"
-}

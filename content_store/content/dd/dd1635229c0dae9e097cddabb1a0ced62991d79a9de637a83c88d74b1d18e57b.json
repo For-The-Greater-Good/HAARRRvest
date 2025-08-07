@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Temple Emeth\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1666 Windsor Road\", \"address_2\": null, \"city\": \"Teaneck\", \"state_province\": \"NJ\", \"postal_code\": \"07666\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9088391, \"longitude\": -74.0043973}, \"phones\": [{\"number\": \"(201) 833-1322\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Distribution in parking lot\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:07.608445"
-}

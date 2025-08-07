@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jonah House \", \"alternate_name\": \"\", \"description\": \"Contact: Susan Crane\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1301 Moreland Avenue\", \"address_2\": null, \"city\": \"Bridgeview-Greenlawn\", \"state_province\": \"MD\", \"postal_code\": \"21216\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3035132, \"longitude\": -76.65514619999999}, \"phones\": [{\"number\": \"(410) 233-6238\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"11:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.941362"
-}

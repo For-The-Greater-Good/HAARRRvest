@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Michaels Community Center Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"stmichaelscc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"103 Railroad Avenue\", \"address_2\": null, \"city\": \"Saint Michaels\", \"state_province\": \"MD\", \"postal_code\": \"21663\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.7867442, \"longitude\": -76.2252345}, \"phones\": [{\"number\": \"(410) 745-6073\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.833657"
-}

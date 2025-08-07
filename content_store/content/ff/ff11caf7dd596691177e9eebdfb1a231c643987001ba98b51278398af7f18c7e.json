@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Trinity United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Name and contact information required\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5622 Clarks Bridge Road\", \"address_2\": null, \"city\": \"Clermont\", \"state_province\": \"GA\", \"postal_code\": \"30527\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.4572583, \"longitude\": -83.7769015}, \"phones\": [{\"number\": \"(706) 983-3177\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.809019"
-}

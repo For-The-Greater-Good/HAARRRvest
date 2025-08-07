@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bethany Baptist\", \"alternate_name\": \"\", \"description\": \"The food distribution will be after the church service.\\n Advised to please attend service as food is distributd after service nd might run out.\", \"email\": \"\", \"url\": \"https://bbcbaltimore.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"4200 Townsend Avenue\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"MD\", \"postal_code\": \"21225\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2282798, \"longitude\": -76.60449679999999}, \"phones\": [{\"number\": \"(410) 354-6890\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.161956"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Progressive Worship Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1140 South 26th Street\", \"address_2\": null, \"city\": \"Grays Ferry\", \"state_province\": \"PA\", \"postal_code\": \"19146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9389548, \"longitude\": -75.18701949999999}, \"phones\": [{\"number\": \"(267) 303-7348\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"02:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"02:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.741002"
-}

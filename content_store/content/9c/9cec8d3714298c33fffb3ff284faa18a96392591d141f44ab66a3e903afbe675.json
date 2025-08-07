@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Catholic Charities Brooklyn and Queens, Our Lady of Solace\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ccbq.org/service/food-pantry-network-2/\", \"status\": \"active\", \"address\": {\"address_1\": \"2866 W 17th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11224\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5768028, \"longitude\": -73.9852527}, \"phones\": [{\"number\": \"(718) 722-6001\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.590935"
-}

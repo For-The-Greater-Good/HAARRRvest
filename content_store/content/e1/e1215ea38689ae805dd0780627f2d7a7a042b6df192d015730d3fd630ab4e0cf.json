@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Our Lady of Victory Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"olvictory.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4414 Wilkens Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21229\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2671498, \"longitude\": -76.6967169}, \"phones\": [{\"number\": \"(410) 242-0131\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.866555"
-}

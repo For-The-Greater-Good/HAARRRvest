@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Deliverance Temple\", \"alternate_name\": \"\", \"description\": \"Contact: George Blair\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3918 Alton Street\", \"address_2\": null, \"city\": \"Capitol Heights\", \"state_province\": \"MD\", \"postal_code\": \"20743\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8690798, \"longitude\": -76.9378163}, \"phones\": [{\"number\": \"(301) 336-6456\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:52.391699"
-}

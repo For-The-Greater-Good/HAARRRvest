@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Legacy Center\", \"alternate_name\": \"\", \"description\": \"* The clients  are served by last names every other week. Example:\\n\\t* Oct 5th - Nov 2nd  Clients with last names starting with N-Z.\\n\\t* Oct 26th - Nov 16th Clients with last names starting with A-M.\\n\\t* Please disregard any appointment sent to you when it is not your scheduled day \\n\\t* the last time get on line is 11:45 am\\n\\t* No appointments on 16th, 23rd and 30th Nov .. \", \"email\": \"\", \"url\": \"www.tlcnyc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"71-02 Cypress Hills Street\", \"address_2\": \"\", \"city\": \"Glendale\", \"state_province\": \"NY\", \"postal_code\": \"11385\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.701492, \"longitude\": -73.89238}, \"phones\": [{\"number\": \"(718) 456-4852\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.492053"
-}

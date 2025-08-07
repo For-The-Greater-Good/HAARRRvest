@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Rise Up Feed and Seed\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"826 North 8th Street\", \"address_2\": null, \"city\": \"Haines City\", \"state_province\": \"FL\", \"postal_code\": \"33844\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.117552, \"longitude\": -81.6252142}, \"phones\": [{\"number\": \"(863) 557-2514\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"04:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"04:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"04:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.488551"
-}

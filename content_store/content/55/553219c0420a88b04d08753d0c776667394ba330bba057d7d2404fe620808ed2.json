@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Holy Cross, St. John the Baptist, Bread of Life\", \"alternate_name\": \"\", \"description\": \"Everyone who wishes to receive food must be registered. Registration occurs during the hours of distribution only. You must bring identification, social benefits card(s), and proof of residence for all the members of your household.\", \"email\": \"\", \"url\": \"https://www.christinthecity.nyc/st-john-bread-of-life\", \"status\": \"active\", \"address\": {\"address_1\": \"213 W 30th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10001\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7493803, \"longitude\": -73.9922833}, \"phones\": [{\"number\": \"(917) 327-5855\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Only serves  midtown Manhattan between 14th and 59th Streets, from river to river\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:22.203692"
-}

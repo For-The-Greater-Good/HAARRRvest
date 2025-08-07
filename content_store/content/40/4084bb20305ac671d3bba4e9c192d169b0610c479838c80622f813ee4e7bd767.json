@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Joseph's SVDP\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://stjosephchurchtampa.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3012 West Cherry Street\", \"address_2\": null, \"city\": \"Northeast MacFarlane\", \"state_province\": \"FL\", \"postal_code\": \"33607\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.96115, \"longitude\": -82.4914771}, \"phones\": [{\"number\": \"(813) 877-5729\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:40.686923"
-}

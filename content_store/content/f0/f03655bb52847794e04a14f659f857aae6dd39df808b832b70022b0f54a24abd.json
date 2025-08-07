@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sacred Heart Church Social Concerns\", \"alternate_name\": \"\", \"description\": \"Food is available for South Plainfield residents who are in need of assistance.  Driver\\u2019s license or \\npicture ID with address is necessary for verification of residency.\", \"email\": \"\", \"url\": \"http://www.churchofthesacredheart.net/\", \"status\": \"active\", \"address\": {\"address_1\": \"200 Randolph Avenue\", \"address_2\": null, \"city\": \"South Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07080\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5819931, \"longitude\": -74.4094215}, \"phones\": [{\"number\": \"(908) 756-0633\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.673092"
-}

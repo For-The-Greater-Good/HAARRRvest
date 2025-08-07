@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Homestead United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1500 Gorsuch Avenue\", \"address_2\": null, \"city\": \"Coldstream - Homestead - Montebello\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3228648, \"longitude\": -76.5968121}, \"phones\": [{\"number\": \"(410) 243-4419\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.664652"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \" FAITH WORKS (SPARROW'S NEST)\", \"alternate_name\": \"\", \"description\": \"Call for Emergency Services\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2911 Altama Avenue\", \"address_2\": null, \"city\": \"Brunswick\", \"state_province\": \"GA\", \"postal_code\": \"31520\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.17030336809747, \"longitude\": -81.49246484788154}, \"phones\": [{\"number\": \"(912) 261-8512\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.725332"
-}

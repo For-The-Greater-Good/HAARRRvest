@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SAM FIELD Y\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"58-25 Little Neck Parkway\", \"address_2\": null, \"city\": \"Flushing\", \"state_province\": \"NY\", \"postal_code\": \"11362\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7616914, \"longitude\": -73.7223151}, \"phones\": [{\"number\": \"(718) 704-8160\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:09.297979"
-}

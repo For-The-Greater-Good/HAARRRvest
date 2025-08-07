@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"UNITED AGAINST POVERTY - FT. PIERCE BRANCH\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2520 Orange Avenue\", \"address_2\": null, \"city\": \"Fort Pierce\", \"state_province\": \"FL\", \"postal_code\": \"34947\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.4486241, \"longitude\": -80.35047589999999}, \"phones\": [{\"number\": \"(407) 267-8211\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Help with social services/public benefits\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:43.685745"
-}

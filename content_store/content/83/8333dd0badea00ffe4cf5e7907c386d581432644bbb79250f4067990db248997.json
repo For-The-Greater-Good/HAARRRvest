@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Clearview United Methodist Church\", \"alternate_name\": \"\", \"description\": \"BreakSpot Meals\", \"email\": \"\", \"url\": \"clearviewumc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"4515 38th Avenue North\", \"address_2\": null, \"city\": \"Disston Heights\", \"state_province\": \"FL\", \"postal_code\": \"33713\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8071363, \"longitude\": -82.69445}, \"phones\": [{\"number\": \"(727) 522-4673\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.229755"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bethesda Help\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.bethesdahelp.org/need-help/food-assistance\", \"status\": \"active\", \"address\": {\"address_1\": \"10100 Old Georgetown Road\", \"address_2\": null, \"city\": \"Bethesda\", \"state_province\": \"MD\", \"postal_code\": \"20814\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.021234, \"longitude\": -77.123385}, \"phones\": [{\"number\": \"(301) 365-2022\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.521825"
-}

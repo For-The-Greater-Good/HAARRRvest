@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Fuquay Varina Emergency Food Pantry\", \"alternate_name\": \"\", \"description\": \"FVEFP card (issued to full service clients).\", \"email\": \"\", \"url\": \"https://www.fvfoodpantry.com/get-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"216 West Academy Street\", \"address_2\": null, \"city\": \"Fuquay-Varina\", \"state_province\": \"NC\", \"postal_code\": \"27526\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.5844962, \"longitude\": -78.80135090000002}, \"phones\": [{\"number\": \"(919) 552-7720\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:45\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:32.828300"
-}

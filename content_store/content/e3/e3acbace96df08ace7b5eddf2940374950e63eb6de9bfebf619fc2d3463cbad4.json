@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Christ Cathedral Food pantry\", \"alternate_name\": \"\", \"description\": \"Food distribution is at the front gate which is opposite of parking lot 7.\\n\\nhttps://www.facebook.com/CityofGrace614\", \"email\": \"\", \"url\": \"https://www.cityofgrace614.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3350 Allegheny Avenue\", \"address_2\": null, \"city\": \"Mid East\", \"state_province\": \"OH\", \"postal_code\": \"43209\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9808976, \"longitude\": -82.9144391}, \"phones\": [{\"number\": \"(714) 282-3097\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.305433"
-}

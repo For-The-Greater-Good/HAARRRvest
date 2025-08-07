@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Community Center Food Bank\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"14919 Washington Avenue Southwest\", \"address_2\": null, \"city\": \"Lakewood\", \"state_province\": \"WA\", \"postal_code\": \"98498\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.1235663, \"longitude\": -122.5536942}, \"phones\": [{\"number\": \"(253) 584-1280\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.557084"
-}

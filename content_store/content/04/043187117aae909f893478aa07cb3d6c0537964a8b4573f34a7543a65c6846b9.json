@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First UMC Spring Hill\", \"alternate_name\": \"\", \"description\": \"Harnando County Residents\", \"email\": \"\", \"url\": \"https://springlife.church/\", \"status\": \"active\", \"address\": {\"address_1\": \"9344 Spring Hill Drive\", \"address_2\": null, \"city\": \"Spring Hill\", \"state_province\": \"FL\", \"postal_code\": \"34608\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.4542573, \"longitude\": -82.5648194}, \"phones\": [{\"number\": \"(352) 683-2600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:45.717324"
-}

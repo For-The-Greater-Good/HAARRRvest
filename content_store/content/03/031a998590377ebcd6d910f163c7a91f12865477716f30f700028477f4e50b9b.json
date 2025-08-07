@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Roberto Clemente Recreation Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1800 Wallace St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19130\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.96573869991973, \"longitude\": -75.16751169962778}, \"phones\": [{\"number\": \"(215) 685-2760\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:11.325788"
-}

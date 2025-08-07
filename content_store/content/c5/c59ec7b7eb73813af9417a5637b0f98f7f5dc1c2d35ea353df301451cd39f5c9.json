@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Vincent de Paul Society, Anne Arundel County, Food Pantry\", \"alternate_name\": \"\", \"description\": \"FOOD PANTRY: Offers emergency food. Offers non-perishable food items and a variety of perishable items when available. Provides frozen meats, vegetables and fruit when available.\", \"email\": \"\", \"url\": \"https://stjohnsp.org/food-financial-help\", \"status\": \"active\", \"address\": {\"address_1\": \"689 Ritchie Highway\", \"address_2\": null, \"city\": \"Severna Park\", \"state_province\": \"MD\", \"postal_code\": \"21146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.07091, \"longitude\": -76.53942}, \"phones\": [{\"number\": \"(443) 261-0109\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:29.163620"
-}

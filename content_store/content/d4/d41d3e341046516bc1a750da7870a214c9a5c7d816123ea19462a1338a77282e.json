@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Iglesia San Jose\", \"alternate_name\": \"\", \"description\": \"- Should show up at 8am in the morning as the line is really long.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"38 West End Place\", \"address_2\": null, \"city\": \"Elizabeth\", \"state_province\": \"NJ\", \"postal_code\": \"07202\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.662053, \"longitude\": -74.227677}, \"phones\": [{\"number\": \"(908) 289-7070\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:15.515106"
-}

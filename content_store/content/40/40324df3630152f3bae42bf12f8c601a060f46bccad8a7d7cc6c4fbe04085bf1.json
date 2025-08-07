@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"EBNHC - Community Resource and Wellness Center\", \"alternate_name\": \"\", \"description\": \"Call 1-617-568-4845 to get help\\nOr Fill-up form on website: https://www.ebnhc.org/en/services/crwc.html\", \"email\": \"\", \"url\": \"https://www.ebnhc.org/en/services/crwc.html\", \"status\": \"active\", \"address\": {\"address_1\": \"282 Meridian Street\", \"address_2\": null, \"city\": \"East Boston\", \"state_province\": \"MA\", \"postal_code\": \"02128\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3763538, \"longitude\": -71.03928979999999}, \"phones\": [{\"number\": \"(617) 568-4845\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.017517"
-}

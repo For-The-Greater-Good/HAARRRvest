@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Frenchtown Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"Serves: Hunterdon County\", \"email\": \"\", \"url\": \"https://frenchtownpres.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"24 4th Street\", \"address_2\": null, \"city\": \"Frenchtown\", \"state_province\": \"NJ\", \"postal_code\": \"08825\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.52906550000001, \"longitude\": -75.061227}, \"phones\": [{\"number\": \"(908) 996-2227\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"12:00\", \"closes_at\": \"02:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.697814"
-}

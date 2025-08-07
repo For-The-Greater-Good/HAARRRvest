@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bridgeway Community Cupboard\", \"alternate_name\": \"\", \"description\": \"Also distributing food on Sundays after the service at 10:30am\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9189 Red Branch Road\", \"address_2\": null, \"city\": \"Columbia\", \"state_province\": \"MD\", \"postal_code\": \"21045\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2307408, \"longitude\": -76.8247234}, \"phones\": [{\"number\": \"(410) 992-5832\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:31.210425"
-}

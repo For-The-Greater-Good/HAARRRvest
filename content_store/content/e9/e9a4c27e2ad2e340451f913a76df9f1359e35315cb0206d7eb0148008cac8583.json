@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Belle Terrace Presbyterian\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2473 Golden Camp Road\", \"address_2\": null, \"city\": \"Augusta\", \"state_province\": \"GA\", \"postal_code\": \"30906\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.4289968, \"longitude\": -82.050024}, \"phones\": [{\"number\": \"(706) 793-5408\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.784161"
-}

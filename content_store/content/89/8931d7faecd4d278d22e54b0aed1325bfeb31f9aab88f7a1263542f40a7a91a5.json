@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Consortium Community Mental Health Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://consortiuminc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"137 South 58th Street\", \"address_2\": null, \"city\": \"West Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19139\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9586342, \"longitude\": -75.2371041}, \"phones\": [{\"number\": \"(267) 259-0648\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.206986"
-}

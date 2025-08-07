@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jireh's Table, Inc\", \"alternate_name\": \"\", \"description\": \"* To Book Appointments,  go to impactonechurch.org; click on the three bars at top of page, search for Events to find Food  Distribution, then click on Register and follow instructions.\\n* Registration opens on the Monday before the event and closes on Friday before the event or when they  reach capacity\", \"email\": \"\", \"url\": \"https://impactonechurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7230 Central Avenue\", \"address_2\": null, \"city\": \"Pepper Mill Village\", \"state_province\": \"MD\", \"postal_code\": \"20743\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8884061, \"longitude\": -76.8813292}, \"phones\": [{\"number\": \"(301) 333-2083\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:52.403150"
-}

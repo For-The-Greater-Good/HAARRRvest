@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salvation Army - Jersey City\", \"alternate_name\": \"\", \"description\": \"* They may ask for social security card, but it is not required\\n* Serves Jersey City residents\", \"email\": \"\", \"url\": \"https://easternusa.salvationarmy.org/new-jersey/jersey-city/\", \"status\": \"active\", \"address\": {\"address_1\": \"562 Bergen Avenue\", \"address_2\": \"\", \"city\": \"McGinley Square\", \"state_province\": \"NJ\", \"postal_code\": \"07304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.71984440000001, \"longitude\": -74.0735681}, \"phones\": [{\"number\": \"(201) 435-7355\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.706260"
-}

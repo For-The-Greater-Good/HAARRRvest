@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lorton Community Action Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9520 Richmond Hwy\", \"address_2\": null, \"city\": \"Lorton\", \"state_province\": \"VA\", \"postal_code\": \"22199\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.699254, \"longitude\": -77.21226}, \"phones\": [{\"number\": \"(703) 339-5161\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Pet food upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.510245"
-}

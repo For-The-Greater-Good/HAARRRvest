@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Immaculate Conception Church\", \"alternate_name\": \"\", \"description\": \"Closed on mondays\\n\\nCan access once a month.\\n\\nBring proof of residence and photo identification.\", \"email\": \"\", \"url\": \"www.immaculateconceptionchurchdc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1315 8th Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20001\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9075433, \"longitude\": -77.0226667}, \"phones\": [{\"number\": \"(202) 332-8888\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.306265"
-}

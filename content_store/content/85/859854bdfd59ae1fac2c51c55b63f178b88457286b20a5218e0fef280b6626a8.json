@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Community Corporation Emergency Food Pantry\", \"alternate_name\": \"\", \"description\": \"New Community Corporation operates an emergency food pantry starting the first business day after the 15th of every month to aid individuals and families who are in need of food supplies. In addition to canned goods, the pantry also provides items such as rice, cereal and even frozen, whole chickens.\", \"email\": \"\", \"url\": \"https://www.newcommunity.org/emergency-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"220 Bruce St\", \"address_2\": \"\", \"city\": \"Newark\", \"state_province\": \"NJ\", \"postal_code\": \"07103\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.736196, \"longitude\": -74.191013}, \"phones\": [{\"number\": \"(973) 623-6114\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must show a New Jersey photo ID\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:18.241786"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"4th Ave Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://sites.google.com/site/4thavepresbrooklyn/community-food-pantry?authuser=0\", \"status\": \"active\", \"address\": {\"address_1\": \"6753 4th Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11220\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.63686580332876, \"longitude\": -74.02273526931376}, \"phones\": [{\"number\": \"(718) 836-0681\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.872486"
-}

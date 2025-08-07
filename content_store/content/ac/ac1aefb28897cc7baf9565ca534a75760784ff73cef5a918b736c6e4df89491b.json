@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Cathedral CDC Social Services \\u2013 Mercy House Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food pantry is available to Middlesex County residents in need twice a month.  Clients must register \\nevery six months.\", \"email\": \"\", \"url\": \"www.thecathedral.org\", \"status\": \"active\", \"address\": {\"address_1\": \"282 Mcclellan Street\", \"address_2\": null, \"city\": \"Perth Amboy\", \"state_province\": \"NJ\", \"postal_code\": \"08861\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5089178, \"longitude\": -74.2710669}, \"phones\": [{\"number\": \"(732) 826-5293\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:16.597155"
-}

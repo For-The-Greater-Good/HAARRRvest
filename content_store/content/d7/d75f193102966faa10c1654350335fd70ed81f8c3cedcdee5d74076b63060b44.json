@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Atonement Lutheran Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://atonementlutheranchurch.com/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"308 1st Avenue\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"NJ\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2197171, \"longitude\": -74.00499409999999}, \"phones\": [{\"number\": \"(732) 776-5727\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.628700"
-}

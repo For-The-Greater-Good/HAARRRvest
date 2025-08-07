@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Center for Food Action - Ringwood\", \"alternate_name\": \"\", \"description\": \"Once every 3 weeks, our guests can make an appointment to receive a box of non-perishable food, along with fresh produce, meat, dairy, and bread, as available.\\nEnter your login below to make a food appointment. Please be prepared with household member names, birthdates, gender, ethnicity, and income.\\nMake an appointment here: https://app.pantrysoft.com/login/cfanj Or call your local site to complete registration and make an appointment over the phone.\", \"email\": \"\", \"url\": \"https://www.cfanj.org/gethelp/\", \"status\": \"active\", \"address\": {\"address_1\": \"145 Carletondale Road\", \"address_2\": null, \"city\": \"Ringwood\", \"state_province\": \"NJ\", \"postal_code\": \"07456\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.1185636, \"longitude\": -74.2608332}, \"phones\": [{\"number\": \"(201) 529-2029\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.691771"
-}

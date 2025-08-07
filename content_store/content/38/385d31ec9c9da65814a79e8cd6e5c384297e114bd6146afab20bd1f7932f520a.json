@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Paul Catholic Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stpaulchurch.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"12708 North Dale Mabry Highway\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33618\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0631187, \"longitude\": -82.5046884}, \"phones\": [{\"number\": \"(813) 961-3023\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:43.224504"
-}

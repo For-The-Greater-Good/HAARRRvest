@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"East Park Revitalization Alliance\", \"alternate_name\": \"\", \"description\": \"3233 clifford st\", \"email\": \"\", \"url\": \"http://epralliance.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3233 Clifford Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19121\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9834587, \"longitude\": -75.18761429999999}, \"phones\": [{\"number\": \"(215) 235-6001\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.248588"
-}

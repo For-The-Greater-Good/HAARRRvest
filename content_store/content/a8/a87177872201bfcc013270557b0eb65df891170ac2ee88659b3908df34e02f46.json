@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Closter Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4 Lewis Street\", \"address_2\": null, \"city\": \"Closter\", \"state_province\": \"NJ\", \"postal_code\": \"07624\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9719796, \"longitude\": -73.95845969999999}, \"phones\": [{\"number\": \"(201) 784-0600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"00:00\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Email FABofCloster@gmail.com for appointments\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.828365"
-}

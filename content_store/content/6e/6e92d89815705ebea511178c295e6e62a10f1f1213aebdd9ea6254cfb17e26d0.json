@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"FIRST UNITED PENTECOSTAL CHURCH\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"750 West Barnard Street\", \"address_2\": null, \"city\": \"Glennville\", \"state_province\": \"GA\", \"postal_code\": \"30427\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.9489798, \"longitude\": -81.94892109999999}, \"phones\": [{\"number\": \"(912) 347-5047\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.674565"
-}

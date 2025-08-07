@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Northwood Presbyterian Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Restrictions: once every 2 months\", \"email\": \"\", \"url\": \"http://www.northwoodpc.org/missionp\", \"status\": \"active\", \"address\": {\"address_1\": \"2875 State Road 580\", \"address_2\": null, \"city\": \"Clearwater\", \"state_province\": \"FL\", \"postal_code\": \"33761\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0190791, \"longitude\": -82.7181277}, \"phones\": [{\"number\": \"(727) 796-8090\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:43.585678"
-}

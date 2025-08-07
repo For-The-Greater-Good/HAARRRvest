@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 1443, \"name\": \"Banco de Comida Luz del Valle\", \"address\": \"800 E Coma Ave Hidalgo TX, 78557\", \"city\": \"Hidalgo\", \"state\": \"TX\", \"zip_code\": 78557, \"latitude\": 26.10611, \"longitude\": -98.254234, \"phone\": 9565337827, \"website\": \"www.ccluzdelvalle.org\", \"organization_id\": 1443, \"pantry_id\": 3794, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1443\", \"amenities\": [\"Speaks Spanish\"], \"conditions\": [\"1 Visit per Every Calendar Month\"], \"service_hours\": [{\"date\": \"2025-08-17\", \"time\": 59400, \"until\": 63000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-21\", \"time\": 59400, \"until\": 63000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-19\", \"time\": 59400, \"until\": 63000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-16\", \"time\": 59400, \"until\": 63000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-08-06T08:50:35.028140"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Faith Community\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"212 Jaguar Drive\", \"address_2\": null, \"city\": \"Lothian\", \"state_province\": \"MD\", \"postal_code\": \"20711\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.76542490000001, \"longitude\": -76.6701137}, \"phones\": [{\"number\": \"(410) 741-0647\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.323641"
-}

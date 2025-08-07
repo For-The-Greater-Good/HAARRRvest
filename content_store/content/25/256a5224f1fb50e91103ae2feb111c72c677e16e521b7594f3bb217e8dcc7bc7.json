@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Andrews Chapel UMC\", \"alternate_name\": \"\", \"description\": \"- Adviced to use the drive through as the line is slow moving\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"122 Watterson Street\", \"address_2\": null, \"city\": \"Jonesboro\", \"state_province\": \"GA\", \"postal_code\": \"30236\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.52529440000001, \"longitude\": -84.3517743}, \"phones\": [{\"number\": \"(770) 471-7200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.638828"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"United Food Force\", \"alternate_name\": \"\", \"description\": \"Emergency Food Program - Only one time food services\\n\\nIts a Food Bank\", \"email\": \"\", \"url\": \"https://unitedfoodforce.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1463 Hwy 20 W\", \"address_2\": null, \"city\": \"McDonough\", \"state_province\": \"GA\", \"postal_code\": \"30253\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.4215611, \"longitude\": -84.1841917}, \"phones\": [{\"number\": \"(678) 272-2000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:01.878448"
-}

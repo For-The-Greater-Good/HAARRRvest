@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"FRIENDS IN DEED\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://friendsindeedpas.org/programs/the-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"444 East Washington Boulevard\", \"address_2\": null, \"city\": \"North Central\", \"state_province\": \"CA\", \"postal_code\": \"91104\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.16872133078884, \"longitude\": -118.1413316545207}, \"phones\": [{\"number\": \"(626) 797-6072\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Documentation required for each member of household if picking up for family who is not present\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.043819"
-}

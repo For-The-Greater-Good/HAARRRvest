@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Burwood Gardens\", \"alternate_name\": \"\", \"description\": \"Call for hours.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6652 Shelly Road\", \"address_2\": null, \"city\": \"Glen Burnie\", \"state_province\": \"MD\", \"postal_code\": \"21061\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1948481, \"longitude\": -76.6171725}, \"phones\": [{\"number\": \"(410) 222-6226\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:55.274148"
-}

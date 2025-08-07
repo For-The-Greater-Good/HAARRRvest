@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Newman Church Community Development Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"598 Throop Ave\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11216\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.68243, \"longitude\": -73.940971}, \"phones\": [{\"number\": \"(718) 622-7955\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:22.692284"
-}

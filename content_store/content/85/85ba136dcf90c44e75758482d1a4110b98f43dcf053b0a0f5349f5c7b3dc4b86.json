@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Princeton Deliverance Center\", \"alternate_name\": \"\", \"description\": \"Serves: Mercer County\", \"email\": \"\", \"url\": \"https://www.princetondeliverancecenter.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"301 Southard Street\", \"address_2\": null, \"city\": \"Ewing and Carroll\", \"state_province\": \"NJ\", \"postal_code\": \"08609\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2266924, \"longitude\": -74.75588429999999}, \"phones\": [{\"number\": \"(609) 392-9161\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.588094"
-}

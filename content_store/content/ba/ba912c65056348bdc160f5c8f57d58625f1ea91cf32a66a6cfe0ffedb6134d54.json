@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Food Program and Clothesline of Jackson\", \"alternate_name\": \"\", \"description\": \"Serving Jackson County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"323 Broadway Street\", \"address_2\": null, \"city\": \"Jackson\", \"state_province\": \"OH\", \"postal_code\": \"45640\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0523286, \"longitude\": -82.6365203}, \"phones\": [{\"number\": \"(740) 286-5937\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.699594"
-}

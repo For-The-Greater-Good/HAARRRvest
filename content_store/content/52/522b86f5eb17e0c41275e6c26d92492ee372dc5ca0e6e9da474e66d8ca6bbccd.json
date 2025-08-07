@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bucks County Housing Group Doylestown Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://bchg.org/locations-hours/\", \"status\": \"active\", \"address\": {\"address_1\": \"470 Old Dublin Pike\", \"address_2\": null, \"city\": \"Doylestown\", \"state_province\": \"PA\", \"postal_code\": \"18901\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3357007, \"longitude\": -75.1463977}, \"phones\": [{\"number\": \"(215) 345-4311\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:30\", \"closes_at\": \"05:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.431091"
-}

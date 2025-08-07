@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Trinity Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Area served: Morris County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"123 East Blackwell Street\", \"address_2\": \"123 East Blackwell Street\", \"city\": \"Dover\", \"state_province\": \"NJ\", \"postal_code\": \"07801\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8851126, \"longitude\": -74.5520267}, \"phones\": [{\"number\": \"(973) 366-2821\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.064980"
-}

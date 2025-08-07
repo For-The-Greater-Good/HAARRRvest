@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Camp Friendship Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.campfriendshipbrooklyn.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"339 8th St\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11215\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.66953665883782, \"longitude\": -73.98385843068621}, \"phones\": [{\"number\": \"(718) 965-3695\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.675314"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jewish Institute of Queens\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.jiqueens.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"6005 Woodhaven Boulevard\", \"address_2\": null, \"city\": \"Woodhaven\", \"state_province\": \"NY\", \"postal_code\": \"11373\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7311491, \"longitude\": -73.87090409999999}, \"phones\": [{\"number\": \"(718) 426-9369\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.756246"
-}

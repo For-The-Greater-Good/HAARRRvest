@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Haysville Senior Center\", \"alternate_name\": \"\", \"description\": \"Contact Person: Kim Landers\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"160 East Karla Avenue\", \"address_2\": null, \"city\": \"Haysville\", \"state_province\": \"KS\", \"postal_code\": \"67060\", \"country\": \"US\"}, \"location\": {\"latitude\": 37.5702752, \"longitude\": -97.35085889999999}, \"phones\": [{\"number\": \"(316) 529-5903\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:40.993478"
-}

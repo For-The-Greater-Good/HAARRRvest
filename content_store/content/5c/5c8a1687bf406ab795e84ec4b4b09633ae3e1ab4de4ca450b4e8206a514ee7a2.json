@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Concord Baptist Church \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.cbchedc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"180 Blue Hill Avenue\", \"address_2\": null, \"city\": \"Milton\", \"state_province\": \"MA\", \"postal_code\": \"02186\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2586994, \"longitude\": -71.0972706}, \"phones\": [{\"number\": \"(617) 698-9300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.833885"
-}

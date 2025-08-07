@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"CURRIE WOODS TENANT TASK FORCE\", \"alternate_name\": \"\", \"description\": \"- Serves only Jersey city.\\n- Line is formed at around 11am but food distribution starts at around 1 pm. This is also subject to change.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3 New Heckman Drive\", \"address_2\": null, \"city\": \"Greenville\", \"state_province\": \"NJ\", \"postal_code\": \"07305\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6908196, \"longitude\": -74.0993575}, \"phones\": [{\"number\": \"(201) 920-2997\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Hours are subject to change\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:15.851493"
-}

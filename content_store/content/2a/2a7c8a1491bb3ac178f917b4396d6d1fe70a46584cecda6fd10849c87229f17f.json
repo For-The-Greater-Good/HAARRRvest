@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salvation Army of Iredell County\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1361 Caldwell Street\", \"address_2\": null, \"city\": \"Statesville\", \"state_province\": \"NC\", \"postal_code\": \"28677\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7659244, \"longitude\": -80.8866685}, \"phones\": [{\"number\": \"(704) 872-5623\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:36.286431"
-}

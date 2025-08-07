@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"BRC Homeless Senior Services\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.brc.org/services-for-older-adults\", \"status\": \"active\", \"address\": {\"address_1\": \"30 Delancey St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10002\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7203881, \"longitude\": -73.9922313}, \"phones\": [{\"number\": \"(212) 533-2020\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:45\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:45\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:45\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:45\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:45\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.540925"
-}

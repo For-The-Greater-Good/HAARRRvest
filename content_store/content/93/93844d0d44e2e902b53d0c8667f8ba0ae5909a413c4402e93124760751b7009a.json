@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New United Neighbors Dev. Childcare Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://ucoci.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"491 Orange Street\", \"address_2\": null, \"city\": \"Lower Roseville\", \"state_province\": \"NJ\", \"postal_code\": \"07107\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7537196, \"longitude\": -74.1909215}, \"phones\": [{\"number\": \"(973) 350-0567\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early. Line starts at 8am\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.249060"
-}

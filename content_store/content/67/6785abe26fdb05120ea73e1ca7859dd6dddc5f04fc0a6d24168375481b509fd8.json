@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Greenforest Baptist Church\", \"alternate_name\": \"\", \"description\": \"We recommend that clients call and schedule the time they will be coming to pick up food. This is not a mandatory requirement, however it expedites the turnaround time of filling out our intake form and being out the door. It also eliminates making dried runs to our facility.  Additionally, our process allows clients to visit our Food Pantry twice in a calendar month. We suggest putting a week in between.\\n\\nOur direct contact phone# is 404-486-6771 and we have instruction on our VRU that direct a caller through our processes and availabilities.\", \"email\": \"\", \"url\": \"https://greenforest.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3250 Rainbow Drive\", \"address_2\": null, \"city\": \"Decatur\", \"state_province\": \"GA\", \"postal_code\": \"30034\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7153051, \"longitude\": -84.256914}, \"phones\": [{\"number\": \"(404) 486-6771\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.951728"
-}

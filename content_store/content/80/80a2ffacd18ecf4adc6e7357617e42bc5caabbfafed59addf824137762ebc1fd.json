@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St Vincent de Paul Catholic Church\", \"alternate_name\": \"\", \"description\": \"Food distribution is at the back of the church\", \"email\": \"\", \"url\": \"https://www.saint-vincent-church.org/ministries/\", \"status\": \"active\", \"address\": {\"address_1\": \"100 East Rittenhouse Street\", \"address_2\": null, \"city\": \"East Germantown\", \"state_province\": \"PA\", \"postal_code\": \"19144\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0383045, \"longitude\": -75.1750201}, \"phones\": [{\"number\": \"(215) 438-1514\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:22.416299"
-}

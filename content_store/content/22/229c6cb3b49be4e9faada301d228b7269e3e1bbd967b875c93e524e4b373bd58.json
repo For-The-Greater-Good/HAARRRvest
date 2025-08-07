@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Gaithersburg Help\", \"alternate_name\": \"\", \"description\": \"Call 301.216.2510 to make an appointment. Can visit 9 times within 6 months\", \"email\": \"\", \"url\": \"https://www.gaithersburghelp.org/get-help/food/\", \"status\": \"active\", \"address\": {\"address_1\": \"301 Muddy Branch Road\", \"address_2\": null, \"city\": \"Gaithersburg\", \"state_province\": \"MD\", \"postal_code\": \"20878\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.13962, \"longitude\": -77.19143}, \"phones\": [{\"number\": \"(301) 216-2510\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:28.983219"
-}

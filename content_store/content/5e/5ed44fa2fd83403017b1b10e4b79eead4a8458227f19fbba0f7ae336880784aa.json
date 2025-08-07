@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Families for Families\", \"alternate_name\": \"\", \"description\": \" (closed the first weekend of the month)\", \"email\": \"\", \"url\": \"https://www.families4families.com/groceries-for-families\", \"status\": \"active\", \"address\": {\"address_1\": \"250 Braen Avenue\", \"address_2\": null, \"city\": \"Wyckoff\", \"state_province\": \"NJ\", \"postal_code\": \"07481\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9736966, \"longitude\": -74.1502551}, \"phones\": [{\"number\": \"(201) 499-5622\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:37.738948"
-}

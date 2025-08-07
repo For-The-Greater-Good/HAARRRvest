@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jericho Project\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"315 East 170th Street\", \"address_2\": null, \"city\": \"Claremont\", \"state_province\": \"NY\", \"postal_code\": \"10456\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.83746740000001, \"longitude\": -73.9097346}, \"phones\": [{\"number\": \"(646) 624-2341\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.830250"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Maryland Free Food Summer Program\", \"alternate_name\": \"\", \"description\": \"Parent and Guardian pickup only\", \"email\": \"\", \"url\": \"https://www.marylandfreefood.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"3030 Rolling Road\", \"address_2\": null, \"city\": \"Windsor Mill\", \"state_province\": \"MD\", \"postal_code\": \"21244\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3384338, \"longitude\": -76.7620903}, \"phones\": [{\"number\": \"(443) 524-3200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:22.574833"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Fred's Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"132 N Division St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10566\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.292343, \"longitude\": -73.919754}, \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"04:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.693800"
-}

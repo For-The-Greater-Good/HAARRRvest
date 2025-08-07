@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"FIRST UNITED METHODIST CHURCH\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://www.fumcpp.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"9025 49th Street North\", \"address_2\": null, \"city\": \"Pinellas Park\", \"state_province\": \"FL\", \"postal_code\": \"33782\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8544915, \"longitude\": -82.6995342}, \"phones\": [{\"number\": \"(727) 546-5741\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.333202"
-}

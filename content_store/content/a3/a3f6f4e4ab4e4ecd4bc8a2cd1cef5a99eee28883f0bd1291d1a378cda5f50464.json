@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Family Promise Family Food Market\", \"alternate_name\": \"\", \"description\": \"Diaper Bank only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3606 McEver Road\", \"address_2\": null, \"city\": \"Oakwood\", \"state_province\": \"GA\", \"postal_code\": \"30566\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.2628641, \"longitude\": -83.8875989}, \"phones\": [{\"number\": \"(770) 535-0786\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.914152"
-}

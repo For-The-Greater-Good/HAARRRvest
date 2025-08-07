@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Dr. Albert M. Bean School\", \"alternate_name\": \"\", \"description\": \"Nicole D.\\tSmith\\t8567836900\\nStart: 07/07/2025\\t08/14/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"70 East 3rd Avenue\", \"address_2\": null, \"city\": \"Pine Hill\", \"state_province\": \"NJ\", \"postal_code\": \"08021\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7896479, \"longitude\": -74.986542}, \"phones\": [{\"number\": \"(856) 783-5300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:11.385174"
-}

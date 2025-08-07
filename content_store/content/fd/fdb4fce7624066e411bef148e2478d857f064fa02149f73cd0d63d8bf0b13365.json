@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Asian Americans for Equality\", \"alternate_name\": \"\", \"description\": \"Come before 10am to line up and get a number.\", \"email\": \"\", \"url\": \"https://www.aafe.org\", \"status\": \"active\", \"address\": {\"address_1\": \"111 Division Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10002\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7143084, \"longitude\": -73.99233199999999}, \"phones\": [{\"number\": \"(212) 979-8988\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.780899"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Tabitha\\u2019s House\", \"alternate_name\": \"\", \"description\": \"Serves Harford County residents. Appointments required\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"112 Connolly Road\", \"address_2\": null, \"city\": \"Fallston\", \"state_province\": \"MD\", \"postal_code\": \"21047\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5034562, \"longitude\": -76.3855395}, \"phones\": [{\"number\": \"(410) 877-9730\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.956366"
-}

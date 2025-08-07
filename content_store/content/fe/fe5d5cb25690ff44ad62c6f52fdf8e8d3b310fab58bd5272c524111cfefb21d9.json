@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Church at Odessa\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1234 Gunn Highway\", \"address_2\": null, \"city\": \"Odessa\", \"state_province\": \"FL\", \"postal_code\": \"33556\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.17743, \"longitude\": -82.591609}, \"phones\": [{\"number\": \"(813) 792-5400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:45.017827"
-}

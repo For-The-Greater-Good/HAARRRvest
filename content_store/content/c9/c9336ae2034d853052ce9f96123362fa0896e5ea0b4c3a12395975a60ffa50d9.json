@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Church of Notre Dame\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://ndparish.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"405 W 114th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10025\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.805083, \"longitude\": -73.960405}, \"phones\": [{\"number\": \"(212) 866-1500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.548375"
-}

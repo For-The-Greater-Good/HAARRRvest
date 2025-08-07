@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bethel Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1900 West York Street\", \"address_2\": \"\", \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19132\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.99029, \"longitude\": -75.1639321}, \"phones\": [{\"number\": \"(267) 847-0385\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.590249"
-}

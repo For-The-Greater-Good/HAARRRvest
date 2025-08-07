@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SMILE\", \"alternate_name\": \"\", \"description\": \"A SMILE ID card must be presented to receive any SMILE services, including the Food Pantry, Thrift Store, and Emergency Services.\\nTo obtain a SMILE card, you must register at the SMILE Thrift Store during its normal hours of operation:\\nWednesdays, Thursdays, and Fridays: 10 am to 2 pm\\nSaturdays: 9 am to 12 noon\\n\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"10290 H G Trueman Road\", \"address_2\": null, \"city\": \"Lusby\", \"state_province\": \"MD\", \"postal_code\": \"20657\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.3971143, \"longitude\": -76.4365595}, \"phones\": [{\"number\": \"(410) 326-0009\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.035711"
-}

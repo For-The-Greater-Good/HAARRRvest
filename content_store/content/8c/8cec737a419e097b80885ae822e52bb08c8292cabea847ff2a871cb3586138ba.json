@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The First United Methodist Church\", \"alternate_name\": \"\", \"description\": \"- Closes when there is no food available. Posts announcement on information board in these cases. \\n-  Advised to arrive 30minutes ealier\", \"email\": \"\", \"url\": \"http://www.fumc.net/\", \"status\": \"active\", \"address\": {\"address_1\": \"38-24 149th Street\", \"address_2\": null, \"city\": \"Flushing\", \"state_province\": \"NY\", \"postal_code\": \"11354\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.763722, \"longitude\": -73.8171449}, \"phones\": [{\"number\": \"(718) 939-8599\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:07.658064"
-}

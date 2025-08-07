@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Vincent de Paul \\u2013 Prince of Peace\", \"alternate_name\": \"\", \"description\": \"Only serving residents from the following zip codes: 30011, 30517, 30518, 30519, 30542, 30548\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6439 Spout Springs Road\", \"address_2\": null, \"city\": \"Flowery Branch\", \"state_province\": \"GA\", \"postal_code\": \"30542\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.1553514, \"longitude\": -83.8931001}, \"phones\": [{\"number\": \"(678) 960-0048\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.827003"
-}

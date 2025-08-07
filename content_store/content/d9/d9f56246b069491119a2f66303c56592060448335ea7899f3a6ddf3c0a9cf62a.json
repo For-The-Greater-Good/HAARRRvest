@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Brunswick Seventh Day Adventist Church\", \"alternate_name\": \"\", \"description\": \"Food, prayer, counseling, and clothing available to New Brunswick residents. Appointment \\nrecommended for services other than food. Valid photo ID and proof of address are required.\", \"email\": \"\", \"url\": \"https://www.nbsdac.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"339 Livingston Avenue\", \"address_2\": \"\", \"city\": \"New Brunswick\", \"state_province\": \"NJ\", \"postal_code\": \"08901\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.482518, \"longitude\": -74.4559818}, \"phones\": [{\"number\": \"(917) 373-9321\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Serves New Jersey residents\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.764319"
-}

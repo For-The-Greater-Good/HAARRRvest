@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Ann's of Morrisania\", \"alternate_name\": \"\", \"description\": \"Line for soup kitchen starts at 9:30am\", \"email\": \"\", \"url\": \"https://stannssouthbronx.wordpress.com/community-ministry/\", \"status\": \"active\", \"address\": {\"address_1\": \"295 St Ann's Ave\", \"address_2\": null, \"city\": \"The Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10454\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.80854, \"longitude\": -73.917015}, \"phones\": [{\"number\": \"(718) 585-5632\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.239807"
-}

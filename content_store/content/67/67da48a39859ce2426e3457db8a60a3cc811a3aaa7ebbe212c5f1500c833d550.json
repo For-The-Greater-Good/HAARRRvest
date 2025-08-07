@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Feed A Need Kingdom Kids\", \"alternate_name\": \"\", \"description\": \"Send text to make an appointment. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2815 Bulen Avenue\", \"address_2\": null, \"city\": \"South Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9081573, \"longitude\": -82.9563721}, \"phones\": [{\"number\": \"(614) 597-6137\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments are recommended\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.934658"
-}

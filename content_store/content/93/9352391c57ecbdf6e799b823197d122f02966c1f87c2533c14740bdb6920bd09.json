@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mount Sinai SDA Church Food pantry  \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"555 Bergen Ave, 4th FL\", \"status\": \"active\", \"address\": {\"address_1\": \"217-10 93rd Avenue\", \"address_2\": \"4th FL\", \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11428\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.72103129999999, \"longitude\": -73.7397323}, \"phones\": [{\"number\": \"(718) 465-1784\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.912163"
-}

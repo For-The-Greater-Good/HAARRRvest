@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Glen Burnie United Methodist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://gbumchurch.org/events-calender/\", \"status\": \"active\", \"address\": {\"address_1\": \"5 2nd Avenue Southeast\", \"address_2\": null, \"city\": \"Glen Burnie\", \"state_province\": \"MD\", \"postal_code\": \"21061\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1613891, \"longitude\": -76.6263189}, \"phones\": [{\"number\": \"(410) 761-4381\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:21.677672"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Holy Temple Church, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"136-25 Springfield blvd\", \"address_2\": null, \"city\": \"Springfield Gardens\", \"state_province\": \"NY\", \"postal_code\": \"11413\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6672519, \"longitude\": -73.75801799999999}, \"phones\": [{\"number\": \"(718) 276-4536\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:22.076165"
-}

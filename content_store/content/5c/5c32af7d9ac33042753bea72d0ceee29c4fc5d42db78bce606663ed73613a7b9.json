@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Donald Bentley Food Pantry\", \"alternate_name\": \"\", \"description\": \"Contact: Ellen Bentley\\n(443) 842-4037\\n\\nMust be a resident of zip codes 21202 or 21218\", \"email\": \"\", \"url\": \"https://www.facebook.com/p/The-Donald-Bentley-Food-Pantry-Inc-100067623525115/\", \"status\": \"active\", \"address\": {\"address_1\": \"624 Gutman Avenue\", \"address_2\": null, \"city\": \"East Baltimore Midway\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3175548, \"longitude\": -76.606769}, \"phones\": [{\"number\": \"(410) 662-9287\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.056146"
-}

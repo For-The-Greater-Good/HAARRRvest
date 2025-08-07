@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lancaster Vineyard Church Pantry\", \"alternate_name\": \"\", \"description\": \"Anyone needing assistance can call Fairfield County Information and Referral (dial \\u201c2-1-1\\u201d) and ask to be referred to Lancaster Vineyard Food Pantry & Outreach. While it is helpful for us to know you\\u2019re coming, we do accept walk-ins.\", \"email\": \"\", \"url\": \"https://www.lancastervineyard.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"423 West Wheeling Street\", \"address_2\": null, \"city\": \"Lancaster\", \"state_province\": \"OH\", \"postal_code\": \"43130\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7156191, \"longitude\": -82.610755}, \"phones\": [{\"number\": \"(740) 689-8463\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.099820"
-}

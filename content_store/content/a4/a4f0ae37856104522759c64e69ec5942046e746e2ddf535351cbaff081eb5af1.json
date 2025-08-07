@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Hunger Free America\", \"alternate_name\": \"\", \"description\": \"CHECK WEBSITE FOR TIMES /DAY\\n\\nNational Hunger Hotline: M-F; 7AM-10PM 1.866.348.6479 FOR SPANISH: 1.877.842.6273\", \"email\": \"\", \"url\": \"https://findfood.hungerfreeamerica.org/\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": null, \"state_province\": null, \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": null, \"longitude\": null}, \"phones\": [{\"number\": \"(866) 348-6479\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"02:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:00\", \"closes_at\": \"02:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.602236"
-}

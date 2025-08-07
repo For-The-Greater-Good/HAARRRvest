@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Campaign Against Hunger, Hoyt - Mobile Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.tcahnyc.org/find-food/\", \"status\": \"active\", \"address\": {\"address_1\": \"236 Hoyt St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11217\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.683074, \"longitude\": -73.99034}, \"phones\": [{\"number\": \"(718) 773-3551\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Mobile soup kitchen truck\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.445898"
-}

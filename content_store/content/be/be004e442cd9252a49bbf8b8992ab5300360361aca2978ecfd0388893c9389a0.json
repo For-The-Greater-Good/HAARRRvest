@@ -1,8 +1,0 @@
-{
-  "content": "{\"locationId\": \"570\", \"organizationId\": \"497\", \"name\": \"Evanston Vineyard Food Pantry\", \"address1\": \"2495 Howard St\", \"address2\": null, \"city\": \"Evanston\", \"state\": \"IL\", \"zipCode\": \"60202\", \"country\": \"US\", \"phone\": \"847-328-4544\", \"phoneExt\": null, \"website\": \"https://evanstonvineyard.org/\", \"latitude\": \"42.0218286\", \"longitude\": \"-87.708176\", \"foodPrograms\": \"Pantry/Grocery Distribution\", \"serviceAreas\": \"COUNTY:  Cook\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"Nancy Roman\", \"contactPhone\": null, \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 1, \"regionName\": \"Greater Chicago Food Depository\", \"logoBlobNameSmall\": \"91461b0b-88b1-4d61-98fc-b15c4eecb6d2.png\", \"website\": \"www.chicagosfoodbank.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Wednesday 6:00 PM-8:00 PM\"], \"services\": [{\"name\": \"Pantry/Grocery Distribution\", \"category\": \"Food Program\", \"overview\": \"This program is operated in partnership with the  Greater Chicago Food Depository .\", \"qualifications\": null, \"contact\": \"Keva Green (847-328-4544)\"}], \"specialHours\": []}",
-  "metadata": {
-    "scraper_id": "vivery_api",
-    "source": "vivery_api"
-  },
-  "timestamp": "2025-08-06T08:47:08.414695"
-}

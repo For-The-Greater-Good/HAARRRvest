@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Boost CDC inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.boostcdc.com/lansdowne-avenue.html\", \"status\": \"active\", \"address\": {\"address_1\": \"6010 Lansdowne Avenue\", \"address_2\": \"\", \"city\": \"Carroll Park\", \"state_province\": \"PA\", \"postal_code\": \"19151\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9756693, \"longitude\": -75.2406948}, \"phones\": [{\"number\": \"(215) 877-9411\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:19.834848"
-}

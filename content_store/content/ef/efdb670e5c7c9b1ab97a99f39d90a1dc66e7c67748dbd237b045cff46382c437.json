@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Southeast Gwinnett Cooperative Ministry   \", \"alternate_name\": \"\", \"description\": \"Who Do We Help?\\nWe serve residents of Gwinnett County, Georgia living in Grayson (30017), Snellville (30039, 30078), and Loganville (Gwinnett/30052).\\nYou must have a picture id.\\nYou must have a piece of US Postal mail addressed to yourself that was received within the last 30 days of your visit to the Co-op.\\nClients can get food every two weeks\", \"email\": \"\", \"url\": \"segwinnettcoop.org/get-assistance\", \"status\": \"active\", \"address\": {\"address_1\": \"55 Grayson Industrial Parkway\", \"address_2\": null, \"city\": \"Grayson\", \"state_province\": \"GA\", \"postal_code\": \"30017\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8929664, \"longitude\": -83.94908}, \"phones\": [{\"number\": \"(770) 985-5229\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.393302"
-}

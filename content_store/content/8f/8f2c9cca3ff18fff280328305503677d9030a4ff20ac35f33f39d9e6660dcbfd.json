@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Central College Church Pantry\", \"alternate_name\": \"\", \"description\": \"Call (614) 341-2282 to make an appointment\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"975 South Sunbury Road\", \"address_2\": null, \"city\": \"Amalthea Central College\", \"state_province\": \"OH\", \"postal_code\": \"43081\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0996724, \"longitude\": -82.89022159999999}, \"phones\": [{\"number\": \"(614) 341-2282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.295656"
-}

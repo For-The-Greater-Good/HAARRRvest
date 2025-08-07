@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SISTERS & BROTHERS OUTREACH\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1318 East  St. Georges Ave\", \"address_2\": null, \"city\": \"Linden\", \"state_province\": \"NJ\", \"postal_code\": \"07036\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.608407, \"longitude\": -74.287045}, \"phones\": [{\"number\": \"(908) 994-9797\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:15.312172"
-}

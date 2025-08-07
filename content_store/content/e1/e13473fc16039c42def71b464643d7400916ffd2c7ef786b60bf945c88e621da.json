@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Washington Ave. School\", \"alternate_name\": \"\", \"description\": \"Start date\\t7/6/2025\\nEnd date\\t7/30/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"225 West Washington Avenue\", \"address_2\": null, \"city\": \"Pleasantville\", \"state_province\": \"NJ\", \"postal_code\": \"08232\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3923254, \"longitude\": -74.5268856}, \"phones\": [{\"number\": \"(609) 484-3608\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:14.339533"
-}

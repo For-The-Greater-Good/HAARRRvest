@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Simon's Soup Kitchen at Our Lady of Perpetual Help \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"100 Grant Avenue\", \"address_2\": null, \"city\": \"Seaside Heights\", \"state_province\": \"NJ\", \"postal_code\": \"08751\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9431156, \"longitude\": -74.0740277}, \"phones\": [{\"number\": \"(732) 779-6308\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.397795"
-}

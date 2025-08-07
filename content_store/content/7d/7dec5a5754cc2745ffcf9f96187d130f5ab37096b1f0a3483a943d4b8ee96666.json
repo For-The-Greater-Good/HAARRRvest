@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Family Life Development Center\", \"alternate_name\": \"\", \"description\": \"Get a number or ticket by 8am\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1476 Bedford Ave\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11216\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.672874, \"longitude\": -73.954483}, \"phones\": [{\"number\": \"(718) 636-4938\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.759741"
-}

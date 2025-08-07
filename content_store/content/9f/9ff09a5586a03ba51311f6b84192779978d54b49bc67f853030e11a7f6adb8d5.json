@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Elizabethport Presbyterian Center (E\\u2019Port Center )\", \"alternate_name\": \"\", \"description\": \"serves  Union County residents\", \"email\": \"\", \"url\": \"https://eportpres.org/eport-programs/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"154 First St\", \"address_2\": \"\", \"city\": \"Elizabeth\", \"state_province\": \"NJ\", \"postal_code\": \"07206\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6531, \"longitude\": -74.1891}, \"phones\": [{\"number\": \"(908) 351-4850\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Pre-registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Located in the basement\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Come early, line starts at 6am\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:18.333252"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Astoria Food Pantry\", \"alternate_name\": \"\", \"description\": \"We give only one bag of groceries per person, no matter the household size. If you need food that can be prepared without a kitchen, please ask at the door. If you need baby formula or pet food, please ask at the door.\\n\\nDiapers & baby wipes are also distributed on the 2nd Monday of each month, starting at 8am until we run out. \\n\", \"email\": \"\", \"url\": \"https://www.astoriafoodpantry.com/get-help.html\", \"status\": \"active\", \"address\": {\"address_1\": \"25-82 Steinway St \", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"11103\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.76628208754526, \"longitude\": -73.91350157341874}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:19.358525"
-}

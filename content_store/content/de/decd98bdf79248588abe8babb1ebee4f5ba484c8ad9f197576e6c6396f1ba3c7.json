@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Chelten Christian Crusade\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.ccc4lp.com\", \"status\": \"active\", \"address\": {\"address_1\": \"605 East Chelten Avenue\", \"address_2\": \"\", \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19144\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.043485, \"longitude\": -75.167352}, \"phones\": [{\"number\": \"(215) 849-6614\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.931981"
-}

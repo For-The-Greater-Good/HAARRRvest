@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Rockville HELP\", \"alternate_name\": \"\", \"description\": \"Clients should call **301-564-0800** and leave a message. Our Officer of the Day will call them back. They should make sure they unblock unknown numbers and monitor their calls - our volunteers use their own phones, so the call back might come from a private or out-of-area number. \\n\\nIf a client does not have a reliable phone or is not able to take phone calls, they can email us here (**rockvillemdhelp@gmail.com**), but the response time is likely to be longer because we don't have people continuously monitoring the email as we do with the phone line.\\n\", \"email\": \"\", \"url\": \"https://www.rockvillehelp.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"P.O. Box 1624\", \"address_2\": \"\", \"city\": \"Rockville\", \"state_province\": \"MD\", \"postal_code\": \"20849\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0707836, \"longitude\": -77.1317754}, \"phones\": [{\"number\": \"(301) 564-0800\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Contact in advance for services\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:26.943241"
-}

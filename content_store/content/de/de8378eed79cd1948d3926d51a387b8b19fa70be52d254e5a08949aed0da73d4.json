@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Tarpon Springs Boys & Girls Clubs\", \"alternate_name\": \"\", \"description\": \"BreakSpot Meals\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"111 West Lime Street\", \"address_2\": null, \"city\": \"Tarpon Springs\", \"state_province\": \"FL\", \"postal_code\": \"34689\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.1427409, \"longitude\": -82.7594104}, \"phones\": [{\"number\": \"(727) 524-2427\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:43.432330"
-}

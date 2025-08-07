@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Louis\", \"alternate_name\": \"\", \"description\": \"Anyone needing resources at this location is requested to call ahead at (586) 468-8734 X106\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"24415 Crocker Boulevard\", \"address_2\": null, \"city\": \"Clinton Township\", \"state_province\": \"MI\", \"postal_code\": \"48036\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.5852924, \"longitude\": -82.8646933}, \"phones\": [{\"number\": \"(586) 468-8734\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:24.511136"
-}

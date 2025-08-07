@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Cherry Hill Pantry \", \"alternate_name\": \"\", \"description\": \"Residents of Cherry Hill, Haddonfield, Marlton or Mt. Laurel.\\nYou can come to receive food on Tuesdays between 6:00 PM and 7:30 PM and Thursdays between 11:00 AM and 1:00 PM.\\n\\nResidents of any other New Jersey town, may come to the pantry on Wednesdays between the hours of 5:00 PM and 6:30 PM to receive Food. \", \"email\": \"\", \"url\": \"https://cherryhillfoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"910 Beechwood Avenue\", \"address_2\": null, \"city\": \"Golden Triangle\", \"state_province\": \"NJ\", \"postal_code\": \"08002\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9315502, \"longitude\": -75.047554}, \"phones\": [{\"number\": \"(856) 910-9090\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.685562"
-}

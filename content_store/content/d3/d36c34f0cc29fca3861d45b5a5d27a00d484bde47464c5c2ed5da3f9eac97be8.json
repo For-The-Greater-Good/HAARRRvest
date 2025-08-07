@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Eastern Interfaith Outreach, Food Pantry\", \"alternate_name\": \"\", \"description\": \"FOOD PANTRY: Provides non-perishable food and perishable when available according to family size. Individuals will not be served after 12:45PM.Individuals must call to schedule an appointment. An appointment time will be given when the call is received. Serving residents of Essex, Dundalk and Middle River, ID is required.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"201 Bowley's Quarter Road, Piney Grove United Methodist Church\", \"address_2\": null, \"city\": \"Middle River\", \"state_province\": \"MD\", \"postal_code\": \"21220\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.33699, \"longitude\": -76.39707}, \"phones\": [{\"number\": \"(410) 406-2288\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:29.031513"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. James United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stjumc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"199 East Tabor Road\", \"address_2\": null, \"city\": \"Olney\", \"state_province\": \"PA\", \"postal_code\": \"19120\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0317223, \"longitude\": -75.1205688}, \"phones\": [{\"number\": \"(215) 329-2851\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Spanish Available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.630033"
-}

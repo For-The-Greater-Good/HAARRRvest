@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"GOOD SAMARITAN GROUP\", \"alternate_name\": \"\", \"description\": \"The schedule changes each month. Please check their Facebook page for update\", \"email\": \"\", \"url\": \"https://www.facebook.com/goodsamaritangroup.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1325 Kennedy Blvd\", \"address_2\": null, \"city\": \"Bayonne\", \"state_province\": \"NJ\", \"postal_code\": \"07002\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6929149, \"longitude\": -74.103051}, \"phones\": [{\"number\": \"(201) 455-4579\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Check their social media for updates\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:28.224498"
-}

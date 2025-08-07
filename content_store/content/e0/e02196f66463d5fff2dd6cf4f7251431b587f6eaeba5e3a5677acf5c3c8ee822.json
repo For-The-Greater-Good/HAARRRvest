@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mission Christiana Casa Dios\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4902 Ritchie Highway\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21225\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2254586, \"longitude\": -76.61386519999999}, \"phones\": [{\"number\": \"(410) 789-3991\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.246860"
-}

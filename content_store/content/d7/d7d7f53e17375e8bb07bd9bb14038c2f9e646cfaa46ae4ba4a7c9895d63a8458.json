@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South 41 Church of Christ\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4030 US Highway 41\", \"address_2\": null, \"city\": \"Valdosta\", \"state_province\": \"GA\", \"postal_code\": \"31602\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.8977342, \"longitude\": -83.32340769999999}, \"phones\": [{\"number\": \"(229) 247-0533\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"13:15\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:34.736710"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Brooklyn Rescue Mission Urban Harvest Center\", \"alternate_name\": \"\", \"description\": \"By Appointment March- December. Registered pantry users can schedule an appointment through the Plentiful app https://www.plentifulapp.com/ or text START to 726-879\\n\", \"email\": \"\", \"url\": \"http://brmuhc.org/urban-harvest-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"426 Decatur Street\", \"address_2\": \"Storefront\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11233\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.681629, \"longitude\": -73.926788}, \"phones\": [{\"number\": \"(917) 426-3001\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.584961"
-}

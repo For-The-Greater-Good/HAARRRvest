@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First Bilingual SDA Food Pantry\", \"alternate_name\": \"\", \"description\": \"Households can receive assistance twice per month.  Food and household assistance is based on \\navailability. Open to Middlesex County residents and those in need by appointment for curbside \\npickup. Submit requests online (web address above), phone or text 732-629-8065.\", \"email\": \"\", \"url\": \"https://www.firstbilingual.org/serve/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"111 Howard Avenue\", \"address_2\": null, \"city\": \"Middlesex\", \"state_province\": \"NJ\", \"postal_code\": \"08846\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5740315, \"longitude\": -74.50925579999999}, \"phones\": [{\"number\": \"(732) 629-8065\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:16.690470"
-}

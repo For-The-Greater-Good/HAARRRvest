@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Vineyard Church of Delaware Food Pantry\", \"alternate_name\": \"\", \"description\": \"4pm they start register\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1001 West Cherry Street\", \"address_2\": null, \"city\": \"Sunbury\", \"state_province\": \"OH\", \"postal_code\": \"43074\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2576999, \"longitude\": -82.8806339}, \"phones\": [{\"number\": \"(740) 965-8888\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.192440"
-}

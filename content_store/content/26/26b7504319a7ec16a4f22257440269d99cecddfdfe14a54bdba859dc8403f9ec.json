@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Asian Council for Social Services Food Pantry\", \"alternate_name\": \"\", \"description\": \"- Registration is required on the first Monday of every month before receiving any food\", \"email\": \"\", \"url\": \"www.sacssny.org\", \"status\": \"active\", \"address\": {\"address_1\": \"143-02 45th Avenue\", \"address_2\": \"\", \"city\": \"Flushing\", \"state_province\": \"NY\", \"postal_code\": \"11355\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.75374, \"longitude\": -73.818116}, \"phones\": [{\"number\": \"(718) 321-7929\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.295257"
-}

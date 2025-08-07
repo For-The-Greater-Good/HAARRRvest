@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New York City Family Justice Centers (FJCs) - Manhattan\", \"alternate_name\": \"\", \"description\": \"Must first undergo screening/interview by phone (15-20 mins).\\nHelps with domestic violence/ intimate relationships violence with case management, safety planning, seeking housing and legal assistance, etc.\", \"email\": \"\", \"url\": \"http://www.nyc.gov/html/ocdv/downloads/pdf/Materials_FJC_OnePage_English.pdf\", \"status\": \"active\", \"address\": {\"address_1\": \"80 Centre St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10013\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7153545, \"longitude\": -74.00166879999999}, \"phones\": [{\"number\": \"(212) 602-2800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.025503"
-}

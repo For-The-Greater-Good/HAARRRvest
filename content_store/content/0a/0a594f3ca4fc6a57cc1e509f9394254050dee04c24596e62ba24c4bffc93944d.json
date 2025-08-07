@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"FOOD BANK INC\", \"alternate_name\": \"\", \"description\": \"Seniors must pre-register in person, a scheduled date and time for food pick-up will be given to Seniors.\\n\\nFood is given to each family times a year \", \"email\": \"\", \"url\": \"http://statesborofoodbank.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"400 Donnie Simmons Way\", \"address_2\": null, \"city\": \"Statesboro\", \"state_province\": \"GA\", \"postal_code\": \"30458\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.4566884, \"longitude\": -81.7982839}, \"phones\": [{\"number\": \"(912) 489-3663\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.660098"
-}

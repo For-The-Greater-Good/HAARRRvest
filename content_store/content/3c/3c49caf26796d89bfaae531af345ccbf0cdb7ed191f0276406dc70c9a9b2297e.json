@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Carl F. Barron Plaza\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"www.bostonfoodnotbombs.com\", \"status\": \"active\", \"address\": {\"address_1\": \"1 Central Square\", \"address_2\": null, \"city\": \"Cambridgeport\", \"state_province\": \"MA\", \"postal_code\": \"02139\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.36513720000001, \"longitude\": -71.1041939}, \"phones\": [{\"number\": \"(617) 299-0730\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Outdoor distribution\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.954138"
-}

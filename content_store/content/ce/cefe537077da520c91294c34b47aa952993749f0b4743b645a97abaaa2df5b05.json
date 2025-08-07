@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jesus Church of Macon\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2723 Sheraton Drive\", \"address_2\": null, \"city\": \"Macon\", \"state_province\": \"GA\", \"postal_code\": \"31204\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.8772635, \"longitude\": -83.6635118}, \"phones\": [{\"number\": \"(478) 335-7003\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:55.969267"
-}

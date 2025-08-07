@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Church of the Ascension Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"256 Azalea Drive\", \"address_2\": null, \"city\": \"New Milford\", \"state_province\": \"NJ\", \"postal_code\": \"07646\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9179022, \"longitude\": -74.02243829999999}, \"phones\": [{\"number\": \"(201) 836-8961\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be registered\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.957384"
-}

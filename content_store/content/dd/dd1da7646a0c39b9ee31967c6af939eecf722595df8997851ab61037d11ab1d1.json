@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Oaklyn Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Areas Served: Audubon, Collingswood, Haddon Twp., Oaklyn, Woodlynne\\n\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Oaklyn Baptist Church\", \"address_2\": \"29 East Bettlewood Avenue\", \"city\": \"Oaklyn\", \"state_province\": \"NJ\", \"postal_code\": \"08107\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9056804, \"longitude\": -75.07848229999999}, \"phones\": [{\"number\": \"(856) 854-8555\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.526829"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Canaan Baptist Church\", \"alternate_name\": \"\", \"description\": \"Enter via Weequahic Ave.\", \"email\": \"\", \"url\": \"https://www.cbcnewark.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"131 Pomona Avenue\", \"address_2\": null, \"city\": \"Weequahic\", \"state_province\": \"NJ\", \"postal_code\": \"07112\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.707844, \"longitude\": -74.2124986}, \"phones\": [{\"number\": \"(973) 926-4151\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:19.967350"
-}

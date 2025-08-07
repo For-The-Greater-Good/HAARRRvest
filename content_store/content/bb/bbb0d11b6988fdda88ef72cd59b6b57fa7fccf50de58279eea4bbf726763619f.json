@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Eldernet of Lower Merion and Narberth\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.eldernetonline.org\", \"status\": \"active\", \"address\": {\"address_1\": \"9 S Bryn Mawr Ave\", \"address_2\": \"\", \"city\": \"Bryn Mawr\", \"state_province\": \"PA\", \"postal_code\": \"19010\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.019999, \"longitude\": -75.318525}, \"phones\": [{\"number\": \"(610) 527-7776\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.474737"
-}

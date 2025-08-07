@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Grand Street Guild \", \"alternate_name\": \"\", \"description\": \"Serves 460 Grand street\\n131 Grand street\\n410 Grand strret\", \"email\": \"\", \"url\": \"https://grandstreetguild.org\", \"status\": \"active\", \"address\": {\"address_1\": \"410 Grand  St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10002\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.71657981269584, \"longitude\": -73.9848675598801}, \"phones\": [{\"number\": \"(646) 984-0167\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:22.725627"
-}

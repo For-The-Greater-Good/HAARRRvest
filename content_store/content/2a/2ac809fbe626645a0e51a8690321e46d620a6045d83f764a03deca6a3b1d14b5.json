@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"PRODIGY LEARNING CENTER (Summer Meal Site)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3345 West Hunting Park Avenue\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19132\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0017754, \"longitude\": -75.1859489}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Text FOOD to 304304\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.882567"
-}

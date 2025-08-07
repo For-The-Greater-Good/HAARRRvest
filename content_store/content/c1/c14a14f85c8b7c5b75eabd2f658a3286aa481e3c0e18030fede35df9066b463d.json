@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First Presbyterian Church Haines City\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://fpchainescity.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"104 Scenic Highway\", \"address_2\": null, \"city\": \"Haines City\", \"state_province\": \"FL\", \"postal_code\": \"33844\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0810231, \"longitude\": -81.6356223}, \"phones\": [{\"number\": \"(863) 422-3334\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:43.837461"
-}

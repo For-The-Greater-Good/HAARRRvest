@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Feeding & Helping Georgians\", \"alternate_name\": \"\", \"description\": \"-suite 4\", \"email\": \"\", \"url\": \"http://www.feedingandhelpinggeorgians.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4465 Commerce Circle Southwest\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30336\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7603327, \"longitude\": -84.5327011}, \"phones\": [{\"number\": \"(678) 974-5326\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:01.986880"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Cienfuegos Foundation Mobile Pantry \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://cienfuegosfoundation.org/what-we-do/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"482 East 138th Street\", \"address_2\": \"\", \"city\": \"Mott Haven\", \"state_province\": \"NY\", \"postal_code\": \"10454\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8078149, \"longitude\": -73.9204361}, \"phones\": [{\"number\": \"(646) 808-4361\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers available (must bring birth certificate)\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.734548"
-}

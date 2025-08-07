@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Hickory Grove Baptist Church\", \"alternate_name\": \"\", \"description\": \"* Closed before, during, and after major holidays\\n* There is no appointment for drive thru. But you need an appointment if you are walking in.\\n*  They only take 25 clients as walk ins. \\n*  Call 704-531-4000 to confirm if the pantry is open that week \", \"email\": \"\", \"url\": \"https://www.hickorygrove.org/hickory-grove/\", \"status\": \"active\", \"address\": {\"address_1\": \"7200 East W.T. Harris Boulevard\", \"address_2\": null, \"city\": \"Charlotte\", \"state_province\": \"NC\", \"postal_code\": \"28215\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.22109260000001, \"longitude\": -80.7253968}, \"phones\": [{\"number\": \"(704) 566-7508\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed before, during, and after holidays.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:35.871842"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"One Harvest Food\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.powderspringsfumc.org/Calendar\", \"status\": \"active\", \"address\": {\"address_1\": \"4329 Marietta Street\", \"address_2\": null, \"city\": \"Powder Springs\", \"state_province\": \"GA\", \"postal_code\": \"30127\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8590174, \"longitude\": -84.68029399999999}, \"phones\": [{\"number\": \"(770) 943-5130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:19.137958"
-}

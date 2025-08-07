@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Beacon of Hope\", \"alternate_name\": \"\", \"description\": \"In case they close on holiday they distribute extra one week before. \", \"email\": \"\", \"url\": \"http://www.beaconofhopeinc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"41 Mill Street\", \"address_2\": null, \"city\": \"Mount Holly\", \"state_province\": \"NJ\", \"postal_code\": \"08060\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9932267, \"longitude\": -74.78634699999999}, \"phones\": [{\"number\": \"(609) 288-6517\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.498854"
-}

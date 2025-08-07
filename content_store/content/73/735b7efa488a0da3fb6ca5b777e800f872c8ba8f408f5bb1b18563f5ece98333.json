@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"People's Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"105 Riverdale Avenue\", \"address_2\": null, \"city\": \"Brownsville\", \"state_province\": \"NY\", \"postal_code\": \"11212\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6605983, \"longitude\": -73.9128578}, \"phones\": [{\"number\": \"(718) 676-0318\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.231374"
-}

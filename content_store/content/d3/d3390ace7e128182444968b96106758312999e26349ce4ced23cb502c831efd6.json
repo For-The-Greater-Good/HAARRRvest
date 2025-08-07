@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Garces Foundation\", \"alternate_name\": \"\", \"description\": \"There is a waiting list. People need to be registered to receive food\", \"email\": \"\", \"url\": \"https://www.garcesfoundation.org/garces-foundation-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1612 South Front Street\", \"address_2\": null, \"city\": \"Pennsport\", \"state_province\": \"PA\", \"postal_code\": \"19148\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9273125, \"longitude\": -75.14728769999999}, \"phones\": [{\"number\": \"(267) 284-7905\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:18.538407"
-}

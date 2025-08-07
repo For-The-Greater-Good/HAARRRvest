@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Braintree Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Distributing Gift Certificate/Voucher which they can used to buy goods.\\n\\nMust be Braintree resident; proof of income\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"14 Storrs Avenue\", \"address_2\": null, \"city\": \"Braintree\", \"state_province\": \"MA\", \"postal_code\": \"02184\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.220195, \"longitude\": -71.0045865}, \"phones\": [{\"number\": \"(781) 277-1609\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of Residency (Lease contract)\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.908664"
-}

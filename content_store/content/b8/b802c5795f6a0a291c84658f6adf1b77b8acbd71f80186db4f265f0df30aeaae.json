@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Project Hospitality @ Mariner's Harbor Houses\", \"alternate_name\": \"\", \"description\": \"This is a mobile pantry maybe it will be late due to the traffic please wait 15 min from the time of arrival\", \"email\": \"\", \"url\": \"https://projecthospitality.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"197 Brabant Street\", \"address_2\": null, \"city\": \"Mariners Harbor\", \"state_province\": \"NY\", \"postal_code\": \"10303\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6321576, \"longitude\": -74.16521139999999}, \"phones\": [{\"number\": \"(718) 448-1544\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:15\", \"closes_at\": \"13:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:15\", \"closes_at\": \"13:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:17.203677"
-}

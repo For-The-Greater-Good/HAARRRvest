@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Neighborhood Services Inc.\", \"alternate_name\": \"\", \"description\": \"Eligibility: Residents living in zip codes 43201, 43202, 43210, 43211 43212,43219,43220,43221,43224,43229are eligible to receive food assistance one time each month. Outside of those zip codes, one can visit once a year.\\n\\nIntake Process: Walk-in, drive & pick-ups.\\nAppointment are scheduled on Wednesdays only from 9am.\\n\\n\", \"email\": \"\", \"url\": \"https://www.neighborhoodservicesinc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1950 North 4th Street\", \"address_2\": \"Suite J.\", \"city\": \"Indianola Terrace\", \"state_province\": \"OH\", \"postal_code\": \"43201\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0029742, \"longitude\": -82.9983381}, \"phones\": [{\"number\": \"(614) 297-0592\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.318581"
-}

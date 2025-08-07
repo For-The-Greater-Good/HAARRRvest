@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Frederick Douglass Community Center\", \"alternate_name\": \"\", \"description\": \"Required: ID and number of family members\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1001 Indiana Avenue\", \"address_2\": null, \"city\": \"ONYX\", \"state_province\": \"OH\", \"postal_code\": \"43607\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.64999359999999, \"longitude\": -83.56788490000001}, \"phones\": [{\"number\": \"(419) 244-6722\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.935540"
-}

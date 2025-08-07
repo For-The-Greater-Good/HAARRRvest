@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"COTS(Shelter)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.cotsdetroit.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"26 Peterboro Street\", \"address_2\": null, \"city\": \"Cass Corridor\", \"state_province\": \"MI\", \"postal_code\": \"48201\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3453062, \"longitude\": -83.0575736}, \"phones\": [{\"number\": \"(313) 831-3777\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:29.620441"
-}

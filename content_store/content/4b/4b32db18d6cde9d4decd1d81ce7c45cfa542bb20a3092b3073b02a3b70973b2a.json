@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Salvation Army \\u2013 Templo de Queens\", \"alternate_name\": \"\", \"description\": \"Appointments required for the food pantry, but not the soup kitchen. Call 718-335-3693 between 10am to 12pm, Mon-Fri.\\nFirst come first serve basis\", \"email\": \"\", \"url\": \"https://www.facebook.com/pages/Queens%20Temple%20Corp/132897790396590/\", \"status\": \"active\", \"address\": {\"address_1\": \"86-07 35th Avenue\", \"address_2\": null, \"city\": \"Jackson Heights\", \"state_province\": \"NY\", \"postal_code\": \"11372\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7524467, \"longitude\": -73.88063559999999}, \"phones\": [{\"number\": \"(718) 335-3693\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Christmas & New Year\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.957243"
-}

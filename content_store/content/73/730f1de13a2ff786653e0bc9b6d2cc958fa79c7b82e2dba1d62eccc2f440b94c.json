@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"PAYO Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.payousa.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1045 Coney Island Ave\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11230\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.632214, \"longitude\": -73.966545}, \"phones\": [{\"number\": \"(718) 713-2000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:20.926256"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Greater Philadelphia Coalition Against Hunger\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.hungercoalition.org/food-pantries\", \"status\": \"active\", \"address\": {\"address_1\": \"321 4th Street\", \"address_2\": \"Suite 401\", \"city\": \"Walnutport\", \"state_province\": \"PA\", \"postal_code\": \"18088\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7523183, \"longitude\": -75.5948064}, \"phones\": [{\"number\": \"(215) 430-0555\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.927866"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"KINGSLAND FIRST UMC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"120 East William Avenue\", \"address_2\": null, \"city\": \"Kingsland\", \"state_province\": \"GA\", \"postal_code\": \"31548\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.7986506, \"longitude\": -81.68906}, \"phones\": [{\"number\": \"(912) 729-5445\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.370958"
-}

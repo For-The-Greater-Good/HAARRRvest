@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"NORTHSIDE FOOD PANTRY C/O WYC\", \"alternate_name\": \"\", \"description\": \"PARTNERING WITH NORTHSIDE COMMUNITY CRC WE STORE, PACK, AND DELIVER FOOD TO HELP FEED THE HUNGRY IN NORTH PATERSON, NJ\", \"email\": \"\", \"url\": \"https://www.wyckoffreformed.org/northside-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"90 Jefferson Street\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07522\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9266626, \"longitude\": -74.1722815}, \"phones\": [{\"number\": \"(201) 891-1782\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Grab and Go Groceries\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.052590"
-}

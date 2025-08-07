@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Seeds of Hope dba Collins Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2751 Donald Lee Hollowell Parkway Northwest\", \"address_2\": null, \"city\": \"Brookview Heights\", \"state_province\": \"GA\", \"postal_code\": \"30318\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7788339, \"longitude\": -84.4777575}, \"phones\": [{\"number\": \"(404) 794-5842\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.755311"
-}

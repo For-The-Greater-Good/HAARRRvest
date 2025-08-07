@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Calvary Church\", \"alternate_name\": \"\", \"description\": \"Thursday distribution, accepting clients with last names beginning with letter A to L and Friday distribution, accepting clients with last names beginning with letter M to Z.\", \"email\": \"\", \"url\": \"https://cco.care/about-us/\", \"status\": \"active\", \"address\": {\"address_1\": \"200 McMullen Booth Road\", \"address_2\": null, \"city\": \"Clearwater\", \"state_province\": \"FL\", \"postal_code\": \"33759\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9629281, \"longitude\": -82.7091525}, \"phones\": [{\"number\": \"(727) 351-5176\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.943038"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Peaces Of Kindness Inc.\", \"alternate_name\": \"\", \"description\": \"suit 190\", \"email\": \"\", \"url\": \"https://www.peacesofkindness.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7110 Oak Ridge Parkway\", \"address_2\": null, \"city\": \"Austell\", \"state_province\": \"GA\", \"postal_code\": \"30168\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7840157, \"longitude\": -84.6058813}, \"phones\": [{\"number\": \"(404) 312-8757\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.570567"
-}

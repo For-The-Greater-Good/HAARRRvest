@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Catholic Charities Archdiocese of Washington, Susan Denison Mona Center\", \"alternate_name\": \"\", \"description\": \"Starting July 2023, the program transitioned from hot meals every Tuesday evening to a grocery package that includes 7 to 10lbs. of frozen proteins and 12 to 15lb. of fresh fruits and vegetables. This now takes place once a month on Tuesdays.\\n\\nThe following dates for the rest of the year are **September 26th,  October 31st, November 21st, December 19th 2023**. The distribution will begin at 5:00pm and end at 6:15pm. \", \"email\": \"\", \"url\": \"https://www.catholiccharitiesdc.org/about-us/our-locations/our-locations-mona-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"5859 Allentown Way\", \"address_2\": null, \"city\": \"Temple Hills\", \"state_province\": \"MD\", \"postal_code\": \"20748\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.80064, \"longitude\": -76.90577}, \"phones\": [{\"number\": \"(202) 772-4352\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Follow the distribution line\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:28.965325"
-}

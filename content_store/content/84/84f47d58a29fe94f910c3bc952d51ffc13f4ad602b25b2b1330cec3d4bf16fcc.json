@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Shalom Adonai Ministerio Internacional\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://shalomadonaimi.com/food-bank\", \"status\": \"active\", \"address\": {\"address_1\": \"1148 North Sharon Amity Road\", \"address_2\": null, \"city\": \"Sherwood Forest\", \"state_province\": \"NC\", \"postal_code\": \"28211\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.1777087, \"longitude\": -80.7800208}, \"phones\": [{\"number\": \"(704) 910-0450\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.938669"
-}

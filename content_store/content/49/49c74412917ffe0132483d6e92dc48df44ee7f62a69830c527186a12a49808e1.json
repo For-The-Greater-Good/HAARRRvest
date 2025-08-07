@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Burlington Township Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Burlington County\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1200 U.S. 130\", \"address_2\": null, \"city\": \"Burlington\", \"state_province\": \"NJ\", \"postal_code\": \"08016\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.08357349999999, \"longitude\": -74.8356548}, \"phones\": [{\"number\": \"(888) 847-3278\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.469096"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Free Chapel Mobile Food Pantry\", \"alternate_name\": \"\", \"description\": \"Name and contact information required\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3001 McEver Road\", \"address_2\": null, \"city\": \"Gainesville\", \"state_province\": \"GA\", \"postal_code\": \"30504\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.2733029, \"longitude\": -83.88101189999999}, \"phones\": [{\"number\": \"(678) 677-8300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.797048"
-}

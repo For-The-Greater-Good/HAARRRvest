@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lakecrest Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"35 Airport Road\", \"address_2\": null, \"city\": \"Waterford Township\", \"state_province\": \"MI\", \"postal_code\": \"48327\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6470212, \"longitude\": -83.40591119999999}, \"phones\": [{\"number\": \"(248) 681-3214\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:24.805853"
-}

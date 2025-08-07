@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Friendship Community Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://friendshipatl.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4141 Old Fairburn Road\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30349\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6436277, \"longitude\": -84.546751}, \"phones\": [{\"number\": \"(404) 349-1278\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.060095"
-}

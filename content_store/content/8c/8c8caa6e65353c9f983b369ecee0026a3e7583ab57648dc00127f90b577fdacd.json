@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Christian Memorial Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2001 West North Avenue\", \"address_2\": null, \"city\": \"Easterwood\", \"state_province\": \"MD\", \"postal_code\": \"21217\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3094852, \"longitude\": -76.65010749999999}, \"phones\": [{\"number\": \"(410) 728-0464\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:31.348208"
-}

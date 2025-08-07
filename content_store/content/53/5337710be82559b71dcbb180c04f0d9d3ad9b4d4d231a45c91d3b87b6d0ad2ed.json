@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Storehouse Ministries\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1348 Canton Road\", \"address_2\": null, \"city\": \"Marietta\", \"state_province\": \"GA\", \"postal_code\": \"30066\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.9841356, \"longitude\": -84.5355897}, \"phones\": [{\"number\": \"(770) 424-3014\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.457137"
-}

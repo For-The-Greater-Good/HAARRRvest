@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St Peter's Food Pantry\", \"alternate_name\": \"\", \"description\": \"Call (212) 929-2390 to confirm if the Food Pantry is open before going to the scheduled distribution.\", \"email\": \"\", \"url\": \"www.stpeterschelsea.org\", \"status\": \"active\", \"address\": {\"address_1\": \"346 W 20th St\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10011\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.744282, \"longitude\": -74.001793}, \"phones\": [{\"number\": \"(212) 929-2390\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Might be closed before holidays, call to confirm.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:09.859370"
-}

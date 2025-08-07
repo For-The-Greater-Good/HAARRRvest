@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Herbert Arlene Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1513 North Bouvier Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19121\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.97693719999999, \"longitude\": -75.1639236}, \"phones\": [{\"number\": \"(215) 239-4920\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:15.341941"
-}

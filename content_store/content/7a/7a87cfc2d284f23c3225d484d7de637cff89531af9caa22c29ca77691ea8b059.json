@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Liberty Assistance Ctr.\", \"alternate_name\": \"\", \"description\": \"Contact: Jim Rollins\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9019 Liberty Road\", \"address_2\": null, \"city\": \"Randallstown\", \"state_province\": \"MD\", \"postal_code\": \"21133\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3678736, \"longitude\": -76.7972475}, \"phones\": [{\"number\": \"(410) 655-4216\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.577850"
-}

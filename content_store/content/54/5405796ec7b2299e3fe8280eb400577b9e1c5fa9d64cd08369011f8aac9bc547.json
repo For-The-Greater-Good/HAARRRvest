@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Chai CDC Food Pantry\", \"alternate_name\": \"\", \"description\": \"*  Serves New Jersey residents\\n*  Bring State ID\", \"email\": \"\", \"url\": \"https://chaicdc.org/drive-through-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"201 East Federal Street\", \"address_2\": null, \"city\": \"Burlington\", \"state_province\": \"NJ\", \"postal_code\": \"08016\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0742423, \"longitude\": -74.8532631}, \"phones\": [{\"number\": \"(470) 242-4232\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.869778"
-}

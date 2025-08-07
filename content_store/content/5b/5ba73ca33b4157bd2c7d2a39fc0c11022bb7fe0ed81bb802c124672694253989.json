@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Extended Hand Ministries \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"275 Holeman Street\", \"address_2\": null, \"city\": \"Mount Holly\", \"state_province\": \"NJ\", \"postal_code\": \"08060\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9895684, \"longitude\": -74.80001109999999}, \"phones\": [{\"number\": \"(609) 914-4270\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:19.865459"
-}

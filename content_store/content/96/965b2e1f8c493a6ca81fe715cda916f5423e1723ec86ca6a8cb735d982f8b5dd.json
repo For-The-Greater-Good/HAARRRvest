@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Racquet Up\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/food-resources\", \"status\": \"active\", \"address\": {\"address_1\": \"6530 Outer Drive West\", \"address_2\": null, \"city\": \"Winship\", \"state_province\": \"MI\", \"postal_code\": \"48235\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.42060999999999, \"longitude\": -83.191749}, \"phones\": [{\"number\": \"(313) 224-1100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:20.310766"
-}

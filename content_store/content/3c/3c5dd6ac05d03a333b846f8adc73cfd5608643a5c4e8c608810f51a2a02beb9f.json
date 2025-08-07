@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"S.C.A.N (Saint James Parish)\", \"alternate_name\": \"\", \"description\": \"Call for hours.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5757 Solomons Island Road\", \"address_2\": null, \"city\": \"Lothian\", \"state_province\": \"MD\", \"postal_code\": \"20711\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.7897391, \"longitude\": -76.597448}, \"phones\": [{\"number\": \"(410) 867-2838\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Financial assistance for some bills, proof required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.174833"
-}

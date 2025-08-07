@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Blue Water Community Food Depot\", \"alternate_name\": \"\", \"description\": \"A completed voucher available from Blue Water Community Action, Department of Human Services, and most area churches is required along with a photo ID with a current address. For more information call 810-987-7886.\", \"email\": \"\", \"url\": \"https://svdpdetroit.org/How-We-Help/Matchan-Nutrition-Center--Food-Depots\", \"status\": \"active\", \"address\": {\"address_1\": \"2408 10th Street\", \"address_2\": null, \"city\": \"Port Huron\", \"state_province\": \"MI\", \"postal_code\": \"48060\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.9581796, \"longitude\": -82.43181349999999}, \"phones\": [{\"number\": \"(810) 987-7886\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:28.821502"
-}

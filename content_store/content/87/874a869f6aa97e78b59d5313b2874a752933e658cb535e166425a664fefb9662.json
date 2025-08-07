@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Pete Free Clinic - Drive Thru - Deuces\", \"alternate_name\": \"\", \"description\": \"Please ensure the trunk is empty to receive food in timely manner. Also bring your Florida ID.\\n\\n\", \"email\": \"\", \"url\": \"https://stpetersburgfreeclinic.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2198 15th Avenue South\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33712\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7554444, \"longitude\": -82.66261759999999}, \"phones\": [{\"number\": \"(727) 821-1200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:40.096217"
-}

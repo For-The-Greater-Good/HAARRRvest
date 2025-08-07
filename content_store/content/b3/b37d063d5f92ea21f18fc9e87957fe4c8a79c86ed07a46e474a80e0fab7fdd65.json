@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"CATHOLIC CHARITIES\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2866 West 17th Street\", \"address_2\": null, \"city\": \"Coney Island\", \"state_province\": \"NY\", \"postal_code\": \"11224\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5772393, \"longitude\": -73.985111}, \"phones\": [{\"number\": \"(718) 722-6001\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:09.658249"
-}

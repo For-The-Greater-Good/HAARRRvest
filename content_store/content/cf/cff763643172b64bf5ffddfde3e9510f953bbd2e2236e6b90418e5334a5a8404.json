@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Nicholas Of Tolentine Church - Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://stnicholas-queens.org\", \"status\": \"active\", \"address\": {\"address_1\": \"150-75 Goethals Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11432\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7189244, \"longitude\": -73.8096178}, \"phones\": [{\"number\": \"(718) 969-3226\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.449951"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Delaware Valley Baptist Church \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"493 Beverly Rancocas Road\", \"address_2\": null, \"city\": \"Willingboro\", \"state_province\": \"NJ\", \"postal_code\": \"08046\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0176028, \"longitude\": -74.8894591}, \"phones\": [{\"number\": \"(609) 871-2121\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.009634"
-}

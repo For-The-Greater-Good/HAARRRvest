@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Project Hospitality @ Shiloh Zion Church\", \"alternate_name\": \"\", \"description\": \"This is a mobile pantry maybe it will be late due to the traffic please wait 15 min from the time of arrival\", \"email\": \"\", \"url\": \"https://projecthospitality.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"779 Henderson Avenue\", \"address_2\": null, \"city\": null, \"state_province\": \"NY\", \"postal_code\": \"10310\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6370473, \"longitude\": -74.1185162}, \"phones\": [{\"number\": \"(718) 448-1544\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:17.171774"
-}

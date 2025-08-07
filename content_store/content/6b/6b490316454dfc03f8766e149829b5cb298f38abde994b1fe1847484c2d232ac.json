@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jewish Family and Children's Services of Northern NJ\", \"alternate_name\": \"\", \"description\": \"* To make an appointment, please go to the website link, fill-up the form and select your desired timeslot.\\n* May be closed during Jewish Holidays\", \"email\": \"\", \"url\": \"https://www.jfcsnnj.org/market/\", \"status\": \"active\", \"address\": {\"address_1\": \"1485 Teaneck Road\", \"address_2\": \"Ste 102\", \"city\": \"Teaneck\", \"state_province\": \"NJ\", \"postal_code\": \"07666\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9018862, \"longitude\": -73.9988642}, \"phones\": [{\"number\": \"(201) 837-9090\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:18.034157"
-}

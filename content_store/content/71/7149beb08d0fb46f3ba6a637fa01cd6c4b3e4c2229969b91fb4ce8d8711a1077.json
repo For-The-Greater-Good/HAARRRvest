@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Abraham House, Inc.\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://www.abrahamhouse.org/home.aspx\", \"status\": \"active\", \"address\": {\"address_1\": \"340 Willis Avenue\", \"address_2\": null, \"city\": \"Mott Haven\", \"state_province\": \"NY\", \"postal_code\": \"10454\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8113404, \"longitude\": -73.9209643}, \"phones\": [{\"number\": \"(718) 292-9321\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Thanksgiving. Christmas & New Year\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.119801"
-}

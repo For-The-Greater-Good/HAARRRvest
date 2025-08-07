@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bnai Raphael Chesed Organization, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://bnairaphael.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3846 Flatlands Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11234\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.61956, \"longitude\": -73.9375091}, \"phones\": [{\"number\": \"(917) 861-7282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:22.093748"
-}

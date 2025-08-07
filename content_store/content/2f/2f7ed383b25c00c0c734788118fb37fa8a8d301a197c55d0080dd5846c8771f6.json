@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"RAP4Bronx Mobile Pantry\", \"alternate_name\": \"\", \"description\": \"Is a mobile advised  to call ahead before going\", \"email\": \"\", \"url\": \"www.rap4bronx.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1000 Rosedale Ave\", \"address_2\": null, \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10472\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.876877, \"longitude\": -73.867752}, \"phones\": [{\"number\": \"(917) 617-7673\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:22.843725"
-}

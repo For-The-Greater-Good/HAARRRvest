@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Samaritan Inn \", \"alternate_name\": \"\", \"description\": \"office time 9 to 5pm \", \"email\": \"\", \"url\": \"http://www.samaritaninn.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"901 Swartswood Road\", \"address_2\": null, \"city\": \"Newton\", \"state_province\": \"NJ\", \"postal_code\": \"07860\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.08572349970216, \"longitude\": -74.82859534620012}, \"phones\": [{\"number\": \"(973) 940-8872\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.208694"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Salvation Army - Lawrence\", \"alternate_name\": \"\", \"description\": \"Call a day before coming. \\n\\nFor first time client needs to fill out form.\", \"email\": \"\", \"url\": \"The Salvation Army - Lawrence\", \"status\": \"active\", \"address\": {\"address_1\": \"1202 East 23rd Street\", \"address_2\": null, \"city\": \"Lawrence\", \"state_province\": \"KS\", \"postal_code\": \"66046\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9436772, \"longitude\": -95.21904459999999}, \"phones\": [{\"number\": \"(785) 843-4188\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:41.978694"
-}

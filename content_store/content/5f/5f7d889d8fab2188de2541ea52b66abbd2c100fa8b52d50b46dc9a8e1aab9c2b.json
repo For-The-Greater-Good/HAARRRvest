@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Catholic Charities Brockton\", \"alternate_name\": \"\", \"description\": \"Client can visit every 10 days\", \"email\": \"\", \"url\": \"https://www.ccab.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"169 Court Street\", \"address_2\": null, \"city\": \"Brockton\", \"state_province\": \"MA\", \"postal_code\": \"02302\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.085444, \"longitude\": -71.01419369999999}, \"phones\": [{\"number\": \"(508) 587-0815\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.705109"
-}

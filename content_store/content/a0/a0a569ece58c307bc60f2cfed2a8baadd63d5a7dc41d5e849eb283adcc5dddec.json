@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Elmcor Youth and Adult Services Inc. \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.elmcor.org\", \"status\": \"active\", \"address\": {\"address_1\": \"33-16 108 Street\", \"address_2\": \"\", \"city\": \"Corona\", \"state_province\": \"NY\", \"postal_code\": \"11368\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.757565, \"longitude\": -73.861191}, \"phones\": [{\"number\": \"(718) 651-0096\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"03:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.395477"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Collective Focus Resource Hub\", \"alternate_name\": \"\", \"description\": \"- We recommend community members arrive at 12pm to collect a ticket and make the line. \\n- They  also have community fridges outside at 1046 Broadway Bedford-Stuyvesant, NY 11221 that they stock from food rescues three times a week.\\n- Sunday, Monday, Wednesday food fridge rescues are in the evening depending on dropoff time\\n- Closed for thanksgiving holiday \\n\", \"email\": \"\", \"url\": \"https://collectivefocus.site\", \"status\": \"active\", \"address\": {\"address_1\": \"190 Knickerbocker Avenue\", \"address_2\": null, \"city\": \"Bushwick\", \"state_province\": \"NY\", \"postal_code\": \"11237\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7036455, \"longitude\": -73.9272218}, \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Christmas & New Year\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early, Line starts at 12PM\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.033299"
-}

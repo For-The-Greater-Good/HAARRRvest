@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Fenimore Street United Methodist Church \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"276 Fenimore St, Brooklyn\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11225\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.658257, \"longitude\": -73.953568}, \"phones\": [{\"number\": \"(718) 469-8816\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.400117"
-}

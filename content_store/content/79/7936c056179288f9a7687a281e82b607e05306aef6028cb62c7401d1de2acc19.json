@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Olivet Lutheran Church Christian Life Center\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://olivetsylvania.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5840 Monroe Street\", \"address_2\": null, \"city\": \"Sylvania\", \"state_province\": \"OH\", \"postal_code\": \"43560\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.71388899999999, \"longitude\": -83.68214019999999}, \"phones\": [{\"number\": \"(419) 882-2077\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"21:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.607475"
-}

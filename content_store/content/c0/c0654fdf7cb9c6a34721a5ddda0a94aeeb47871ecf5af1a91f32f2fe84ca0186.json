@@ -1,8 +1,0 @@
-{
-  "content": "{\"locationId\": \"15830\", \"organizationId\": \"12077\", \"name\": \"970 Church\", \"address1\": \"2711 Unapweep Avenue\", \"address2\": null, \"city\": \"Grand Junction\", \"state\": \"CO\", \"zipCode\": \"81503\", \"country\": null, \"phone\": null, \"phoneExt\": null, \"website\": null, \"latitude\": \"39.0481193\", \"longitude\": \"-108.5504716\", \"foodPrograms\": \"Food Pantry\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"Air Conditioning\", \"aboutUs\": \"Distribution last Saturday if each month.\", \"notes\": \"\", \"contactName\": \"Kelly Mason\", \"contactPhone\": \"714-514-3587\", \"contactEmail\": \"keith_mason@me.com\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 79, \"regionName\": \"Food Bank of the Rockies\", \"logoBlobNameSmall\": \"56c2b2fe-4696-428f-91d3-841bf4970f11.png\", \"website\": \"https://www.foodbankrockies.org/\"}], \"timeZoneName\": \"Mountain Standard Time\", \"timeZoneCode\": \"MT\", \"offsetHours\": \"-6\", \"schedules\": [\"Saturday 9:00 AM-10:30 AM\"], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 10365, \"locationId\": 15830, \"specialDate\": \"2025-08-30T00:00:00\", \"startTime\": \" 9:00:00 AM\", \"endTime\": \"10:30:00 AM\", \"startTimeDescr\": \"9:00 AM\", \"endTimeDescr\": \"10:30 AM\", \"closedInd\": false, \"notes\": \"\", \"addDateTime\": \"2025-07-08T17:30:25.063\", \"addUserName\": \"keith_mason@me.com\", \"updateDateTime\": null, \"updateUserName\": null}]}",
-  "metadata": {
-    "scraper_id": "vivery_api",
-    "source": "vivery_api"
-  },
-  "timestamp": "2025-08-06T08:46:58.919309"
-}

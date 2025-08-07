@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Morris Brown AME Church Helping Hands Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"145-03 Rockaway Blvd\", \"address_2\": null, \"city\": \"Queens\", \"state_province\": \"NY\", \"postal_code\": \"11436\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.673889, \"longitude\": -73.79348}, \"phones\": [{\"number\": \"(718) 322-7596\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:23.437713"
-}

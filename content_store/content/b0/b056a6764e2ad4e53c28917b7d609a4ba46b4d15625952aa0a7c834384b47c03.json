@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Asisi House\", \"alternate_name\": \"\", \"description\": \"- Only able to serve residents around their location only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1728 Bank Street\", \"address_2\": null, \"city\": \"Fells Point\", \"state_province\": \"MD\", \"postal_code\": \"21231\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2869253, \"longitude\": -76.5927387}, \"phones\": [{\"number\": \"(443) 425-5919\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.790694"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://cranburypres.org/calendar/\", \"status\": \"active\", \"address\": {\"address_1\": \"22 South Main St\", \"address_2\": \"\", \"city\": \"Cranbury\", \"state_province\": \"NJ\", \"postal_code\": \"08512\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.30742, \"longitude\": -74.51861}, \"phones\": [{\"number\": \"(609) 395-0897\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"18:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.904969"
-}

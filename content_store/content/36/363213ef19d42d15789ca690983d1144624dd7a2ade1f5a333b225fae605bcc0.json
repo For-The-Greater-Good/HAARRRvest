@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Oldsmar Cares\", \"alternate_name\": \"\", \"description\": \"Households in zip codes 34677, 34695, 34684, or 33635 may visit our food pantry once a month for supplemental groceries.  They may visit our clothing closet twice a month and take up to 2 bags of clothing per household.\\n\\n\\nOldsmar Cares offers up to $200 in rental or utility assistance per year for Oldsmar residents (34677 zip code only) who have been in their residence for more than 3 months.\", \"email\": \"\", \"url\": \"https://oldsmarcares.org/get-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"149 State Road 580\", \"address_2\": null, \"city\": \"Oldsmar\", \"state_province\": \"FL\", \"postal_code\": \"34677\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0376146, \"longitude\": -82.6659597}, \"phones\": [{\"number\": \"(813) 415-7373\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:27.896457"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Francis Community Center\", \"alternate_name\": \"\", \"description\": \"Southern Ocean County \", \"email\": \"\", \"url\": \"http://stfranciscenterlbi.org/family-support/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"4700 Long Beach Boulevard\", \"address_2\": null, \"city\": \"North Beach Haven\", \"state_province\": \"NJ\", \"postal_code\": \"08008\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6289723, \"longitude\": -74.1936274}, \"phones\": [{\"number\": \"(609) 491-8861\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.927493"
-}

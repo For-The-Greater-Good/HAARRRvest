@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Community Food Bank of New Jersey (Egg Harbor Twp. Food bank) \", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.needhelppayingbills.com/html/atlantic_county_food_banks_and.html\", \"status\": \"active\", \"address\": {\"address_1\": \"6735 Black Horse Pike\", \"address_2\": null, \"city\": \"Egg Harbor Township\", \"state_province\": \"NJ\", \"postal_code\": \"08234\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.399378, \"longitude\": -74.55928109999999}, \"phones\": [{\"number\": \"(609) 383-8843\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.463191"
-}

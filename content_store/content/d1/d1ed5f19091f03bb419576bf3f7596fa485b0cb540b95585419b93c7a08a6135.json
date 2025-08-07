@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Williamsport Area Food Pantry\", \"alternate_name\": \"\", \"description\": \"Must live in Williamsport High /Springfield\\nMiddle school areas\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"28 North Conococheague Street\", \"address_2\": null, \"city\": \"Williamsport\", \"state_province\": \"MD\", \"postal_code\": \"21795\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6000396, \"longitude\": -77.821562}, \"phones\": [{\"number\": \"(240) 217-9529\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.561009"
-}

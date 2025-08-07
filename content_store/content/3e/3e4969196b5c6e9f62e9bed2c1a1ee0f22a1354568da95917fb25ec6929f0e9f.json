@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salvation Church Of God\", \"alternate_name\": \"\", \"description\": \"Temporarily closed due to no available food supplies will be open again once the food supplies already available.\", \"email\": \"\", \"url\": \"https://www.salvationcog.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5601 Avenue N\", \"address_2\": null, \"city\": \"Flatlands\", \"state_province\": \"NY\", \"postal_code\": \"11234\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6194526, \"longitude\": -73.9208609}, \"phones\": [{\"number\": \"(718) 216-1027\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"22:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:07.756060"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Ella Curran Food Bank\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"854 North Main Street\", \"address_2\": null, \"city\": \"Independence\", \"state_province\": \"OR\", \"postal_code\": \"97351\", \"country\": \"US\"}, \"location\": {\"latitude\": 44.8610998, \"longitude\": -123.1850116}, \"phones\": [{\"number\": \"(503) 917-1681\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:28.337152"
-}

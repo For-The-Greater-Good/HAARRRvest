@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Life Community Center\", \"alternate_name\": \"\", \"description\": \"Will open in building 4 on Saturday May 31st, this Saturday. There are signs at the building 3 food pantry with information on the new location\", \"email\": \"\", \"url\": \"https://nlca-atl.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3592 Flat Shoals Road\", \"address_2\": null, \"city\": \"Decatur\", \"state_province\": \"GA\", \"postal_code\": \"30034\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7036419, \"longitude\": -84.26829149999999}, \"phones\": [{\"number\": \"(404) 381-6731\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.936880"
-}

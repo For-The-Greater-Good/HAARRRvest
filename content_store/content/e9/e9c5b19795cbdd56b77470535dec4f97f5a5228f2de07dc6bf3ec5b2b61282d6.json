@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Inwood House\", \"alternate_name\": \"\", \"description\": \"* Clients who would like produce should obtain a number (like you are at a deli counter) from the Front Desk when they arrive for their spot in line. Distribution starts at 10am.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"10921 Inwood Avenue\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20902\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.035258, \"longitude\": -77.035613}, \"phones\": [{\"number\": \"(301) 649-6595\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.234757"
-}

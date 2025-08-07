@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Brooklyn Rescue Mission\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://brmuhc.org/community-food-center/bed-stuy-farm/\", \"status\": \"active\", \"address\": {\"address_1\": \"28 Paris Street\", \"address_2\": null, \"city\": \"East Boston\", \"state_province\": \"MA\", \"postal_code\": \"02128\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3700527, \"longitude\": -71.04016589999999}, \"phones\": [{\"number\": \"(617) 852-5967\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"19:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.331748"
-}

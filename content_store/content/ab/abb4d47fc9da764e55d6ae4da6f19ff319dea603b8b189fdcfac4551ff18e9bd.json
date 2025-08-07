@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Hasbrouck Heights Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"320 Boulevard\", \"address_2\": null, \"city\": \"Hasbrouck Heights\", \"state_province\": \"NJ\", \"postal_code\": \"07604\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8648544, \"longitude\": -74.0748531}, \"phones\": [{\"number\": \"(201) 288-4143\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be a resident of Hasbrouck Heights\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.661263"
-}

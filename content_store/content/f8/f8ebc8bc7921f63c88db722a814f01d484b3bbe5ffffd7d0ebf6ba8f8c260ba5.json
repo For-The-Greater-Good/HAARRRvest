@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Monroe Street United Methodist Church \", \"alternate_name\": \"\", \"description\": \"Provides: Food pantry, clothes, personal needs, blood pressure monitoring, State IDs, Birth certificate assistance\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3613 Monroe Street\", \"address_2\": null, \"city\": \"Ottawa\", \"state_province\": \"OH\", \"postal_code\": \"43606\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6704695, \"longitude\": -83.5837367}, \"phones\": [{\"number\": \"(419) 473-1167\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.979382"
-}

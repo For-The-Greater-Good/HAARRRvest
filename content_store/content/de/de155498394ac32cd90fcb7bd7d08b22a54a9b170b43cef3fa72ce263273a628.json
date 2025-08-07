@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"College of Staten Island Campus Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://csitoday.com/2016/02/csi-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"2800 Victory Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10314\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6087355, \"longitude\": -74.15343229999999}, \"phones\": [{\"number\": \"(718) 982-3088\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.051758"
-}

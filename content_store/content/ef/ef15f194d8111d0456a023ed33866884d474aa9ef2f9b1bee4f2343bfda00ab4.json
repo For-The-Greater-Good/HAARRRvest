@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Acts 29 Foccus\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.acts29foccus.org/food-distribution/\", \"status\": \"active\", \"address\": {\"address_1\": \"13302 Lynn Road\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33625\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0689369, \"longitude\": -82.5423454}, \"phones\": [{\"number\": \"(813) 727-9484\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:19.741847"
-}

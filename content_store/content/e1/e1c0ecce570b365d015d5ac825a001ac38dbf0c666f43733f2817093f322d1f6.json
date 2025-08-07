@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Shallowford Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"Currently, the food pantry is able to serve eight families each day.\", \"email\": \"\", \"url\": \"http://www.shallowford.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2375 Shallowford Road\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30345\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8576843, \"longitude\": -84.2812881}, \"phones\": [{\"number\": \"(404) 321-1844\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.640923"
-}

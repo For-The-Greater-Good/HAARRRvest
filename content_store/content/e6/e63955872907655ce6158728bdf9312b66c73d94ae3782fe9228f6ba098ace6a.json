@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"GMHC Meals Program\", \"alternate_name\": \"\", \"description\": \"Distribution inside agency lobby as well as the 4th and 5th floors of the building, located at 307 West 38th Street.\\n\\ncommunity members that are not GMHC clients must make a reservation beforehand by calling the nutrition team, or reserving a spot via Plentifulapp.com. First-time attendees can be registered upon arrival.\\n\\n\\nPre-packaged, shelf-stable pantry bags and ready to eat meals\\nFresh produce and eggs (for GMHC clients)\\nTwo services of produce (for GMHC clients)\", \"email\": \"\", \"url\": \"https://www.gmhc.org/services/meals-nutrition/\", \"status\": \"active\", \"address\": {\"address_1\": \"307 West 38th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10018\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.75514449999999, \"longitude\": -73.99232529999999}, \"phones\": [{\"number\": \"(212) 367-1000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:11.249821"
-}

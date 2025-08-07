@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Caring Touch Outreach Services\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"815 Recreation Center Road\", \"address_2\": null, \"city\": \"Maxton\", \"state_province\": \"NC\", \"postal_code\": \"28364\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.695277, \"longitude\": -79.2528035}, \"phones\": [{\"number\": \"(910) 521-9175\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:32.243329"
-}

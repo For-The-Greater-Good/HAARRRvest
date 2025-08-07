@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \" CEOC Food Pantry North Cambridge   \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://ceoccambridge.org/services/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"266 A Rindge Avenue\", \"address_2\": null, \"city\": \"North Cambridge\", \"state_province\": \"MA\", \"postal_code\": \"02140\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.393444, \"longitude\": -71.13488}, \"phones\": [{\"number\": \"(617) 868-2900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:20.666093"
-}

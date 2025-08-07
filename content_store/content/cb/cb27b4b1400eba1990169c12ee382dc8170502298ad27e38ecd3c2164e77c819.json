@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Clarkston Community Center Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/ClarkstonCommunityCenter\", \"email\": \"\", \"url\": \"https://clarkstoncommunitycenter.org/healthyliving/foodpantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"3701 College Avenue\", \"address_2\": null, \"city\": \"Clarkston\", \"state_province\": \"GA\", \"postal_code\": \"30021\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8056629, \"longitude\": -84.2384563}, \"phones\": [{\"number\": \"(404) 508-1050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.866792"
-}

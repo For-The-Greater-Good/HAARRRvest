@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Thomas Aquinas\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://stthomasbartow.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2180 South Kissengen Avenue\", \"address_2\": null, \"city\": \"Bartow\", \"state_province\": \"FL\", \"postal_code\": \"33830\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.872904, \"longitude\": -81.8315945}, \"phones\": [{\"number\": \"(863) 533-8578\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.458025"
-}

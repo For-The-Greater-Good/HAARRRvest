@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"\\u200bMacedonia A.M.E. Church - Food Pantry\", \"alternate_name\": \"\", \"description\": \"- Tuesday is both soup kitchen and food pantry days. Arrive early to pick a number for the  soup kitchen.\", \"email\": \"\", \"url\": \"https://www.macedoniaamec.org/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"106-16 Guy R Brewer Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11433\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6993181, \"longitude\": -73.7934447}, \"phones\": [{\"number\": \"(718) 739-5870\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.578200"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"A Blessing Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"920 East Sitka Street\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33604\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0214058, \"longitude\": -82.4497529}, \"phones\": [{\"number\": \"(813) 240-8774\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:45.515505"
-}

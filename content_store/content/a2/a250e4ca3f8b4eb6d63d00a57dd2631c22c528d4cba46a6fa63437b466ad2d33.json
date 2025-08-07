@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \" THE DWELLING\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"115 East Lathrop Avenue\", \"address_2\": null, \"city\": \"West Savannah\", \"state_province\": \"GA\", \"postal_code\": \"31415\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.0840757, \"longitude\": -81.1127484}, \"phones\": [{\"number\": \"(912) 665-7286\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.038263"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Augustine Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://saolv.org/food-pantry-1\", \"status\": \"active\", \"address\": {\"address_1\": \"1168 Franklin Avenue\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10456\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.829391, \"longitude\": -73.904984}, \"phones\": [{\"number\": \"(718) 213-4458\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.523355"
-}

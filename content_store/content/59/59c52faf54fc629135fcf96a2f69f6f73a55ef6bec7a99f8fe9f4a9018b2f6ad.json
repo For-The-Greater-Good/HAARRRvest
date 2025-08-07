@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"nourish food bank / United Methodist Church at Lakewood\", \"alternate_name\": \"\", \"description\": \"All guests will be asked for their name, the number of people in their household needing food, their address or zip code and the dates of birth of all household members. (No identification, proof of address or proof of income are needed.)\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6900 Steilacoom Boulevard Southwest\", \"address_2\": null, \"city\": \"Tacoma\", \"state_province\": \"WA\", \"postal_code\": \"98499\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.1763195, \"longitude\": -122.5292608}, \"phones\": [{\"number\": \"(253) 581-1116\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.778752"
-}

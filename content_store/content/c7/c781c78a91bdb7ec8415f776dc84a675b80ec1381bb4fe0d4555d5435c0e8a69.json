@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"FBC Floral City\", \"alternate_name\": \"\", \"description\": \"Floral City residents\", \"email\": \"\", \"url\": \"http://www.fbcfloralcity.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"8545 East Magnolia Street\", \"address_2\": null, \"city\": \"Floral City\", \"state_province\": \"FL\", \"postal_code\": \"34436\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.7489475, \"longitude\": -82.2930991}, \"phones\": [{\"number\": \"(352) 726-4296\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:45.785262"
-}

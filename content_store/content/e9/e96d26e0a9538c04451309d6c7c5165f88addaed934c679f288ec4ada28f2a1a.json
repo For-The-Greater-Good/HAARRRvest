@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"East Flatbush Village, inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"eastflatbushvillage.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1011 Utica Avenue\", \"address_2\": \"\", \"city\": \"East Flatbush\", \"state_province\": \"NY\", \"postal_code\": \"11203\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6483663, \"longitude\": -73.9296904}, \"phones\": [{\"number\": \"(718) 826-0807\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.784192"
-}

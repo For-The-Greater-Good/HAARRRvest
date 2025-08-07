@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Concord Christian Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://concordchristiancenter.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"265 Manor Avenue Southwest\", \"address_2\": null, \"city\": \"Concord\", \"state_province\": \"NC\", \"postal_code\": \"28025\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.383285, \"longitude\": -80.5683655}, \"phones\": [{\"number\": \"(704) 788-4726\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.634160"
-}

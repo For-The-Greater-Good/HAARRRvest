@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Jerome\\u2019s Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Register on Tuesdays from 11:00 am-12:00 pm\\n100 families\\n230 Alexander Ave, Bronx, NY 10454 this address can be used for pin location \", \"email\": \"\", \"url\": \"https://jeromehands.com/activities\", \"status\": \"active\", \"address\": {\"address_1\": \"330 E. 138TH ST.\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10454\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.809593, \"longitude\": -73.924797}, \"phones\": [{\"number\": \"(718) 402-7866\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.093637"
-}

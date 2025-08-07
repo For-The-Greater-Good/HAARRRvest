@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Extraordinary Life Church\", \"alternate_name\": \"\", \"description\": \"Call number to make reservation for Fridays.\", \"email\": \"\", \"url\": \"http://www.myextraordinarylifechurch.com/about-elc/outreach/\", \"status\": \"active\", \"address\": {\"address_1\": \"5808 Lynn Road\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33624\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0433913, \"longitude\": -82.5384845}, \"phones\": [{\"number\": \"(813) 908-0893\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:39.800428"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Hope Southern Indiana\", \"alternate_name\": \"\", \"description\": \"Floyd county residents \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1200 Bono Road\", \"address_2\": null, \"city\": \"New Albany\", \"state_province\": \"IN\", \"postal_code\": \"47150\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.296205, \"longitude\": -85.826601}, \"phones\": [{\"number\": \"(812) 948-9248\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:15\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Female hygiene products\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:01.238778"
-}

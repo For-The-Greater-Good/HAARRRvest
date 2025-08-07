@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Feeding Minds Pantry at Gulfside Elementary\", \"alternate_name\": \"\", \"description\": \"Can call ahead of time to make appointment for the food incase you missed distribution on Tuesday\", \"email\": \"\", \"url\": \"https://feedingtampabay.org/findfood\", \"status\": \"active\", \"address\": {\"address_1\": \"2329 Anclote Boulevard\", \"address_2\": null, \"city\": \"Holiday\", \"state_province\": \"FL\", \"postal_code\": \"34691\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.1728055, \"longitude\": -82.7755687}, \"phones\": [{\"number\": \"(727) 774-6050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:27.850307"
-}

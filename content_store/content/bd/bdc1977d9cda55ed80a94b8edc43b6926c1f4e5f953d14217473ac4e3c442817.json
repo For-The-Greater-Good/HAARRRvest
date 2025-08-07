@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. James UMC\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1901 West Lexington Street\", \"address_2\": null, \"city\": \"Lexington\", \"state_province\": \"MD\", \"postal_code\": \"21223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2903455, \"longitude\": -76.64728149999999}, \"phones\": [{\"number\": \"(410) 685-5562\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:52.613942"
-}

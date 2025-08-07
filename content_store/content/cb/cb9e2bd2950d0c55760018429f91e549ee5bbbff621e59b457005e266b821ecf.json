@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"FEAST Inc\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://feastfoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2255 Nebraska Avenue\", \"address_2\": null, \"city\": \"Palm Harbor\", \"state_province\": \"FL\", \"postal_code\": \"34683\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0800931, \"longitude\": -82.7446222}, \"phones\": [{\"number\": \"(727) 789-5275\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.762259"
-}

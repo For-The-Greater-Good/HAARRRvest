@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Suthers Center Food Pantry\", \"alternate_name\": \"\", \"description\": \"* All assistance must be made in person.\\n\\n* Located at the parking lot of St. Martin Episcopal Church. Parking lot opens at 7:50 a.m. and will close at 10:00 a.m. to accommodate clients in line.\\n\\nClients will be screened based on the food bank forms:\\nhttps://www.acfb.org/wp-content/uploads/TEFAP-832-Distribution-Report-Rev-10-2021-P.pdf\\nhttps://www.acfb.org/wp-content/uploads/2023GNAP-Single-Family-Intake-V3.23.23.1.pdf\\nhttps://www.acfb.org/wp-content/uploads/2023GNAP-Multi-Family-Intake-V2.27.23.1.pdf\", \"email\": \"\", \"url\": \"https://www.sutherscenter.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3110 Ashford Dunwoody Road Northeast\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30319\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8798235, \"longitude\": -84.3278898}, \"phones\": [{\"number\": \"(404) 228-0777\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.016672"
-}

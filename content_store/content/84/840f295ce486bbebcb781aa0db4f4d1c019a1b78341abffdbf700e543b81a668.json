@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bradley Beach Elementary School\", \"alternate_name\": \"\", \"description\": \"David\\tTonzola\\t7326435843\\n07/07/2025\\t08/07/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"515 Brinley Avenue\", \"address_2\": null, \"city\": \"Bradley Beach\", \"state_province\": \"NJ\", \"postal_code\": \"07720\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.20224940000001, \"longitude\": -74.01566439999999}, \"phones\": [{\"number\": \"(732) 567-8230\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:11.715067"
-}

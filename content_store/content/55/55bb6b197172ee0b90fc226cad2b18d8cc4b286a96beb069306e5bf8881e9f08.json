@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Destiny Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Ocean County.\", \"email\": \"\", \"url\": \"https://newbeginningsnj.org/foodpantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"236 Brick Boulevard\", \"address_2\": null, \"city\": \"Brick Township\", \"state_province\": \"NJ\", \"postal_code\": \"08723\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0356542, \"longitude\": -74.1435394}, \"phones\": [{\"number\": \"(732) 451-0779\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food hand out will be in the back of our building\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:11.344617"
-}

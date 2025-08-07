@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Powell Recovery Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.prcinc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"14 South Broadway\", \"address_2\": null, \"city\": \"Washington Hill\", \"state_province\": \"MD\", \"postal_code\": \"21231\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2909448, \"longitude\": -76.5940593}, \"phones\": [{\"number\": \"(410) 276-1773\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.578957"
-}

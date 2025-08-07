@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"AIDS Center of Queens County, Woodside\", \"alternate_name\": \"\", \"description\": \"Its a first come first serve basis, line starts at 7:00am \", \"email\": \"\", \"url\": \"https://acqc.org/about-acqc/#service-section\", \"status\": \"active\", \"address\": {\"address_1\": \"62-07 Woodside Avenue\", \"address_2\": null, \"city\": \"Woodside\", \"state_province\": \"NY\", \"postal_code\": \"11377\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7451479, \"longitude\": -73.9028941}, \"phones\": [{\"number\": \"(718) 472-9400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.553845"
-}

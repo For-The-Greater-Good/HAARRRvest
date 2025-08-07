@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"FACES NY Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"facesny.org\", \"status\": \"active\", \"address\": {\"address_1\": \"121 West 115th Street\", \"address_2\": \"Basement\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10026\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8020193, \"longitude\": -73.95120539999999}, \"phones\": [{\"number\": \"(212) 283-9180\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.839225"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Trinity Food Pantry\", \"alternate_name\": \"\", \"description\": \"\\n\", \"email\": \"\", \"url\": \"https://www.freefood.org/l/trinity-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"4849 West Outer Drive\", \"address_2\": null, \"city\": \"Greenwich\", \"state_province\": \"MI\", \"postal_code\": \"48235\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4346541, \"longitude\": -83.17500059999999}, \"phones\": [{\"number\": \"(313) 342-2288\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:30.229374"
-}

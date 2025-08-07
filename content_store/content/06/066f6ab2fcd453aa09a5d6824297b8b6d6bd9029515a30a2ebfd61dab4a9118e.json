@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Southside United-Los Sures\", \"alternate_name\": \"\", \"description\": \"If you are picking up food for someone else, please bring their ID.\", \"email\": \"\", \"url\": \"http://www.southsideunitedhdfc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"357 South 3rd Street\", \"address_2\": null, \"city\": \"Southside\", \"state_province\": \"NY\", \"postal_code\": \"11211\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7093536, \"longitude\": -73.9532305}, \"phones\": [{\"number\": \"(718) 599-1940\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:52.483856"
-}

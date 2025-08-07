@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Michael's Wauchula\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stmichaeloutreachcenter.org/food-bank\", \"status\": \"active\", \"address\": {\"address_1\": \"408 Heard Bridge Road\", \"address_2\": null, \"city\": \"Wauchula\", \"state_province\": \"FL\", \"postal_code\": \"33873\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.5530919, \"longitude\": -81.8089856}, \"phones\": [{\"number\": \"(863) 832-6904\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"12:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Grab and Go Groceries\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:45.735874"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Millersport Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2310 Refugee Street\", \"address_2\": \"N.E.\", \"city\": \"Millersport\", \"state_province\": \"OH\", \"postal_code\": \"43046\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.89966039999999, \"longitude\": -82.53798739999999}, \"phones\": [{\"number\": \"(740) 467-2622\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.270704"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"locationId\": \"12070\", \"organizationId\": \"9462\", \"name\": \"1st General Baptist Church W.I.N.G.S.\", \"address1\": \"485 W Horseshoe Drive\", \"address2\": \"\", \"city\": \"Piggott\", \"state\": \"AR\", \"zipCode\": \"72454\", \"country\": null, \"phone\": \"870-598-2168\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"36.3801796\", \"longitude\": \"-90.1996006\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"\", \"contactEmail\": \"wings@foodbankagency.org\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 78, \"regionName\": \"Food Bank of Northeast Arkansas\", \"logoBlobNameSmall\": \"e00ba642-e03e-4f7c-bce8-32eab9548beb.png\", \"website\": \"https://www.foodbankofnea.org/\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Monday 2:00 PM-4:00 PM\"], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 8450, \"locationId\": 12070, \"specialDate\": \"2025-11-24T00:00:00\", \"startTime\": \" 2:00:00 PM\", \"endTime\": \" 4:00:00 PM\", \"startTimeDescr\": \"2:00 PM\", \"endTimeDescr\": \"4:00 PM\", \"closedInd\": false, \"notes\": \"November & December, distribution is the Monday before the holiday.\", \"addDateTime\": \"2025-03-21T19:02:31.77\", \"addUserName\": \"tpace8154@yahoo.com\", \"updateDateTime\": null, \"updateUserName\": null}]}",
-  "metadata": {
-    "scraper_id": "vivery_api",
-    "source": "vivery_api"
-  },
-  "timestamp": "2025-08-06T08:46:53.380890"
-}

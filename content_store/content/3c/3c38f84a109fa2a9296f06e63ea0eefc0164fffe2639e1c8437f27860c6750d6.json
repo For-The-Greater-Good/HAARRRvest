@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Catholic Charities Brooklyn and Queens, St. Raphael - Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ccbq.org/service/food-pantry-network/\", \"status\": \"active\", \"address\": {\"address_1\": \"35-20 Greenpoint Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11101\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7368759, \"longitude\": -73.93041869999999}, \"phones\": [{\"number\": \"(718) 729-8957\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"18:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.470222"
-}

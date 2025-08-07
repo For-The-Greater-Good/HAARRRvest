@@ -1,8 +1,0 @@
-{
-  "content": "{\"locationId\": \"720\", \"organizationId\": \"613\", \"name\": \"New Seed Pantry\", \"address1\": \"4716 N Malden St\", \"address2\": null, \"city\": \"Chicago\", \"state\": \"IL\", \"zipCode\": \"60640\", \"country\": \"US\", \"phone\": \"773-561-2655\", \"phoneExt\": null, \"website\": null, \"latitude\": \"41.9677315\", \"longitude\": \"-87.6630964\", \"foodPrograms\": \"Pantry/Grocery Distribution\", \"serviceAreas\": \"COUNTY:  Cook\", \"languages\": \"\", \"features\": \"Wheelchair Accessible\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"Jon-Paul Grosser\", \"contactPhone\": null, \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 1, \"regionName\": \"Greater Chicago Food Depository\", \"logoBlobNameSmall\": \"91461b0b-88b1-4d61-98fc-b15c4eecb6d2.png\", \"website\": \"www.chicagosfoodbank.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Saturday 9:00 AM-11:00 AM\"], \"services\": [{\"name\": \"Pantry/Grocery Distribution\", \"category\": \"Food Program\", \"overview\": \"This program is operated in partnership with the  Greater Chicago Food Depository .\", \"qualifications\": null, \"contact\": \"Jon-Paul Grosser (773-561-2655)\"}], \"specialHours\": []}",
-  "metadata": {
-    "scraper_id": "vivery_api",
-    "source": "vivery_api"
-  },
-  "timestamp": "2025-08-06T08:47:08.395611"
-}

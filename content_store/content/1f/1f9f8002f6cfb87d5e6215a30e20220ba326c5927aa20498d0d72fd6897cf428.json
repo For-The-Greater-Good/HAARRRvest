@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jamaica Plain Community Fridge\", \"alternate_name\": \"\", \"description\": \"Open for everyone, and anytime \", \"email\": \"\", \"url\": \"https://cityfeedandsupply.com/centre-street-store/\", \"status\": \"active\", \"address\": {\"address_1\": \"672 Centre Street\", \"address_2\": null, \"city\": \"Jamaica Plain\", \"state_province\": \"MA\", \"postal_code\": \"02130\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.31235210000001, \"longitude\": -71.1140041}, \"phones\": [{\"number\": \"(617) 524-1700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Friday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:59\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open 24/7! Free, outdoor community fridge/pantry operated by local volunteers.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.789407"
-}

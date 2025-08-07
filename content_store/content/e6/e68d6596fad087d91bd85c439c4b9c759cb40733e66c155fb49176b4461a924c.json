@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Ignatius Episcopal Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.saintignatiusnyc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"552 West End Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10024\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7892501, \"longitude\": -73.97708}, \"phones\": [{\"number\": \"(212) 580-3326\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.251098"
-}

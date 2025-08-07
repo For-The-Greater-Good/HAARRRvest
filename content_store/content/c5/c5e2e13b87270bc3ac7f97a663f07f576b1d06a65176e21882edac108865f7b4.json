@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Smith Chapel Food and Clothing Mission\", \"alternate_name\": \"\", \"description\": \"Serving Hocking County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1333 East Front Street\", \"address_2\": null, \"city\": \"Logan\", \"state_province\": \"OH\", \"postal_code\": \"43138\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5332059, \"longitude\": -82.3870957}, \"phones\": [{\"number\": \"(740) 380-6132\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.744100"
-}

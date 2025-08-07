@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"MONROE TOWNSHIP OFFICE ON AGING\", \"alternate_name\": \"\", \"description\": \"* Emergency calls are taken Monday - Friday from 8:30 a.m.-4:30 p.m. \\n* Proven financial eligibility and proof of residency in Monroe Township is required.\\n* Call +1-609-448-7140 to make an appointment. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"12 Halsey Reed Road\", \"address_2\": \"\", \"city\": \"Monroe Township\", \"state_province\": \"NJ\", \"postal_code\": \"08831\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2877752, \"longitude\": -74.4740856}, \"phones\": [{\"number\": \"(609) 448-7140\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:37.101749"
-}

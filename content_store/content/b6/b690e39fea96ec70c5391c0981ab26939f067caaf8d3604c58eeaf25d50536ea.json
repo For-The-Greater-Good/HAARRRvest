@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Beverly Methodist Church \", \"alternate_name\": \"\", \"description\": \"* Call to make an appointment\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"133 Warren Street\", \"address_2\": null, \"city\": \"Beverly\", \"state_province\": \"NJ\", \"postal_code\": \"08010\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0656982, \"longitude\": -74.9161048}, \"phones\": [{\"number\": \"(609) 387-2776\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.299309"
-}

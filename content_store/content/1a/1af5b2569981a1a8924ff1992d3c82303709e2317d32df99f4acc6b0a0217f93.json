@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Familia food pantry\", \"alternate_name\": \"\", \"description\": \"this contact may only speak spanish\\nRequired 1$ donation\", \"email\": \"\", \"url\": \"https://www.facebook.com/familiafoodpantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"40- 2 Gleane Street\", \"address_2\": null, \"city\": \"Elmhurst\", \"state_province\": \"NY\", \"postal_code\": \"11373\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7474699, \"longitude\": -73.882308}, \"phones\": [{\"number\": \"(347) 981-8639\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:23.211214"
-}

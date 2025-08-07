@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Door\", \"alternate_name\": \"\", \"description\": \"Serves Age 12 to 24\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"555 Broome Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10013\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7243704, \"longitude\": -74.005489}, \"phones\": [{\"number\": \"(212) 453-0222\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:11.237968"
-}

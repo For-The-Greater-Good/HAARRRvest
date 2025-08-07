@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"CROS MINISTRIES, INC. - INDIANTOWN PANTRY (CALL FOR ADDITIONAL PANTRY LOCATIONS)\", \"alternate_name\": \"\", \"description\": \"Food receivable: fresh produce, refrigerated,\\nfrozen, dry goods. Serves directly to individuals.\", \"email\": \"\", \"url\": \"https://www.crosministries.org/food-pantries\", \"status\": \"active\", \"address\": {\"address_1\": \"15451 Southwest 150th Street\", \"address_2\": null, \"city\": \"Indiantown\", \"state_province\": \"FL\", \"postal_code\": \"34956\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.0235486, \"longitude\": -80.4636143}, \"phones\": [{\"number\": \"(561) 475-7276\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"08:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:43.194172"
-}

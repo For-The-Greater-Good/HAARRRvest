@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"John Welsh School\", \"alternate_name\": \"\", \"description\": \"https://welsh.philasd.org/\", \"email\": \"\", \"url\": \"https://www.philabundance.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2331 N. 4th Street\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19133\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.98660435410099, \"longitude\": -75.1392474747912}, \"phones\": [{\"number\": \"(215) 400-7130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.028959"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Dream Center of Lakeland\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.dreamcenterlakeland.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"635 West 5th Street\", \"address_2\": null, \"city\": \"Lakeland\", \"state_province\": \"FL\", \"postal_code\": \"33805\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9620662, \"longitude\": -82.4211025}, \"phones\": [{\"number\": \"(863) 413-0088\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.433628"
-}

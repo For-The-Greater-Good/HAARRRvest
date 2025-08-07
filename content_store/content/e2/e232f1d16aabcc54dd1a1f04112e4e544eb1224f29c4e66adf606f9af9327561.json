@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SHORE FAMILY SUCCESS CENTER\", \"alternate_name\": \"\", \"description\": \"Requires identification and proof of address\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1046 New Jersey 47\", \"address_2\": \"BEHIND SOCIAL SECURITY BUILDING\", \"city\": \"Rio Grande\", \"state_province\": \"NJ\", \"postal_code\": \"08242\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0203755, \"longitude\": -74.88789779999999}, \"phones\": [{\"number\": \"(609) 778-6226\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:37.011642"
-}

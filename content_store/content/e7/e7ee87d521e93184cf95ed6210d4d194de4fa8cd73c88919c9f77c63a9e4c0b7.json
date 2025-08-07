@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"HOPKINS FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"Only for students\\nLab building, they have a scanner on main door that scans the student card and they get the food. \\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3003 North Charles Street\", \"address_2\": null, \"city\": \"Charles Village\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3247877, \"longitude\": -76.61684939999999}, \"phones\": [{\"number\": \"(410) 516-8000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Student ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:52.132377"
-}

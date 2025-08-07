@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mt. Calvary SDA Comunity Center\", \"alternate_name\": \"\", \"description\": \"Documents required: Photo ID, proof of income below $20K, 1xmonth.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4902 North 40th Street\", \"address_2\": null, \"city\": \"East Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33610\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9892958, \"longitude\": -82.4155956}, \"phones\": [{\"number\": \"(813) 238-1900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:40.563298"
-}

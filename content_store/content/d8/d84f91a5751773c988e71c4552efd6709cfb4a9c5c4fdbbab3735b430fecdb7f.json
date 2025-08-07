@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Griffy's grocery\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.mmm.edu/offices/grocery/\", \"status\": \"active\", \"address\": {\"address_1\": \"221 E 71st St, Carson Hall 106\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10021\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7688034, \"longitude\": -73.9598015}, \"phones\": [{\"number\": \"(212) 517-0430\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"08:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"08:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"08:00\", \"closes_at\": \"22:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.369072"
-}

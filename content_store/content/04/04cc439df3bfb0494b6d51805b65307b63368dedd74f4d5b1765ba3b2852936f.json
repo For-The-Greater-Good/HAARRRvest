@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"GRANDPARENTS RELATIVES CARE\", \"alternate_name\": \"\", \"description\": \"- The timing is an estimate of when the truck will arrive. Depending on the truck's arrival time, the distribution schedule may vary.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"304-306 Hamilton Avenue\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07501\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9199721, \"longitude\": -74.158795}, \"phones\": [{\"number\": \"(973) 553-2091\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Hours are subject to change\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.512427"
-}

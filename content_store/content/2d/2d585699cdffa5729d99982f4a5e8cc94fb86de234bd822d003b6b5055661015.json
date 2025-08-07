@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"FPC Food Outreach\", \"alternate_name\": \"\", \"description\": \"* Must mention what cooking facilities so pantry would know what client could prepare and what client needs to have access to in order to use the food given simply whether client is using a microwave to cook or a stove \", \"email\": \"\", \"url\": \"https://www.firstpentecostalchurch.com\", \"status\": \"active\", \"address\": {\"address_1\": \"142 Oxonia Avenue\", \"address_2\": null, \"city\": \"Neptune\", \"state_province\": \"New Jersey\", \"postal_code\": \"07753\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.223756, \"longitude\": -74.030588}, \"phones\": [{\"number\": \"(732) 775-8174\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.881378"
-}

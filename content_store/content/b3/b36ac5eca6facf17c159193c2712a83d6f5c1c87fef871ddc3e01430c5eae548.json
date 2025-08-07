@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Henry Street Settlement's Meals on Wheels\", \"alternate_name\": \"\", \"description\": \"Call the given number so see if you qualify. The timing will be shared accordingly\", \"email\": \"\", \"url\": \"henrystreet.org\", \"status\": \"active\", \"address\": {\"address_1\": \"265 Henry Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10002\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7140074, \"longitude\": -73.9845201}, \"phones\": [{\"number\": \"(212) 473-1474\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"For homebound seniors\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:27.350361"
-}

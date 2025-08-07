@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"ALLEN OUTREACH MINISTRY FEEDING PROGRAM\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"110-31 Merrick Boulevard\", \"address_2\": null, \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11433\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6951395, \"longitude\": -73.7813856}, \"phones\": [{\"number\": \"(718) 526-3510\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:09.374735"
-}

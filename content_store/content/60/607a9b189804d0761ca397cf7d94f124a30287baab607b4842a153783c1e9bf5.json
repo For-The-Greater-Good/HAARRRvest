@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Shiloh Baptist Church  \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"720 Mount Vernon Avenue\", \"address_2\": null, \"city\": \"King-Lincoln Bronzeville\", \"state_province\": \"OH\", \"postal_code\": \"43203\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9707407, \"longitude\": -82.9825644}, \"phones\": [{\"number\": \"(614) 253-7946\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:20.395892"
-}

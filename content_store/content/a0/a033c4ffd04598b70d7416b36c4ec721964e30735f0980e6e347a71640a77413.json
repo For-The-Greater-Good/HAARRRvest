@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Fountain Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"thefountain.church/community\", \"status\": \"active\", \"address\": {\"address_1\": \"1985 Old Fountain Road\", \"address_2\": null, \"city\": \"Lawrenceville\", \"state_province\": \"GA\", \"postal_code\": \"30043\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.0196845, \"longitude\": -83.9405367}, \"phones\": [{\"number\": \"(770) 339-0017\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.374524"
-}

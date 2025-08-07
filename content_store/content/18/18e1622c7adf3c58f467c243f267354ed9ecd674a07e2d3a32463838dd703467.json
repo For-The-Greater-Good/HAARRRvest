@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lifehouse Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"12304 Baltimore Avenue\", \"address_2\": null, \"city\": \"Beltsville\", \"state_province\": \"MD\", \"postal_code\": \"20705\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.059614, \"longitude\": -76.888974}, \"phones\": [{\"number\": \"(301) 787-4070\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.403184"
-}

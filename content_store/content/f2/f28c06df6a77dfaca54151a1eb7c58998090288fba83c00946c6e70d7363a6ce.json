@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Apostolic Church of Warner Robins\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"821 Russell Parkway\", \"address_2\": null, \"city\": \"Warner Robins\", \"state_province\": \"GA\", \"postal_code\": \"31088\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.59258870000001, \"longitude\": -83.6397453}, \"phones\": [{\"number\": \"(478) 929-5616\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:55.734889"
-}

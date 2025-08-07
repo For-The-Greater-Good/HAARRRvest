@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Mel Johnson International\", \"alternate_name\": \"\", \"description\": \"Registration required online at https://themeljohnson.org/sign-up-free-groceries to receive food.\\nCheck their social media for updates https://www.facebook.com/tmjistorehouse\", \"email\": \"\", \"url\": \"https://themeljohnson.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4640 Forbes Boulevard\", \"address_2\": \"Ste 110\", \"city\": \"Lanham\", \"state_province\": \"MD\", \"postal_code\": \"20706\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9535071, \"longitude\": -76.8365084}, \"phones\": [{\"number\": \"(301) 841-6533\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Check their social media for updates\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:31.307251"
-}

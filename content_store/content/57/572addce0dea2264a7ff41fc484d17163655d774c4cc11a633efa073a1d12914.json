@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Fresh Start Resource Services \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4500 West Lancaster Avenue\", \"address_2\": null, \"city\": \"West Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19131\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9695836, \"longitude\": -75.21271159999999}, \"phones\": [{\"number\": \"(215) 397-4783\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:15.459850"
-}

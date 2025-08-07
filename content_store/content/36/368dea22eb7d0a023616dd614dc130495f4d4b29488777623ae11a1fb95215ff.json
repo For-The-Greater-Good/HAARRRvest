@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Dominic's Roman Catholic Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves to Brick residents only. Must display proof of need.\", \"email\": \"\", \"url\": \"https://stdominicsparish.com/st-vincent-de-paul/\", \"status\": \"active\", \"address\": {\"address_1\": \"250 Old Squan Road\", \"address_2\": null, \"city\": \"Brick Township\", \"state_province\": \"NJ\", \"postal_code\": \"08724\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0753116, \"longitude\": -74.1132829}, \"phones\": [{\"number\": \"(314) 576-3993\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.115945"
-}

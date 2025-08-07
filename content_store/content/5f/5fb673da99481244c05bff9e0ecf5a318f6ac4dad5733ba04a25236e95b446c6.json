@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sydenstricker UMC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.sydenstrickerumc.org/Food-Corner\", \"status\": \"active\", \"address\": {\"address_1\": \"8508 Hooes Road\", \"address_2\": null, \"city\": \"Springfield\", \"state_province\": \"VA\", \"postal_code\": \"22153\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.756274, \"longitude\": -77.239231}, \"phones\": [{\"number\": \"(571) 235-6048\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.912400"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"YWCA Mobile Food Pantry\", \"alternate_name\": \"\", \"description\": \"Call 718-353-4553 x18 to make an appointment. (x17 for Spanish, x27 for Korean, x29 for Chinese)\\n\", \"email\": \"\", \"url\": \"http://ywcaqueens.org/mobile-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"42-07 Parsons Boulevard\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"11355\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.758045, \"longitude\": -73.81879}, \"phones\": [{\"number\": \"(718) 353-4553\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:19.281879"
-}

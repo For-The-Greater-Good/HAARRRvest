@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Immaculate Conception Outreach\", \"alternate_name\": \"\", \"description\": \"se\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"455 Bow Street\", \"address_2\": null, \"city\": \"Elkton\", \"state_province\": \"MD\", \"postal_code\": \"21921\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6150992, \"longitude\": -75.83065309999999}, \"phones\": [{\"number\": \"(410) 398-1100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.824618"
-}

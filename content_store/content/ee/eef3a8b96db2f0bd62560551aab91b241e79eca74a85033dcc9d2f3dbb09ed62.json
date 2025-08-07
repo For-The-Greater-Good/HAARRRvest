@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First Avenue School\", \"alternate_name\": \"\", \"description\": \"Coordinator: \\tJanice\\tLitterio\\t9737339309\\nStart: 06/30/2025\\tEnd: 08/01/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"214 1st Avenue\", \"address_2\": null, \"city\": \"Upper Roseville\", \"state_province\": \"NJ\", \"postal_code\": \"07107\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7670117, \"longitude\": -74.18298709999999}, \"phones\": [{\"number\": \"(973) 268-5240\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:10.533799"
-}

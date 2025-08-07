@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Paul's Episcopal Church\", \"alternate_name\": \"\", \"description\": \"Hours: Every Fri: 8AM - food gone; Every Sun: \\\"Pancake House\\\" 9AM- 10AM; Every Sun Night: begins at 6PM\\n\\nWhat to bring: ID & proof of address; Nothing required for breakfast.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"422 Market Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"NJ\", \"postal_code\": \"08102\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.945652, \"longitude\": -75.12183519999999}, \"phones\": [{\"number\": \"(856) 365-5880\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.527958"
-}

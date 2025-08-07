@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Greater Morning Star of Wilmington  \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1019 Meares Street\", \"address_2\": null, \"city\": \"Wilmington\", \"state_province\": \"NC\", \"postal_code\": \"28401\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.22264849999999, \"longitude\": -77.93415159999999}, \"phones\": [{\"number\": \"(910) 770-1057\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"10:00\", \"closes_at\": \"11:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"10:00\", \"closes_at\": \"11:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:39.633865"
-}

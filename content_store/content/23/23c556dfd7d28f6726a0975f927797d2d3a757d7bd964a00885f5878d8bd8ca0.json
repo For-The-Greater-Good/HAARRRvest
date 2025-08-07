@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Salvation Army of Gwinnett County\", \"alternate_name\": \"\", \"description\": \"Serves Gwinnett county residents. Must bring ID or proof of Gwinnett residency.\", \"email\": \"\", \"url\": \"https://southernusa.salvationarmy.org/gwinnett/hunger-relief\", \"status\": \"active\", \"address\": {\"address_1\": \"3455 Sugarloaf Parkway\", \"address_2\": null, \"city\": \"Lawrenceville\", \"state_province\": \"GA\", \"postal_code\": \"30044\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.9250733, \"longitude\": -84.0176674}, \"phones\": [{\"number\": \"(770) 724-1677\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:01.653617"
-}

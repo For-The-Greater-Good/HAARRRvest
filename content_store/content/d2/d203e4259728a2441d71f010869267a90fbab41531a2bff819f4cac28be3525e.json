@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Matawan United Methodist Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://matawanumc.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"478 Atlantic Avenue\", \"address_2\": \"(Corner of Church St.)\", \"city\": \"Strathmore\", \"state_province\": \"NJ\", \"postal_code\": \"07747\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4073444, \"longitude\": -74.2236645}, \"phones\": [{\"number\": \"(732) 566-2996\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.656630"
-}

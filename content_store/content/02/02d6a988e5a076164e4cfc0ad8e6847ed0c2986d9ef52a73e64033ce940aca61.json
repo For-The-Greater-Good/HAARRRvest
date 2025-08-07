@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Mark the Evangelist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://stmark138.com\", \"status\": \"active\", \"address\": {\"address_1\": \"65 W 138th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10037\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.815572, \"longitude\": -73.938342}, \"phones\": [{\"number\": \"(212) 281-4931\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.320423"
-}

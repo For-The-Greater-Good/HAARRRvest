@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"My Brother's Pantry\", \"alternate_name\": \"\", \"description\": \"Anyone is eligible for emergency food assistance once, but for reoccurring clients, people must live in the zip codes 21409 or 21012. First-time applicants may request emergency groceries if they cannot wait for the regularly scheduled dates. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"301 College Parkway\", \"address_2\": null, \"city\": \"Arnold\", \"state_province\": \"MD\", \"postal_code\": \"21012\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.05139, \"longitude\": -76.50651}, \"phones\": [{\"number\": \"(410) 757-5190\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:29.019869"
-}

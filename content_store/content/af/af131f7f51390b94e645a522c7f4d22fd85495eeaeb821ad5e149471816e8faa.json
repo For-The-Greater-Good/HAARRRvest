@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Luke's CDC Christhouse\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.stlukecdc.org/christhouse.html\", \"status\": \"active\", \"address\": {\"address_1\": \"269 Fair Street\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07501\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.919462, \"longitude\": -74.160535}, \"phones\": [{\"number\": \"(973) 345-5300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Distribution in parking lot\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.462194"
-}

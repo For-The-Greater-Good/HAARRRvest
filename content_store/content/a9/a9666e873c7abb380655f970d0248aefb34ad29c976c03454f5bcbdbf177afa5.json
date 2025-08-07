@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Hope United Church of Christ\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"35127 Garfield Road\", \"address_2\": null, \"city\": \"Clinton Township\", \"state_province\": \"MI\", \"postal_code\": \"48035\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.55469979999999, \"longitude\": -82.95176769999999}, \"phones\": [{\"number\": \"(586) 296-8760\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:24.855637"
-}

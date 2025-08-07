@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Delaware Valley Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://delawarevalleyfoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1 Cherry Street\", \"address_2\": \"\", \"city\": \"Lambertville\", \"state_province\": \"NJ\", \"postal_code\": \"08530\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3767642, \"longitude\": -74.9485267}, \"phones\": [{\"number\": \"(609) 661-8699\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.732315"
-}

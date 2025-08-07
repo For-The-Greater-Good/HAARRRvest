@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St Joseph and Michael Church\", \"alternate_name\": \"\", \"description\": \"Serves Hudson County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1309 Central Avenue\", \"address_2\": null, \"city\": \"Union City\", \"state_province\": \"NJ\", \"postal_code\": \"07087\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.762107, \"longitude\": -74.03968499999999}, \"phones\": [{\"number\": \"(201) 865-2325\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.710520"
-}

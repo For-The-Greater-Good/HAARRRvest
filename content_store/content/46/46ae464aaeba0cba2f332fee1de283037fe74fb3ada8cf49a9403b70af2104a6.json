@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Cockeysville Food Pantry @ Frames United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Provides meal delivery to residents of Cockeysville. Call the voice answering machine to leave your name and phone number, and a volunteer will get back to you.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"14200 Mount Avenue\", \"address_2\": null, \"city\": \"Phoenix\", \"state_province\": \"MD\", \"postal_code\": \"21131\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.515252, \"longitude\": -76.6182783}, \"phones\": [{\"number\": \"(410) 472-3379\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.624074"
-}

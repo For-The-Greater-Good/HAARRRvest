@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"84177\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in MANNA OF LIFE MINISTRIES, INC\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"347-577-5788\", \"country\": \"US\"}, \"phones\": [{\"number\": \"1101 BOSTON ROAD\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.827536, \"longitude\": -73.904869}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"MANNA OF LIFE MINISTRIES, INC\"}]}",
-  "metadata": {
-    "scraper_id": "nyc_efap_programs",
-    "source": "nyc_efap_programs"
-  },
-  "timestamp": "2025-08-06T09:14:26.148727"
-}

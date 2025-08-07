@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Mark's Lutheran Church Emergency Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1420 West Chelten Avenue\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19126\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.05039960000001, \"longitude\": -75.1429016}, \"phones\": [{\"number\": \"(215) 224-1145\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.612013"
-}

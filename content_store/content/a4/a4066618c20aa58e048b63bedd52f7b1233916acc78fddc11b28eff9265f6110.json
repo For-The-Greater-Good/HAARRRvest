@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Emmanuel Baptist Temple \", \"alternate_name\": \"\", \"description\": \"we distribute vouchers.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"16221 National Pike\", \"address_2\": null, \"city\": \"Hagerstown\", \"state_province\": \"MD\", \"postal_code\": \"21740\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6513723, \"longitude\": -77.8068852}, \"phones\": [{\"number\": \"(717) 816-8386\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.638760"
-}

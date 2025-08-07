@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Second Baptist Toms River\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"2 First Street\", \"address_2\": null, \"city\": \"So. Toms River\", \"state_province\": \"New Jersey\", \"postal_code\": \"08757\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9442781, \"longitude\": -74.2109853}, \"phones\": [{\"number\": \"(732) 244-3309\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.777035"
-}

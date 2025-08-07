@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sacred Heart Church\", \"alternate_name\": \"\", \"description\": \"The food distribution is every Tuesday after the third Sunday from 1:30PM to 4:00PM.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"343 South Broad Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"NJ\", \"postal_code\": \"08608\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.21463063203836, \"longitude\": -74.76143586789891}, \"phones\": [{\"number\": \"(609) 393-2801\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.582243"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First Baptist Church of Wixom\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.forgottenharvest.org/find-food/\", \"status\": \"active\", \"address\": {\"address_1\": \"620 North Wixom Road\", \"address_2\": null, \"city\": \"Wixom\", \"state_province\": \"MI\", \"postal_code\": \"48393\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.53011599999999, \"longitude\": -83.5348999}, \"phones\": [{\"number\": \"(248) 967-1500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:26.659551"
-}

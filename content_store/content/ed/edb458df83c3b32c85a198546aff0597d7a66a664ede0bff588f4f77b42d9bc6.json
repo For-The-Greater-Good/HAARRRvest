@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lindenwold High School\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"801 Egg Harbor Road\", \"address_2\": null, \"city\": \"Lindenwold\", \"state_province\": \"NJ\", \"postal_code\": \"08021\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8206371, \"longitude\": -74.9754815}, \"phones\": [{\"number\": \"(856) 783-0276\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:14.696104"
-}

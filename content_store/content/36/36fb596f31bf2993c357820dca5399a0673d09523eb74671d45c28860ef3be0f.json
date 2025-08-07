@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Open Door COGIC\", \"alternate_name\": \"\", \"description\": \"Drive-up food pantry, must have vehicle to receive food.\", \"email\": \"\", \"url\": \"http://www.odcdet.org/eventcalendar/\", \"status\": \"active\", \"address\": {\"address_1\": \"12411 Seven Mile East\", \"address_2\": null, \"city\": \"Osborn\", \"state_province\": \"MI\", \"postal_code\": \"48205\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4350499, \"longitude\": -82.99782069999999}, \"phones\": [{\"number\": \"(313) 526-3460\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Drive-up Food Pantry\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:30.433186"
-}

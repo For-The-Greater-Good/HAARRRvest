@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Friends Of Douglass Community Center\", \"alternate_name\": \"\", \"description\": \"- Serves residents of the Colombia district.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1922 Frederick Douglass Court Southeast\", \"address_2\": null, \"city\": \"Southeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20020\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8526233, \"longitude\": -76.9777627}, \"phones\": [{\"number\": \"(202) 285-5354\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.516013"
-}

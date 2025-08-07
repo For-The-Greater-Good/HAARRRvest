@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Food for Health\", \"alternate_name\": \"\", \"description\": \"register online at  https://foodforhealthahf.org/baltimore/#book-appointment  on friday 9am to make an appointment.\\nyou can visit at site at scan QR to make appointment on friday 9am\", \"email\": \"\", \"url\": \"https://foodforhealthahf.org/pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"2510 Saint Paul Street\", \"address_2\": null, \"city\": \"Charles Village\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3186873, \"longitude\": -76.6156338}, \"phones\": [{\"number\": \"(410) 246-4876\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"04:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Acquire QR code scan\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:24.097308"
-}

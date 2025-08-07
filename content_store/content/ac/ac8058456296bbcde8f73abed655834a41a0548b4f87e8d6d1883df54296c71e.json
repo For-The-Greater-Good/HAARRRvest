@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Berean Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://www.newberean.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"740 Lithia Pinecrest Road\", \"address_2\": null, \"city\": \"Brandon\", \"state_province\": \"FL\", \"postal_code\": \"33511\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.925772, \"longitude\": -82.273819}, \"phones\": [{\"number\": \"(813) 643-7600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:40.675424"
-}

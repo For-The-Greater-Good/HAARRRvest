@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sunshine Seniors\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"741 E E Butler Parkway\", \"address_2\": null, \"city\": \"Gainesville\", \"state_province\": \"GA\", \"postal_code\": \"30501\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.29557122543277, \"longitude\": -83.81705288882418}, \"phones\": [{\"number\": \"(770) 654-9922\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.820742"
-}

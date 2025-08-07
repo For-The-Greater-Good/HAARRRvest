@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Church of the Annunciation\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.theannunciation.net\", \"status\": \"active\", \"address\": {\"address_1\": \"88 Convent Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10027\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8162988, \"longitude\": -73.95299039999999}, \"phones\": [{\"number\": \"(212) 234-1919\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.663115"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salisbury Urban Ministries\", \"alternate_name\": \"\", \"description\": \"Call first before going to check if you are qualified and please bring nice and clean food bag with you.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"326 Barclay Street\", \"address_2\": null, \"city\": \"Salisbury\", \"state_province\": \"MD\", \"postal_code\": \"21804\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.3711649, \"longitude\": -75.59056629999999}, \"phones\": [{\"number\": \"(410) 749-1563\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:52.788459"
-}

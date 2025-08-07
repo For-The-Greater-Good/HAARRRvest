@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salvation Army - Union City\", \"alternate_name\": \"\", \"description\": \"Pantry distribution may begin before 9am. Advisable to arrive early.\", \"email\": \"\", \"url\": \"https://www.facebook.com/profile.php?id=100081490761973\", \"status\": \"active\", \"address\": {\"address_1\": \"515 43rd Street\", \"address_2\": \"\", \"city\": \"Union City\", \"state_province\": \"NJ\", \"postal_code\": \"07087\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7782767, \"longitude\": -74.02537610000002}, \"phones\": [{\"number\": \"(201) 867-4093\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:18.345628"
-}

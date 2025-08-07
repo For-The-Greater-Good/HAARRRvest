@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"York College Food Pantry, Hungry for Knowledge\", \"alternate_name\": \"\", \"description\": \"- Open to students only.\", \"email\": \"\", \"url\": \"https://www.york.cuny.edu/news/the-food-pantry-is-open--ready-to-serve-you\", \"status\": \"active\", \"address\": {\"address_1\": \"94-20 Guy R Brewer Blvd, Room AC-3M02\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11451\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7022966, \"longitude\": -73.7960148}, \"phones\": [{\"number\": \"(718) 262-3772\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Student\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.687053"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Purpose Life Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.purposelifechurch.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"1895 Flatbush Ave\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11210\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.623695, \"longitude\": -73.937546}, \"phones\": [{\"number\": \"(718) 951-8971\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Pre-registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.902821"
-}

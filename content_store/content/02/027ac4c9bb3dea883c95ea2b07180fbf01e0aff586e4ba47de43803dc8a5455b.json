@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"BCYF Paris St.\", \"alternate_name\": \"\", \"description\": \"\\t\\t\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"112 Paris Street\", \"address_2\": null, \"city\": \"East Boston\", \"state_province\": \"MA\", \"postal_code\": \"02128\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3728864, \"longitude\": -71.0374266}, \"phones\": [{\"number\": \"(617) 635-5125\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.025392"
-}

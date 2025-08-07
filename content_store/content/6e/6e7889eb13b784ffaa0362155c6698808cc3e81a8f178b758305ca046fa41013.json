@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"African Cultural Alliance of North America\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5524 Chester Avenue\", \"address_2\": null, \"city\": \"Kingsessing\", \"state_province\": \"PA\", \"postal_code\": \"19143\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9380742, \"longitude\": -75.2246833}, \"phones\": [{\"number\": \"(215) 729-8225\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.694941"
-}

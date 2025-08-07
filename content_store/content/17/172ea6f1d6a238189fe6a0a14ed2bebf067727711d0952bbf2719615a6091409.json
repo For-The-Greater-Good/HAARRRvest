@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"CHASI MFP - Ebbits St. & Mill Road\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://chasiny.org/services/food-pantry-mobile-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"38 Ebbitts Street\", \"address_2\": null, \"city\": \"New Dorp Beach\", \"state_province\": \"NY\", \"postal_code\": \"10306\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.564319, \"longitude\": -74.1101431}, \"phones\": [{\"number\": \"(718) 808-1300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:17.402373"
-}

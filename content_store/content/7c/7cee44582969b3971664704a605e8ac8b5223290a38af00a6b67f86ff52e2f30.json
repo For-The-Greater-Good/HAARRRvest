@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Shiloh Baptist Church\", \"alternate_name\": \"\", \"description\": \"Eligibility: Anyone. \\nIntake Process: Walk-in. \\nDocuments: No documents required.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2100 North Monroe Street\", \"address_2\": null, \"city\": \"Mondawmin\", \"state_province\": \"MD\", \"postal_code\": \"21217\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3122211, \"longitude\": -76.6497244}, \"phones\": [{\"number\": \"(410) 523-5306\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.459551"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First Congregational Church   \", \"alternate_name\": \"\", \"description\": \"Serves Stoneham only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1 Church Street\", \"address_2\": null, \"city\": \"Stoneham\", \"state_province\": \"MA\", \"postal_code\": \"02180\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4809819, \"longitude\": -71.09922139999999}, \"phones\": [{\"number\": \"(781) 438-0097\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:20.582001"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"LOAVES & FISHES FOOD MINISTRY\", \"alternate_name\": \"\", \"description\": \"July 5, 7, 12, 15, 19, 21, 26, 28\\nAugust 1, 2, 4, 9, 11, 16, 19, 23, 25, 30\\nSeptember 5, 6, 8, 13, 16, 20, 22, 27, 29\\n\\n\", \"email\": \"\", \"url\": \"https://loavesfishespantry.org\", \"status\": \"active\", \"address\": {\"address_1\": \"110 North Chestnut Street\", \"address_2\": null, \"city\": \"Pooler\", \"state_province\": \"GA\", \"postal_code\": \"31322\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.11776987851839, \"longitude\": -81.25046456232207}, \"phones\": [{\"number\": \"(912) 713-7613, (912) 450-0104\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.326482"
-}

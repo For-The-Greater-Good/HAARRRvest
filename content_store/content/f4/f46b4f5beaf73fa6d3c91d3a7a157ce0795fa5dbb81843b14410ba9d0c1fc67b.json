@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Philadelphia Food Not Bombs\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Wharton Street\", \"address_2\": null, \"city\": \"South Philadelphia\", \"state_province\": \"PA\", \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": 39.93517749999999, \"longitude\": -75.1755424}, \"phones\": [{\"number\": \"(267) 888-6094\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.871110"
-}

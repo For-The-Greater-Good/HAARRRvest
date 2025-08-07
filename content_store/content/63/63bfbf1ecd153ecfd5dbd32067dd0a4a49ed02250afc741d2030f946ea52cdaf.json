@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Emergency Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://easternusa.salvationarmy.org/new-jersey/ocean-county/our-programs/\", \"status\": \"active\", \"address\": {\"address_1\": \"1738 Rte 37 E\", \"address_2\": \"\", \"city\": \"Toms River\", \"state_province\": \"NJ\", \"postal_code\": \"08753\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.98868, \"longitude\": -74.17956}, \"phones\": [{\"number\": \"(732) 270-8393\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:09.638191"
-}

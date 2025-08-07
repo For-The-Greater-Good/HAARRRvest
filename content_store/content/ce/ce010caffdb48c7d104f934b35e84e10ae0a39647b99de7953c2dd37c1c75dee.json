@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Hope Center\", \"alternate_name\": \"\", \"description\": \"Our food bags (through our food pantry) are available to anyone in need. To receive a food bag, call 301-739-1165 during office hours (Monday-Friday 8:00-4:30 PM) to schedule an appointment to pick up a food bag\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"125 North Prospect Street\", \"address_2\": null, \"city\": \"Hagerstown\", \"state_province\": \"MD\", \"postal_code\": \"21740\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.646126, \"longitude\": -77.7228169}, \"phones\": [{\"number\": \"(301) 739-1165\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:52.348663"
-}

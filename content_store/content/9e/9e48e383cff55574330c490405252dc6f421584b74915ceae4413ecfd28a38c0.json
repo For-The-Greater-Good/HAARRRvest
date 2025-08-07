@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sussex Help Center Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"28 Main Street\", \"address_2\": null, \"city\": \"Sussex\", \"state_province\": \"NJ\", \"postal_code\": \"07461\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.2084863, \"longitude\": -74.60776580000001}, \"phones\": [{\"number\": \"(973) 702-1922\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:20.195810"
-}

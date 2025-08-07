@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Jersey Dream Center (at National Park)\", \"alternate_name\": \"\", \"description\": \"- They dont disclose the address until a client makes an appointment online (fill out the form): https://www.southjerseydreamcenter.org/need-help\\n- Baby clothes, diapers and wipes, also available. Can only visit 3x per year.\\n\", \"email\": \"\", \"url\": \"https://www.southjerseydreamcenter.org/need-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"101 Jessup Road\", \"address_2\": null, \"city\": \"Thorofare\", \"state_province\": \"NJ\", \"postal_code\": \"08086\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8418351, \"longitude\": -75.1920196}, \"phones\": [{\"number\": \"(856) 845-4500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.728002"
-}

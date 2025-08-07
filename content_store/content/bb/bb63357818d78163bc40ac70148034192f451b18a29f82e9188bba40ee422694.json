@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mt. Tabor Love Kitchen\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"961 North 7th Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19123\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9690359, \"longitude\": -75.1481079}, \"phones\": [{\"number\": \"(215) 574-1310\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.420171"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Birth Christian Ministries Pantry\", \"alternate_name\": \"\", \"description\": \"Distribution Model: Drive Thru\\n\\nCall this number for appointment to get food : 614-221-2255 \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3475 Refugee Road\", \"address_2\": null, \"city\": \"South Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43232\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9157561, \"longitude\": -82.9038375}, \"phones\": [{\"number\": \"(614) 236-9080\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.803393"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Overlook at Oxon Run\", \"alternate_name\": \"\", \"description\": \"* Only serves Overlook residents\\n* Registration required\\n* Must be income-eligible\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3700 9th st SE\", \"address_2\": null, \"city\": \"Washington\", \"state_province\": \"DC\", \"postal_code\": \"20032\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.835967, \"longitude\": -76.994066}, \"phones\": [{\"number\": \"(202) 895-8891\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.162792"
-}

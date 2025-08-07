@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"THE STOREHOUSE OF AMERICA\", \"alternate_name\": \"\", \"description\": \"Call to check for food availability \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1111 18th Avenue South\", \"address_2\": null, \"city\": \"Thirteenth St Heights\", \"state_province\": \"FL\", \"postal_code\": \"33705\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7524747, \"longitude\": -82.6503724}, \"phones\": [{\"number\": \"(727) 893-7134\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:45.846903"
-}

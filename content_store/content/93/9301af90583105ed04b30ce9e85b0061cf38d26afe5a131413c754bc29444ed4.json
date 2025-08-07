@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Freedom Development Corporation\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"6100 West Columbia Avenue\", \"address_2\": \"\", \"city\": \"West Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19151\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.98064720000001, \"longitude\": -75.2430751}, \"phones\": [{\"number\": \"(215) 477-0800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.673278"
-}

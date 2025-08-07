@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Florida Department of Health in Pasco County\", \"alternate_name\": \"\", \"description\": \"Vaccine Services\", \"email\": \"\", \"url\": \"http://pasco.floridahealth.gov/\", \"status\": \"active\", \"address\": {\"address_1\": \"13941 15th Street\", \"address_2\": null, \"city\": \"Avondale\", \"state_province\": \"FL\", \"postal_code\": \"33525\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.3610192, \"longitude\": -82.19843829999999}, \"phones\": [{\"number\": \"(727) 861-5260\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.936809"
-}

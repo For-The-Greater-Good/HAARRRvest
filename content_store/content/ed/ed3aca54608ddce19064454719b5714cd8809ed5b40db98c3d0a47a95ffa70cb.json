@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Faith Soldiers World Ministries\", \"alternate_name\": \"\", \"description\": \"* For Appointments, please call: 704-567-2128 ext 4\\n* Those receiving food stamps are not eligible. If you have applied for food stamps but have not yet received your card, you are eligible.\", \"email\": \"\", \"url\": \"https://www.faithsoldiers.org/give/\", \"status\": \"active\", \"address\": {\"address_1\": \"857 Eastway Drive\", \"address_2\": null, \"city\": \"Shannon Park\", \"state_province\": \"NC\", \"postal_code\": \"28205\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2439514, \"longitude\": -80.7762553}, \"phones\": [{\"number\": \"(704) 567-2128\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.430537"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Mary's Parish\", \"alternate_name\": \"\", \"description\": \"Area served: Wharton area\\n\\nEligibility: Needy in community; ID required\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"425 West Blackwell Street\", \"address_2\": null, \"city\": \"Dover\", \"state_province\": \"NJ\", \"postal_code\": \"07801\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8861406, \"longitude\": -74.5774125}, \"phones\": [{\"number\": \"(973) 366-0184\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.128854"
-}

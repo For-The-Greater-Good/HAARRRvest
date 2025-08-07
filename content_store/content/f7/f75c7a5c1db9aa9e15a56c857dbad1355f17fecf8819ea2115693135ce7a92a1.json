@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Pinellas Community Law Program\", \"alternate_name\": \"\", \"description\": \"Free civil legal aid to those who qualify financially. Family law, bankruptcy, housing, criminal records expunction.\", \"email\": \"\", \"url\": \"https://lawprogram.org\", \"status\": \"active\", \"address\": {\"address_1\": \"501 1st Avenue North\", \"address_2\": \"Suite 420\", \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33701\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7725556, \"longitude\": -82.6405302}, \"phones\": [{\"number\": \"(727) 582-7402\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:39.386161"
-}

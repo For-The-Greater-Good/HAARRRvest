@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Reach St. Pete\", \"alternate_name\": \"\", \"description\": \"For text updates on operation Text \\u201cFOOD\\u201d to (888) 526-1282 or check their website: https://reachstpete.org/popuppantry\\n\\nEnoch Davis Center: 11:30am-12:30pm- 1111 18th Ave. S, St. Petersburg, FL 33705\\n\\nCampbell Park Rec Center: 12:45pm-1:30pm- 601 14th St S, St Petersburg, FL 33705\\n\\nPinellas Hope: 3:30pm-4:30pm- 5726 126th Ave N, Clearwater, FL 33760\\n\\nNorthside Baptist Church: 5:30pm-6:00pm- 6000 38th Ave N, St Petersburg, FL 33710\\n\", \"email\": \"\", \"url\": \"https://reachstpete.org/popuppantry\", \"status\": \"active\", \"address\": {\"address_1\": \"721 Doctor Martin Luther King Junior Street South\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33705\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7625009, \"longitude\": -82.64687909999999}, \"phones\": [{\"number\": \"(727) 599-9638\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.738070"
-}

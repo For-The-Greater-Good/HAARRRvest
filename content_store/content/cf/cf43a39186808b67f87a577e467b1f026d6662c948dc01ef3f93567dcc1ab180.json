@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sylvia Rivera Food Pantry at Metropolitan Community Church\", \"alternate_name\": \"\", \"description\": \"* PWAs need M11Q or medical documentation.\", \"email\": \"\", \"url\": \"http://www.mccny.org/about.html\", \"status\": \"active\", \"address\": {\"address_1\": \"446 W 36th St\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10018\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.755367, \"longitude\": -73.99749}, \"phones\": [{\"number\": \"(332) 400-7488\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.647156"
-}

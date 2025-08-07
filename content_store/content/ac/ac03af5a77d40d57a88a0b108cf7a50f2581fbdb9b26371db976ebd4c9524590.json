@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Philadelphia Episcopal Cathedral \", \"alternate_name\": \"\", \"description\": \"Dental clinic is not currently operating. If you need a referral to a dentist, please visit the medical clinic.\", \"email\": \"\", \"url\": \"https://www.uchcphiladelphia.org/meal-schedule.html\", \"status\": \"active\", \"address\": {\"address_1\": \"19 South 38th Street\", \"address_2\": null, \"city\": \"University City\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9557452, \"longitude\": -75.1980398}, \"phones\": [{\"number\": \"(610) 639-4395\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.341538"
-}

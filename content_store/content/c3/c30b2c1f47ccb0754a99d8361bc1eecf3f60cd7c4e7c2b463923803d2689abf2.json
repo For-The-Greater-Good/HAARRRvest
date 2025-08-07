@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Allegheny West\", \"alternate_name\": \"\", \"description\": \"1st wed n 3rd wed 9:30 1\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3101 N 22nd St\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19132\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.01002115294806, \"longitude\": -75.16620863115097}, \"phones\": [{\"number\": \"(215) 225-1019\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.322333"
-}

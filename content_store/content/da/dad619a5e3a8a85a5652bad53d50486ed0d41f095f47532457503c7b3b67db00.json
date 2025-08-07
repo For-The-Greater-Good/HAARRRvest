@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Belpre Church of Christ \", \"alternate_name\": \"\", \"description\": \"Serving Washington County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2932 Washington Boulevard\", \"address_2\": null, \"city\": \"Belpre\", \"state_province\": \"OH\", \"postal_code\": \"45714\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2807586, \"longitude\": -81.6246149}, \"phones\": [{\"number\": \"(740) 350-6301\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.567635"
-}

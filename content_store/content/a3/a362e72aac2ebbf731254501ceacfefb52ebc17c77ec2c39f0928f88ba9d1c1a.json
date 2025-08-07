@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Oak\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"125 South Oak Avenue\", \"address_2\": null, \"city\": \"Lake Placid\", \"state_province\": \"FL\", \"postal_code\": \"33852\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.2952951, \"longitude\": -81.3641611}, \"phones\": [{\"number\": \"(863) 465-3721\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:45.623618"
-}

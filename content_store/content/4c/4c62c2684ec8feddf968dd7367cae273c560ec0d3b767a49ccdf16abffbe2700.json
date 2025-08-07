@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"MRDC \\u2013 Sheilagh\\u2019s Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.mrdc.net\", \"status\": \"active\", \"address\": {\"address_1\": \"200 Road B\", \"address_2\": null, \"city\": \"Elkton\", \"state_province\": \"MD\", \"postal_code\": \"21921\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6030433, \"longitude\": -75.8450888}, \"phones\": [{\"number\": \"(410) 287-1100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Pet food upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.772832"
-}

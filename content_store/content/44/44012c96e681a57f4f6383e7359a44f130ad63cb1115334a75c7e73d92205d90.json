@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sacred Heart Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"615 New Jersey Avenue\", \"address_2\": null, \"city\": \"Lyndhurst\", \"state_province\": \"NJ\", \"postal_code\": \"07071\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.80724439999999, \"longitude\": -74.1185363}, \"phones\": [{\"number\": \"(201) 438-1147\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.591946"
-}

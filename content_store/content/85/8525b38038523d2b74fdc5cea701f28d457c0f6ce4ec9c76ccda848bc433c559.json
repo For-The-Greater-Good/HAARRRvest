@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Exodus Missionary\", \"alternate_name\": \"\", \"description\": \"Forgotten harvest mobile pantry\", \"email\": \"\", \"url\": \"https://www.forgottenharvest.org/find-food/\", \"status\": \"active\", \"address\": {\"address_1\": \"8173 Kenney Street\", \"address_2\": null, \"city\": \"Airport Sub\", \"state_province\": \"MI\", \"postal_code\": \"48234\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4099632, \"longitude\": -83.0203813}, \"phones\": [{\"number\": \"(313) 368-5033\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:29.896495"
-}

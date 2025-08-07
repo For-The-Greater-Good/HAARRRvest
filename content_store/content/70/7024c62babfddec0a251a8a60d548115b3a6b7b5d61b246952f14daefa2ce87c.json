@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lighthouse of Hope Outreach and Resource Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"lhhorc.info\", \"status\": \"active\", \"address\": {\"address_1\": \"66 E 96th St.\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11212\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.664398, \"longitude\": -73.925163}, \"phones\": [{\"number\": \"(347) 309-6004\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Temporarily closed\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reopen in summer\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.113737"
-}

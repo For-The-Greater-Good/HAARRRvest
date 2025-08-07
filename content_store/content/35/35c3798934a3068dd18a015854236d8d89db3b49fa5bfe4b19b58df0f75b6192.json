@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Community Affairs & Resource Center\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://carcnj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"913 Sewall Avenue\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"NJ\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.220412, \"longitude\": -74.0147076}, \"phones\": [{\"number\": \"(732) 774-3282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.507118"
-}

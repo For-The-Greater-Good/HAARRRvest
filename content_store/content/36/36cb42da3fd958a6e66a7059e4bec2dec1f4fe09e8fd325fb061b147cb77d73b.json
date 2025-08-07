@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \" COMPASSION MIDWAY CAMPUS\", \"alternate_name\": \"\", \"description\": \"Closed December 21st - January 3rd, reopens Wednesday, January 4th*\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"12199 East Oglethorpe Highway\", \"address_2\": null, \"city\": \"Midway\", \"state_province\": \"GA\", \"postal_code\": \"31320\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.7945442, \"longitude\": -81.40481559999999}, \"phones\": [{\"number\": \"(912) 925-9657\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.798714"
-}

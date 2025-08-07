@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Hetrick-Martin Institute\", \"alternate_name\": \"\", \"description\": \"serves ages 13 to 24.  serves a dinner as well everyday \", \"email\": \"\", \"url\": \"www.hmi.org\", \"status\": \"active\", \"address\": {\"address_1\": \"2 Astor Place\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10003\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7298834, \"longitude\": -73.992583}, \"phones\": [{\"number\": \"(212) 674-2400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:30\", \"closes_at\": \"00:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:20.073574"
-}

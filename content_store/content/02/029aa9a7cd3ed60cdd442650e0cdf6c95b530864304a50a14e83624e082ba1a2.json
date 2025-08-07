@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Chestertown Seventh-day Adventist Food Pantry\", \"alternate_name\": \"\", \"description\": \"If a food emergency, neighbors can contact Jessie Stant at (443) 988-3886.\", \"email\": \"\", \"url\": \"https://www.chestertownseventhdayadventistfoodpantry.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"305 North Kent Street\", \"address_2\": null, \"city\": \"Chestertown\", \"state_province\": \"MD\", \"postal_code\": \"21620\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2131343, \"longitude\": -76.06507189999999}, \"phones\": [{\"number\": \"(443) 988-3886\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.865058"
-}

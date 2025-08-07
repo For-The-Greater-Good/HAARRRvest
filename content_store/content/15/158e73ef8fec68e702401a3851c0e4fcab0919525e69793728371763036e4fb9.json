@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Mark\\u2019s Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Bring Community Action Council Food Bank Letter. Client can get the letter at 117 Summit Avenue and their phone number is 3017974161\\n\\nFood Distribution Area is at the Washington Street Entrance \", \"email\": \"\", \"url\": \"lutheranchurchhagerstown.com\", \"status\": \"active\", \"address\": {\"address_1\": \"601 Washington Avenue\", \"address_2\": null, \"city\": \"Hagerstown\", \"state_province\": \"MD\", \"postal_code\": \"21740\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6464659, \"longitude\": -77.730102}, \"phones\": [{\"number\": \"(301) 733-7550\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.613895"
-}

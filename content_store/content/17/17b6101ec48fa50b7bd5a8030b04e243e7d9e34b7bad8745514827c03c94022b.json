@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Franklin Hill Food Pantry\", \"alternate_name\": \"\", \"description\": \"If you choose to shop inside you MUST make an appointment by contacting Laura Du at ldu@franklinfoodpantry.org or 508-528-3115. \", \"email\": \"\", \"url\": \"https://www.franklinfoodpantry.org/about-us/\", \"status\": \"active\", \"address\": {\"address_1\": \"341 West Central Street\", \"address_2\": null, \"city\": \"Franklin\", \"state_province\": \"MA\", \"postal_code\": \"02038\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.0876402, \"longitude\": -71.4118235}, \"phones\": [{\"number\": \"(617) 474-7822\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.507034"
-}

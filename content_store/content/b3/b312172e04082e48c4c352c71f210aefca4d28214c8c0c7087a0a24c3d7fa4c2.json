@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mt Sterling Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Residents of Mount Sterling\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"164 East Main Street\", \"address_2\": null, \"city\": \"Mount Sterling\", \"state_province\": \"OH\", \"postal_code\": \"43143\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7230209, \"longitude\": -83.2637304}, \"phones\": [{\"number\": \"(740) 869-2453\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.044820"
-}

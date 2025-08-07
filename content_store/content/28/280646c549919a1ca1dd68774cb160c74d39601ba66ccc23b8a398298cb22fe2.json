@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Shalom Project\", \"alternate_name\": \"\", \"description\": \"Please call the organizations for their hours and availability of services\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"639 Green Street South\", \"address_2\": \"639 Green Street South\", \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27101\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.0852106, \"longitude\": -80.2494591}, \"phones\": [{\"number\": \"(336) 721-0606\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:36.754539"
-}

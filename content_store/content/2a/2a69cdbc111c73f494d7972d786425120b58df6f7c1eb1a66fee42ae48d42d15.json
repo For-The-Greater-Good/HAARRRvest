@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Phillip Church Anacostia\", \"alternate_name\": \"\", \"description\": \"One can access once every three months.\\n\\nEligibility:\\n1. Wards 7 and 8 residents\\n2. Referral (from case manager, social worker, or facility) required. Referral must include client\\u2019s name, address, and number of family members.\\n\\n\", \"email\": \"\", \"url\": \"http://stphilipanacostia.com/our-programs/\", \"status\": \"active\", \"address\": {\"address_1\": \"2001 14th Street Southeast\", \"address_2\": null, \"city\": \"Southeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20020\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8655393, \"longitude\": -76.9858221}, \"phones\": [{\"number\": \"(202) 678-4300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.355686"
-}

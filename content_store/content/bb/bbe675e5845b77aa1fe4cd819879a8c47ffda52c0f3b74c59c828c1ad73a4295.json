@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Cardington Food Pantry\", \"alternate_name\": \"\", \"description\": \"A \\u2013 G Shop the 1st Wednesday of the month\\nH \\u2013 L Shop the 2nd Wednesday of the month\\nM \\u2013 R Shop the 3rd Wednesday of the month\\nS \\u2013 Z Shop the 4th Wednesday of the month\\nThe Pantry will be closed if there is a Level 2 or 3 snow emergency.\", \"email\": \"\", \"url\": \"https://www.cardingtonfoodpantry.org/contact.html\", \"status\": \"active\", \"address\": {\"address_1\": \"128 Flint Street\", \"address_2\": null, \"city\": \"Cardington\", \"state_province\": \"OH\", \"postal_code\": \"43315\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4994461, \"longitude\": -82.8970752}, \"phones\": [{\"number\": \"(419) 408-4201\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.754469"
-}

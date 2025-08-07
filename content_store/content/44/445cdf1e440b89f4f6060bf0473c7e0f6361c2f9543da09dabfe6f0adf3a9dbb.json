@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Green Grove Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"240 Cushman Avenue\", \"address_2\": null, \"city\": \"Berlin\", \"state_province\": \"NJ\", \"postal_code\": \"08091\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.794902, \"longitude\": -74.915175}, \"phones\": [{\"number\": \"(609) 405-8595\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.314602"
-}

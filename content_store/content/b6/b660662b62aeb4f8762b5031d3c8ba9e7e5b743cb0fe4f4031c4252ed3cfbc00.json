@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bergen County Board of Social Services\", \"alternate_name\": \"\", \"description\": \"Families need to complete the 2024-25 school meal & summer EBT application to receive summer benefits ($120 per eligible child)- name spelling, address, etc. all need to be up to date and accurate! Summer EBT Outreach Toolkit\\\" https://hungerfreenj.org/summer-ebt-2024/\", \"email\": \"\", \"url\": \"https://bcbss.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"218 New Jersey 17\", \"address_2\": null, \"city\": \"Rochelle Park\", \"state_province\": \"NJ\", \"postal_code\": \"07662\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9067363, \"longitude\": -74.0705852}, \"phones\": [{\"number\": \"(201) 368-4200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:45\", \"closes_at\": \"20:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:45\", \"closes_at\": \"20:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:45\", \"closes_at\": \"20:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:45\", \"closes_at\": \"20:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:45\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:09.974453"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"BITE Food Pantry and Distribution Center\", \"alternate_name\": \"\", \"description\": \"The BITE Food Distribution and Resource Center is now open on the 1st, 2nd, and 4th Saturdays only. \\nBring extra large, strong shopping carts and or wagons to carry food and resources to assist yourself and others. \\n\", \"email\": \"\", \"url\": \"https://www.njbite.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"10 Logan Avenue \", \"address_2\": null, \"city\": \"Jersey City\", \"state_province\": \"NJ\", \"postal_code\": \"07306\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7174208, \"longitude\": -74.0700804}, \"phones\": [{\"number\": \"(201) 314-1675\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Check their social media for updates\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.067194"
-}

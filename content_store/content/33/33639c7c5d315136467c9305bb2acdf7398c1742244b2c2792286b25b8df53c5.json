@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Gabriel Food Cupboard\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1500 South Myrtlewood Street\", \"address_2\": null, \"city\": \"Grays Ferry\", \"state_province\": \"PA\", \"postal_code\": \"19146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9349804, \"longitude\": -75.19361219999999}, \"phones\": [{\"number\": \"(215) 463-4060\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.636718"
-}

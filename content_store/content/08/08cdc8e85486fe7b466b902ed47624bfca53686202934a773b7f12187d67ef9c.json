@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mother of Mercy House\", \"alternate_name\": \"\", \"description\": \"Visit Monday and Tuesday to register, pick-up is by appointment only and will be on Thursdays. \\nhttps://nutritionaldevelopmentservices.org/covid19/ \", \"email\": \"\", \"url\": \"https://nutritionaldevelopmentservices.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"720 East Alleghany Ave\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19134\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.99668667654435, \"longitude\": -75.11616213477365}, \"phones\": [{\"number\": \"(267) 951-2094\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:31.069544"
-}

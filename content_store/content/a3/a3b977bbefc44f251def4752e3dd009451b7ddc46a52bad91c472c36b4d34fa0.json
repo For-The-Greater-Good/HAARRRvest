@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Loving Kindness Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://helphousecommunityoutreach.org/Schedule.htm\", \"status\": \"active\", \"address\": {\"address_1\": \"122 East Center Street\", \"address_2\": null, \"city\": \"London\", \"state_province\": \"OH\", \"postal_code\": \"43140\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8841154, \"longitude\": -83.44194689999999}, \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"03:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:48.056677"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"United Community Corporation Community Fridge - 39 Broadway \", \"alternate_name\": \"\", \"description\": \"Refills are made between 10 am to 12 pm, Clients wait in line before refill.\", \"email\": \"\", \"url\": \"https://uccnewark.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"39 Broadway\", \"address_2\": null, \"city\": \"Newark\", \"state_province\": \"NJ\", \"postal_code\": \"07104\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7514585, \"longitude\": -74.1703739}, \"phones\": [{\"number\": \"(973) 642-0181\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open 24/7! Free, outdoor community fridge/pantry operated by local volunteers.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"For more info: fooddistribution@uccnewark.org\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.650689"
-}

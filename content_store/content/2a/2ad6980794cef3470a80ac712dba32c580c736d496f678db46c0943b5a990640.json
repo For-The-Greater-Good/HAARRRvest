@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Andrews Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1239 West Del Webb Boulevard\", \"address_2\": null, \"city\": \"Danbury Fordham Coop\", \"state_province\": \"FL\", \"postal_code\": \"33573\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7181653, \"longitude\": -82.36294889999999}, \"phones\": [{\"number\": \"(813) 634-1252\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:40.197273"
-}

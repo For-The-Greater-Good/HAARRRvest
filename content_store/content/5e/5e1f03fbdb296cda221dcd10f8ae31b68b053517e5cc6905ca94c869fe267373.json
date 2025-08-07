@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Newtown Presbyterian Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"25 North Chancellor Street\", \"address_2\": null, \"city\": \"Newtown\", \"state_province\": \"PA\", \"postal_code\": \"18940\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2294424, \"longitude\": -74.932614}, \"phones\": [{\"number\": \"(215) 968-3861\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.399422"
-}

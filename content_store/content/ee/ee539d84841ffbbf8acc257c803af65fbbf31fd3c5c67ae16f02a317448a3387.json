@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"TEXAS AVE SCHOOL\", \"alternate_name\": \"\", \"description\": \"Start date\\t7/6/2025\\nEnd date\\t7/30/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2523 Arctic Avenue\", \"address_2\": null, \"city\": \"Ducktown\", \"state_province\": \"NJ\", \"postal_code\": \"08401\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.35796270000001, \"longitude\": -74.44404440000001}, \"phones\": [{\"number\": \"(609) 343-7200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:14.407328"
-}

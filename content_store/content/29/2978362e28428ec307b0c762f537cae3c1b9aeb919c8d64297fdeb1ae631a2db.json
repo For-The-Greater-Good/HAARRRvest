@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Parkview UMC Pantry\", \"alternate_name\": \"\", \"description\": \"Distribution Model: Drive Thru\", \"email\": \"\", \"url\": \"https://parkviewumccolumbus.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"344 South Algonquin Avenue\", \"address_2\": null, \"city\": \"Hilltop\", \"state_province\": \"OH\", \"postal_code\": \"43204\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.94701469999999, \"longitude\": -83.084291}, \"phones\": [{\"number\": \"(614) 274-8431\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.319112"
-}

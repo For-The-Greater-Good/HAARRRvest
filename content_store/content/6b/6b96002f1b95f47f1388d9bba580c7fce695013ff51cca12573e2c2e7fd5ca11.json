@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bridgeway Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://bridgewayinc.yolasite.com/our-services.php\", \"status\": \"active\", \"address\": {\"address_1\": \"1722 West Ontario Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19140\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0052791, \"longitude\": -75.1583915}, \"phones\": [{\"number\": \"(215) 226-1983\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.548563"
-}

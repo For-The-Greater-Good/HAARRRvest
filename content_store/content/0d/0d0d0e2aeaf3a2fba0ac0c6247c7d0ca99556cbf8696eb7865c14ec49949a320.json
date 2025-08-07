@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Hope Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Requires to call for hours. Serves Monmouth County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"23 Taylor Avenue\", \"address_2\": null, \"city\": \"Manasquan\", \"state_province\": \"NJ\", \"postal_code\": \"08736\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1229216, \"longitude\": -74.04832619999999}, \"phones\": [{\"number\": \"(732) 223-4115\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.581888"
-}

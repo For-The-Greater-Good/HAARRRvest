@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lutheran Social Services Delaware County Food Pantry\", \"alternate_name\": \"\", \"description\": \"Eligibility: Anyone.\\n\\nIntake Process: Referral from Hands-on Central Ohio, (614) 341-2282, or can be accessed online.\\n\\nDocuments: Picture ID for each adult, Birth certificate, health insurance or Social Security card for each child. Proof of income.\", \"email\": \"\", \"url\": \"lssfoodpantries.org\", \"status\": \"active\", \"address\": {\"address_1\": \"11050 Fancher Road\", \"address_2\": null, \"city\": \"Westerville\", \"state_province\": \"OH\", \"postal_code\": \"43082\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1318642, \"longitude\": -82.8345999}, \"phones\": [{\"number\": \"(614) 341-2282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.199759"
-}

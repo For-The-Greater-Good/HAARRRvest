@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Veterans Affairs \\u2013 Community Resource and Referral Center (CRRC)\", \"alternate_name\": \"\", \"description\": \"Military Veterans Only. \\n\\nClosed on Federal Holidays.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"209 West Fayette Street\", \"address_2\": null, \"city\": \"Bromo Arts District\", \"state_province\": \"MD\", \"postal_code\": \"21201\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.29018019999999, \"longitude\": -76.6184814}, \"phones\": [{\"number\": \"(410) 637-3246\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring proof of Veteran status\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:55.188714"
-}

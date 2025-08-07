@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Northern Heights Baptist Church\", \"alternate_name\": \"\", \"description\": \"Requirements include the following:\\n\\n(1) Photo ID\\n\\n(2) USDA Income Guidelines Apply\\n\\n(3) Must be at least 18 years old \", \"email\": \"\", \"url\": \"https://www.nhbccordele.org/menu/missions/manna-mobile-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1102 East 8th Avenue\", \"address_2\": null, \"city\": \"Cordele\", \"state_province\": \"GA\", \"postal_code\": \"31015\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.9723136, \"longitude\": -83.76427199999999}, \"phones\": [{\"number\": \"(229) 273-1544\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Thanksgiving. Christmas & New Year\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"To participate you must meet one of the USDA qualifying codes.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:35.531103"
-}

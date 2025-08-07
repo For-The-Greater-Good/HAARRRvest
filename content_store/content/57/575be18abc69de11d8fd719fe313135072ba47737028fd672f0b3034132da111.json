@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Matrix Center Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.matrixhumanservices.org/events/list/\", \"status\": \"active\", \"address\": {\"address_1\": \"13560 East McNichols Road\", \"address_2\": null, \"city\": \"Gratiot-Findlay\", \"state_province\": \"MI\", \"postal_code\": \"48205\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4263595, \"longitude\": -82.9853723}, \"phones\": [{\"number\": \"(313) 526-4000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:30.259060"
-}

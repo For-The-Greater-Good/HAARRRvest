@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lavale U.M.C\", \"alternate_name\": \"\", \"description\": \"Contact: Kent Smith\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"565 National Highway\", \"address_2\": null, \"city\": \"Cumberland\", \"state_province\": \"MD\", \"postal_code\": \"21502\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6545366, \"longitude\": -78.8129342}, \"phones\": [{\"number\": \"(301) 722-6800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:55.360564"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Pete Vineyard\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stpetevineyard.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5000 10th Street North\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33703\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8178687, \"longitude\": -82.6482301}, \"phones\": [{\"number\": \"(727) 365-3780\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.817726"
-}

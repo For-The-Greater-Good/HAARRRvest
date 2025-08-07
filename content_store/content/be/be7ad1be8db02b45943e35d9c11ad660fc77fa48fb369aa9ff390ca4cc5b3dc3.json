@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First United Methodist Church Cordele\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"302 East 12th Avenue\", \"address_2\": null, \"city\": \"Cordele\", \"state_province\": \"GA\", \"postal_code\": \"31015\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.9676929, \"longitude\": -83.7792446}, \"phones\": [{\"number\": \"(229) 273-4586\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:35.544091"
-}

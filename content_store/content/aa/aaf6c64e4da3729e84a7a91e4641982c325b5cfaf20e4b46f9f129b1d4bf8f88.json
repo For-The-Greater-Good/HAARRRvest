@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Ethos East Boston Heritage Apt.\", \"alternate_name\": \"\", \"description\": \"Grocery Distribution is at the back of the East Boston Heritage Apt. office\\nTo register to attend a Community Cafe meal program, please call 617-477-6688 or email ethosmeals@ethocare.org\\n\", \"email\": \"\", \"url\": \"https://www.ethocare.org/services/nutrition/community-cafes/\", \"status\": \"active\", \"address\": {\"address_1\": \"209 Sumner Street\", \"address_2\": null, \"city\": \"Jeffries Point\", \"state_province\": \"MA\", \"postal_code\": \"02128\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3682094, \"longitude\": -71.0399106}, \"phones\": [{\"number\": \"(617) 561-0040\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.307952"
-}

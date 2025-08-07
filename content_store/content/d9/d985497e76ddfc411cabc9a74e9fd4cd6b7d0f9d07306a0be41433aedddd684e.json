@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"WeServe VA \", \"alternate_name\": \"\", \"description\": \"We also are open for appointments throughout the week.\", \"email\": \"\", \"url\": \"http://www.weserveva.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"17948 Fraley Boulevard\", \"address_2\": null, \"city\": \"Dumfries\", \"state_province\": \"VA\", \"postal_code\": \"22026\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.5629327, \"longitude\": -77.32847149999999}, \"phones\": [{\"number\": \"(571) 781-2722\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:30.970690"
-}

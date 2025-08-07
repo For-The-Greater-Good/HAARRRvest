@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Helping Hands for the Hungry/St. Cyprian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.saintcyprian.net\", \"status\": \"active\", \"address\": {\"address_1\": \"6248 Hazel Avenue\", \"address_2\": \"\", \"city\": \"West Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19143\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9540409, \"longitude\": -75.2480654}, \"phones\": [{\"number\": \"(215) 747-3250\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Accepts Walk-ins & Appointments\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.549832"
-}

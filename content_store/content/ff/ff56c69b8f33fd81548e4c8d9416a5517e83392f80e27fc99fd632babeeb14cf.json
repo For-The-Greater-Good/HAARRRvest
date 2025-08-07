@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \" Willingboro Society of SVDP - Corpus Christi \", \"alternate_name\": \"\", \"description\": \"Provide your name, address, phone number (no phone blocking), help you need, and best time to reach you.\", \"email\": \"\", \"url\": \"https://www.ccnj.church/\", \"status\": \"active\", \"address\": {\"address_1\": \"11 South Sunset Road\", \"address_2\": null, \"city\": \"Willingboro\", \"state_province\": \"NJ\", \"postal_code\": \"08046\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0425896, \"longitude\": -74.9010096}, \"phones\": [{\"number\": \"(609) 835-7757\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.086433"
-}

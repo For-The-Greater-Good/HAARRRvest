@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Way Out Church Ministries Inc.\", \"alternate_name\": \"\", \"description\": \"Currently they dont have any regular distribution days. Call the given number to confirm if they have anything to distribute.\", \"email\": \"\", \"url\": \"https://wayoutchurchministries.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"520 East 148th Street\", \"address_2\": \"\", \"city\": \"Mott Haven\", \"state_province\": \"NY\", \"postal_code\": \"10455\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8138916, \"longitude\": -73.91472949999999}, \"phones\": [{\"number\": \"(718) 665-8069\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.771272"
-}

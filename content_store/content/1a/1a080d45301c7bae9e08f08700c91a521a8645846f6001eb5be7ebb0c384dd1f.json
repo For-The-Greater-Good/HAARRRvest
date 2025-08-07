@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Sussex County Food Stamps\", \"alternate_name\": \"\", \"description\": \"Families need to complete the 2024-25 school meal & summer EBT application to receive summer benefits ($120 per eligible child)- name spelling, address, etc. all need to be up to date and accurate! Summer EBT Outreach Toolkit\\\" https://hungerfreenj.org/summer-ebt-2024/\", \"email\": \"\", \"url\": \"http://www.sussex.nj.us/cit-e-access/webpage.cfm?tid=7&tpid=994#fp2\", \"status\": \"active\", \"address\": {\"address_1\": \"83 Spring Street\", \"address_2\": \"Suite 203\", \"city\": \"Newton\", \"state_province\": \"NJ\", \"postal_code\": \"07860\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.05853279999999, \"longitude\": -74.7520859}, \"phones\": [{\"number\": \"(973) 383-3600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.070710"
-}

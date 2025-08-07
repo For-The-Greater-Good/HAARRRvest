@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SVDP - St. Luke's\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://stlukestomsriver.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1674 Old Freehold Rd.\", \"address_2\": null, \"city\": \"Toms River\", \"state_province\": \"New Jersey\", \"postal_code\": \"08755\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.999055, \"longitude\": -74.19905}, \"phones\": [{\"number\": \"(732) 286-2222\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.740844"
-}

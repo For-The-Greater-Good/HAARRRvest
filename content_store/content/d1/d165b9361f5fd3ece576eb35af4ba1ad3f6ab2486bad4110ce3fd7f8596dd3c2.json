@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Allen AME Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"allenchurch.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1223 Martin Luther King Junior Way\", \"address_2\": null, \"city\": \"New Tacoma\", \"state_province\": \"WA\", \"postal_code\": \"98405\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.25029895668064, \"longitude\": -122.4509281875914}, \"phones\": [{\"number\": \"(253) 572-5733\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"03:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"03:00\", \"closes_at\": \"18:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.606768"
-}

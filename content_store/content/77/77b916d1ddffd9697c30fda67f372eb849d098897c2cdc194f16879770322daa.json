@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Crossroads Food Pantry at Holy Faith Lutheran Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://holyfaith.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"104 Paradise Road\", \"address_2\": null, \"city\": \"Oak Ridge\", \"state_province\": \"NJ\", \"postal_code\": \"07438\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.059409, \"longitude\": -74.4633466}, \"phones\": [{\"number\": \"(845) 544-3897\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Once every second and fourth Saturday\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.381490"
-}

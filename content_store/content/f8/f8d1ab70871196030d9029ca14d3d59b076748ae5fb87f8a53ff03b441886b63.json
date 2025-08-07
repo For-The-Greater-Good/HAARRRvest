@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Our Lady Of Sorrows (CCCS)\", \"alternate_name\": \"\", \"description\": \"Call Mondays or Wednesdays between 10am and 4 pm, to make an appointment.\", \"email\": \"\", \"url\": \"https://olsnyc.org/contact-us\", \"status\": \"active\", \"address\": {\"address_1\": \"103 Pitt St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10002\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7194735, \"longitude\": -73.98238429999999}, \"phones\": [{\"number\": \"(646) 886-9854\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:20.932610"
-}

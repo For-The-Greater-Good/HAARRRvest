@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Legacy Youth Tennis\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.legacyyte.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4842 Ridge Ave\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19129\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0129062000149, \"longitude\": -75.2032349999381}, \"phones\": [{\"number\": \"(215) 487-3477\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:07.925044"
-}

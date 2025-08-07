@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"North Jersey Vineyard Church\", \"alternate_name\": \"\", \"description\": \"We don't take walkins. People have to send us an email to make an appointment at info@opendoorcommunitycenter.org We send them a date and hours for the appointment for them to fill out the paperwork\\nServes Bergen County..\", \"email\": \"\", \"url\": \"https://www.njvine.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"310 Phillips Ave\", \"address_2\": null, \"city\": \"South Hackensack\", \"state_province\": \"NJ\", \"postal_code\": \"07606\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.857132, \"longitude\": -74.045596}, \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.182005"
-}

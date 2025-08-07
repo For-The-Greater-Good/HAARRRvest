@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Creation Family Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://ncfamily.church/\", \"status\": \"active\", \"address\": {\"address_1\": \"123 Pinellas Way North\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33710\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7720765, \"longitude\": -82.7317007}, \"phones\": [{\"number\": \"(727) 204-5216\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.862763"
-}

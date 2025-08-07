@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Hunger's End Pantry\", \"alternate_name\": \"\", \"description\": \"Clothing available every Monday\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1802 14th Street West\", \"address_2\": null, \"city\": \"Bradenton\", \"state_province\": \"FL\", \"postal_code\": \"34205\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.4835621, \"longitude\": -82.57548349999999}, \"phones\": [{\"number\": \"(855) 777-0259\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:45.196036"
-}

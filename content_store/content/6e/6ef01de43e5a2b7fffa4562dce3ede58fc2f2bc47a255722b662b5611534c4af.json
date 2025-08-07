@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Calvary Nazarene Church\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/cltcalvary\", \"email\": \"\", \"url\": \"https://charlottecalvary.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"4000 North Sharon Amity Road\", \"address_2\": null, \"city\": \"Eastland - Wilora Lake\", \"state_province\": \"NC\", \"postal_code\": \"28205\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.21463749999999, \"longitude\": -80.7549789}, \"phones\": [{\"number\": \"(704) 536-6485\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:24.200265"
-}

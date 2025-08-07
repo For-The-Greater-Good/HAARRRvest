@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Coverstone Apartments\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"10934 Coverstone Dr\", \"address_2\": null, \"city\": \"Manassas\", \"state_province\": \"VA\", \"postal_code\": \"20109\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.794455, \"longitude\": -77.52208}, \"phones\": [{\"number\": \"(703) 969-0197\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.131811"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The SHOP at Rowan University\", \"alternate_name\": \"\", \"description\": \"Rowan students & staff; no income restriction; non-perish., perish. & hygiene products; once a wk\", \"email\": \"\", \"url\": \"https://sites.rowan.edu/theshop/\", \"status\": \"active\", \"address\": {\"address_1\": \"Rowan Boulevard Apts., Bldg. 5, Rm. 141\", \"address_2\": \"100 Redmond Avenue\", \"city\": \"Glassboro\", \"state_province\": \"NJ\", \"postal_code\": \"08028\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7063797, \"longitude\": -75.11553119999999}, \"phones\": [{\"number\": \"(856) 256-6333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.151402"
-}

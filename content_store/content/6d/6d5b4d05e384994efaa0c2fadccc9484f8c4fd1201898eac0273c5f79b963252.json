@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Trinity\\u2019s Table\", \"alternate_name\": \"\", \"description\": \"*Serves Burlington County residents\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"339 Farnsworth Avenue\", \"address_2\": null, \"city\": \"Bordentown\", \"state_province\": \"NJ\", \"postal_code\": \"08505\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1454904, \"longitude\": -74.7103415}, \"phones\": [{\"number\": \"(609) 298-0158\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.249481"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Perry Hall United Meth. Ch.\", \"alternate_name\": \"\", \"description\": \"please call 410-256-1897 for appointment\", \"email\": \"\", \"url\": \"http://perryhallumc.org/community-outreach/#foodpantry\", \"status\": \"active\", \"address\": {\"address_1\": \"9515 Belair Road\", \"address_2\": null, \"city\": \"Nottingham\", \"state_province\": \"MD\", \"postal_code\": \"21236\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4094079, \"longitude\": -76.4670127}, \"phones\": [{\"number\": \"(410) 256-1897\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.546011"
-}

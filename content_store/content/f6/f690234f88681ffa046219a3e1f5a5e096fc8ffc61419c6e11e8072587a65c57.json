@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \" UNION MISSION\", \"alternate_name\": \"\", \"description\": \"PANTRY: Emergency Shelter 24/7\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"120 Fahm Street\", \"address_2\": null, \"city\": \"Yamacraw Village\", \"state_province\": \"GA\", \"postal_code\": \"31401\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.0799334, \"longitude\": -81.1001613}, \"phones\": [{\"number\": \"(312) 238-2777\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"05:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.008554"
-}

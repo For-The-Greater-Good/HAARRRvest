@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Southwest Senior Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/SouthwestSeniorCenter/\", \"status\": \"active\", \"address\": {\"address_1\": \"6916 Elmwood Ave.\", \"address_2\": \"\", \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19142\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.91763650727798, \"longitude\": -75.23639733991733}, \"phones\": [{\"number\": \"(215) 937-1880\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Senior (Adults 60+) Grab & Go Meals\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.723908"
-}

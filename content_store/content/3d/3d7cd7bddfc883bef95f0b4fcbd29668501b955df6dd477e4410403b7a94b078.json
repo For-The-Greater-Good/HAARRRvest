@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Divine Connections Faith Ministries\", \"alternate_name\": \"\", \"description\": \"Schedule may change without prior notice. Call the number on file if you will be picking up food.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9470 Annapolis Road\", \"address_2\": \"Suite 214\", \"city\": \"Lanham\", \"state_province\": \"MD\", \"postal_code\": \"20706\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.965245, \"longitude\": -76.840935}, \"phones\": [{\"number\": \"(240) 476-1217\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.539848"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Project Hospitality, Richmond Terrace Houses - Mobile Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://projecthospitality.org/food-pantry-info/\", \"status\": \"active\", \"address\": {\"address_1\": \"61 Jersey St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10301\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.64622971020554, \"longitude\": -74.08786390030548}, \"phones\": [{\"number\": \"(718) 815-0800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.019475"
-}

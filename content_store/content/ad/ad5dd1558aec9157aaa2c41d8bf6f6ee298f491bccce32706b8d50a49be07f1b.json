@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Barnabas Food Pantry (St. Luke's Episcopal)\", \"alternate_name\": \"\", \"description\": \"Bags of non-perishable food items. Distributed outside the parish hall\\nLegal aids at the end of the month\\nServe only residents of 19144 and 19138\\nServing hot meals again after the pandemic has subsided\", \"email\": \"\", \"url\": \"https://www.stlukesger.org\", \"status\": \"active\", \"address\": {\"address_1\": \"5421 Germantown Avenue\", \"address_2\": \"\", \"city\": \"East Germantown\", \"state_province\": \"PA\", \"postal_code\": \"19144\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.03378439999999, \"longitude\": -75.17097729999999}, \"phones\": [{\"number\": \"(215) 844-8544\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Client choice pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed before, during, and after holidays.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.657365"
-}

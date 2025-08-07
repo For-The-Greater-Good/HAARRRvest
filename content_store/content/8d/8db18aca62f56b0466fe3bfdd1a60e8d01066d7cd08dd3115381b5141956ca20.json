@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"People In Need (PIN)\", \"alternate_name\": \"\", \"description\": \"Register for grocery delivery online. Deliveries happen on Sundays. Must be a single mother, domestic violence victim, disabled, or senior citizen to be eligible at https://www.peopleinneed.org/help-request-form\", \"email\": \"\", \"url\": \"https://www.peopleinneed.org/help-request-form\", \"status\": \"active\", \"address\": {\"address_1\": \"766 Coney Island Avenue\", \"address_2\": null, \"city\": \"Kensington\", \"state_province\": \"NY\", \"postal_code\": \"11218\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6387559, \"longitude\": -73.9689789}, \"phones\": [{\"number\": \"(201) 878-4332\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:19.541571"
-}

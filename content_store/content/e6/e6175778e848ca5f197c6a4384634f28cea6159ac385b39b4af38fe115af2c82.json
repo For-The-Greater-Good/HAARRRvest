@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Peter's Pantry\", \"alternate_name\": \"\", \"description\": \"*  The exception to this is November and December, when we operate the 3rd Saturday so that folks can have food in time for Thanksgiving and Christmas.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"481 Delsea Drive\", \"address_2\": null, \"city\": \"Sewell\", \"state_province\": \"NJ\", \"postal_code\": \"08080\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7574166, \"longitude\": -75.11059259999999}, \"phones\": [{\"number\": \"(856) 589-1745\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:31.555361"
-}

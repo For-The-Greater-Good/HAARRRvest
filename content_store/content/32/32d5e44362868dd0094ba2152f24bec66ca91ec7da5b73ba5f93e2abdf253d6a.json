@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Johnson Homes Tenant Counsel Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.pha.phila.gov/property-list/james-w-johnson-homes/\", \"status\": \"active\", \"address\": {\"address_1\": \"2500 West Norris Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19121\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.985467, \"longitude\": -75.17537589999999}, \"phones\": [{\"number\": \"(215) 765-4098\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.121597"
-}

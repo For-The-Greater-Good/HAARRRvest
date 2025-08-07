@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Area Congregations in Ministry (ACIM)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.acimgranville.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"634 Roxboro Road\", \"address_2\": null, \"city\": \"Oxford\", \"state_province\": \"NC\", \"postal_code\": \"27565\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.32466489999999, \"longitude\": -78.6101254}, \"phones\": [{\"number\": \"(919) 690-0961\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social security cards or Birth certificates for every member of the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.761526"
-}

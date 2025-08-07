@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Paul\\u2019s Soup Kitchen   \", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://stpaulssoupkitchen.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7th Street\", \"address_2\": null, \"city\": \"Centralville\", \"state_province\": \"MA\", \"postal_code\": \"01850\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.652402, \"longitude\": -71.3015906}, \"phones\": [{\"number\": \"(978) 206-1189\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:16.240670"
-}

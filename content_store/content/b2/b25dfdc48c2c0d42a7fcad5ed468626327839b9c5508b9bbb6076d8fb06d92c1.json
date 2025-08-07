@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Andrew and Benedict At Perry Center\", \"alternate_name\": \"\", \"description\": \"12047 miami street\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2430 South Beatrice Street\", \"address_2\": null, \"city\": \"Boynton\", \"state_province\": \"MI\", \"postal_code\": \"48217\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.269817, \"longitude\": -83.15380259999999}, \"phones\": [{\"number\": \"(313) 749-7324\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:24.542911"
-}

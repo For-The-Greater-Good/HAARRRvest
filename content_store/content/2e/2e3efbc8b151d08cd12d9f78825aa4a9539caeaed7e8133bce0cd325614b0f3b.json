@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Hollis Avenue Congregational Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.hollisavenuechurch.com/Food-Pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"211-04 Hollis Avenue\", \"address_2\": null, \"city\": \"Queens Village\", \"state_province\": \"NY\", \"postal_code\": \"11429\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7088749, \"longitude\": -73.7463648}, \"phones\": [{\"number\": \"(929) 538-5382\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed early if the weather is bad\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:20.668090"
-}

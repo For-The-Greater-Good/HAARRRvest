@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New Alternative for Children, Inc\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.nackidscan.org/home/index.php\", \"status\": \"active\", \"address\": {\"address_1\": \"825 7th Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10019\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.763075, \"longitude\": -73.981405}, \"phones\": [{\"number\": \"(212) 994-7919\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.306763"
-}

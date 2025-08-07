@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Deeds of Faith Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food Pantry is operating as curbside pickup/in-store food distribution while supplies last. Visit deedsoffaith.com for distribution dates and times. Pantry is open every other Friday.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"640 Lucabaugh Mill Road\", \"address_2\": null, \"city\": \"Westminster\", \"state_province\": \"MD\", \"postal_code\": \"21157\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5912, \"longitude\": -76.97056}, \"phones\": [{\"number\": \"(410) 848-5537\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:29.085585"
-}

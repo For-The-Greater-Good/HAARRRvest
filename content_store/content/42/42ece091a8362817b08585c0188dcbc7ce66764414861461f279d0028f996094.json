@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Upper Room Baptist Church\", \"alternate_name\": \"\", \"description\": \"- might have a thanksgiving dinner available for pickup\", \"email\": \"\", \"url\": \"https://urmbc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7236 Ogontz Avenue\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19138\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.064768, \"longitude\": -75.1550397}, \"phones\": [{\"number\": \"(215) 549-7311\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed early if the weather is bad\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.379160"
-}

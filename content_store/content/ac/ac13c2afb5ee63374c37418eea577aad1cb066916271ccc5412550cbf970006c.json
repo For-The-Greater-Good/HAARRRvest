@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salvation army Gaffney\", \"alternate_name\": \"\", \"description\": \"119 east birnie street \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"601 Colonial Avenue\", \"address_2\": null, \"city\": \"Gaffney\", \"state_province\": \"SC\", \"postal_code\": \"29340\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.0678132, \"longitude\": -81.6310362}, \"phones\": [{\"number\": \"(864) 489-2530\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"04:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"04:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"04:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"04:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:35.983712"
-}

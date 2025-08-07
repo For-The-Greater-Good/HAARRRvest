@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Providence Church Spring Hill\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.providencespringhill.org/events\", \"status\": \"active\", \"address\": {\"address_1\": \"6000 Mariner Boulevard\", \"address_2\": null, \"city\": \"Spring Hill\", \"state_province\": \"FL\", \"postal_code\": \"34609\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.5137674, \"longitude\": -82.517865}, \"phones\": [{\"number\": \"(352) 556-2490\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:43.794415"
-}

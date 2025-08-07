@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Our Lady of Hope\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.olhcatholic.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5200 N. Broad St\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19141\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.03240391645709, \"longitude\": -75.14650947188348}, \"phones\": [{\"number\": \"(215) 868-1390\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID or proof of income is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:09.829382"
-}

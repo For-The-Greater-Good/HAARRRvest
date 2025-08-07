@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Chard Wray Food Pantry\", \"alternate_name\": \"\", \"description\": \" \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"472 Broad Street\", \"address_2\": null, \"city\": \"Milledgeville\", \"state_province\": \"GA\", \"postal_code\": \"31062\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.05145660000001, \"longitude\": -83.2197824}, \"phones\": [{\"number\": \"(678) 362-5405\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.155319"
-}

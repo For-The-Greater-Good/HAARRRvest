@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"NJCU Gothic Knight Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2039 John F. Kennedy Boulevard\", \"address_2\": \"GSUB Room 111\", \"city\": \"Greenville\", \"state_province\": \"NJ\", \"postal_code\": \"07305\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7106552, \"longitude\": -74.0878007}, \"phones\": [{\"number\": \"(201) 200-3585\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:19.816053"
-}

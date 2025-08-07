@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"QUOLA\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"115 East Florida Avenue\", \"address_2\": null, \"city\": \"Valdosta\", \"state_province\": \"GA\", \"postal_code\": \"31601\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.8278204, \"longitude\": -83.2766496}, \"phones\": [{\"number\": \"(229) 269-6509\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:34.643520"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Whosoever Will Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://whoso.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1651 Popham Ave\", \"address_2\": null, \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10453\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.849316, \"longitude\": -73.920944}, \"phones\": [{\"number\": \"(917) 687-0724\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.111803"
-}

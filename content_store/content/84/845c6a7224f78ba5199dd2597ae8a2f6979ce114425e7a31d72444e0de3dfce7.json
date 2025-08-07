@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Servant's Heart Pantry\", \"alternate_name\": \"\", \"description\": \"Closed on Friday after Thanksgiving and Friday before Christmas.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"200 Franklin Street\", \"address_2\": null, \"city\": \"Melrose\", \"state_province\": \"MA\", \"postal_code\": \"02176\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4675368, \"longitude\": -71.0642391}, \"phones\": [{\"number\": \"(781) 662-8226\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.663129"
-}

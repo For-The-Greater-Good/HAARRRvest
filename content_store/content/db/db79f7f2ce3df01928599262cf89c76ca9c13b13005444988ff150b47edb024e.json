@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Philip's Academy\", \"alternate_name\": \"\", \"description\": \"Yeneida\\tColon\\t9733211000\\nFrom: 07/07/2025\\t07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"124 Madison Avenue\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07524\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9368689, \"longitude\": -74.14827009999999}, \"phones\": [{\"number\": \"(973) 247-8920\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:13.847466"
-}

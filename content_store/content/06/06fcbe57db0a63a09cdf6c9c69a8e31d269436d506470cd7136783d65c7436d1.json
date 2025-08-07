@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Tameka's House of Hope Inc.\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2007 2nd Avenue\", \"address_2\": null, \"city\": \"Decatur\", \"state_province\": \"GA\", \"postal_code\": \"30032\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7324334, \"longitude\": -84.3103679}, \"phones\": [{\"number\": \"(404) 907-1944\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:26.027213"
-}

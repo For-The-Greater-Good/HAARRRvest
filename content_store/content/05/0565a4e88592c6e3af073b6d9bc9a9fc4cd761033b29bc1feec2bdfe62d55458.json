@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Fifth Street Ministries\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.fifthstreetministries.com/contact/\", \"status\": \"active\", \"address\": {\"address_1\": \"1421 Fifth Street\", \"address_2\": null, \"city\": \"Statesville\", \"state_province\": \"NC\", \"postal_code\": \"28677\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7654768, \"longitude\": -80.8899132}, \"phones\": [{\"number\": \"(704) 872-4045\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"11:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:36.316148"
-}

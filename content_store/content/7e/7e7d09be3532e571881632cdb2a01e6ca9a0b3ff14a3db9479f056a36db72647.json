@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Masjid Freehaven\", \"alternate_name\": \"\", \"description\": \"Line starts forming early.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"280 Ashland Avenue\", \"address_2\": null, \"city\": \"Lawnside\", \"state_province\": \"NJ\", \"postal_code\": \"08045\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8611422, \"longitude\": -75.0230922}, \"phones\": [{\"number\": \"(856) 546-1500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.223145"
-}

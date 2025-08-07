@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Walker Mill Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6801 Walker Mill Road\", \"address_2\": null, \"city\": \"Capitol Heights\", \"state_province\": \"MD\", \"postal_code\": \"20743\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.868468, \"longitude\": -76.890436}, \"phones\": [{\"number\": \"(301) 257-3771\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.319127"
-}

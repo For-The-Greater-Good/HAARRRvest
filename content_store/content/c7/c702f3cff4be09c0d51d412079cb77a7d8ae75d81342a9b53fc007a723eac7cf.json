@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Oregon Senior Center\", \"alternate_name\": \"\", \"description\": \"Grocery delivery services, available for residents of the Oregon area only.\\n\\u00b7 Call the Center with your grocery list\\n\\u00b7 We will place the order for you (Using your payment method)\\n\\u00b7 We will pick it up and deliver it to you.\", \"email\": \"\", \"url\": \"https://www.oscohio.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4350 Navarre Avenue\", \"address_2\": null, \"city\": \"Oregon\", \"state_province\": \"OH\", \"postal_code\": \"43616\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6367691, \"longitude\": -83.4436049}, \"phones\": [{\"number\": \"(419) 698-7078\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.499203"
-}

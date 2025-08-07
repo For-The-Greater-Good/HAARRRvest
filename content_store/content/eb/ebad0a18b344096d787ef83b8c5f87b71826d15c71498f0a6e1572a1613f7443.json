@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Shepherd's Staff\", \"alternate_name\": \"\", \"description\": \"Carroll residents only \\nEmergency food assistance only call to inquire \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"30 Carroll Street\", \"address_2\": null, \"city\": \"Westminster\", \"state_province\": \"MD\", \"postal_code\": \"21157\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5791364, \"longitude\": -76.99527420000001}, \"phones\": [{\"number\": \"(410) 857-5944\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.830138"
-}

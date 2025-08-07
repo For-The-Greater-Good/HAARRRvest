@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SOUTH LAKE PRESBYTERIAN CHURCH\", \"alternate_name\": \"\", \"description\": \"Food receivable: fresh produce, refrigerated,\\nfrozen, dry goods. Serves directly to individuals,\\nincluding prepared meals.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"131 Chestnut Street\", \"address_2\": null, \"city\": \"Clermont\", \"state_province\": \"FL\", \"postal_code\": \"34711\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.5497275, \"longitude\": -81.7576447}, \"phones\": [{\"number\": \"(352) 394-2753\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:43.661101"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jewish Family Service of Atlantic & Cape May Counties\\t\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.jfsatlantic.org/services/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"607 North Jerome Avenue\", \"address_2\": null, \"city\": \"Margate City\", \"state_province\": \"NJ\", \"postal_code\": \"08402\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3355155, \"longitude\": -74.5102826}, \"phones\": [{\"number\": \"(609) 822-1108\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:59.141604"
-}

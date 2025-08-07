@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"United Community Corporation\", \"alternate_name\": \"\", \"description\": \"Refills are made between 10AM-2PM\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"31 Fulton Street\", \"address_2\": null, \"city\": \"Central Ward\", \"state_province\": \"NJ\", \"postal_code\": \"07102\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7417777, \"longitude\": -74.1674384}, \"phones\": [{\"number\": \"(973) 621-8295\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open 24/7! Free, outdoor community fridge/pantry operated by local volunteers.\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:31.566971"
-}

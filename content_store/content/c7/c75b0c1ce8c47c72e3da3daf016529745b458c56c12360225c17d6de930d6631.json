@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Copeland School\", \"alternate_name\": \"\", \"description\": \"Coordinator: \\tErica\\tReynolds\\t6092785557\\nStart: 07/08/2025\\tEnd: 07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1200 Brunswick Avenue\", \"address_2\": null, \"city\": \"Trenton\", \"state_province\": \"NJ\", \"postal_code\": \"08638\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.24222109999999, \"longitude\": -74.74513689999999}, \"phones\": [{\"number\": \"(609) 656-4900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:09.794349"
-}

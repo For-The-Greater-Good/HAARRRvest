@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Street Community Care House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"311 South Street\", \"address_2\": null, \"city\": \"Valdosta\", \"state_province\": \"GA\", \"postal_code\": \"31601\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.8252229, \"longitude\": -83.2716085}, \"phones\": [{\"number\": \"(229) 834-0979\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:34.723273"
-}

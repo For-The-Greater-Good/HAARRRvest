@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Grand Lodge Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/GrandLodgeFoodPantry/\", \"email\": \"\", \"url\": \"https://grandlodgefoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1947 Franklin Avenue\", \"address_2\": null, \"city\": \"Warren Sherman\", \"state_province\": \"OH\", \"postal_code\": \"43604\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6599319, \"longitude\": -83.54573359999999}, \"phones\": [{\"number\": \"(419) 810-0993\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.123441"
-}

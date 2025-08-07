@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"CILSJ Curbside Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.cil-sj.com/outreach\", \"status\": \"active\", \"address\": {\"address_1\": \"141 South Black Horse Pike\", \"address_2\": \"\", \"city\": \"Blackwood\", \"state_province\": \"NJ\", \"postal_code\": \"08012\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7983452, \"longitude\": -75.06417189999999}, \"phones\": [{\"number\": \"(856) 853-6490\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors and people with disabilities\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:18.449772"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Murphy's Giving Market\", \"alternate_name\": \"\", \"description\": \"Mondays: 55 and older. You must register before 10:00am. We open at 9:00am and close at\\n11:00am.\\nTuesdays: Less than 55 years old. You must register before 10:00am. We open at 10:00am and\\nclose at 12:00pm.\\nBring ID (from any country) and an address\", \"email\": \"\", \"url\": \"https://murphysgivingmarket.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7408 West Chester Pike\", \"address_2\": null, \"city\": null, \"state_province\": \"PA\", \"postal_code\": \"19082\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9635877, \"longitude\": -75.2691203}, \"phones\": [{\"number\": \"(610) 271-8105\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:08.127380"
-}

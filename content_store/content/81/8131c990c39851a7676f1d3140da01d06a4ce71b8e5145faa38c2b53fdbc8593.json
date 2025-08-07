@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"I Care Atlanta, Inc\", \"alternate_name\": \"\", \"description\": \"Serving: Zip codes in our area, including 30340, 30341, 30338, 30360, 30084, and 30345.\\nI care atlanta building is at the back side of the main building, Building can be seen in image.\\n\", \"email\": \"\", \"url\": \"https://www.mybrothers-keepers.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5879 New Peachtree Road\", \"address_2\": null, \"city\": \"Doraville\", \"state_province\": \"GA\", \"postal_code\": \"30340\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8988245, \"longitude\": -84.28258369999999}, \"phones\": [{\"number\": \"(678) 615-3341\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Requires 2 different proof of address that matches ID\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:27.323810"
-}

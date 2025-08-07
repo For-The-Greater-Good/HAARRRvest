@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Zion United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"21291 Three Notch Road\", \"address_2\": null, \"city\": \"Lexington Park\", \"state_province\": \"MD\", \"postal_code\": \"20653\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.2515729, \"longitude\": -76.4309325}, \"phones\": [{\"number\": \"(301) 904-9182\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call at least one (1) day in advance to reserve food\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.029819"
-}

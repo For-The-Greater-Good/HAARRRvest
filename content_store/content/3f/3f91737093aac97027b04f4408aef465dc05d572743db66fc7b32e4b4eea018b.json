@@ -1,8 +1,0 @@
-{
-  "content": "{\"locationId\": \"12561\", \"organizationId\": \"9598\", \"name\": \"Trumann Sports Complex\", \"address1\": \"16179 Pecan Grove\", \"address2\": null, \"city\": \"Trumann\", \"state\": \"AR\", \"zipCode\": \"72472\", \"country\": null, \"phone\": \"870-932-3663\", \"phoneExt\": null, \"website\": \"http://www.foodbankofnea.org\", \"latitude\": \"35.6841546\", \"longitude\": \"-90.5464643\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"COUNTY:  Poinsett\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": null, \"contactPhone\": \"870-932-3663\", \"contactEmail\": \"usda@foodbankofnea.org\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"Pre-Packed Boxes / Bags, TEFAP Program\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 78, \"regionName\": \"Food Bank of Northeast Arkansas\", \"logoBlobNameSmall\": \"e00ba642-e03e-4f7c-bce8-32eab9548beb.png\", \"website\": \"https://www.foodbankofnea.org/\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 9924, \"locationId\": 12561, \"specialDate\": \"2025-09-03T00:00:00\", \"startTime\": \" 9:00:00 AM\", \"endTime\": \"11:00:00 AM\", \"startTimeDescr\": \"9:00 AM\", \"endTimeDescr\": \"11:00 AM\", \"closedInd\": false, \"notes\": \"or until food runs out\", \"addDateTime\": \"2025-06-26T16:16:02.153\", \"addUserName\": \"jhannah@foodbankofnea.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
-  "metadata": {
-    "scraper_id": "vivery_api",
-    "source": "vivery_api"
-  },
-  "timestamp": "2025-08-06T08:46:53.289573"
-}

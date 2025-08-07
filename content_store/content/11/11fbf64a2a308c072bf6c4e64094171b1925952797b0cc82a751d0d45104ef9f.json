@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Spirit of Faith Food Pantry\", \"alternate_name\": \"\", \"description\": \"Pantry for all that's in need of food by appointment only the number is 443-449-0933 all you need is your ID\", \"email\": \"\", \"url\": \"https://tmeela.wixsite.com/spiritoffaithdeliver\", \"status\": \"active\", \"address\": {\"address_1\": \"721 East 25th Street\", \"address_2\": null, \"city\": \"East Baltimore Midway\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.317923, \"longitude\": -76.6032709}, \"phones\": [{\"number\": \"(443) 449-0933\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:55.071208"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salvation Army\", \"alternate_name\": \"\", \"description\": \"-They have a thanksgiving giveaway that requires you to sign up for which you can  do on- site once you get there.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"115 1/2 West Broadway\", \"address_2\": null, \"city\": \"Salem\", \"state_province\": \"NJ\", \"postal_code\": \"08079\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5724174, \"longitude\": -75.4701127}, \"phones\": [{\"number\": \"(856) 935-0305\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must show a New Jersey photo ID\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.753161"
-}

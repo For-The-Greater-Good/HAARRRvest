@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Lion's Share Food Pantry\", \"alternate_name\": \"\", \"description\": \"Line up at 9am to receive ticket and come back around noon.\", \"email\": \"\", \"url\": \"https://www.saintmarks.net/we-believe\", \"status\": \"active\", \"address\": {\"address_1\": \"33-50 82nd Street\", \"address_2\": null, \"city\": \"Jackson Heights\", \"state_province\": \"NY\", \"postal_code\": \"11372\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7539938, \"longitude\": -73.8854894}, \"phones\": [{\"number\": \"(718) 639-8893\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.188083"
-}

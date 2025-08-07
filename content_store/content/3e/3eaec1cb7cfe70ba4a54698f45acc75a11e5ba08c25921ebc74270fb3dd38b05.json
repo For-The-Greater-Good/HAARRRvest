@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Summerhill Neighborhood Development Corporation\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"211 Georgia Avenue Southeast\", \"address_2\": null, \"city\": \"Summerhill\", \"state_province\": \"GA\", \"postal_code\": \"30312\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7365097, \"longitude\": -84.3807933}, \"phones\": [{\"number\": \"(404) 586-0150\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:20.864285"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Saint Katharine Drexel\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1408 W. 2nd Street\", \"address_2\": \"\", \"city\": \"Chester\", \"state_province\": \"PA\", \"postal_code\": \"19013\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.838683, \"longitude\": -75.37575}, \"phones\": [{\"number\": \"(484) 490-5079\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.394811"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Aldersgate United Methodist\", \"alternate_name\": \"\", \"description\": \"May use once every three months.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9530 Starkey Road\", \"address_2\": null, \"city\": \"Seminole\", \"state_province\": \"FL\", \"postal_code\": \"33777\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8584676, \"longitude\": -82.7634982}, \"phones\": [{\"number\": \"(727) 391-0218\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:44.242523"
-}

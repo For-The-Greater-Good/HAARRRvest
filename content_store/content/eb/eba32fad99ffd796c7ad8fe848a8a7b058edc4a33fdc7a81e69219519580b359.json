@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mexican American Students' Alliance (MASA)\", \"alternate_name\": \"\", \"description\": \"You could register using the online form https://docs.google.com/forms/d/e/1FAIpQLSf3q1OWtrdImtOHJePCtCUhvn9s7EWt1DylpL08FebwwxwdHg/viewform or by calling at (718) 360-6655\\n\\nThey will send an sms, when to receive food.\", \"email\": \"\", \"url\": \"https://masany.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2770 Third Avenue\", \"address_2\": \"\", \"city\": \"Mott Haven\", \"state_province\": \"NY\", \"postal_code\": \"10455\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8145992, \"longitude\": -73.9198202}, \"phones\": [{\"number\": \"(646) 481-5890\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:14.097364"
-}

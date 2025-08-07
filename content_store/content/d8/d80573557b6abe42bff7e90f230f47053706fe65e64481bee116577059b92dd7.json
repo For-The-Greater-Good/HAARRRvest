@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \" BLOOMINGDALE FELLOWSHIP\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1501 U.S. 80\", \"address_2\": null, \"city\": \"Bloomingdale\", \"state_province\": \"GA\", \"postal_code\": \"31302\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.124404, \"longitude\": -81.27914899999999}, \"phones\": [{\"number\": \"(912) 507-3408\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:00.858788"
-}

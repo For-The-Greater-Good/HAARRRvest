@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"ST. JOHN UNITED METHODIST\", \"alternate_name\": \"\", \"description\": \"Summer Meal Program: Start date\\t6/23/2025, End date\\t8/28/2025 Closed on July 4; Friday's meals will be given with Thursdays meals (4 meals that day- 220 estimated number of breakfast and lunch meals). Mon-Wed will be meals just for that day (2 meals per day- 110 estimated number of breakfast and lunch meals) . Meals \\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"680 FORDVILLE ROAD\", \"address_2\": null, \"city\": \"Bridgeton\", \"state_province\": \"NJ\", \"postal_code\": \"08302\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.425814, \"longitude\": -75.170088}, \"phones\": [{\"number\": \"(856) 332-5352\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:06.813932"
-}

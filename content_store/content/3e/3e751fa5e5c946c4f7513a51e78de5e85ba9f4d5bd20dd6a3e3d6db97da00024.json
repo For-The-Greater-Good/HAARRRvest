@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Action Chapel Virginia\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6315 Bren Mar Dr.\", \"address_2\": null, \"city\": \"Alexandria\", \"state_province\": \"VA\", \"postal_code\": \"22312\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.796933, \"longitude\": -77.154501}, \"phones\": [{\"number\": \"(703) 499-4325\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.606540"
-}

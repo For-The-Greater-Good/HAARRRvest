@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"New York Benefits Center- SNAP Assistance\", \"alternate_name\": \"\", \"description\": \"The New York Benefits Center, in partnership with the New York City Human Resources Administration/Department of Social Services (HRA/DSS), helps individuals enroll in vital assistance programs including the Supplemental Nutrition Assistance Program (SNAP, also known as food stamps). Operated by Benefits Data Trust, the New York Benefits Center reaches likely eligible households through text message and mail outreach, and provides benefit application assistance over the phone. Since 2014, the New York Benefits Center has secured over $385 million in cumulative benefits for residents in need.\", \"email\": \"\", \"url\": \"https://bdtrust.org/ny-benefits-center/\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": null, \"state_province\": null, \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": null, \"longitude\": null}, \"phones\": [{\"number\": \"(844) 876-8148\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:37.886058"
-}

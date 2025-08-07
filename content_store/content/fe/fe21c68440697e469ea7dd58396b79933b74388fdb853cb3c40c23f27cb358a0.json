@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Laurelwood S.D.A. Community Services\", \"alternate_name\": \"\", \"description\": \"\\t\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3051 Good Intent Road\", \"address_2\": null, \"city\": \"Woodbury\", \"state_province\": \"NJ\", \"postal_code\": \"08096\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8040587, \"longitude\": -75.0770352}, \"phones\": [{\"number\": \"(856) 232-3366\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:15\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:57.213350"
-}

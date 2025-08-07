@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Family Kitchen\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"360 South Dukeland Street\", \"address_2\": null, \"city\": \"Carroll South\", \"state_province\": \"MD\", \"postal_code\": \"21223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2802291, \"longitude\": -76.6625914}, \"phones\": [{\"number\": \"(410) 900-3311\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.784880"
-}

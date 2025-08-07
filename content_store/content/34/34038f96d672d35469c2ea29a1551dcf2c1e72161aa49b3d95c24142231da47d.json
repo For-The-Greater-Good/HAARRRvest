@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Church of Christ of Dale City\", \"alternate_name\": \"\", \"description\": \"Clothes upon availability.\\n\\nClosed when the holidays fall on 2nd and 4th Monday.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"13130 Hillendale Drive\", \"address_2\": null, \"city\": \"Dale City\", \"state_province\": \"VA\", \"postal_code\": \"22193\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.666311, \"longitude\": -77.334984}, \"phones\": [{\"number\": \"(703) 590-1790\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.375976"
-}

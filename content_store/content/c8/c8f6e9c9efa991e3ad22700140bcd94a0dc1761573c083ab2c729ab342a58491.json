@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"ICNA Relief USA, Brooklyn Pantry \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.icnarelief.org/ny2/food-pantry-old/\", \"status\": \"active\", \"address\": {\"address_1\": \"273 Neptune Avenue\", \"address_2\": \"\", \"city\": \"Brighton Beach\", \"state_province\": \"NY\", \"postal_code\": \"11235\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5814499, \"longitude\": -73.96349459999999}, \"phones\": [{\"number\": \"(866) 354-0102\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Thanksgiving. Christmas & New Year\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.960781"
-}

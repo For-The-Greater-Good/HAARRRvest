@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The M.I.M.S Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://themimsinc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"996 Mount Zion Road\", \"address_2\": null, \"city\": \"Morrow\", \"state_province\": \"GA\", \"postal_code\": \"30260\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.572583, \"longitude\": -84.35832099999999}, \"phones\": [{\"number\": \"(305) 879-3112\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.604910"
-}

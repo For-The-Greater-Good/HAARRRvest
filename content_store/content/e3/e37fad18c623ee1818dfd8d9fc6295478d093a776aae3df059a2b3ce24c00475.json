@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"CHASI MFP - Great Kills Senior Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://chasiny.org/services/food-pantry-mobile-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"11 Sampson Ave\", \"address_2\": null, \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10308\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.552418, \"longitude\": -74.149529}, \"phones\": [{\"number\": \"(718) 873-6270\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:17.116144"
-}

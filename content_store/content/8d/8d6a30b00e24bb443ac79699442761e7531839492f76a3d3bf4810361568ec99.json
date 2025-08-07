@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"ProJet-Interfaith Food Pantry\", \"alternate_name\": \"\", \"description\": \"Please arrive 15 minutes before closing to ensure you get served.\\n6102581100 ext 13\\n\\nNorthampton County residents only\\n\\nDistribution is in the side of the parking lot\", \"email\": \"\", \"url\": \"https://www.projecteaston.org/foodpantry\", \"status\": \"active\", \"address\": {\"address_1\": \"320 Ferry Street\", \"address_2\": null, \"city\": \"Downtown Historic District\", \"state_province\": \"PA\", \"postal_code\": \"18042\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6894975, \"longitude\": -75.210096}, \"phones\": [{\"number\": \"(610) 258-2198\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"07:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Female hygiene products\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:11.894489"
-}

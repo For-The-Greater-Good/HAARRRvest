@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First Presbyterian Church of Mount Holly\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://firstpresmtholly.org/community-luncheon/\", \"status\": \"active\", \"address\": {\"address_1\": \"125 Garden Street\", \"address_2\": null, \"city\": \"Mount Holly\", \"state_province\": \"NJ\", \"postal_code\": \"08060\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.99700333847333, \"longitude\": -74.78509354161365}, \"phones\": [{\"number\": \"(609) 267-0330\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Female hygiene products\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.852789"
-}

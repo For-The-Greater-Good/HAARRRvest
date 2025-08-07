@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Philadelphia Legal Assistance\", \"alternate_name\": \"\", \"description\": \"They provide free legal advice and representation to low income residents of Philadelphia. You must be a US citizen or have legal immgration status and your income must be below 200% to qualify for help. Explore all the legal issues they help with: https://philalegal.org/explore-legal-issue\\n\\nCall or apply online for help with any legal issue: https://philalegal.org/apply\", \"email\": \"\", \"url\": \"https://philalegal.org/services/food-stamps\", \"status\": \"active\", \"address\": {\"address_1\": \"718 Arch Street\", \"address_2\": null, \"city\": \"Center City East\", \"state_province\": \"PA\", \"postal_code\": \"19106\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.952915, \"longitude\": -75.1523431}, \"phones\": [{\"number\": \"(215) 981-3800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.635379"
-}

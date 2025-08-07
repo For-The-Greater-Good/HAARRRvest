@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Peter Ev. Luth. Church\", \"alternate_name\": \"\", \"description\": \"ID is required for the first time comer for verification and logging purposes.\\n\\nThe food pantry is closed when the Holiday falls on Tuesday, they will open on Wednesday. \", \"email\": \"\", \"url\": \"https://www.stpetersoc. com\", \"status\": \"active\", \"address\": {\"address_1\": \"7834 Eastern Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21224\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2950301, \"longitude\": -76.5123989}, \"phones\": [{\"number\": \"(410) 284-0336\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"03:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Pet food upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.938370"
-}

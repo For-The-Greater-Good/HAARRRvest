@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Chase House Apartments\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1027 Cathedral Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MD\", \"postal_code\": \"21201\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3019548, \"longitude\": -76.61757349999999}, \"phones\": [{\"number\": \"(410) 539-6155\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:46.150019"
-}

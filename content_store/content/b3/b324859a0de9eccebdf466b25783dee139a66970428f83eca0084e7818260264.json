@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SEAMAAC\", \"alternate_name\": \"\", \"description\": \"Please bring photo ID\", \"email\": \"\", \"url\": \"www.seamaac.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1711 South Broad Street\", \"address_2\": null, \"city\": \"East Passyunk Crossing\", \"state_province\": \"PA\", \"postal_code\": \"19148\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9287019, \"longitude\": -75.16833249999999}, \"phones\": [{\"number\": \"(215) 467-0690\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.238248"
-}

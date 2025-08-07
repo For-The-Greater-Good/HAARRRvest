@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Woburn Council of Social Concern \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2 Merrimac Street\", \"address_2\": null, \"city\": \"Woburn\", \"state_province\": \"MA\", \"postal_code\": \"01801\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.5094544, \"longitude\": -71.1586374}, \"phones\": [{\"number\": \"(781) 935-6495\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:45\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:45\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:04.731756"
-}

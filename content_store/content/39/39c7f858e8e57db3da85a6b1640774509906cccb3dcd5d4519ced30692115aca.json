@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Scituate Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.scituatefoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"344 Country Way\", \"address_2\": null, \"city\": \"Scituate\", \"state_province\": \"MA\", \"postal_code\": \"02066\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1982459, \"longitude\": -70.75810560000001}, \"phones\": [{\"number\": \"(781) 545-5827\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:15\", \"closes_at\": \"21:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.769145"
-}

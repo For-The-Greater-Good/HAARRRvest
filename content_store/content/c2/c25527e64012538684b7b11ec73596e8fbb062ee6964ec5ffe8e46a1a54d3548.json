@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Liberty Baptist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Can offer emergency food boxes and vouchers. Can refer individuals to shelter, government programs like food stamps, and other Mecklenburg charities and non-profits.\\n\", \"email\": \"\", \"url\": \"https://libertybaptistchurchcharlotte.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"3000 Sam Wilson Road\", \"address_2\": null, \"city\": \"Harbor House\", \"state_province\": \"NC\", \"postal_code\": \"28214\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2523013, \"longitude\": -80.98379229999999}, \"phones\": [{\"number\": \"(704) 399-0142\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No appointment necessary\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:50.382196"
-}

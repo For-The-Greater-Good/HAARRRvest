@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Canaan United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.canaanumc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"1760 Shady Grove Church Road\", \"address_2\": null, \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27107\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.9732479, \"longitude\": -80.1604108}, \"phones\": [{\"number\": \"(336) 769-2782\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:33.175810"
-}

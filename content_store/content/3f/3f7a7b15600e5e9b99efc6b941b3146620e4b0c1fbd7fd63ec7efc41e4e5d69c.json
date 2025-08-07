@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Cherryville Area Ministries\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.facebook.com/cherryvilleareaministries/\", \"status\": \"active\", \"address\": {\"address_1\": \"212 North Mountain Street\", \"address_2\": null, \"city\": \"Cherryville\", \"state_province\": \"NC\", \"postal_code\": \"28021\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.3807276, \"longitude\": -81.3796806}, \"phones\": [{\"number\": \"(704) 435-3816\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once in 3 months\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Supplemental governmental help proof is required (Disability, WIC, or Social Security)\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:36.353500"
-}

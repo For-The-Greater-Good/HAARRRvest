@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Lakes High School PTSA Food Pantry\", \"alternate_name\": \"\", \"description\": \"\\nThe SLHS PTSA Food Pantry is available for students and families in the SLHS Pyramid.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Seahawks Drive\", \"address_2\": null, \"city\": \"Herndon\", \"state_province\": \"VA\", \"postal_code\": \"20191\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.93362880000001, \"longitude\": -77.3383386}, \"phones\": [{\"number\": \"(703) 216-6928\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:03.281822"
-}

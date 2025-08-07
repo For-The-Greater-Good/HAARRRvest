@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Saint Matthews Community Development Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://stmatthewsbc.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"245 Glassboro Road\", \"address_2\": null, \"city\": \"Williamstown\", \"state_province\": \"NJ\", \"postal_code\": \"08094\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6859498, \"longitude\": -75.0008859}, \"phones\": [{\"number\": \"(856) 629-4614\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:16.465485"
-}

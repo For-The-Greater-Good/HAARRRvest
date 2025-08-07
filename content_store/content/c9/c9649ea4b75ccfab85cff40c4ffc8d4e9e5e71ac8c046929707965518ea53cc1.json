@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Paul\\u2019s CME Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1009 West 3rd Street\", \"address_2\": null, \"city\": \"Chester\", \"state_province\": \"PA\", \"postal_code\": \"19013\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.84132719999999, \"longitude\": -75.37241639999999}, \"phones\": [{\"number\": \"(610) 874-9966\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.546354"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Community Relief Fund\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"140 Maryland Avenue\", \"address_2\": null, \"city\": \"Crisfield\", \"state_province\": \"MD\", \"postal_code\": \"21817\", \"country\": \"US\"}, \"location\": {\"latitude\": 37.9853873, \"longitude\": -75.8527306}, \"phones\": [{\"number\": \"(410) 968-0284\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"00:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.011608"
-}

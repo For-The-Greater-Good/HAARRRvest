@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Upcounty Regional Services Center\", \"alternate_name\": \"\", \"description\": \"For updates on upcoming distribution visit https://www.facebook.com/UpCountyHub\", \"email\": \"\", \"url\": \"https://www.theupcountyhub.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"12900 Middlebrook Road\", \"address_2\": null, \"city\": \"Germantown\", \"state_province\": \"MD\", \"postal_code\": \"20874\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1788694, \"longitude\": -77.2684422}, \"phones\": [{\"number\": \"(240) 912-1077\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:26.955698"
-}

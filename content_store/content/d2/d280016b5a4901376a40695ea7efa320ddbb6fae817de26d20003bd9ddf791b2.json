@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Christ Church Montclair\", \"alternate_name\": \"\", \"description\": \"Schedule an appointment HERE to receive nonperishable food items: https://portal.carecenternj.org/page/207?returnurl=%252fpage%252f793\", \"email\": \"\", \"url\": \"https://carecenterofnewjersey.org/foodforhope\", \"status\": \"active\", \"address\": {\"address_1\": \"68 Church Street\", \"address_2\": null, \"city\": \"Montclair\", \"state_province\": \"NJ\", \"postal_code\": \"07042\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8143022, \"longitude\": -74.2208847}, \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:18.480189"
-}

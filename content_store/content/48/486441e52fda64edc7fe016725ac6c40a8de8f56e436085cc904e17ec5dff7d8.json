@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Friendly Food Pantry of Randolph\", \"alternate_name\": \"\", \"description\": \"Randolph serves \\nIts on memorial drive way between high school and  library and police station.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1 Turner Lane\", \"address_2\": null, \"city\": \"Randolph\", \"state_province\": \"MA\", \"postal_code\": \"02368\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.16233649999999, \"longitude\": -71.0428472}, \"phones\": [{\"number\": \"(339) 987-5577\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.784435"
-}

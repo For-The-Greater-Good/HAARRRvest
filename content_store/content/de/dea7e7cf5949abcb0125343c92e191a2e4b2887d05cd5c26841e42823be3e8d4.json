@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"West Belmar United Methodist Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://westbelmarumc.weebly.com/food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"1000 Seventeenth Ave\", \"address_2\": \"\", \"city\": \"West Belmar\", \"state_province\": \"NJ\", \"postal_code\": \"07719\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1655, \"longitude\": -74.07264}, \"phones\": [{\"number\": \"(732) 681-4413\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.505905"
-}

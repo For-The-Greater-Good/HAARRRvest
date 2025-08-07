@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Philadelphia Older Adult Center\", \"alternate_name\": \"\", \"description\": \"1529 south 22nd street  2154681645\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1430 East Passyunk Avenue\", \"address_2\": null, \"city\": \"South Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19147\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.931493, \"longitude\": -75.1624253}, \"phones\": [{\"number\": \"(215) 685-1697\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Financial assistance for some bills, proof required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.328873"
-}

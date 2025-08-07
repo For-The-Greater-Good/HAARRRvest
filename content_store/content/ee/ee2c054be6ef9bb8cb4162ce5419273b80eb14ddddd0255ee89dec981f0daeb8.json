@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jewish Community Council (JCC) of Greater Coney Island\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.jccgci.org\", \"status\": \"active\", \"address\": {\"address_1\": \"3001 W 37th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11224\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5726933, \"longitude\": -74.0021478}, \"phones\": [{\"number\": \"(718) 449-5000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:21.832217"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The Salvation Army of Carroll County\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"300 Hahn Road\", \"address_2\": null, \"city\": \"Westminster\", \"state_province\": \"MD\", \"postal_code\": \"21157\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5872435, \"longitude\": -76.9845802}, \"phones\": [{\"number\": \"(410) 876-9358\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.042165"
-}

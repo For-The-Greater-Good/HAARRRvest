@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"14th Street Y\", \"alternate_name\": \"\", \"description\": \"Student summer meal program from Kinder Garden to 5th class, student from East Village schools can participate and attened classes as well, Drop off is available \", \"email\": \"\", \"url\": \"https://www.14streety.org/adult-programs/sirovich-schedule/#\", \"status\": \"active\", \"address\": {\"address_1\": \"344 East 14th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10003\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7313028, \"longitude\": -73.983434}, \"phones\": [{\"number\": \"(212) 780-0800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:45\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:45\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:45\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:45\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:45\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:10.614868"
-}

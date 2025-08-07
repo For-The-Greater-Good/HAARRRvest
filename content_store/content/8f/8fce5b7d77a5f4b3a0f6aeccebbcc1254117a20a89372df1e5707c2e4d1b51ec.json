@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Dvine Konektion Comm. Dev. Co.\", \"alternate_name\": \"\", \"description\": \"- Schedule might change incase of anything please check out their faceebook page for further details\\n- Only serves the neighborhood.\", \"email\": \"\", \"url\": \"https://www.facebook.com/dvinekwny/\", \"status\": \"active\", \"address\": {\"address_1\": \"611 56th Street\", \"address_2\": null, \"city\": \"West New York\", \"state_province\": \"NJ\", \"postal_code\": \"07093\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7881596, \"longitude\": -74.0222327}, \"phones\": [{\"number\": \"(201) 617-4484\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"04:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early to make a line starting at 9am\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:15.943815"
-}

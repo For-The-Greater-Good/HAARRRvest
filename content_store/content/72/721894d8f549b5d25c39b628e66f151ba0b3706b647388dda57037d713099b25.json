@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"CEOC Central Square Food Pantry - CAMBRIDGE ECONOMIC OPPORTUNITY COMMITTEE\", \"alternate_name\": \"\", \"description\": \"Free food (including fresh fruits and vegetables, frozen meat, and non-perishables like breakfast cereal, shelf-stable milk, rice, and more) is available at CEOC\\u2019s food pantry. First time visiting our food pantry? Our food pantry manager will check you into our database by asking you a few questions (including your name, contact information, address, and more). Our food pantry is now only open for Cambridge residents, and we ask you to bring proof of residency the first time you visit us. You can visit our food pantry as often as you need, each time we will check you in with just your name.\", \"email\": \"\", \"url\": \"https://ceoccambridge.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"11 Inman Street\", \"address_2\": null, \"city\": \"Central Square\", \"state_province\": \"MA\", \"postal_code\": \"02139\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3673507, \"longitude\": -71.1050946}, \"phones\": [{\"number\": \"(617) 868-2900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.379326"
-}

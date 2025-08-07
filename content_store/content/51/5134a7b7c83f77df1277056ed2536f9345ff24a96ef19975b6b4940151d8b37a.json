@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Church of St. Anne Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stannefairlawnnj.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"15-05 Saint Anne Street\", \"address_2\": \"\", \"city\": \"Fair Lawn\", \"state_province\": \"NJ\", \"postal_code\": \"07410\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9227175, \"longitude\": -74.1193392}, \"phones\": [{\"number\": \"(201) 791-1616\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.840330"
-}

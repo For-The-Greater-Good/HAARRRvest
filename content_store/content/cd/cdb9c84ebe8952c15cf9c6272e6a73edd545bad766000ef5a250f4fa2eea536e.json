@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Michael the Archangel\", \"alternate_name\": \"\", \"description\": \"Services offered: Food Pantry Street Address: 2677 Delsea Drive Franklinville, NJ 08322 Requirements: Must show ID and proof of residency in Clayton or Franklin Township in Gloucester County, New Jersey. Initial contact must be through the Parish Office at 49 West North Street Clayton, NJ 08312. \", \"email\": \"\", \"url\": \"https://www.psma-nj.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"49 West North Street\", \"address_2\": null, \"city\": \"Clayton\", \"state_province\": \"NJ\", \"postal_code\": \"08312\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6637424, \"longitude\": -75.09455820000001}, \"phones\": [{\"number\": \"(856) 881-9155\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"04:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:58.409165"
-}

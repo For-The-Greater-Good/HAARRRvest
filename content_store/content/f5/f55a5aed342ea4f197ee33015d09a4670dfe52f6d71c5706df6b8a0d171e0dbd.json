@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"EBENEZER SDA CHURCH\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1234 East New York Avenue\", \"address_2\": \"\", \"city\": \"Brownsville\", \"state_province\": \"NY\", \"postal_code\": \"11212\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6675061, \"longitude\": -73.9213317}, \"phones\": [{\"number\": \"(718) 778-7900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:10.106080"
-}

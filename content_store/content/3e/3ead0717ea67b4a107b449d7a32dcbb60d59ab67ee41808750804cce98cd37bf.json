@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"HELPING HANDS FOOD PANTRY @ BETHEL BAPTIST CHURCH\", \"alternate_name\": \"\", \"description\": \"SERVES KANNAPOLIS\\nFIRST COME, FIRST SERVE CAN VISIT ONE TIME EACH MONTH\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1209 Opal Street\", \"address_2\": null, \"city\": \"Kannapolis\", \"state_province\": \"NC\", \"postal_code\": \"28083\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.4722867, \"longitude\": -80.6036795}, \"phones\": [{\"number\": \"(704) 933-6600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:38.701953"
-}

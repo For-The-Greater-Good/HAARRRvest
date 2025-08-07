@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Crosstimbers Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Those desiring to receive distribution are asked to provide a photo ID, proof of  local residency (local address on a utility bill).\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"115 North Labette Street\", \"address_2\": null, \"city\": \"Edna\", \"state_province\": \"KS\", \"postal_code\": \"67342\", \"country\": \"US\"}, \"location\": {\"latitude\": 37.0576249, \"longitude\": -95.3577077}, \"phones\": [{\"number\": \"(620) 922-3581\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:41.605729"
-}

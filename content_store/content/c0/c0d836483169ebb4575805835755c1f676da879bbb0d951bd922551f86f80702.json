@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Tabernacle Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://www.tabernacle-burlington.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"150 East 2nd Street\", \"address_2\": null, \"city\": \"Burlington\", \"state_province\": \"NJ\", \"postal_code\": \"08016\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0692411, \"longitude\": -74.84970790000001}, \"phones\": [{\"number\": \"(609) 386-4785\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.798622"
-}

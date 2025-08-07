@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Jerusalem French Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"537 East Wyoming Avenue\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19120\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0205435, \"longitude\": -75.1148094}, \"phones\": [{\"number\": \"(267) 825-3091\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:09.710540"
-}

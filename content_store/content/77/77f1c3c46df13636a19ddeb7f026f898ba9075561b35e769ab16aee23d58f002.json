@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"South Worcester Neighborhood Center. \\u2013 Lakeside Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"28 Lakeside Avenue\", \"address_2\": null, \"city\": \"Columbus Park\", \"state_province\": \"MA\", \"postal_code\": \"01603\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2508106, \"longitude\": -71.8349602}, \"phones\": [{\"number\": \"(508) 792-5750\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.672328"
-}

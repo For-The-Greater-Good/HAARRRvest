@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Francis de Sales Parish\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://stfrancisvernon.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"614 Route 517\", \"address_2\": \"\", \"city\": \"Vernon\", \"state_province\": \"NJ \", \"postal_code\": \"07462\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.1825, \"longitude\": -74.5041}, \"phones\": [{\"number\": \"(973) 827-3248\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.991344"
-}

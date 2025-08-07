@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Stephens Missionary Baptist\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5000 Noble Street\", \"address_2\": null, \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27105\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.1437853, \"longitude\": -80.2091915}, \"phones\": [{\"number\": \"(336) 744-7303\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"05:00\", \"closes_at\": \"08:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:36.711762"
-}

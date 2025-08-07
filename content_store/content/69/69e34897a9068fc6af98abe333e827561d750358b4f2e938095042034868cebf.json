@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Church of St. Paul the Apostle/The Loaf and Fishes food pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"stpaultheapostle.org\", \"status\": \"active\", \"address\": {\"address_1\": \"405 West 59th Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10023\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7699659, \"longitude\": -73.98707739999999}, \"phones\": [{\"number\": \"(212) 265-3495\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:11.413800"
-}

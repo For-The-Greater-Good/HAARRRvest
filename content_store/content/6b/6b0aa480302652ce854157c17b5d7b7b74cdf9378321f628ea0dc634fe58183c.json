@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Victory Support Services\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"935 North 42nd Street\", \"address_2\": null, \"city\": \"West Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9711005, \"longitude\": -75.20816990000002}, \"phones\": [{\"number\": \"(267) 648-7556\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:13.378057"
-}

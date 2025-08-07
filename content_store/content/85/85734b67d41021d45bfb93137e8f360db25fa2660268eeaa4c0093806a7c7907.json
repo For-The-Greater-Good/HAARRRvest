@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"ICNA Relief Lowell\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.icnarelief.org/newengland2/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"99 Church Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MA\", \"postal_code\": \"01852\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6412418, \"longitude\": -71.3061693}, \"phones\": [{\"number\": \"(857) 302-4958\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Accepts Walk-ins & Appointments\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Drive-thru delivery\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.227294"
-}

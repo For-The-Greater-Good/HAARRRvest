@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Westside Free Store Ministries\", \"alternate_name\": \"\", \"description\": \"Eligibility: Anyone in need of food Intake Process: One visit per month.Documents: ID.\\n(Closed for 2023 holidays: November 23 & 25; December 23, 25, 28, 30)\", \"email\": \"\", \"url\": \"https://westsidefreestore.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"61 South Powell Avenue\", \"address_2\": null, \"city\": \"Hilltop\", \"state_province\": \"OH\", \"postal_code\": \"43204\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9535322, \"longitude\": -83.0754547}, \"phones\": [{\"number\": \"(614) 351-5480\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:15\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.360920"
-}

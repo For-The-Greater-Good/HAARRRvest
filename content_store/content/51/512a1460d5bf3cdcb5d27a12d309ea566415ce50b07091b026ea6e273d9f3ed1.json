@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Brooklyn Park Healthy Food Pantry\", \"alternate_name\": \"\", \"description\": \"Make account to schedule appointment at https://mdfoodbank.link2feed.com/\\nAll appointments must be made online. \\nYou can make appointments twice a month.\\nMake appointment 4 days before.\", \"email\": \"\", \"url\": \"https://mdfoodbank.link2feed.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"196 Hammonds Lane\", \"address_2\": null, \"city\": \"Brooklyn Park\", \"state_province\": \"MD\", \"postal_code\": \"21225\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2165314, \"longitude\": -76.6189508}, \"phones\": [{\"number\": \"(410) 222-1020\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.716953"
-}

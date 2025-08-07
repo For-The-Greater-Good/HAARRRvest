@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Shorty Howell Park Gwinnett Mobile Pantry\", \"alternate_name\": \"\", \"description\": \"Food Distribution Dates\\nMarch 25, 2025\\nJune 24, 2025\\nSeptember 23, 2025\\nDecember 16, 2025\", \"email\": \"\", \"url\": \"https://www.gwinnettcounty.com/departments/communityservices/foodsecurityresources\", \"status\": \"active\", \"address\": {\"address_1\": \"2750 Pleasant Hill Road\", \"address_2\": null, \"city\": \"Duluth\", \"state_province\": \"GA\", \"postal_code\": \"30096\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.9739185, \"longitude\": -84.1471206}, \"phones\": [{\"number\": \"(770) 822-7955\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:19.329874"
-}

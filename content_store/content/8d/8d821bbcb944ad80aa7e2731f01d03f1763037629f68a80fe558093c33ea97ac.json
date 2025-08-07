@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Food Pantry at Harbor Health\", \"alternate_name\": \"\", \"description\": \"Client can come once a month for household that has 1-5 members, and twice a month for household that has 6 or more family members.\", \"email\": \"\", \"url\": \"https://www.hhsi.us/programs-and-services/food-access/\", \"status\": \"active\", \"address\": {\"address_1\": \"10 Minot Street\", \"address_2\": null, \"city\": \"Dorchester\", \"state_province\": \"MA\", \"postal_code\": \"02122\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2863015, \"longitude\": -71.0443229}, \"phones\": [{\"number\": \"(617) 282-3200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on 4th of July\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:05.565408"
-}

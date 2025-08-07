@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Saint Louis Helping Hands\", \"alternate_name\": \"\", \"description\": \"Serving:  43605 or Community East of river\\n\\nRequired: Photo ID, proof of current address, proof of households, must show proof of income/support\\n\\n\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"443 6th Street\", \"address_2\": null, \"city\": \"East Toledo\", \"state_province\": \"OH\", \"postal_code\": \"43605\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.64392790000001, \"longitude\": -83.5211466}, \"phones\": [{\"number\": \"(419) 691-0613\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.065914"
-}

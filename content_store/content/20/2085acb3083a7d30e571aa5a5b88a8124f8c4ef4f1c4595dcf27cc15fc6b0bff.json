@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Calvary Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://cbcjny.org\", \"status\": \"active\", \"address\": {\"address_1\": \"110-10 Guy R Brewer Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11433\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6914526, \"longitude\": -73.788009}, \"phones\": [{\"number\": \"(718) 297-2301\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.730158"
-}

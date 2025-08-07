@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Second Mile Ministries\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2601 Hillsborough Road\", \"address_2\": null, \"city\": \"Old West Durham\", \"state_province\": \"NC\", \"postal_code\": \"27705\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.0104625, \"longitude\": -78.92928750000002}, \"phones\": [{\"number\": \"(919) 286-3596\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Financial assistance for some bills, proof required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:33.353994"
-}

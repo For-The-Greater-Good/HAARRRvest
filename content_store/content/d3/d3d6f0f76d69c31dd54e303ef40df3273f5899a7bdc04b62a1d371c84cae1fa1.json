@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mexican Coalition\", \"alternate_name\": \"\", \"description\": \"Doesn't have specific date of distribution. Usually falls every Friday. Call (917) 600-1644 to make an appointment.\", \"email\": \"\", \"url\": \"https://coalicionmexicana.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"371 East 150th Street\", \"address_2\": null, \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10455\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8171439, \"longitude\": -73.9183405}, \"phones\": [{\"number\": \"(917) 600-1644\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:22.174044"
-}

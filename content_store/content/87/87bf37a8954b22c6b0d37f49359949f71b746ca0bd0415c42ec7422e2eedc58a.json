@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Southside Roots Community Meal\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://mofc.org/mid-ohio-kitchen/\", \"status\": \"active\", \"address\": {\"address_1\": \"280 Reeb Avenue\", \"address_2\": null, \"city\": \"Reeb-Hosack\", \"state_province\": \"OH\", \"postal_code\": \"43207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9251694, \"longitude\": -82.98770259999999}, \"phones\": [{\"number\": \"(614) 468-9300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients may visit twice a week\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Housing assistance\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Available Medical help assistance\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.489345"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Franklin County Job and Family Services \", \"alternate_name\": \"\", \"description\": \"Families need to complete the 2024-25 school meal & summer EBT application to receive summer benefits ($120 per eligible child)- name spelling, address, etc. all need to be up to date and accurate! Summer EBT Outreach Toolkit\\\" https://sebt.ohio.gov/apply/\\n- Below is a link to complete the application process. https://jfs.franklincountyohio.gov/how-to-apply-for-food-and-cash-assistance\\n\", \"email\": \"\", \"url\": \"https://jfs.franklincountyohio.gov/Food-Assistance\", \"status\": \"active\", \"address\": {\"address_1\": \"1721 Northland Park Avenue\", \"address_2\": null, \"city\": \"Northland\", \"state_province\": \"OH\", \"postal_code\": \"43229\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0571466, \"longitude\": -82.97283759999999}, \"phones\": [{\"number\": \"(614) 233-2851\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:49.234618"
-}

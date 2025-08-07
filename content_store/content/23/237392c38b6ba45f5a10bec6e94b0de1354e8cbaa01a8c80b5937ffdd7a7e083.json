@@ -1,8 +1,0 @@
-{
-  "content": "{\"id\": 897, \"name\": \"Nina's Place\", \"address\": \"959 SE 6th Ave Deerfield Beach FL, 33441\", \"city\": \"Deerfield Beach\", \"state\": \"FL\", \"zip_code\": 33441, \"latitude\": 26.306276, \"longitude\": -80.097054, \"phone\": 9544213146, \"website\": \"www.ninasplacedfb.org\", \"organization_id\": 897, \"pantry_id\": 2763, \"service_type\": \"2\", \"has_appointments\": true, \"week_days\": [\"4\"], \"source\": \"plentiful\", \"source_id\": \"897\", \"amenities\": [\"Client choice\", \"Indoor waiting area\", \"Seating area available\", \"Speaks Spanish\", \"Speaks Russian\"], \"conditions\": [\"1 Visit per Calender Week\", \"Geographic Restrictions: 33441, 33442, 33064, 33060, 33062, and 33069 only on Saturdays. Out of those areas only on Thursdays. Government ID or Utility Bill in the same name must be shown at check-in.\", \"Registrations accepted 3 Days in advance\"], \"service_hours\": [{\"date\": \"2025-08-07\", \"time\": 55800, \"until\": 59400, \"max_people\": 20, \"time_interval\": 9999, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
-  "metadata": {
-    "scraper_id": "plentiful",
-    "source": "plentiful"
-  },
-  "timestamp": "2025-08-06T08:50:56.520312"
-}

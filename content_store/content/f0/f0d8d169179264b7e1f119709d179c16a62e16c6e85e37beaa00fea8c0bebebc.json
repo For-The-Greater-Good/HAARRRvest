@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"ARHA - Ladrey Apartments\", \"alternate_name\": \"\", \"description\": \"The food distribution is subject to change. Call in advance to inquire about the accurate food distribution times and dates.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"300 Wythe St\", \"address_2\": null, \"city\": \"Alexandria\", \"state_province\": \"VA\", \"postal_code\": \"22314\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.811259, \"longitude\": -77.041671}, \"phones\": [{\"number\": \"(703) 549-7115\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.454824"
-}

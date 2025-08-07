@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Salvation Army Zanesville Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"Walk-up Service\", \"email\": \"\", \"url\": \"https://easternusa.salvationarmy.org/northeast-ohio/zanesville/cure-hunger/\", \"status\": \"active\", \"address\": {\"address_1\": \"515 Putnam Avenue\", \"address_2\": null, \"city\": \"Zanesville\", \"state_province\": \"OH\", \"postal_code\": \"43701\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9309225, \"longitude\": -82.0074178}, \"phones\": [{\"number\": \"(740) 452-8350\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:47.676400"
-}

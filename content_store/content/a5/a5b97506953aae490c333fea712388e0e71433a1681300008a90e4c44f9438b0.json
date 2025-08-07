@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First Baptist Church of Savage\", \"alternate_name\": \"\", \"description\": \"- Serving clients within 7-mile radius from the church. Must bring state ID or proof of residence\\n- Closed during 4th of July, Thanksgiving, Christmas, and New Year if distribution falls on a holiday.\", \"email\": \"\", \"url\": \"https://fbcsavage.org/index.html\", \"status\": \"active\", \"address\": {\"address_1\": \"8901 Washington Street\", \"address_2\": null, \"city\": \"Savage\", \"state_province\": \"MD\", \"postal_code\": \"20763\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1362539, \"longitude\": -76.8216783}, \"phones\": [{\"number\": \"(301) 725-3944\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:53.245060"
-}

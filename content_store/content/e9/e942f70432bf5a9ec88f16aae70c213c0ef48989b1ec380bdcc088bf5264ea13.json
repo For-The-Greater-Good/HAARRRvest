@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Mizpah SDA Church \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.mizpahsda.org\", \"status\": \"active\", \"address\": {\"address_1\": \"4355 Paul Street\", \"address_2\": \"\", \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19124\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0116775, \"longitude\": -75.08602909999999}, \"phones\": [{\"number\": \"(215) 535-5995\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:15.006483"
-}

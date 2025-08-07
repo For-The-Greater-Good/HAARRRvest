@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Rutgers Cooperative Extension\", \"alternate_name\": \"\", \"description\": \"Contact: Robin Waddell\\n\\nDocuments: ID; Proof of residence/income (if available)\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"424 Lawrence Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"NJ\", \"postal_code\": \"08102\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9474823, \"longitude\": -75.1211186}, \"phones\": [{\"number\": \"(856) 225-6169\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.515421"
-}

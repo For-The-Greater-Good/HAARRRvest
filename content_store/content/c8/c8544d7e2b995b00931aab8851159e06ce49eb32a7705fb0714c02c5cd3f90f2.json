@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Scott Memorial United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.scottumc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"15361 Plymouth Road\", \"address_2\": null, \"city\": \"Plymouth-Hubbell\", \"state_province\": \"MI\", \"postal_code\": \"48227\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3723371, \"longitude\": -83.19595489999999}, \"phones\": [{\"number\": \"(313) 836-6301\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:30.415379"
-}

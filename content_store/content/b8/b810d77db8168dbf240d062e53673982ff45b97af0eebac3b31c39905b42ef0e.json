@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"All Nations Baptist Church of Woodhaven\", \"alternate_name\": \"\", \"description\": \"- The food pantry is only open 3 Saturdays of the month. \\n- Our close dates are publically posted on the front wall of the facility.\", \"email\": \"\", \"url\": \"http://www.allnationsbaptist.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"86-76 80th Street\", \"address_2\": null, \"city\": \"Woodhaven\", \"state_province\": \"NY\", \"postal_code\": \"11421\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6916225, \"longitude\": -73.8621835}, \"phones\": [{\"number\": \"(347) 679-3562\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Spanish Available\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early. Line starts at 8am\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:23.415570"
-}

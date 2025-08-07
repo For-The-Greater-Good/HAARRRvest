@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Geyer Family YMCA\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"montclairymca.org\", \"status\": \"active\", \"address\": {\"address_1\": \"159 Glenridge Avenue\", \"address_2\": null, \"city\": \"Montclair\", \"state_province\": \"NJ\", \"postal_code\": \"07042\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8132927, \"longitude\": -74.2136221}, \"phones\": [{\"number\": \"(973) 783-7640\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.971693"
-}

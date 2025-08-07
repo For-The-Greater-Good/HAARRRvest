@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Highways Social Services\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/HIGHWAYSBAYONNE/\", \"status\": \"active\", \"address\": {\"address_1\": \"155 Broadway\", \"address_2\": \"\", \"city\": \"Bayonne\", \"state_province\": \"NJ\", \"postal_code\": \"07002\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6516115, \"longitude\": -74.1285237}, \"phones\": [{\"number\": \"(201) 471-2633\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:18.327600"
-}

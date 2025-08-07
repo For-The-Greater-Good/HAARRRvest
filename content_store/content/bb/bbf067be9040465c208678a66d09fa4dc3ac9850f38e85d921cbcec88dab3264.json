@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"SCO Family of Services/Bethany House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://sco.org/programs/bethany-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"164 Suydam St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11221\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6992517, \"longitude\": -73.9262689}, \"phones\": [{\"number\": \"(718) 574-6300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:25.692838"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Pope Francis Center+9\", \"alternate_name\": \"\", \"description\": \"Daily Services: We offer two nutritious meals per day and access to hot showers, restrooms, hygiene items, laundry services, mail services and housing assistance.\\n\\nAdditional Services: Guests also receive free medical, dental and legal support through rotating clinics at the Center.\\nWe serve anyone who seeks our support. We do not require identification, paperwork, or screening for drugs or alcohol\", \"email\": \"\", \"url\": \"https://popefranciscenter.org/need-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"438 Saint Antoine\", \"address_2\": null, \"city\": \"Downtown Detroit\", \"state_province\": \"MI\", \"postal_code\": \"48226\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.33216909999999, \"longitude\": -83.03855109999999}, \"phones\": [{\"number\": \"(313) 305-0311\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"11:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"11:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:29.952028"
-}

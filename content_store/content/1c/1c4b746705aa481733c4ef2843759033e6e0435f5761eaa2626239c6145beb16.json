@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"First Baptist Church of Annapolis\", \"alternate_name\": \"\", \"description\": \"Provides grocery bags every Saturday from 11 AM to 1 PM.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"31 West Washington Street\", \"address_2\": null, \"city\": \"Annapolis\", \"state_province\": \"MD\", \"postal_code\": \"21401\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9790171, \"longitude\": -76.4970015}, \"phones\": [{\"number\": \"(410) 268-5532\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:54.311411"
-}

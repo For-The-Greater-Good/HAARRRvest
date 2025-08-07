@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Bible Church of Christ Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.thebiblechurchofchrist.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1358 Morris Ave\", \"address_2\": null, \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10456\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.837223, \"longitude\": -73.911613}, \"phones\": [{\"number\": \"(718) 293-1928\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:22.889856"
-}

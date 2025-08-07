@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"St. Therese's Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"stthereselis@gmail.com\", \"status\": \"active\", \"address\": {\"address_1\": \"1281 Troy Ave\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11203\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.641506, \"longitude\": -73.934746}, \"phones\": [{\"number\": \"(718) 451-1500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:24.302002"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Longwood Park\", \"alternate_name\": \"\", \"description\": \"June 5 to July 28 (Mon-Fri)\\nBreakfast 8:00-8:30 am\\nLunch 12:00-1:00 pm\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6050 Longwood Run Boulevard\", \"address_2\": null, \"city\": \"Sarasota\", \"state_province\": \"FL\", \"postal_code\": \"34243\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.3860896, \"longitude\": -82.4816742}, \"phones\": [{\"number\": \"(941) 379-6333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:42.844409"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Ebenezer Church of God\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ebenezercog.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7550 Buchanan St.\", \"address_2\": null, \"city\": \"Hyattsville\", \"state_province\": \"MD\", \"postal_code\": \"20784\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.948887, \"longitude\": -76.885602}, \"phones\": [{\"number\": \"(240) 338-6065\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:02.283497"
-}

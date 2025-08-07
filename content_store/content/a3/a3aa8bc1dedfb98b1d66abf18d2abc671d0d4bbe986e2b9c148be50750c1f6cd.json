@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Office Of Concern Food Pantry At St. Cecilia's\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://officeofconcern.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"55 West Demarest Avenue\", \"address_2\": \"\", \"city\": \"Englewood\", \"state_province\": \"NJ\", \"postal_code\": \"07631\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8990129, \"longitude\": -73.9745088}, \"phones\": [{\"number\": \"(201) 568-1465\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Located behind the Church\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers available (must bring birth certificate)\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:17.712824"
-}

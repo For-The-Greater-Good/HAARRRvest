@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"The First Seventh Day Adv. Church\", \"alternate_name\": \"\", \"description\": \"The requirement is that a person should have an ID and they will need to complete a short form to be registered into the system.\", \"email\": \"\", \"url\": \"http://www.patersonsda.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"343 11th Avenue\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07514\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.922651, \"longitude\": -74.153219}, \"phones\": [{\"number\": \"(973) 279-6256\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:16.468125"
-}

@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"City of Wyandotte - Copeland Center\", \"alternate_name\": \"\", \"description\": \"For information on meals and fees, please contact Angie Benson at 734-324-7279. Monday through Friday 8:00 am to 1:00 pm.\\n\\n\", \"email\": \"\", \"url\": \"https://www.wyandotte.net/departments/meals_and_nutrition.php\", \"status\": \"active\", \"address\": {\"address_1\": \"2306 4th Street\", \"address_2\": null, \"city\": \"Wyandotte\", \"state_province\": \"MI\", \"postal_code\": \"48192\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2105378, \"longitude\": -83.1553167}, \"phones\": [{\"number\": \"(734) 324-7279\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:15\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:15\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:15\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:15\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:25.182329"
-}

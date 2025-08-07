@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Broadway Community Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://broadwaycommunity.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"601 West 114th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10025\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.80704180000001, \"longitude\": -73.9651341}, \"phones\": [{\"number\": \"(212) 864-6100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Help with social services/public benefits\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:11.388487"
-}

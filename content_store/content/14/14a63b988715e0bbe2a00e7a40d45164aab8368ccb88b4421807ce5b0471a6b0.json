@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Connex4NPO - NonProfit Corporation\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/Connex4NPO/\", \"status\": \"active\", \"address\": {\"address_1\": \"545 4th Avenue\", \"address_2\": null, \"city\": \"Westwood\", \"state_province\": \"NJ\", \"postal_code\": \"07675\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9907255, \"longitude\": -74.0352675}, \"phones\": [{\"number\": \"(917) 701-3121\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.878167"
-}

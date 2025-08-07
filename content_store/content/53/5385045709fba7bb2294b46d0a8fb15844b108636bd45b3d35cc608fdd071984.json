@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Alice's Cup Food Pantry\", \"alternate_name\": \"\", \"description\": \"Pantry will be closed due to inclement weather, Please check social media for updates https://www.facebook.com/Alicescupfoodpantry/\", \"email\": \"\", \"url\": \"https://www.facebook.com/Alicescupfoodpantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"455 Main Street\", \"address_2\": null, \"city\": \"Spotswood\", \"state_province\": \"NJ\", \"postal_code\": \"08884\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3928953, \"longitude\": -74.3875431}, \"phones\": [{\"number\": \"(732) 251-2551\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:27.464795"
-}

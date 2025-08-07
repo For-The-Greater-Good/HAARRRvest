@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"OCCDA @ Castor Avenue (M&T Bank)\", \"alternate_name\": \"\", \"description\": \"Any resident is eligible. ID required.\\nDetails\", \"email\": \"\", \"url\": \"https://www.phila.gov/food/?zipcode=19149&resource=feat-covidFreeMealSites-275\", \"status\": \"active\", \"address\": {\"address_1\": \"6500 Castor Avenue\", \"address_2\": null, \"city\": \"Northeast Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19149\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.040975, \"longitude\": -75.0763135}, \"phones\": [{\"number\": \"(215) 288-8504\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:23.168644"
-}

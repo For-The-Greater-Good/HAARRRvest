@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"ISKCON Emergency Food Pantry\", \"alternate_name\": \"\", \"description\": \"- Call for appointment  (443) 251-8086 / 3016026547.\\n-Reservations are made for the food between 9 am to 9;30 am before going to pick up the  meals at 12 noon\", \"email\": \"\", \"url\": \"iskconbaltimore.org\", \"status\": \"active\", \"address\": {\"address_1\": \"200 Bloomsbury Avenue\", \"address_2\": null, \"city\": \"Catonsville\", \"state_province\": \"MD\", \"postal_code\": \"21228\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2670385, \"longitude\": -76.730111}, \"phones\": [{\"number\": \"(443) 251-8086\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:51.473723"
-}

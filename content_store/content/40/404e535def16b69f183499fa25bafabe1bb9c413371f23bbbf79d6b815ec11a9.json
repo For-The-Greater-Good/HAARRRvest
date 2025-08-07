@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Gedco CARES, Food Pantry\", \"alternate_name\": \"\", \"description\": \"FOOD PANTRY: Provides non-perishable and some perishable food items to individuals. Food distribution is Monday and Thursday from 9AM-11AM and Saturday from 10AM- 12Noon. Also provides Farmers' Market coupons to individuals when available.\\nZip codes serve: 21210, 21212, 21218, 21239\\nbring id and proof of address\", \"email\": \"\", \"url\": \"https://gedco.org/contact/\", \"status\": \"active\", \"address\": {\"address_1\": \"401 Woodbourne Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21212\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.35526, \"longitude\": -76.61031}, \"phones\": [{\"number\": \"(443) 470-6545\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:29.014180"
-}

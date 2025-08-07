@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Strength For All\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/strengthforallnyc/\", \"status\": \"active\", \"address\": {\"address_1\": \"1083 Broadway\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"11221\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6946967, \"longitude\": -73.9305928}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"19:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"19:00\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:18.941784"
-}

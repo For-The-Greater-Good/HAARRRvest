@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Masoras Avos\", \"alternate_name\": \"\", \"description\": \"Shalom\\tAbramczyk\\t7329427522\\tstarts: 07/28/2025\\t08/22/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"23 Congress Street\", \"address_2\": null, \"city\": \"Lakewood\", \"state_province\": \"NJ\", \"postal_code\": \"08701\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0900849, \"longitude\": -74.2063995}, \"phones\": [{\"number\": \"(732) 942-7522\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:15\", \"closes_at\": \"13:40\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:15\", \"closes_at\": \"13:40\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:15\", \"closes_at\": \"13:40\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:15\", \"closes_at\": \"13:40\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:15\", \"closes_at\": \"13:40\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:20\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:20\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:20\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:20\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:20\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:13.333418"
-}

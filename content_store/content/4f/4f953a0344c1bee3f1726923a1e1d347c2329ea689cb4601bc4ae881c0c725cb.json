@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Moorestown Ministerium Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.stmatthew-lutheran.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"319 Chester Avenue\", \"address_2\": null, \"city\": \"Moorestown-Lenola\", \"state_province\": \"NJ\", \"postal_code\": \"08057\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9688236, \"longitude\": -74.944293}, \"phones\": [{\"number\": \"(856) 235-2055\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:40:56.834332"
-}

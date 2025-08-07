@@ -1,8 +1,0 @@
-{
-  "content": "{\"name\": \"Our Community Dinner Table\", \"alternate_name\": \"\", \"description\": \"Monday thru Friday: 4:30pm until\\nfood runs out\", \"email\": \"\", \"url\": \"https://www.ourcommunitydinnertable.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"257 2nd Street\", \"address_2\": null, \"city\": \"Koreatown\", \"state_province\": \"NJ\", \"postal_code\": \"07650\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8469665, \"longitude\": -73.9969223}, \"phones\": [{\"number\": \"(201) 637-0543\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Call back May, for updates\"}]}",
-  "metadata": {
-    "scraper_id": "food_helpline_org",
-    "source": "food_helpline_org"
-  },
-  "timestamp": "2025-08-06T08:41:12.932925"
-}
