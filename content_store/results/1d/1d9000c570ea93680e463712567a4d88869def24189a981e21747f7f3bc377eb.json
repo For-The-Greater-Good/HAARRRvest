@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Central Pennsylvania Food Bank\",\n      \"description\": \"A food bank serving Central Pennsylvania.\",\n      \"addresses\": [],\n      \"phones\": [],\n      \"urls\": [\n        {\n          \"url\": \"https://www.centralpafoodbank.org/find-help/\",\n          \"description\": \"Find help page\"\n        }\n      ],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\",\n        \"data_source\": \"central_pennsylvania_food_bank_pa\"\n      }\n    }\n  ],\n  \"services\": [],\n  \"locations\": [],\n  \"metadata\": {\n    \"version\": \"3.1.1\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754629556.200887",
+  "timestamp": "2025-08-08T05:20:06.482789"
+}
