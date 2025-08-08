@@ -1,0 +1,5 @@
+{
+  "result": "[\n  {\n    \"id\": \"org_1\",\n    \"name\": \"Penitas Community Food Pantry\",\n    \"description\": \"A community food pantry.\",\n    \"addresses\": [\n      {\n        \"address_type\": \"physical\",\n        \"location_type\": \"physical\",\n        \"postal_code\": null,\n        \"state_province\": \"TX\",\n        \"city\": \"Penitas\",\n        \"country\": \"US\",\n        \"coordinates\": {\n          \"latitude\": 26.2390124,\n          \"longitude\": -98.4420499\n        }\n      }\n    ],\n    \"phones\": [],\n    \"services\": [\n      {\n        \"id\": \"svc_1\",\n        \"name\": \"Food Pantry Services\",\n        \"description\": \"Provides food assistance to the community.\",\n        \"status\": \"active\",\n        \"locations\": [\n          \"loc_1\"\n        ]\n      }\n    ],\n    \"metadata\": {\n      \"last_action_date\": \"2023-10-27\",\n      \"org_id\": \"org_1\"\n    }\n  }\n]",
+  "job_id": "1754630721.900579",
+  "timestamp": "2025-08-08T06:01:46.854179"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"metadata\": {\n        \"id\": \"org_1\",\n        \"last_action_date\": \"2023-10-27\"\n      },\n      \"name\": \"The Light House\",\n      \"alternate_name\": null,\n      \"description\": null,\n      \"email\": null,\n      \"url\": null,\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"metadata\": {\n            \"id\": \"loc_1\",\n            \"last_action_date\": \"2023-10-27\"\n          },\n          \"address_type\": \"physical\",\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": \"KS\",\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 38.608642,\n            \"longitude\": -95.4516421\n          }\n        }\n      ],\n      \"phones\": [],\n      \"services\": []\n    }\n  ]\n}",
+  "job_id": "1754630808.00057",
+  "timestamp": "2025-08-08T06:39:00.433285"
+}

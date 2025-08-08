@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"486bdf80-ec40-4fbd-82b3-372542494f35\",\n  \"name\": \"Pilgrim Star Baptist Church\",\n  \"alternate_name\": \"\",\n  \"description\": \"Pilgrim Star Baptist Church provides food pantry services.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"LA\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 31.4373375,\n    \"longitude\": -93.4904059,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry\",\n      \"description\": \"Food pantry services offered by Pilgrim Star Baptist Church.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"data_source\": \"manual\"\n  }\n}",
+  "job_id": "1754630739.072972",
+  "timestamp": "2025-08-08T06:09:12.930328"
+}

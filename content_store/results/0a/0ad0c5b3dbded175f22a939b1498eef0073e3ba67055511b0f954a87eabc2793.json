@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"e67dcd6e-8412-4be9-b89e-28fa9982a5fe\",\n  \"name\": \"Community Resource Centers of Texas Inc.\",\n  \"description\": \"Community Resource Centers of Texas Inc. offers various services to the community.\",\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"phones\": [\n    {\n      \"number\": \"8306930700\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"location_type\": \"physical\",\n      \"street_address_1\": null,\n      \"street_address_2\": null,\n      \"city\": null,\n      \"state_province\": \"TX\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 30.5771447,\n        \"longitude\": -98.2763869\n      }\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630735.662821",
+  "timestamp": "2025-08-08T06:07:50.329694"
+}

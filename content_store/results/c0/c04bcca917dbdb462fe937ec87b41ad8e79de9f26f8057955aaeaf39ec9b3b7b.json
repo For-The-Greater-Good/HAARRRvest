@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"d5683f00-4e56-412e-a291-971ee5c78418\",\n  \"name\": \"Morven United Methodist Church\",\n  \"alternate_name\": null,\n  \"description\": \"Morven United Methodist Church is a food pantry.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": null,\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 34.8632883,\n    \"longitude\": -79.996997,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry Services\",\n      \"description\": \"Provides food pantry services.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630774.646159",
+  "timestamp": "2025-08-08T06:24:58.454634"
+}

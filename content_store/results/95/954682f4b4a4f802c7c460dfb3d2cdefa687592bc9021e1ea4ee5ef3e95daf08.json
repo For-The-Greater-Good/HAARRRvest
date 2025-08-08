@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_4051\",\n  \"name\": \"Pacific Northwest Adult & Teen Challenge\",\n  \"description\": \"Pacific Northwest Adult & Teen Challenge provides services including a food bank.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_4051\",\n      \"address_type\": \"physical\",\n      \"street_address_1\": \"18611 148th Ave SE\",\n      \"city\": \"Renton\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98058\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.43546755865,\n        \"longitude\": -122.144473242641\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4051\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"locations\": [\n        \"loc_4051\"\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"food_lifeline_wa\"\n  }\n}",
+  "job_id": "1754629953.038491",
+  "timestamp": "2025-08-08T05:58:54.896761"
+}

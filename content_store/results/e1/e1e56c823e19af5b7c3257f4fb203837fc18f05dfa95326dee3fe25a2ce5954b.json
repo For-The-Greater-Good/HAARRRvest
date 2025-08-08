@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"6f795ab3-c343-4a49-abec-6349e2d6a886\",\n  \"name\": \"St. John Paul II Parish\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"NM\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\"\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"5753324496\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"locations\": [\n    {\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 31.8828957,\n        \"longitude\": -106.6494474\n      }\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_6f795ab3-c343-4a49-abec-6349e2d6a886\",\n    \"location_id\": \"loc_6f795ab3-c343-4a49-abec-6349e2d6a886\"\n  }\n}",
+  "job_id": "1754630741.288131",
+  "timestamp": "2025-08-08T06:10:11.317219"
+}

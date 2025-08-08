@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"3900\",\n  \"name\": \"Central Kitsap Food Bank\",\n  \"description\": \"A food bank serving the Central Kitsap area.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_1\",\n      \"address_1\": \"3537 NW Anderson Hill Rd\",\n      \"city\": \"Silverdale\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98393\",\n      \"country\": \"US\",\n      \"address_type\": \"physical\",\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 47.649120049388,\n        \"longitude\": -122.699196647247\n      }\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food assistance.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"source\": \"food_lifeline_wa\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630122.43105",
+  "timestamp": "2025-08-08T06:00:12.929710"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"8994720b-91dd-4450-bd6c-f80f7161c631\",\n  \"name\": \"Friendship House\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"WA\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [\n    {\n      \"number\": \"3603366138\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"location\": {\n    \"latitude\": 48.4155477,\n    \"longitude\": -122.3363126,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630896.819445",
+  "timestamp": "2025-08-08T07:14:57.347077"
+}

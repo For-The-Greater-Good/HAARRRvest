@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1086, \"name\": \"CHASI MFP - YMCA\", \"address\": \"3939 Richmond Ave Staten Island NY, 10312\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10312, \"latitude\": 40.542557, \"longitude\": -74.162788, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1086, \"pantry_id\": 3254, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"1\"], \"source\": \"plentiful\", \"source_id\": \"1086\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-11\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-15\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-20\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:43:08.947935"
+}

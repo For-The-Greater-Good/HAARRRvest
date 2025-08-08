@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1032, \"name\": \"Kids At Their Best- Pagels Mobile Home Park\", \"address\": \"16220 Co Rd 19 Fort Morgan CO, 80701\", \"city\": \"Fort Morgan\", \"state\": \"CO\", \"zip_code\": 80701, \"latitude\": 40.235237, \"longitude\": -103.791565, \"phone\": 9703806096, \"website\": \"www.kidsattheirbest.org\", \"organization_id\": 1032, \"pantry_id\": 3112, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"1032\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-09-06\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-04\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-01\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-12-06\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:40:46.883049"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"2b02296c-18b3-4dae-b860-7b29f3f0e3c8\",\n  \"name\": \"Robinson Food Pantry\",\n  \"alternate_name\": null,\n  \"description\": \"A food pantry serving the community.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"IL\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 39.003279,\n    \"longitude\": -87.7331281,\n    \"location_type\": \"physical\"\n  },\n  \"regular_schedule\": [],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry Services\",\n      \"description\": \"Provides food assistance to individuals and families in need.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"data_source\": \"manual\"\n  }\n}",
+  "job_id": "1754630815.810874",
+  "timestamp": "2025-08-08T06:42:21.982159"
+}

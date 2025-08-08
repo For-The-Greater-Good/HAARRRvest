@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"4574\", \"organizationId\": \"3850\", \"name\": \"South Sacramento Interfaith Partnership\", \"address1\": \"5625 24th Street\", \"address2\": \"\", \"city\": \"Sacramento\", \"state\": \"CA\", \"zipCode\": \"95822\", \"country\": null, \"phone\": \"916-428-5290\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"38.5239681\", \"longitude\": \"-121.4823589\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"916-428-5290\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 41, \"regionName\": \"Sacramento Food Bank & Family Services\", \"logoBlobNameSmall\": \"aea8a9f0-a42b-469d-87df-c2b6c03fc519.png\", \"website\": \"https://www.sacramentofoodbank.org/\"}], \"timeZoneName\": \"Pacific Standard Time\", \"timeZoneCode\": \"PT\", \"offsetHours\": \"-7\", \"schedules\": [], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 10296, \"locationId\": 4574, \"specialDate\": \"2025-09-01T00:00:00\", \"startTime\": null, \"endTime\": null, \"startTimeDescr\": null, \"endTimeDescr\": null, \"closedInd\": true, \"notes\": \"Happy Labor Day\", \"addDateTime\": \"2025-07-03T21:43:29.393\", \"addUserName\": \"jdrew@ssipfoodcloset.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:39:57.536985"
+}

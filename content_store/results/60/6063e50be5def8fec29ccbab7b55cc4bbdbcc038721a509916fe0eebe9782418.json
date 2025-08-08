@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"org_1\",\n  \"name\": \"Salvation Army\",\n  \"alternate_name\": \"\",\n  \"description\": \"A Christian faith-based organization dedicated to providing social services.\",\n  \"url\": null,\n  \"email\": \"\",\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": \"220 East Russell Street\",\n      \"address_2\": null,\n      \"city\": \"Terry Sanford\",\n      \"state_province\": \"NC\",\n      \"postal_code\": \"28301\",\n      \"country\": \"US\",\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 35.0493116,\n        \"longitude\": -78.87691679999999\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"910-483-8119\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754629752.709857",
+  "timestamp": "2025-08-08T05:34:12.069042"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"94835f0d-475f-42a9-8f88-1531e458b09c\",\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 33.528106799999996,\n        \"longitude\": -89.2608826\n      }\n    }\n  ],\n  \"organization\": {\n    \"name\": \"CROSSWAY Church of God of Prophecy\",\n    \"description\": null\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"status\": \"active\",\n      \"location_type\": \"physical\",\n      \"description\": null,\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630757.058518",
+  "timestamp": "2025-08-08T06:17:03.035278"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 996, \"name\": \"Jewish Family Services- Federico F. Pena Southwest Family Health Center\", \"address\": \"1339 S Federal Blvd Denver CO, 80219\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80219, \"latitude\": 39.692688, \"longitude\": -105.025696, \"phone\": 3035975000, \"website\": \"https://www.jewishfamilyservice.org/mobile-schedule\", \"organization_id\": 996, \"pantry_id\": 3017, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"996\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-27\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:38:15.416442"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"hs_schema_version\": \"3.1.1\",\n  \"id\": \"c80178ce-cb9f-41e3-a5c6-348aa98a99ac\",\n  \"name\": \"Vaiden Methodist Church\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\"\n    }\n  ],\n  \"phones\": [],\n  \"locations\": [\n    {\n      \"type\": \"physical\",\n      \"name\": \"Vaiden Methodist Church\",\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 33.3318028,\n        \"longitude\": -89.739171\n      }\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-12\",\n    \"version\": \"1.0\"\n  }\n}",
+  "job_id": "1754630757.215478",
+  "timestamp": "2025-08-08T06:17:06.792025"
+}

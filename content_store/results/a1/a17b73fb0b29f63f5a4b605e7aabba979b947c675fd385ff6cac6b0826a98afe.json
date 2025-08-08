@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_3962\",\n  \"name\": \"Greater Chehalis Food Bank\",\n  \"description\": \"A food bank serving the Chehalis, WA area.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_3962\",\n      \"address_type\": \"physical\",\n      \"street_address_1\": \"750 SW 21st\",\n      \"city\": \"Chehalis\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98532\",\n      \"country\": \"US\",\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 46.645958077463,\n        \"longitude\": -122.937370689091\n      }\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_3962\",\n      \"service_type\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"food_lifeline_wa\"\n  }\n}",
+  "job_id": "1754630054.658484",
+  "timestamp": "2025-08-08T05:59:42.631760"
+}

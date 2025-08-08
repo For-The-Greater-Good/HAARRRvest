@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"hsic_version\": \"3.1.1\",\n  \"id\": \"c2f95ba2-a2ef-4deb-baab-8650086c0b30\",\n  \"name\": \"Francis Center\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"url\": null,\n  \"email\": \"franciscenterpdx@gmail.com\",\n  \"status\": \"active\",\n  \"address\": {\n    \"type\": \"physical\",\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"OR\",\n    \"postal_code\": null,\n    \"country\": \"US\"\n  },\n  \"phones\": [\n    {\n      \"number\": \"5037756784\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"location\": {\n    \"location_type\": \"physical\",\n    \"coordinates\": {\n      \"latitude\": 45.4753222,\n      \"longitude\": -122.5792939\n    }\n  },\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630879.394087",
+  "timestamp": "2025-08-08T07:08:42.180469"
+}

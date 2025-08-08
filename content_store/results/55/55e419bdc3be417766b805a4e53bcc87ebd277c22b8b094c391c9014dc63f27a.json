@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"c476d996-5e68-4f37-a32a-43f8fdca9904\",\n  \"name\": \"St Paul Lutheran Church\",\n  \"alternate_name\": null,\n  \"description\": \"A Lutheran church providing food pantry services.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"NE\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 40.6696272,\n        \"longitude\": -98.7630433\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"308-647-6776\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630830.657442",
+  "timestamp": "2025-08-08T06:49:09.245017"
+}

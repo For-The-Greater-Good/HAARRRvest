@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"47228426-d93a-429e-94a6-e23adc4d84fd\",\n  \"name\": \"Christ First United Methodist\",\n  \"alternate_name\": \"\",\n  \"description\": \"Christ First United Methodist Church offers community services.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\",\n      \"geo_location\": {\n        \"latitude\": 42.110115,\n        \"longitude\": -79.2376632\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"7166645803\",\n      \"extension\": null,\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"data_source\": \"food_pantry_conversion\",\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630850.759356",
+  "timestamp": "2025-08-08T06:57:57.006471"
+}

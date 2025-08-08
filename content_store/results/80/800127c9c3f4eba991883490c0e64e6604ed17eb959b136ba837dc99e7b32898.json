@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_3930\",\n      \"name\": \"Enumclaw Food Bank\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_3930\",\n          \"address_type\": \"physical\",\n          \"address_1\": \"1350 Cole St\",\n          \"city\": \"Enumclaw\",\n          \"state_province\": \"WA\",\n          \"postal_code\": \"98022\",\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 47.202036751994,\n            \"longitude\": -121.991738286797\n          },\n          \"location_type\": \"physical\"\n        }\n      ],\n      \"services\": [\n        {\n          \"id\": \"svc_3930\",\n          \"service_type\": \"Food Bank\",\n          \"description\": \"Provides food assistance.\",\n          \"status\": \"active\"\n        }\n      ],\n      \"metadata\": {\n        \"source_id\": \"3930\",\n        \"source_name\": \"food_lifeline_wa\",\n        \"last_action_date\": \"2024-02-25\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630085.141937",
+  "timestamp": "2025-08-08T05:59:56.152240"
+}

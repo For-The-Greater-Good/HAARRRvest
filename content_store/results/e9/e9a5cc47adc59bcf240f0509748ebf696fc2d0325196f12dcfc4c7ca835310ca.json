@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_4048\",\n      \"name\": \"Orting Valley Senior Center Food Bank\",\n      \"description\": \"A food bank operated by Orting Valley Senior Center.\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_4048\",\n          \"address_type\": \"physical\",\n          \"street_address\": \"120 Washington Ave N\",\n          \"city\": \"Orting\",\n          \"state_province\": \"WA\",\n          \"postal_code\": \"98360\",\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 47.098876227205,\n            \"longitude\": -122.205423676504\n          },\n          \"location_type\": \"physical\"\n        }\n      ],\n      \"services\": [\n        {\n          \"id\": \"svc_4048\",\n          \"name\": \"Food Bank\",\n          \"description\": \"Provides food assistance to those in need.\",\n          \"status\": \"active\"\n        }\n      ],\n      \"metadata\": {\n        \"source\": \"food_lifeline_wa\",\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754629954.337482",
+  "timestamp": "2025-08-08T05:58:55.240451"
+}

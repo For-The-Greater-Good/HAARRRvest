@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_1\",\n  \"name\": \"Hickery Corner Organics\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": null,\n    \"postal_code\": null,\n    \"country\": \"US\"\n  },\n  \"phones\": [],\n  \"locations\": [\n    {\n      \"id\": \"loc_1\",\n      \"name\": \"Hickery Corner Organics\",\n      \"address\": {\n        \"address_1\": null,\n        \"address_2\": null,\n        \"city\": null,\n        \"state_province\": null,\n        \"postal_code\": null,\n        \"country\": \"US\"\n      },\n      \"phones\": [],\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 43.19092,\n        \"longitude\": -78.756424\n      }\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"data_source\": \"hsds_converter\",\n    \"created_date\": \"2023-10-27\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630872.17128",
+  "timestamp": "2025-08-08T07:06:31.643735"
+}

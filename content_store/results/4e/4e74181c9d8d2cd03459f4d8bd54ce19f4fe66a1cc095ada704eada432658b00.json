@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Lewis County Gospel Mission\",\n      \"description\": \"A food bank serving the Lewis County area.\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_1\",\n          \"type\": \"physical\",\n          \"address_1\": \"72 SW Chehalis Ave\",\n          \"city\": \"Chehalis\",\n          \"state_province\": \"WA\",\n          \"postal_code\": \"98532\",\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 46.659033804507,\n            \"longitude\": -122.969321749624\n          },\n          \"location_type\": \"physical\"\n        }\n      ],\n      \"services\": [\n        {\n          \"id\": \"svc_1\",\n          \"name\": \"Food Bank\",\n          \"description\": \"Provides food assistance to individuals and families.\",\n          \"status\": \"active\",\n          \"locations\": [\n            \"loc_1\"\n          ]\n        }\n      ],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630012.354093",
+  "timestamp": "2025-08-08T05:59:24.039348"
+}

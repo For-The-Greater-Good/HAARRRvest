@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1361, \"name\": \"Jewish Family Services- George Washington High School\", \"address\": \"655 S Monaco St Pkwy Denver CO, 80224\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80224, \"latitude\": 39.705662, \"longitude\": -104.914673, \"phone\": 3035975000, \"website\": \"https://www.jewishfamilyservice.org/mobile-schedule \", \"organization_id\": 1361, \"pantry_id\": 3679, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"1361\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-13\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:38:30.940093"
+}

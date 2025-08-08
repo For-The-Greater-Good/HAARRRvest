@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"e4a6b382-ebe1-4df7-8183-a3f8c90cf9db\",\n  \"name\": \"Modesto Love Center\",\n  \"alternate_name\": \"\",\n  \"description\": \"A food pantry providing services to the Modesto community.\",\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 37.60599,\n        \"longitude\": -120.9853121\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"209-538-9700\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630795.327441",
+  "timestamp": "2025-08-08T06:34:00.297536"
+}

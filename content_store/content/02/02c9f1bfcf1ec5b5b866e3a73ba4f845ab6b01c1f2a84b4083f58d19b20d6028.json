@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1204, \"name\": \"Craig- Moffat County MP\", \"address\": \"640 E Victory Way Craig CO, 81625\", \"city\": \"Craig\", \"state\": \"CO\", \"zip_code\": 81625, \"latitude\": 40.51265, \"longitude\": -107.537605, \"phone\": 9704641138, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1204, \"pantry_id\": 3482, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1204\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-11\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-08\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-13\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-10\", \"time\": 36000, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:40:38.609131"
+}

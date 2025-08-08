@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"ab4cfd75-d3f9-462f-a0a8-989ff89e8a21\",\n  \"name\": \"Mt.Calvary Food Pantry - Food Distribution Center\",\n  \"alternate_name\": null,\n  \"description\": \"Provides food distribution services.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\"\n    }\n  ],\n  \"phones\": [],\n  \"locations\": [\n    {\n      \"location_type\": \"physical\",\n      \"latitude\": 40.7047034,\n      \"longitude\": -111.9682009\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Distribution\",\n      \"description\": \"Food distribution services offered by Mt.Calvary Food Pantry.\",\n      \"status\": \"active\",\n      \"schedule\": []\n    }\n  ],\n  \"metadata\": {\n    \"id\": \"org_1\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630829.849517",
+  "timestamp": "2025-08-08T06:48:43.339535"
+}

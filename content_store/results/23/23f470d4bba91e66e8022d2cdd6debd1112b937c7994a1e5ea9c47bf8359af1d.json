@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Manna Davie\",\n      \"description\": \"Manna Davie is a food pantry providing food assistance.\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_1\",\n          \"address_type\": \"physical\",\n          \"location_type\": \"physical\",\n          \"postal_code\": null,\n          \"state_province\": \"FL\",\n          \"city\": \"Davie\",\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 26.0924752,\n            \"longitude\": -80.2387265\n          }\n        }\n      ],\n      \"phones\": [],\n      \"services\": [\n        {\n          \"id\": \"svc_1\",\n          \"name\": \"Food Pantry\",\n          \"description\": \"Provides food assistance to those in need.\",\n          \"status\": \"active\",\n          \"schedule\": [],\n          \"address_id\": \"loc_1\"\n        }\n      ],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630721.588891",
+  "timestamp": "2025-08-08T06:01:39.363597"
+}

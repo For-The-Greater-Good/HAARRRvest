@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Noel Memorial UMC\",\n      \"alternate_name\": null,\n      \"description\": null,\n      \"email\": null,\n      \"url\": null,\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_1\",\n          \"address_type\": \"physical\",\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": \"LA\",\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 32.4964796,\n            \"longitude\": -93.7397471\n          }\n        }\n      ],\n      \"phones\": [\n        {\n          \"id\": \"phone_1\",\n          \"number\": \"3182215207\",\n          \"type\": \"voice\",\n          \"languages\": [\n            {\n              \"name\": \"English\"\n            }\n          ]\n        }\n      ],\n      \"services\": [],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630746.89373",
+  "timestamp": "2025-08-08T06:12:39.597551"
+}

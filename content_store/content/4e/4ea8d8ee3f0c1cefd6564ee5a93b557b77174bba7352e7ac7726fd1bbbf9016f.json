@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1151, \"name\": \"WeeCycle - Solid Rock CommUnity Food Pantry\", \"address\": \"3217 S Academy Blvd Colorado Springs CO, 80916\", \"city\": \"Colorado Springs\", \"state\": \"CO\", \"zip_code\": 80916, \"latitude\": 38.786446, \"longitude\": -104.757332, \"phone\": 7203197792, \"website\": \"\", \"organization_id\": 1151, \"pantry_id\": 3357, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"1\"], \"source\": \"plentiful\", \"source_id\": \"1151\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-18\", \"time\": 50400, \"until\": 54000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-15\", \"time\": 50400, \"until\": 54000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-20\", \"time\": 50400, \"until\": 54000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-17\", \"time\": 50400, \"until\": 54000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:35:49.812819"
+}

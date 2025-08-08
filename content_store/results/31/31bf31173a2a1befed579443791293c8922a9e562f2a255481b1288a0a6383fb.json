@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organization\": {\n    \"id\": \"org_4180\",\n    \"name\": \"YWCA Central Area Food Bank\",\n    \"description\": \"YWCA Central Area Food Bank serves the Seattle community.\",\n    \"addresses\": [\n      {\n        \"id\": \"loc_4180\",\n        \"address_type\": \"physical\",\n        \"address_1\": \"2820 Cherry St\",\n        \"city\": \"Seattle\",\n        \"state_province\": \"WA\",\n        \"postal_code\": \"98122\",\n        \"country\": \"US\",\n        \"coordinates\": {\n          \"latitude\": 47.608230904494,\n          \"longitude\": -122.295271056842\n        },\n        \"location_type\": \"physical\"\n      }\n    ],\n    \"metadata\": {\n      \"last_action_date\": \"2023-10-27\"\n    }\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_4180\",\n      \"organization_id\": \"org_4180\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food assistance to individuals and families.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754629751.161981",
+  "timestamp": "2025-08-08T05:33:31.444117"
+}

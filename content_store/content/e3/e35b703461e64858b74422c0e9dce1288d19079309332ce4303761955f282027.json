@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1088, \"name\": \"CHASI MFP - West Brighton Senior Center\", \"address\": \"230 Broadway Staten Island NY, 10310\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10310, \"latitude\": 40.635834, \"longitude\": -74.117714, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1088, \"pantry_id\": 3265, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"5\"], \"source\": \"plentiful\", \"source_id\": \"1088\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-15\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-26\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-17\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:43:08.354187"
+}

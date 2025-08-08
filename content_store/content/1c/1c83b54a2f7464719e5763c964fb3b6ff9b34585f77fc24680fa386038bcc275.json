@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"12011\", \"organizationId\": \"9417\", \"name\": \"Lathrop Senior Center\", \"address1\": \"15707 5th Street\", \"address2\": \"\", \"city\": \"Lathrop\", \"state\": \"CA\", \"zipCode\": \"95330\", \"country\": null, \"phone\": \"209-941-7380\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"37.8195778\", \"longitude\": \"-121.2785834\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"Please contact site directly for sign up information\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"209-941-7380\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 74, \"regionName\": \"Second Harvest of the Greater Valley\", \"logoBlobNameSmall\": \"45c6d893-8eb4-472c-86d9-508a06fef76e.png\", \"website\": \"https://localfoodbank.org/\"}], \"timeZoneName\": \"Pacific Standard Time\", \"timeZoneCode\": \"PT\", \"offsetHours\": \"-7\", \"schedules\": [\"None-None (Call for Hours)\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:39:56.299902"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"1939\", \"organizationId\": \"1334\", \"name\": \"Zion Lutheran Church\", \"address1\": \"1300 Pearl Street\", \"address2\": null, \"city\": \"Belvidere\", \"state\": \"IL\", \"zipCode\": \"61008\", \"country\": null, \"phone\": null, \"phoneExt\": null, \"website\": null, \"latitude\": \"42.2476275\", \"longitude\": \"-88.8419839\", \"foodPrograms\": \"Hot/Cold Meal Program, Mobile Market\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"Parking Available\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": null, \"contactPhone\": \"815-544-8398\", \"contactEmail\": null, \"servicePrograms\": \"\", \"foodServiceTypes\": \"Indoor Service\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 2, \"regionName\": \"Northern Illinois Food Bank\", \"logoBlobNameSmall\": \"dbf64577-4f05-4753-a6ec-ebbbd9c99e9c.png\", \"website\": \"solvehungertoday.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Wednesday 5:00 PM-6:00 PM\", \"Wednesday 5:00 PM-6:00 PM [ 2nd week(s)]\"], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 9981, \"locationId\": 1939, \"specialDate\": \"2025-08-23T00:00:00\", \"startTime\": \"10:00:00 AM\", \"endTime\": \"11:30:00 AM\", \"startTimeDescr\": \"10:00 AM\", \"endTimeDescr\": \"11:30 AM\", \"closedInd\": false, \"notes\": \"Mobile Market Distribution\", \"addDateTime\": \"2025-06-30T15:08:51.093\", \"addUserName\": \"nhuerta@northernilfoodbank.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:40:06.914556"
+}

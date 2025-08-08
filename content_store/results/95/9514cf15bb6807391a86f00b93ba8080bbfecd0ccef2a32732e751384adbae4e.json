@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"aaa9d6f1-e432-4570-af1e-41efe041a3f8\",\n  \"name\": \"First Christian Church\",\n  \"alternate_name\": \"\",\n  \"description\": \"A Christian Church providing community services.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\",\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 34.5022774,\n        \"longitude\": -97.1168346\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"5803693109\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630766.445895",
+  "timestamp": "2025-08-08T06:21:17.177693"
+}

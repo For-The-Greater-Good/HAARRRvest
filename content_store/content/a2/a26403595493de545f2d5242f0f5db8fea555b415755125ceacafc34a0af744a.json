@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1051, \"name\": \"Southwest Improvement Council\", \"address\": \"5045 W 1st Ave Denver CO, 80219\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80219, \"latitude\": 39.718346, \"longitude\": -105.051628, \"phone\": 3039342181, \"website\": \"www.swic-denver.org\", \"organization_id\": 1051, \"pantry_id\": 3164, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1051\", \"amenities\": [], \"conditions\": [\"Registrations accepted 1 Week in advance\"], \"service_hours\": [{\"date\": \"2025-08-26\", \"time\": 32400, \"until\": 39600, \"max_people\": 0, \"time_interval\": 9999, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-09-30\", \"time\": 32400, \"until\": 39600, \"max_people\": 0, \"time_interval\": 9999, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-10-28\", \"time\": 32400, \"until\": 39600, \"max_people\": 0, \"time_interval\": 9999, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-11-25\", \"time\": 32400, \"until\": 39600, \"max_people\": 0, \"time_interval\": 9999, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:39:16.653109"
+}

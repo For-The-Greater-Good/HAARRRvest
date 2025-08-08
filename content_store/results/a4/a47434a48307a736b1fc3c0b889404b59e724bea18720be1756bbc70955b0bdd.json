@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"hsid\": \"org_1\",\n  \"name\": \"Onalaska Regional Food Basket\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"hsid\": \"loc_1\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": \"Onalaska\",\n      \"state_province\": \"WI\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"location\": {\n        \"type\": \"Point\",\n        \"coordinates\": [\n          -91.2220767,\n          43.893141\n        ]\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"phones\": [\n    {\n      \"type\": \"voice\",\n      \"number\": \"6087837722\",\n      \"extension\": null,\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"data_source\": \"manual\"\n  }\n}",
+  "job_id": "1754630866.202358",
+  "timestamp": "2025-08-08T07:04:08.853551"
+}

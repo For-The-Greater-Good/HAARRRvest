@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1096, \"name\": \"CHASI MFP - St. Mary's Episcopal Church\", \"address\": \"347 Davis Ave Staten Island NY, 10310\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10310, \"latitude\": 40.635242, \"longitude\": -74.108421, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1096, \"pantry_id\": 3253, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"1096\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-09-02\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-07\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:42:02.197337"
+}

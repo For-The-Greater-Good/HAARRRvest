@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"hsid\": \"org_1\",\n  \"name\": \"Salvation Army\",\n  \"alternate_name\": null,\n  \"description\": \"A social services organization.\",\n  \"urls\": [],\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"hsid\": \"loc_1\",\n      \"address_type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 36.438679,\n        \"longitude\": -99.3897338\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"hsid\": \"phone_1\",\n      \"number\": \"580-256-1083\",\n      \"extension\": null,\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630785.461808",
+  "timestamp": "2025-08-08T06:29:50.771118"
+}

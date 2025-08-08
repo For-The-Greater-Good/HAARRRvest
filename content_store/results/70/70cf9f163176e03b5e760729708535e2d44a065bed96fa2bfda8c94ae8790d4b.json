@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_3767bb5f-8ce1-49a5-88f9-6857e6918427\",\n  \"name\": \"Open Arms Care Center\",\n  \"alternate_name\": \"\",\n  \"description\": \"A care center providing services.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"location\": {\n        \"latitude\": 40.9406113,\n        \"longitude\": -72.6573827\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"6317276943\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-11-21\"\n  }\n}",
+  "job_id": "1754630835.743967",
+  "timestamp": "2025-08-08T06:51:21.256048"
+}

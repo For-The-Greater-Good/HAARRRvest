@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_4128\",\n  \"name\": \"St. Leo Food Connection (Pierce)\",\n  \"description\": \"St. Leo Food Connection is a food pantry providing food assistance in Pierce County, Washington.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_4128\",\n      \"address_type\": \"physical\",\n      \"street_address_1\": \"1323 S Yakima Ave\",\n      \"city\": \"Tacoma\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98405\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.24972391373,\n        \"longitude\": -122.446450666732\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4128\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food assistance through a food bank.\",\n      \"status\": \"active\",\n      \"locations\": [\n        \"loc_4128\"\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"food_lifeline_wa\"\n  }\n}",
+  "job_id": "1754629854.437691",
+  "timestamp": "2025-08-08T05:58:04.807131"
+}

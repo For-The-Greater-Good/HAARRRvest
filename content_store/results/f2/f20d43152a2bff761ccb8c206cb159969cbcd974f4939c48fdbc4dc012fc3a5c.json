@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"3bbab099-5520-4721-98dd-2d2f8c14d1fa\",\n  \"name\": \"Gospel Light Mennonite Church\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"VA\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\"\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"5409486834\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"locations\": [\n    {\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 38.1271515,\n        \"longitude\": -78.1838129\n      }\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\",\n    \"location_id\": \"loc_1\",\n    \"service_id\": \"svc_1\"\n  }\n}",
+  "job_id": "1754630805.006199",
+  "timestamp": "2025-08-08T06:37:52.846285"
+}

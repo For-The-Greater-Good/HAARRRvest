@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_4112\",\n  \"name\": \"Serenity House\",\n  \"description\": \"Serenity House offers food bank services.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_4112\",\n      \"address_type\": \"physical\",\n      \"address_1\": \"2321 W 18th St\",\n      \"city\": \"Port Angeles\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98363\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 48.123249988129,\n        \"longitude\": -123.492111025142\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4112\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"metadata_source\": \"food_lifeline_wa\"\n  }\n}",
+  "job_id": "1754629878.551033",
+  "timestamp": "2025-08-08T05:58:20.676788"
+}

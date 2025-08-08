@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_3943\",\n      \"name\": \"Fife Milton Food Bank\",\n      \"description\": \"A food bank serving the Fife and Milton areas.\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_3943\",\n          \"address_type\": \"physical\",\n          \"street_address\": \"2303 54th Ave E\",\n          \"city\": \"Fife\",\n          \"state_province\": \"WA\",\n          \"postal_code\": \"98424\",\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 47.236151056008,\n            \"longitude\": -122.356531285847\n          },\n          \"location_type\": \"physical\"\n        }\n      ],\n      \"services\": [\n        {\n          \"id\": \"svc_3943\",\n          \"name\": \"Food Bank\",\n          \"description\": \"Provides food assistance.\",\n          \"status\": \"active\",\n          \"locations\": [\n            \"loc_3943\"\n          ]\n        }\n      ],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630073.230208",
+  "timestamp": "2025-08-08T05:59:50.617183"
+}

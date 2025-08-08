@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1111, \"name\": \"CHASI MFP - Cedar Grove Ave\", \"address\": \"Cedar Grove Ave Staten Island NY, 10306\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10306, \"latitude\": 40.556988, \"longitude\": -74.104309, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1111, \"pantry_id\": 3257, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"1111\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-13\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-10\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-08\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:43:00.449339"
+}

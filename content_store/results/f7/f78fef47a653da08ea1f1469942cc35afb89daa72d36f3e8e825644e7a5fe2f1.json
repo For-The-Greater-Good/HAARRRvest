@@ -1,0 +1,5 @@
+{
+  "result": "[\n  {\n    \"id\": \"3bc71a46-903a-476b-b97a-07f375cb79da\",\n    \"name\": \"Hayti Lutheran Church\",\n    \"alternate_name\": null,\n    \"description\": null,\n    \"email\": null,\n    \"url\": null,\n    \"status\": \"active\",\n    \"addresses\": [\n      {\n        \"address_1\": null,\n        \"address_2\": null,\n        \"city\": null,\n        \"state_province\": null,\n        \"postal_code\": null,\n        \"country\": \"US\",\n        \"address_type\": \"physical\"\n      }\n    ],\n    \"phones\": [],\n    \"locations\": [\n      {\n        \"latitude\": 44.6594009,\n        \"longitude\": -97.2063704,\n        \"location_type\": \"physical\"\n      }\n    ],\n    \"services\": [\n      {\n        \"id\": \"svc_1\",\n        \"name\": \"Food Pantry\",\n        \"description\": \"Provides food assistance.\",\n        \"status\": \"active\",\n        \"schedule\": []\n      }\n    ],\n    \"metadata\": {\n      \"last_action_date\": \"2023-10-27\",\n      \"org_id\": \"org_1\"\n    }\n  }\n]",
+  "job_id": "1754630875.700387",
+  "timestamp": "2025-08-08T07:07:33.031124"
+}

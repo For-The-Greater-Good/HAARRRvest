@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"1568\", \"organizationId\": \"1426\", \"name\": \"Farmington Community Outpatient Clinic\", \"address1\": \"1580 West Columbia Street\", \"address2\": \"\", \"city\": \"Farmington\", \"state\": \"MO\", \"zipCode\": \"63640\", \"country\": null, \"phone\": \"573-366-4296\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"37.7728889\", \"longitude\": \"-90.440988\", \"foodPrograms\": \"Community Mobile Market\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"573-366-4296\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 17, \"regionName\": \"St. Louis Area Foodbank\", \"logoBlobNameSmall\": \"2663eb40-ca6e-413e-8ab2-bf60bbdd2771.jpg\", \"website\": \"https://stlfoodbank.org/\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Tuesday 10:00 AM-12:00 PM\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:39:55.495089"
+}

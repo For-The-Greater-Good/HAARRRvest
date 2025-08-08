@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"3966\",\n  \"name\": \"Helpline House Food Bank\",\n  \"description\": \"Helpline House Food Bank provides food assistance.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_1\",\n      \"address_type\": \"physical\",\n      \"street_address_1\": \"282 Knechtel Way NE\",\n      \"street_address_2\": null,\n      \"city\": \"Bainbridge Island\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98110\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.631055204026,\n        \"longitude\": -122.519025291558\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"phones\": [],\n  \"emails\": [],\n  \"urls\": [],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630050.41278",
+  "timestamp": "2025-08-08T05:59:40.311780"
+}

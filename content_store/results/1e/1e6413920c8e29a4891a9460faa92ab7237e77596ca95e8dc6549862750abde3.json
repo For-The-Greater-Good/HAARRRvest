@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_3936\",\n  \"name\": \"Familyworks\",\n  \"description\": \"A food pantry providing food assistance.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_3936\",\n      \"address_type\": \"physical\",\n      \"street_address\": \"1501 N 45th St\",\n      \"city\": \"Seattle\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98103\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.661166730179,\n        \"longitude\": -122.338931887568\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_3936\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food assistance through a food bank.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"id\": \"org_3936\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630081.246577",
+  "timestamp": "2025-08-08T05:59:54.237742"
+}

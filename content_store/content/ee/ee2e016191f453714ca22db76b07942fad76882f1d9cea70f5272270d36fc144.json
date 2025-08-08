@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"2103\", \"organizationId\": \"1334\", \"name\": \"Prince of Peace Catholic Church\", \"address1\": \"135 S Milwaukee Ave\", \"address2\": null, \"city\": \"Lake Villa\", \"state\": \"IL\", \"zipCode\": \"60046\", \"country\": null, \"phone\": null, \"phoneExt\": null, \"website\": null, \"latitude\": \"42.4139751\", \"longitude\": \"-88.0698446\", \"foodPrograms\": \"Mobile Market\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": null, \"contactPhone\": null, \"contactEmail\": null, \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 2, \"regionName\": \"Northern Illinois Food Bank\", \"logoBlobNameSmall\": \"dbf64577-4f05-4753-a6ec-ebbbd9c99e9c.png\", \"website\": \"solvehungertoday.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 9208, \"locationId\": 2103, \"specialDate\": \"2025-09-27T00:00:00\", \"startTime\": \" 9:00:00 AM\", \"endTime\": \"10:30:00 AM\", \"startTimeDescr\": \"9:00 AM\", \"endTimeDescr\": \"10:30 AM\", \"closedInd\": false, \"notes\": \"Mobile Market Distribution\", \"addDateTime\": \"2025-05-13T19:36:07.763\", \"addUserName\": \"nhuerta@northernilfoodbank.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:40:08.021410"
+}

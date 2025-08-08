@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"ffd47aef-08d3-4674-b517-72601e95d063\",\n  \"name\": \"Stark Union Church\",\n  \"alternate_name\": \"\",\n  \"description\": null,\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"NH\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 44.6008922,\n    \"longitude\": -71.4075545,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry Services\",\n      \"description\": \"Provides food pantry services.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630878.505883",
+  "timestamp": "2025-08-08T07:08:25.003432"
+}

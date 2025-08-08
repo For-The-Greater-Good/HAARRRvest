@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"hs_schema_version\": \"2.0\",\n  \"id\": \"542e4413-6848-42ed-8185-9e0798378d9b\",\n  \"name\": \"Taylor Advocacy Resource Center\",\n  \"alternate_name\": null,\n  \"description\": \"Taylor Advocacy Resource Center provides services to the community.\",\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"FL\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 30.1299669,\n        \"longitude\": -83.5917697\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"8505847145\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"created_by\": \"program_name\",\n    \"version\": \"3.1.1\",\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630731.333765",
+  "timestamp": "2025-08-08T06:06:02.039391"
+}

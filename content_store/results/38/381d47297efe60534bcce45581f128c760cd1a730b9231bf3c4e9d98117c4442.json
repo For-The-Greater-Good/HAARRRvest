@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"08cb8cc4-ab5d-43db-a6e5-41b26596438a\",\n  \"name\": \"Kings Valley Circle - Food Distribution Center\",\n  \"alternate_name\": \"\",\n  \"description\": \"Food distribution center.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"CA\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 38.8105248,\n    \"longitude\": -123.0155282,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Distribution\",\n      \"description\": \"Provides food distribution services.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-29\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630805.613924",
+  "timestamp": "2025-08-08T06:38:08.344419"
+}

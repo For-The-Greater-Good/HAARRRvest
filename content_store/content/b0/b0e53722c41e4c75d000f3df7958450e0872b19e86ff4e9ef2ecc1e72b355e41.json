@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"3083\", \"organizationId\": \"2669\", \"name\": \"Markleville Food Pantry\", \"address1\": \"32 N Slate St\", \"address2\": \"\", \"city\": \"Markleville\", \"state\": \"IN\", \"zipCode\": \"46056\", \"country\": null, \"phone\": \"317-997-3204\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"39.9778218\", \"longitude\": \"-85.6146982\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"English\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"317-997-3204\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 27, \"regionName\": \"Second Harvest Food Bank of East Central Indiana\", \"logoBlobNameSmall\": \"9d7c3438-f2e1-4619-900c-1b4aa800c999.png\", \"website\": \"https://curehunger.org/\"}], \"timeZoneName\": null, \"timeZoneCode\": null, \"offsetHours\": \"None\", \"schedules\": [\"Saturday 9:00 AM-12:00 PM\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:40:00.498543"
+}

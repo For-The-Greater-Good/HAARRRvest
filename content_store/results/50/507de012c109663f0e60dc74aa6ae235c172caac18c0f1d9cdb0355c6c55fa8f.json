@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"St Peter Lutheran Church\",\n      \"alternate_name\": null,\n      \"description\": null,\n      \"email\": null,\n      \"url\": null,\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"address_type\": \"physical\",\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": \"NE\",\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 41.4657309,\n            \"longitude\": -96.7917546\n          }\n        }\n      ],\n      \"phones\": [\n        {\n          \"number\": \"4026528215\",\n          \"type\": \"voice\",\n          \"languages\": [\n            {\n              \"name\": \"English\"\n            }\n          ]\n        }\n      ],\n      \"services\": [],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630842.214382",
+  "timestamp": "2025-08-08T06:54:23.876264"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"fa7d28eb-1abd-4720-925f-045cd046063b\",\n  \"name\": \"Share - Mid Atlantic - Food Distribution Center\",\n  \"alternate_name\": \"\",\n  \"description\": \"Food distribution center serving the Mid-Atlantic region.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": null,\n    \"postal_code\": null,\n    \"country\": \"US\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 36.8518449,\n    \"longitude\": -76.2801114,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Distribution\",\n      \"description\": \"Provides food distribution services.\",\n      \"status\": \"active\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"org_1\": {\n      \"last_action_date\": \"2023-10-27\"\n    }\n  }\n}",
+  "job_id": "1754630789.085845",
+  "timestamp": "2025-08-08T06:31:27.604261"
+}

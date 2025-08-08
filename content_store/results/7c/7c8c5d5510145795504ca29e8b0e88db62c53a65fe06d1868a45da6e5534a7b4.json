@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"73930a75-80fb-4502-a800-682c05a928dd\",\n  \"name\": \"Corinth United Methodist Church\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"IN\",\n    \"postal_code\": null,\n    \"country\": \"US\"\n  },\n  \"phones\": [\n    {\n      \"number\": \"7652820182\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"location\": {\n    \"location_type\": \"physical\",\n    \"coordinates\": {\n      \"latitude\": 40.1350495,\n      \"longitude\": -85.4233332\n    }\n  },\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"provider\": \"dataconverter\"\n  }\n}",
+  "job_id": "1754630826.722277",
+  "timestamp": "2025-08-08T06:47:20.814009"
+}

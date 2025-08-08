@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_4027\",\n  \"name\": \"New Beginnings Christian Fellowship\",\n  \"description\": \"A community organization providing food bank services.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_4027\",\n      \"address_type\": \"physical\",\n      \"street_address\": \"19300 108th Ave SE\",\n      \"locality\": \"Kent\",\n      \"region\": \"WA\",\n      \"postal_code\": \"98030\",\n      \"country\": \"US\",\n      \"latitude\": 47.428934535677,\n      \"longitude\": -122.195445104593,\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4027\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food assistance to those in need.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"food_lifeline_wa\",\n    \"source_organization\": \"Food Lifeline\"\n  }\n}",
+  "job_id": "1754629981.305642",
+  "timestamp": "2025-08-08T05:59:08.000712"
+}

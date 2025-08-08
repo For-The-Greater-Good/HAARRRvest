@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"069fa0f1-0ae9-4321-8d14-4f4c09970770\",\n  \"name\": \"Durango Food Bank\",\n  \"alternate_name\": \"\",\n  \"description\": \"A food bank serving the Durango community.\",\n  \"email\": \"info@durangofoodbank.org\",\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": \"Durango\",\n    \"state_province\": \"CO\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [\n    {\n      \"number\": \"970-375-2672\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"location\": {\n    \"latitude\": 37.245182,\n    \"longitude\": -107.8769226,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"data_source\": \"input\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630790.126698",
+  "timestamp": "2025-08-08T06:31:53.989741"
+}

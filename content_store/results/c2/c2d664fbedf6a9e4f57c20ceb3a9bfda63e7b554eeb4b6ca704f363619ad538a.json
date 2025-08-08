@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organization\": {\n    \"id\": \"org_3868\",\n    \"name\": \"Algona Pacific Food Pantry\",\n    \"description\": \"A food pantry located in Pacific, WA.\",\n    \"addresses\": [\n      {\n        \"id\": \"loc_3868_1\",\n        \"address_type\": \"physical\",\n        \"street_address\": \"603 3rd Ave SE\",\n        \"city\": \"Pacific\",\n        \"state_province\": \"WA\",\n        \"postal_code\": \"98047\",\n        \"country\": \"US\",\n        \"coordinates\": {\n          \"latitude\": 47.265013971955,\n          \"longitude\": -122.2367720782\n        },\n        \"location_type\": \"physical\"\n      }\n    ],\n    \"metadata\": {\n      \"last_action_date\": \"2023-10-27\",\n      \"source\": \"food_lifeline_wa\"\n    }\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_3868_1\",\n      \"organization_id\": \"org_3868\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630154.558486",
+  "timestamp": "2025-08-08T06:00:28.148103"
+}

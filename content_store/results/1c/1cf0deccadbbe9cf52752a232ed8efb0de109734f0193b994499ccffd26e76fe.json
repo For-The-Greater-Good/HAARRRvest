@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"metadata\": {\n    \"version\": \"3.1.1\",\n    \"data_source_id\": \"6ca7f458-056d-4d0d-b839-60b9e0989ccd\",\n    \"last_action_date\": \"2023-10-27\"\n  },\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Community Action Partnership\",\n      \"alternate_name\": null,\n      \"description\": \"A community action agency providing various services.\",\n      \"url\": null,\n      \"email\": null,\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_1\",\n          \"address_type\": \"physical\",\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": \"TX\",\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 28.9200134,\n            \"longitude\": -98.5432186\n          },\n          \"location_type\": \"physical\"\n        }\n      ],\n      \"phones\": [],\n      \"services\": []\n    }\n  ]\n}",
+  "job_id": "1754630725.221316",
+  "timestamp": "2025-08-08T06:03:16.978123"
+}

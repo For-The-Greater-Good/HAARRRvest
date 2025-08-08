@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1108, \"name\": \"CHASI MFP - Ebbits St. & Hylan Blvd.\", \"address\": \"Ebbitts St Staten Island NY, 10306\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10306, \"latitude\": 40.563152, \"longitude\": -74.107872, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1108, \"pantry_id\": 3260, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"1108\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-27\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-17\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-15\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:41:58.407659"
+}

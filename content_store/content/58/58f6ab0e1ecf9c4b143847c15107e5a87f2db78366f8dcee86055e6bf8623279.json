@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"10707\", \"organizationId\": \"8368\", \"name\": \"Corona Food Pantry\", \"address1\": \"251 Dubois\", \"address2\": \"\", \"city\": \"Corona\", \"state\": \"NM\", \"zipCode\": \"88318\", \"country\": null, \"phone\": \"575-849-5478\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"34.24877915\", \"longitude\": \"-105.5966668\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"Pantry is located in basement of Baptist Church, across from Corona Public School.\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"TEFAP Program\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 71, \"regionName\": \"Roadrunner Food Bank of New Mexico\", \"logoBlobNameSmall\": \"d2c42119-4ccf-487d-89a3-a39cf3f3228b.png\", \"website\": \"https://www.rrfb.org/\"}], \"timeZoneName\": \"Mountain Standard Time\", \"timeZoneCode\": \"MT\", \"offsetHours\": \"-6\", \"schedules\": [\"Friday 1:00 PM-4:00 PM\"], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 8138, \"locationId\": 10707, \"specialDate\": \"2025-08-15T00:00:00\", \"startTime\": \" 1:00:00 PM\", \"endTime\": \" 4:00:00 PM\", \"startTimeDescr\": \"1:00 PM\", \"endTimeDescr\": \"4:00 PM\", \"closedInd\": false, \"notes\": \"Open 3rd. Fri each mo.; 2nd wk if 1st is Fri!\", \"addDateTime\": \"2025-02-26T18:40:25.073\", \"addUserName\": \"TFROESE@PLATEAUTEL.NET\", \"updateDateTime\": null, \"updateUserName\": null}]}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:39:40.201918"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"7df90704-d60a-434f-a2ac-a5061c3244b5\",\n  \"name\": \"Lott Baptist Church\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"MI\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\"\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"9897353771\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"locations\": [\n    {\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 44.5349996,\n        \"longitude\": -83.7000807\n      }\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-21\",\n    \"org_id\": \"org_1\",\n    \"location_id\": \"loc_1\",\n    \"service_id\": null\n  }\n}",
+  "job_id": "1754630877.649162",
+  "timestamp": "2025-08-08T07:08:08.241377"
+}

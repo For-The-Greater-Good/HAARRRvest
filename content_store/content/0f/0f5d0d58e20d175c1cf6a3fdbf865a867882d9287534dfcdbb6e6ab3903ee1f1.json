@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1164, \"name\": \"Community Service Center of Wilmore-High Bridge\", \"address\": \"209 E Main St Wilmore KY, 40390\", \"city\": \"Wilmore\", \"state\": \"KY\", \"zip_code\": 40390, \"latitude\": 37.859989, \"longitude\": -84.660828, \"phone\": 8598582819, \"website\": \"cscwilmore.org\", \"organization_id\": 1164, \"pantry_id\": 3375, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1164\", \"amenities\": [], \"conditions\": [\"1 Visit per Every Calendar Month\", \"Geographic Restrictions: 40390 Zip Code Only\"], \"service_hours\": [{\"date\": \"2025-08-30\", \"time\": 34200, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-27\", \"time\": 34200, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-25\", \"time\": 34200, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-29\", \"time\": 34200, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:32:30.008301"
+}

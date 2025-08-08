@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"e28c02da-f9f0-47ef-a695-1cbc8055883d\",\n  \"name\": \"Aunt Dot's Place\",\n  \"alternate_name\": \"\",\n  \"description\": \"\",\n  \"email\": \"auntdotsplace@gmail.com\",\n  \"url\": \"\",\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": \"\",\n      \"address_2\": \"\",\n      \"city\": \"\",\n      \"state_province\": \"VT\",\n      \"postal_code\": \"\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 44.5101767,\n        \"longitude\": -73.0735666\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"type\": \"voice\",\n      \"number\": \"8026625614\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"ids\": {\n      \"org_1\": \"e28c02da-f9f0-47ef-a695-1cbc8055883d\"\n    }\n  }\n}",
+  "job_id": "1754630878.10656",
+  "timestamp": "2025-08-08T07:08:17.695538"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"fc36e3b5-28c4-430b-b58a-6b78142c8b58\",\n  \"name\": \"St. Paul's Episcopal Church\",\n  \"alternate_name\": null,\n  \"description\": \"A church offering food pantry services.\",\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 37.8111069,\n        \"longitude\": -122.2603295\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"type\": \"voice\",\n      \"number\": \"510-834-4314\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-15\",\n    \"org_id\": \"fc36e3b5-28c4-430b-b58a-6b78142c8b58\"\n  }\n}",
+  "job_id": "1754630794.676492",
+  "timestamp": "2025-08-08T06:33:45.917644"
+}

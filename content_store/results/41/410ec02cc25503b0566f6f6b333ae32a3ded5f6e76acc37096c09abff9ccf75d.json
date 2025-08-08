@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"6ceff8bc-e0d5-40dd-8fd4-8e0eef9f24fe\",\n  \"name\": \"Saint Vincent De Paul Food Pantry\",\n  \"alternate_name\": \"\",\n  \"description\": \"Saint Vincent De Paul Food Pantry provides food assistance.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": null,\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [\n    {\n      \"number\": \"9065247001\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"location\": {\n    \"latitude\": 46.757400399999995,\n    \"longitude\": -88.4541555,\n    \"location_type\": \"physical\"\n  },\n  \"regular_schedule\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-27\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630890.201479",
+  "timestamp": "2025-08-08T07:12:29.582483"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Clarksville Seventh-Day Adventist Church\",\n      \"alternate_name\": null,\n      \"description\": null,\n      \"url\": null,\n      \"email\": null,\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_1\",\n          \"address_type\": \"physical\",\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": null,\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 35.4700838,\n            \"longitude\": -93.5160193\n          }\n        }\n      ],\n      \"phones\": [],\n      \"services\": [],\n      \"metadata\": {\n        \"import_id\": \"935cf5f7-e7be-42ce-8ad0-eeb51fa9dab3\",\n        \"last_action_date\": \"2024-02-21\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630777.013016",
+  "timestamp": "2025-08-08T06:26:00.937510"
+}

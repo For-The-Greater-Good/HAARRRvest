@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_4164\",\n  \"name\": \"Vedic Cultural Center\",\n  \"description\": \"Vedic Cultural Center provides food bank services.\",\n  \"locations\": [\n    {\n      \"id\": \"loc_4164\",\n      \"name\": \"Vedic Cultural Center\",\n      \"address_type\": \"physical\",\n      \"street_address\": \"1420 228th Ave SE\",\n      \"city\": \"Sammamish\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98075\",\n      \"country\": \"US\",\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 47.596359195931,\n        \"longitude\": -122.034531842002\n      }\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4164\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"locations\": [\n        {\n          \"location_id\": \"loc_4164\",\n          \"description\": \"Food distribution at the Vedic Cultural Center.\"\n        }\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754629785.530631",
+  "timestamp": "2025-08-08T05:48:19.662746"
+}

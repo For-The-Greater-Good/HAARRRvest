@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1148, \"name\": \"WeeCycle Mobile Baby Essentials Distribution @ Broomfield Commons\", \"address\": \"13200 Sheridan Boulevard Broomfield CO, 80020\", \"city\": \"Broomfield\", \"state\": \"CO\", \"zip_code\": 80020, \"latitude\": 39.786835, \"longitude\": -104.915504, \"phone\": 7203197792, \"website\": \"weecycle.org\", \"organization_id\": 1148, \"pantry_id\": 3353, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"1148\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-13\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:38:39.029556"
+}

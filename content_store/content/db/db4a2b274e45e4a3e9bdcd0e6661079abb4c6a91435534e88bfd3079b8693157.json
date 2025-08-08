@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1197, \"name\": \"Deer Trail\", \"address\": \"370 Aspen St Deer Trail CO, 80105\", \"city\": \"Deer Trail\", \"state\": \"CO\", \"zip_code\": 80105, \"latitude\": 39.611198, \"longitude\": -104.041649, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1197, \"pantry_id\": 3452, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1197\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-16\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-20\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-18\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-15\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:39:25.625834"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1221, \"name\": \"Rural Communities Resource Center\", \"address\": \"410 W Hoag Ave Yuma CO, 80759\", \"city\": \"Yuma\", \"state\": \"CO\", \"zip_code\": 80759, \"latitude\": 40.124027, \"longitude\": -102.723961, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1221, \"pantry_id\": 3473, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1221\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-18\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-15\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-20\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-17\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:40:54.881733"
+}

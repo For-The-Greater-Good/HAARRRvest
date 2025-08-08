@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"b1f3583e-126a-4a80-b5eb-c66e1bb5ec19\",\n  \"external_id\": \"b1f3583e-126a-4a80-b5eb-c66e1bb5ec19\",\n  \"name\": \"Second Missionary Baptist Church\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\",\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"8167633999\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"location\": {\n    \"latitude\": 38.8971786,\n    \"longitude\": -94.5319671\n  },\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630808.205381",
+  "timestamp": "2025-08-08T06:39:05.116454"
+}

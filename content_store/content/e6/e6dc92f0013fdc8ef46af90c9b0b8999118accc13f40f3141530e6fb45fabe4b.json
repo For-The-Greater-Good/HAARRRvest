@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"1554\", \"organizationId\": \"1413\", \"name\": \"Du Quoin Food Pantry\", \"address1\": \"314 North Maple St\", \"address2\": \"\", \"city\": \"Du Quoin\", \"state\": \"IL\", \"zipCode\": \"62832\", \"country\": null, \"phone\": \"618-571-5472\", \"phoneExt\": \"\", \"website\": null, \"latitude\": \"38.01594\", \"longitude\": \"-89.24427\", \"foodPrograms\": \"Food Pantry\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"618-571-2527\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 17, \"regionName\": \"St. Louis Area Foodbank\", \"logoBlobNameSmall\": \"2663eb40-ca6e-413e-8ab2-bf60bbdd2771.jpg\", \"website\": \"https://stlfoodbank.org/\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Thursday 9:00 AM-12:00 PM\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:39:56.698608"
+}

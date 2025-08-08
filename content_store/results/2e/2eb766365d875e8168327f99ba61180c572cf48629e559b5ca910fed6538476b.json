@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_4142\",\n  \"name\": \"The Giving Room at Epic Life Church\",\n  \"description\": \"The Giving Room at Epic Life Church provides food bank services.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_4142_1\",\n      \"address_type\": \"physical\",\n      \"address_1\": \"10510 Stone Ave N\",\n      \"city\": \"Seattle\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98133\",\n      \"country\": \"US\",\n      \"coordinates\": [\n        {\n          \"location_type\": \"physical\",\n          \"latitude\": 47.705255121787,\n          \"longitude\": -122.341557854014\n        }\n      ]\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4142_1\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides access to food through a food bank.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"id\": \"org_4142\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754629828.098193",
+  "timestamp": "2025-08-08T05:57:47.938970"
+}

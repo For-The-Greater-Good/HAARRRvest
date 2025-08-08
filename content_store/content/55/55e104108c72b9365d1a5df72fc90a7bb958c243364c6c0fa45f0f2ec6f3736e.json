@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1203, \"name\": \"Clifton Christian Church MP\", \"address\": \"3241 F 1/4 Rd Clifton CO, 81520\", \"city\": \"Clifton\", \"state\": \"CO\", \"zip_code\": 81520, \"latitude\": 39.094875, \"longitude\": -108.451363, \"phone\": 9704641138, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1203, \"pantry_id\": 3481, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1203\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-23\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-27\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-25\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-15\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:35:31.645244"
+}

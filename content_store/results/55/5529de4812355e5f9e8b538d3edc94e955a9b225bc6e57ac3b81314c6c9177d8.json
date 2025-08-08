@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"hs_schema_version\": \"3.1.1\",\n  \"id\": \"org_1\",\n  \"name\": \"Neighborhood House\",\n  \"description\": \"Neighborhood House is a community organization.\",\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"MN\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 44.9307883,\n        \"longitude\": -93.0771566\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"type\": \"voice\",\n      \"number\": \"6517892500\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-20\",\n    \"source_file_id\": \"11b66421-f3e2-475a-a9aa-bef751b1620f\"\n  }\n}",
+  "job_id": "1754630881.537599",
+  "timestamp": "2025-08-08T07:09:23.616477"
+}

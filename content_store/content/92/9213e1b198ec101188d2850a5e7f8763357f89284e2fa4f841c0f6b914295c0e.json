@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1430, \"name\": \"Food Share Pop-up Pantry\", \"address\": \"340 Fiedler Ave Dillon CO, 80435\", \"city\": \"Dillon\", \"state\": \"CO\", \"zip_code\": 80435, \"latitude\": 39.627579, \"longitude\": -106.044876, \"phone\": 9702351264, \"website\": \"\", \"organization_id\": 1430, \"pantry_id\": 3728, \"service_type\": \"2\", \"has_appointments\": true, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"1430\", \"amenities\": [\"Client choice\", \"Indoor waiting area\", \"Seating area available\", \"Speaks Spanish\"], \"conditions\": [\"2 Visits per Every Calendar Month\", \"Registrations accepted 1 Week in advance\"], \"service_hours\": [{\"date\": \"2025-08-09\", \"time\": 43200, \"until\": 48600, \"max_people\": 9, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:37:41.733137"
+}

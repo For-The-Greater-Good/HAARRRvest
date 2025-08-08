@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"1945\", \"organizationId\": \"1334\", \"name\": \"Seneca Elementary South Campus\", \"address1\": \"410 S Main Street\", \"address2\": null, \"city\": \"Seneca\", \"state\": \"IL\", \"zipCode\": \"61360\", \"country\": null, \"phone\": null, \"phoneExt\": null, \"website\": null, \"latitude\": \"41.3030371\", \"longitude\": \"-88.6067916\", \"foodPrograms\": \"Mobile Market\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": null, \"contactPhone\": null, \"contactEmail\": null, \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 2, \"regionName\": \"Northern Illinois Food Bank\", \"logoBlobNameSmall\": \"dbf64577-4f05-4753-a6ec-ebbbd9c99e9c.png\", \"website\": \"solvehungertoday.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 9906, \"locationId\": 1945, \"specialDate\": \"2025-10-06T00:00:00\", \"startTime\": \" 4:30:00 PM\", \"endTime\": \" 6:00:00 PM\", \"startTimeDescr\": \"4:30 PM\", \"endTimeDescr\": \"6:00 PM\", \"closedInd\": false, \"notes\": \"Mobile Market Distribution\", \"addDateTime\": \"2025-06-25T15:10:12.4\", \"addUserName\": \"nhuerta@northernilfoodbank.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:40:04.785932"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"8435\", \"organizationId\": \"7023\", \"name\": \"Cloverdale Citrus Fairgrounds\", \"address1\": \"1 Citrus Fair Dr\", \"address2\": \"\", \"city\": \"Cloverdale\", \"state\": \"CA\", \"zipCode\": \"95425\", \"country\": null, \"phone\": \"\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"38.8029622\", \"longitude\": \"-123.0176471\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"\", \"contactEmail\": \"\", \"servicePrograms\": \"Diapers\", \"foodServiceTypes\": \"Walking Through\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 59, \"regionName\": \"Redwood Empire Food Bank\", \"logoBlobNameSmall\": \"1f934c90-6fab-4f51-9c97-aef07a96094a.png\", \"website\": \"https://refb.org/\"}], \"timeZoneName\": \"Pacific Standard Time\", \"timeZoneCode\": \"PT\", \"offsetHours\": \"-7\", \"schedules\": [\"Monday 4:00 PM-5:00 PM\", \"Monday 4:00 PM-5:00 PM\", \"Monday 4:00 PM-5:00 PM\"], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 10626, \"locationId\": 8435, \"specialDate\": \"2025-09-01T00:00:00\", \"startTime\": null, \"endTime\": null, \"startTimeDescr\": null, \"endTimeDescr\": null, \"closedInd\": true, \"notes\": \"\", \"addDateTime\": \"2025-08-07T16:14:17.113\", \"addUserName\": \"shernandez@refb.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:39:57.351693"
+}

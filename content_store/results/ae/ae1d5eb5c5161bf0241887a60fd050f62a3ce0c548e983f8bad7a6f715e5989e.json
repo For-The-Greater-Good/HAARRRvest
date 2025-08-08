@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Camden Seventh-day Adventist Church\",\n      \"alternate_name\": null,\n      \"description\": null,\n      \"urls\": [],\n      \"addresses\": [\n        {\n          \"address_type\": \"physical\",\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": null,\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"location_type\": \"physical\",\n          \"coordinates\": {\n            \"latitude\": 36.050673,\n            \"longitude\": -88.1031975\n          }\n        }\n      ],\n      \"phones\": [\n        {\n          \"number\": \"7315849400\",\n          \"extension\": null,\n          \"type\": \"voice\",\n          \"languages\": [\n            {\n              \"name\": \"English\"\n            }\n          ]\n        }\n      ],\n      \"email_addresses\": [],\n      \"services\": [],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630791.854911",
+  "timestamp": "2025-08-08T06:32:41.383806"
+}

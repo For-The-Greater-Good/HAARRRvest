@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1110, \"name\": \"CHASI MFP - Clove Lakes Park\", \"address\": \"Clove Lake Pl Staten Island NY, 10310\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10310, \"latitude\": 40.627434, \"longitude\": -74.117882, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1110, \"pantry_id\": 3264, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"5\"], \"source\": \"plentiful\", \"source_id\": \"1110\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-08\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-19\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-10\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:41:55.420519"
+}

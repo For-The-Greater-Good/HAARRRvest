@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"62c848a0-e737-425b-8955-fb757c1ad9b1\",\n  \"name\": \"Spear Ministries - Food Distribution Center\",\n  \"alternate_name\": null,\n  \"description\": \"Spear Ministries provides food distribution services.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_1\",\n      \"address_type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.6553936,\n        \"longitude\": -117.3824544\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"phones\": [],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Distribution\",\n      \"description\": \"Provides food distribution services.\",\n      \"status\": \"active\",\n      \"schedule\": []\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630893.384608",
+  "timestamp": "2025-08-08T07:13:38.001457"
+}

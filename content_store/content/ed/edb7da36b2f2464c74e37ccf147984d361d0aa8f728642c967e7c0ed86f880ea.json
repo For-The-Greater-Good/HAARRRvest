@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1213, \"name\": \"Red Rocks Community College\", \"address\": \"13300 West 6th Avenue, Lakewood, CO 80228 Denver CO, 80228\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80228, \"latitude\": 39.720253, \"longitude\": -105.149971, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1213, \"pantry_id\": 3469, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1213\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-09-06\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-04\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-01\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-12-06\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:38:57.294843"
+}

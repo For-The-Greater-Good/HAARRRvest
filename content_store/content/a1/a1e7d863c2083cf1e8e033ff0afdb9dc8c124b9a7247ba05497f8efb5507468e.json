@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1229, \"name\": \"We Don't Waste - Mobile Market - National Western Center\", \"address\": \"5115 Race Ct Denver CO, 80216\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80216, \"latitude\": 39.788067, \"longitude\": -104.965607, \"phone\": 7204436113, \"website\": \"wedontwaste.org\", \"organization_id\": 1229, \"pantry_id\": 3496, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1229\", \"amenities\": [\"Client choice\", \"Speaks Spanish\"], \"conditions\": [\"Registrations accepted 24 Hours in advance\"], \"service_hours\": [{\"date\": \"2025-10-03\", \"time\": 39600, \"until\": 45900, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-11-07\", \"time\": 39600, \"until\": 45900, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-12-05\", \"time\": 39600, \"until\": 45900, \"max_people\": 85, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:38:51.033514"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organization\": {\n    \"id\": \"org_3889\",\n    \"name\": \"Brooklake Church\",\n    \"description\": \"Brooklake Church offers food bank services.\",\n    \"addresses\": [\n      {\n        \"id\": \"loc_3889\",\n        \"address_type\": \"physical\",\n        \"address_1\": \"629 S 356th ST\",\n        \"city\": \"Federal Way\",\n        \"state_province\": \"WA\",\n        \"postal_code\": \"98003\",\n        \"country\": \"US\",\n        \"coordinates\": {\n          \"latitude\": 47.281644631774,\n          \"longitude\": -122.325913199375\n        },\n        \"location_type\": \"physical\"\n      }\n    ],\n    \"metadata\": {\n      \"source\": \"food_lifeline_wa\",\n      \"last_action_date\": \"2023-10-27\"\n    }\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_3889\",\n      \"organization_id\": \"org_3889\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630134.03412",
+  "timestamp": "2025-08-08T06:00:18.653094"
+}

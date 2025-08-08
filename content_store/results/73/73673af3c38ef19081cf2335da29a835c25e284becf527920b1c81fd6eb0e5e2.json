@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"state_province\": \"VT\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 42.9740348,\n        \"longitude\": -72.5207329\n      }\n    }\n  ],\n  \"organization\": {\n    \"name\": \"Putney Foodshelf\",\n    \"description\": \"Putney Foodshelf is an active organization.\",\n    \"email\": \"putneyfoodshelf@gmail.com\",\n    \"url\": null\n  },\n  \"services\": [\n    {\n      \"status\": \"active\",\n      \"description\": \"Food pantry services\",\n      \"metadata\": {\n        \"id\": \"svc_1\",\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"id\": \"org_1\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630863.423161",
+  "timestamp": "2025-08-08T07:02:59.807851"
+}

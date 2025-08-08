@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"f9ff6168-2d53-4d1a-b350-5979e0f17ccb\",\n  \"name\": \"Golden Valley Church\",\n  \"description\": \"A church providing food pantry services.\",\n  \"url\": null,\n  \"email\": null,\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 45.8851486,\n        \"longitude\": -102.9428072\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"phones\": [],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry\",\n      \"description\": \"Food pantry services offered by Golden Valley Church.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630883.799672",
+  "timestamp": "2025-08-08T07:10:15.138677"
+}

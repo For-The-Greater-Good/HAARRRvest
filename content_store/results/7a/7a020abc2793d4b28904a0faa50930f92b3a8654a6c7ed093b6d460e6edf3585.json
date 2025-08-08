@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_3944\",\n  \"name\": \"First Baptist Church Yelm\",\n  \"description\": \"First Baptist Church Yelm provides food bank services.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_3944\",\n      \"address_type\": \"physical\",\n      \"address_1\": \"602 103rd Ave se\",\n      \"city\": \"Yelm\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98597\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 46.93810401815,\n        \"longitude\": -122.578653612959\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_3944\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_3944\"\n        }\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"id\": \"org_3944\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630073.102276",
+  "timestamp": "2025-08-08T05:59:50.765188"
+}

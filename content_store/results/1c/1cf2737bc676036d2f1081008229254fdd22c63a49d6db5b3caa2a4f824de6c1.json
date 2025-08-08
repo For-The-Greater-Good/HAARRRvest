@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"90245d93-fd8e-4067-b8bb-ea64d3e2ea11\",\n  \"name\": \"South Central Comm Action\",\n  \"alternate_name\": null,\n  \"description\": \"South Central Community Action provides services to the community.\",\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"MS\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 32.282730799999996,\n        \"longitude\": -90.02333899999999\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"type\": \"voice\",\n      \"number\": \"601-824-8844\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"ids\": {\n      \"org_1\": \"90245d93-fd8e-4067-b8bb-ea64d3e2ea11\"\n    }\n  }\n}",
+  "job_id": "1754630742.643341",
+  "timestamp": "2025-08-08T06:10:47.879827"
+}

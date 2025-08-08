@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Broadwater Food Pantry\",\n      \"alternate_name\": null,\n      \"description\": null,\n      \"email\": null,\n      \"url\": null,\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"address_type\": \"physical\",\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": \"MT\",\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 46.3204399,\n            \"longitude\": -111.517955\n          }\n        }\n      ],\n      \"phones\": [],\n      \"services\": [],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\",\n        \"data_sources\": [\n          {\n            \"source_id\": \"083c65d8-5949-4b80-8bea-2cb7abccebf8\",\n            \"retrieve_date\": \"2023-10-27\"\n          }\n        ]\n      }\n    }\n  ]\n}",
+  "job_id": "1754630886.419071",
+  "timestamp": "2025-08-08T07:11:10.115839"
+}

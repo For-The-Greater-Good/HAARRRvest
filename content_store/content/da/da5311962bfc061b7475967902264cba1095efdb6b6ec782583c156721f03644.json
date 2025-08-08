@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1230, \"name\": \"Jewish Family Services- Arapahoe County Public Health\", \"address\": \"4857 S Broadway Englewood CO, 80113\", \"city\": \"Englewood\", \"state\": \"CO\", \"zip_code\": 80113, \"latitude\": 39.628304, \"longitude\": -104.988365, \"phone\": 3035975000, \"website\": \"https://www.jewishfamilyservice.org/mobile-pantry\", \"organization_id\": 1230, \"pantry_id\": 3497, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"1230\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-19\", \"time\": 45000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:38:03.347218"
+}

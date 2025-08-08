@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1273, \"name\": \"Open Bible Baptist Church \\u2013 DBA In His Name Food Pantry\", \"address\": \"824 S Union Blvd Colorado Springs CO, 80910\", \"city\": \"Colorado Springs\", \"state\": \"CO\", \"zip_code\": 80910, \"latitude\": 38.820156, \"longitude\": -104.793503, \"phone\": 7194752001, \"website\": \"https://careandshare.org/locations/open-bible-baptist-church/\", \"organization_id\": 1273, \"pantry_id\": 2623, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1273\", \"amenities\": [], \"conditions\": [\"Geographic Restrictions: El Paso County\"], \"service_hours\": [{\"date\": \"2025-08-16\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-20\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-18\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-15\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:36:23.242362"
+}

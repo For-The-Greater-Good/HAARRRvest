@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 420, \"name\": \"The Table at the Family Support Center at NYU Langone\", \"address\": \"550 59th St Brooklyn NY, 11220\", \"city\": \"Brooklyn\", \"state\": \"NY\", \"zip_code\": 11220, \"latitude\": 40.637661, \"longitude\": -74.014114, \"phone\": 7186307186, \"website\": \"\", \"organization_id\": 420, \"pantry_id\": 462, \"service_type\": \"2\", \"has_appointments\": true, \"week_days\": [\"5\"], \"source\": \"plentiful\", \"source_id\": \"420\", \"amenities\": [\"Client choice\", \"Distributes food based on household size\", \"Indoor waiting area\", \"Seating area available\", \"Speaks Spanish\", \"Speaks Chinese\", \"SNAP benefits enrollment\"], \"conditions\": [\"1 Visit per Every Calendar Month\", \"Registrations accepted 1 Month in advance\"], \"service_hours\": [{\"date\": \"2025-08-08\", \"time\": 32400, \"until\": 43200, \"max_people\": 22, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:43:29.013711"
+}

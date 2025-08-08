@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_4130\",\n  \"name\": \"St. Martin's On Westlake\",\n  \"description\": \"St. Martin's On Westlake is a food pantry located in Seattle, WA.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_4130\",\n      \"address_type\": \"physical\",\n      \"address_1\": \"2008 Westlake Ave\",\n      \"city\": \"Seattle\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98121\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.615541097529,\n        \"longitude\": -122.337580473319\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4130\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food assistance to individuals and families in need.\",\n      \"status\": \"active\",\n      \"locations\": [\n        \"loc_4130\"\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"source\": \"food_lifeline_wa\",\n    \"food_bank\": \"Food Lifeline\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754629851.961341",
+  "timestamp": "2025-08-08T05:58:02.474696"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organization\": {\n    \"id\": \"org_3994\",\n    \"name\": \"Key Peninsula Community Services Food Bank\",\n    \"description\": \"Key Peninsula Community Services Food Bank provides food assistance to the community.\",\n    \"locations\": [\n      {\n        \"id\": \"loc_3994\",\n        \"address_type\": \"physical\",\n        \"location_type\": \"physical\",\n        \"street_address\": \"17015 9th St Court KPN\",\n        \"city\": \"Lakebay\",\n        \"state_province\": \"WA\",\n        \"postal_code\": \"98349\",\n        \"country\": \"US\",\n        \"coordinates\": {\n          \"latitude\": 47.265920851969,\n          \"longitude\": -122.765617027304\n        }\n      }\n    ]\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_3994_foodbank\",\n      \"organization_id\": \"org_3994\",\n      \"location_id\": \"loc_3994\",\n      \"service_type\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2024-02-15\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630023.068054",
+  "timestamp": "2025-08-08T05:59:29.217095"
+}

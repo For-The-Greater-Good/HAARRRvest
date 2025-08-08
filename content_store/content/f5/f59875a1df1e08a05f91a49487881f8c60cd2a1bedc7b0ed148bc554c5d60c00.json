@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"3279\", \"organizationId\": \"2166\", \"name\": \"LCOC/Truro\", \"address1\": \"7 Standish Way\", \"address2\": null, \"city\": \"Truro\", \"state\": \"MA\", \"zipCode\": \"02652\", \"country\": null, \"phone\": \"508-240-0694\", \"phoneExt\": null, \"website\": null, \"latitude\": \"42.03766\", \"longitude\": \"-70.08665\", \"foodPrograms\": \"Pantry\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": null, \"contactPhone\": null, \"contactEmail\": null, \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 26, \"regionName\": \"The Greater Boston Food Bank\", \"logoBlobNameSmall\": \"fe65478e-80f9-4330-b719-d2afc58262f8.png\", \"website\": \"https://www.gbfb.org/\"}], \"timeZoneName\": \"Eastern Standard Time\", \"timeZoneCode\": \"ET\", \"offsetHours\": \"-4\", \"schedules\": [\"Tuesday 10:00 AM-12:30 PM\", \"Wednesday 10:00 AM-12:30 PM\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:40:06.498559"
+}

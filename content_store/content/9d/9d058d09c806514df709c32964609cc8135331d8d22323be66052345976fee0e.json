@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"6678\", \"organizationId\": \"5668\", \"name\": \"City Harvest Food Pantry\", \"address1\": \"2802 Lone Tree Rd\", \"address2\": \"\", \"city\": \"Victoria\", \"state\": \"TX\", \"zipCode\": \"77901-735\", \"country\": null, \"phone\": \"\", \"phoneExt\": \"\", \"website\": \"\", \"latitude\": \"28.8003407\", \"longitude\": \"-96.9746669\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"COUNTY:  Victoria\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": \"\", \"contactPhone\": \"361-576-9966\", \"contactEmail\": \"\", \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 49, \"regionName\": \"Food Bank of the Golden Crescent\", \"logoBlobNameSmall\": \"285914fc-5ff8-4345-9007-442c69c1037d.png\", \"website\": \"https://www.tfbgc.org/\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [\"Tuesday 1:00 PM-3:00 PM\"], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:39:30.914223"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"211bc29c-bb5d-4abe-a83f-823884597e35\",\n  \"name\": \"St. John the Baptist Catholic Church\",\n  \"alternate_name\": \"\",\n  \"description\": \"Provider of food pantry services.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"KS\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 37.8472632,\n    \"longitude\": -99.7546668,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry\",\n      \"description\": \"Provides food assistance.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630796.189479",
+  "timestamp": "2025-08-08T06:34:21.346363"
+}

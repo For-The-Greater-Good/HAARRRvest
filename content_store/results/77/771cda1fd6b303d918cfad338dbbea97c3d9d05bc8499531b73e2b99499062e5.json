@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"0a31954d-2ece-4dc4-b049-44ef83d5d18e\",\n  \"name\": \"Nashville Community Center\",\n  \"alternate_name\": \"\",\n  \"description\": \"A community center serving Nashville.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": \"\",\n      \"address_2\": \"\",\n      \"city\": \"Nashville\",\n      \"state_province\": \"GA\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\"\n    }\n  ],\n  \"phones\": [],\n  \"locations\": [\n    {\n      \"latitude\": 31.2076328,\n      \"longitude\": -83.2494366,\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry Services\",\n      \"description\": \"Food pantry services offered by Nashville Community Center.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630737.674069",
+  "timestamp": "2025-08-08T06:08:37.879062"
+}

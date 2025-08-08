@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_3937\",\n  \"name\": \"Familyworks \u2013 Greenwood\",\n  \"description\": \"Familyworks provides food assistance services.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_3937_1\",\n      \"address_type\": \"physical\",\n      \"street_address\": \"9501 Greenwood Ave N\",\n      \"city\": \"Seattle\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98103\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.698460625344,\n        \"longitude\": -122.355800216252\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_3937_1\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"food_lifeline_wa\"\n  }\n}",
+  "job_id": "1754630079.23717",
+  "timestamp": "2025-08-08T05:59:53.025052"
+}

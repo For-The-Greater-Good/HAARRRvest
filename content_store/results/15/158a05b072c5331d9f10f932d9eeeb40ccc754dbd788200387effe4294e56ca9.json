@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"A Small Hand\",\n      \"alternate_name\": null,\n      \"description\": null,\n      \"email\": null,\n      \"url\": null,\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_1\",\n          \"address_type\": \"physical\",\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": null,\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 38.822899,\n            \"longitude\": -78.56444259999999\n          },\n          \"location_type\": \"physical\",\n          \"metadata\": {\n            \"last_action_date\": \"2023-10-27\"\n          }\n        }\n      ],\n      \"phones\": [],\n      \"services\": [],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630811.40924",
+  "timestamp": "2025-08-08T06:40:19.223716"
+}

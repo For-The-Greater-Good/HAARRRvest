@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"org_1\",\n  \"name\": \"Saint John United Methodist Church - Food Distribution Center\",\n  \"alternate_name\": null,\n  \"description\": \"Food distribution center operated by Saint John United Methodist Church.\",\n  \"email\": \"presscenter@umcom.org\",\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"KS\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 38.0000407,\n        \"longitude\": -98.7491108\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"type\": \"voice\",\n      \"number\": \"620-549-3896\",\n      \"extension\": null,\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-23\"\n  }\n}",
+  "job_id": "1754630801.079971",
+  "timestamp": "2025-08-08T06:36:35.069477"
+}

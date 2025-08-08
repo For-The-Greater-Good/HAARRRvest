@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1351, \"name\": \"CHASI - Arthur Kill\", \"address\": \"Arthur Kill Rd Staten Island NY, 10302\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10302, \"latitude\": 40.555836, \"longitude\": -74.201828, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1351, \"pantry_id\": 3659, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"1351\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-26\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-24\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-29\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:41:54.280704"
+}

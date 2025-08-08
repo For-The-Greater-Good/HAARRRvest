@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"1db8781d-e9a7-45b9-ac98-7bbaa3a38cc5\",\n  \"name\": \"The Church of Jesus Christ of Latter-day Saints\",\n  \"alternate_name\": \"\",\n  \"description\": \"The Church of Jesus Christ of Latter-day Saints provides various community services.\",\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_1\",\n      \"address_type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"UT\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 42.0126534,\n        \"longitude\": -111.8796019\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"phones\": [\n    {\n      \"id\": \"phone_1\",\n      \"number\": \"4359320837\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"id\": \"org_1\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630847.583084",
+  "timestamp": "2025-08-08T06:56:38.756248"
+}

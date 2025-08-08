@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1113, \"name\": \"CHASI MFP - Arlington Houses\", \"address\": \"35 Holland Ave Staten Island NY, 10303\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10303, \"latitude\": 40.639278, \"longitude\": -74.170372, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1113, \"pantry_id\": 3246, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"1113\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-26\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-23\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-28\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:42:59.007244"
+}

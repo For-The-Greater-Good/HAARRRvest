@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Walkers Church\",\n      \"alternate_name\": null,\n      \"description\": null,\n      \"email\": null,\n      \"url\": null,\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_1\",\n          \"address_type\": \"physical\",\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": null,\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 37.329314499999995,\n            \"longitude\": -78.64972689999999\n          },\n          \"location_type\": \"physical\",\n          \"name\": \"Walkers Church\",\n          \"description\": null\n        }\n      ],\n      \"phones\": [],\n      \"services\": [],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\",\n        \"entity_type\": \"organization\",\n        \"source_id\": \"70dd2811-eac7-46f2-b35a-d86f0c99ddab\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630793.372909",
+  "timestamp": "2025-08-08T06:33:16.657953"
+}

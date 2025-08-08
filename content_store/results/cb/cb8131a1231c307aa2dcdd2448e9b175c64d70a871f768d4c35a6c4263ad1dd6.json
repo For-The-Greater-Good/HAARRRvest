@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_4026\",\n  \"name\": \"Neighbor To Neighbor\",\n  \"description\": \"Neighbor To Neighbor is a food pantry providing food bank services.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_4026\",\n      \"address_type\": \"physical\",\n      \"street_address_1\": \"25213 116th Ave SE\",\n      \"city\": \"Kent\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98030\",\n      \"country\": \"US\",\n      \"location_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 47.375541686721,\n        \"longitude\": -122.187708440324\n      }\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4026\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"addresses\": [\n        {\n          \"location_id\": \"loc_4026\"\n        }\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"source\": \"food_lifeline_wa\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754629981.49013",
+  "timestamp": "2025-08-08T05:59:08.170345"
+}

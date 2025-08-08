@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organization\": {\n    \"id\": \"c9a83705-a834-47bd-bd95-ddd21c90c550\",\n    \"name\": \"Building Community Bridges Non Profit\",\n    \"alternate_name\": \"\",\n    \"description\": \"A non-profit organization focused on building community.\\n\",\n    \"email\": null,\n    \"url\": null,\n    \"status\": \"active\",\n    \"locations\": [\n      {\n        \"id\": \"loc_1\",\n        \"name\": \"Building Community Bridges Non Profit\",\n        \"address\": {\n          \"address_1\": null,\n          \"address_2\": null,\n          \"city\": null,\n          \"state_province\": null,\n          \"postal_code\": null,\n          \"country\": \"US\"\n        },\n        \"location_type\": \"physical\",\n        \"coordinates\": {\n          \"latitude\": 38.5705958,\n          \"longitude\": -92.1759956\n        },\n        \"phones\": [],\n        \"notes\": null\n      }\n    ],\n    \"services\": [],\n    \"metadata\": {\n      \"last_action_date\": \"2023-10-27\",\n      \"data_source\": \"manual\"\n    }\n  }\n}",
+  "job_id": "1754630808.668065",
+  "timestamp": "2025-08-08T06:39:14.247481"
+}

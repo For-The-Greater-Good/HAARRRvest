@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"org_1\",\n  \"name\": \"First English Lutheran Church\",\n  \"alternate_name\": \"\",\n  \"description\": \"A food pantry operated by First English Lutheran Church.\",\n  \"email\": \"office@firstenglishfaribault.org\",\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 44.2926577,\n        \"longitude\": -93.2717686\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"type\": \"voice\",\n      \"number\": \"507-334-4389\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630870.791007",
+  "timestamp": "2025-08-08T07:06:00.533673"
+}

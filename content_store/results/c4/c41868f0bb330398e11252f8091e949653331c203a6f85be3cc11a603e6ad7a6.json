@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Community Church of the Brethren\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_1\",\n          \"address_type\": \"physical\",\n          \"state_province\": \"AL\",\n          \"postal_code\": null,\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 33.9414118,\n            \"longitude\": -86.590417\n          },\n          \"location_type\": \"physical\"\n        }\n      ],\n      \"metadata\": {\n        \"last_action_date\": \"2024-02-22\"\n      }\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"organization_id\": \"org_1\",\n      \"name\": \"Community Church of the Brethren Food Pantry\",\n      \"description\": \"Food pantry services provided by Community Church of the Brethren.\",\n      \"status\": \"active\",\n      \"locations\": [\n        {\n          \"id\": \"loc_1\"\n        }\n      ],\n      \"metadata\": {\n        \"last_action_date\": \"2024-02-22\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754630762.790238",
+  "timestamp": "2025-08-08T06:19:41.283389"
+}

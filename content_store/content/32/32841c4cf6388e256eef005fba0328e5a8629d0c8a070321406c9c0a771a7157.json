@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1034, \"name\": \"Kids At Their Best- Landmark Mobile Home Park\", \"address\": \"127 Brentwood Ave Fort Morgan CO, 80701\", \"city\": \"Fort Morgan\", \"state\": \"CO\", \"zip_code\": 80701, \"latitude\": 40.24432, \"longitude\": -103.804596, \"phone\": 9703806096, \"website\": \"www.kidsattheirbest.org\", \"organization_id\": 1034, \"pantry_id\": 3114, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"1034\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-16\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-20\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-18\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-15\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:40:44.361013"
+}

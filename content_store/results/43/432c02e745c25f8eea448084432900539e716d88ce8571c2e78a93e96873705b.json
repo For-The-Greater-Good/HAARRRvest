@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organization\": {\n    \"id\": \"org_4046\",\n    \"name\": \"Orcas Island Food Bank\",\n    \"description\": \"Orcas Island Food Bank provides food assistance services.\",\n    \"country\": \"US\"\n  },\n  \"locations\": [\n    {\n      \"id\": \"loc_4046\",\n      \"name\": \"Orcas Island Food Bank\",\n      \"address\": {\n        \"street\": \"176 Madrona St\",\n        \"city\": \"Eastsound\",\n        \"state_province\": \"WA\",\n        \"postal_code\": \"98245\",\n        \"country\": \"US\",\n        \"address_type\": \"physical\"\n      },\n      \"coordinates\": {\n        \"latitude\": 48.695577610608,\n        \"longitude\": -122.902977225791\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4046\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"location_ids\": [\n        \"loc_4046\"\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754629959.202254",
+  "timestamp": "2025-08-08T05:58:58.359985"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 784, \"name\": \"Peoples Baptist Church\", \"address\": \"105 Riverdale Ave Brooklyn NY, 11212\", \"city\": \"Brooklyn\", \"state\": \"NY\", \"zip_code\": 11212, \"latitude\": 40.660599, \"longitude\": -73.912857, \"phone\": 7186760318, \"website\": \"\", \"organization_id\": 784, \"pantry_id\": 1933, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"784\", \"amenities\": [\"Client choice\", \"Speaks Spanish\"], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-09\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-13\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-11\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-08\", \"time\": 43200, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:42:22.406454"
+}

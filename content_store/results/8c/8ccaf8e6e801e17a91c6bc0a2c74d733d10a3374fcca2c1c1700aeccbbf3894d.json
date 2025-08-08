@@ -1,0 +1,5 @@
+{
+  "result": "[\n  {\n    \"id\": \"loc_6612\",\n    \"address\": {\n      \"address_1\": \"1215 Houbolt Road\",\n      \"address_2\": null,\n      \"city\": \"Joliet\",\n      \"state_province\": \"IL\",\n      \"postal_code\": \"60431\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 41.4997165,\n        \"longitude\": -88.1696846\n      },\n      \"address_type\": \"physical\"\n    },\n    \"organization\": {\n      \"id\": \"org_5624\",\n      \"name\": \"Joliet Junior College\",\n      \"description\": \"Joliet Junior College offers food distribution services.\"\n    },\n    \"services\": [\n      {\n        \"id\": \"svc_6612_food_distribution\",\n        \"name\": \"Food Distribution\",\n        \"description\": \"Food Distribution services offered by Joliet Junior College.\",\n        \"status\": \"active\",\n        \"locations\": [\n          \"loc_6612\"\n        ]\n      }\n    ],\n    \"metadata\": {\n      \"last_action_date\": \"2023-10-27\",\n      \"data_source\": \"food_pantry_converter\"\n    }\n  }\n]",
+  "job_id": "1754631606.127526",
+  "timestamp": "2025-08-08T07:30:36.259056"
+}

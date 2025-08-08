@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"61310aa1-1c5a-4ea1-8769-1fc7d26596ae\",\n  \"name\": \"Wilcox County Dorothy Nunn Senior Center\",\n  \"alternate_name\": \"\",\n  \"description\": \"Provides services for seniors in Wilcox County.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": \"Pine Hill\",\n    \"state_province\": \"AL\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 31.9979436,\n    \"longitude\": -87.276494,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Senior Center Services\",\n      \"description\": \"General services offered at the senior center.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630743.019204",
+  "timestamp": "2025-08-08T06:10:58.045962"
+}

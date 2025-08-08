@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_1\",\n  \"name\": \"El Centro De La Raza Food Bank\",\n  \"description\": \"El Centro De La Raza Food Bank provides food assistance services.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_1\",\n      \"address_type\": \"physical\",\n      \"street1\": \"2524 16th Ave S\",\n      \"city\": \"Seattle\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98144\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.580373188285,\n        \"longitude\": -122.311383840773\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"locations\": [\n        \"loc_1\"\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"food_lifeline_wa\"\n  }\n}",
+  "job_id": "1754630090.662288",
+  "timestamp": "2025-08-08T05:59:58.854004"
+}

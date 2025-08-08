@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"1f402ace-a10e-4800-b5b4-2c5bdc0068c9\",\n  \"name\": \"Willard First Baptist Church\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"MO\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [\n    {\n      \"number\": \"417-742-2751\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"location\": {\n    \"latitude\": 37.3058219,\n    \"longitude\": -93.4303011,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630791.119426",
+  "timestamp": "2025-08-08T06:32:23.592282"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 674, \"name\": \"Unbreakable Courage Ministries\", \"address\": \"1078 E 37th St Brooklyn NY, 11210\", \"city\": \"Brooklyn\", \"state\": \"NY\", \"zip_code\": 11210, \"latitude\": 40.630497, \"longitude\": -73.940865, \"phone\": 9292516351, \"website\": \"www.unbreakablecourage.com\", \"organization_id\": 674, \"pantry_id\": 1569, \"service_type\": \"2\", \"has_appointments\": true, \"week_days\": [\"2\"], \"source\": \"plentiful\", \"source_id\": \"674\", \"amenities\": [\"Client choice\"], \"conditions\": [\"1 Visit per Every Calendar Month\", \"Registrations accepted 1 Month in advance\"], \"service_hours\": [{\"date\": \"2025-10-21\", \"time\": 59400, \"until\": 64800, \"max_people\": 20, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-11-18\", \"time\": 59400, \"until\": 64800, \"max_people\": 20, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}, {\"date\": \"2025-08-19\", \"time\": 57600, \"until\": 64800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 2, \"type\": \"appointments\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:41:48.529051"
+}

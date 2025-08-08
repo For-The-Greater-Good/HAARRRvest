@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"10526\", \"organizationId\": \"8224\", \"name\": \"The Jack Brewer Foundation\", \"address1\": \"625 Palm Beach Road \", \"address2\": null, \"city\": \"South Bay\", \"state\": \"FL\", \"zipCode\": \"33493\", \"country\": null, \"phone\": \"612-770-7308\", \"phoneExt\": null, \"website\": null, \"latitude\": \"26.6638399\", \"longitude\": \"-80.7182366\", \"foodPrograms\": \"Food Distribution\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": null, \"contactPhone\": \"612-770-7308\", \"contactEmail\": null, \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 3, \"regionName\": \"Vivery Network\", \"logoBlobNameSmall\": \"9d6f806b-b144-4a23-97ab-62ef7377b68d.png\", \"website\": \"http://www.vivery.org\"}, {\"regionId\": 45, \"regionName\": \"Feeding South Florida\", \"logoBlobNameSmall\": \"f8218402-042e-413d-9a89-cf1c54cb9c30.png\", \"website\": \"https://feedingsouthflorida.org/\"}], \"timeZoneName\": \"Eastern Standard Time\", \"timeZoneCode\": \"ET\", \"offsetHours\": \"-4\", \"schedules\": [], \"services\": [], \"specialHours\": []}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:39:29.632288"
+}

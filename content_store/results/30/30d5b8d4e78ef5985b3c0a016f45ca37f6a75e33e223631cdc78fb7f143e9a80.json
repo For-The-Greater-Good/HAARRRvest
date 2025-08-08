@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 33.485279,\n        \"longitude\": -112.047288\n      }\n    }\n  ],\n  \"description\": \"Hope For Life Cogic - Food Distribution Center provides food distribution services.\",\n  \"name\": \"Hope For Life Cogic - Food Distribution Center\",\n  \"organization_id\": \"org_1\",\n  \"services\": [\n    {\n      \"description\": \"Food distribution services.\",\n      \"service_id\": \"svc_1\",\n      \"status\": \"active\",\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"action_reason\": \"conversion\"\n  }\n}",
+  "job_id": "1754630754.84292",
+  "timestamp": "2025-08-08T06:16:00.574533"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"c3e42561-5112-498e-b2f7-2cee55608437\",\n  \"name\": \"Old Brick Presbyterian Church\",\n  \"alternate_name\": null,\n  \"description\": \"Old Brick Presbyterian Church is a food pantry.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"VA\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 37.1173585,\n    \"longitude\": -80.5413209,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry\",\n      \"description\": \"Provides food assistance.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2024-02-21\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-21\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630792.684586",
+  "timestamp": "2025-08-08T06:33:03.472807"
+}

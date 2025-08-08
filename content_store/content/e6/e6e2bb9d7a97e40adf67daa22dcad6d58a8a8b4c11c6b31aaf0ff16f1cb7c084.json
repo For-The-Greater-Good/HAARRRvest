@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1191, \"name\": \"Burlington Community Center\", \"address\": \"340 S 14th St Burlington CO, 80807\", \"city\": \"Burlington\", \"state\": \"CO\", \"zip_code\": 80807, \"latitude\": 39.297253, \"longitude\": -102.267342, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1191, \"pantry_id\": 3448, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1191\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-11\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-08\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-13\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-10\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:36:32.130062"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"hs_schema_version\": \"3.1.1\",\n  \"id\": \"org_1\",\n  \"name\": \"Slinger Community Food Pantry\",\n  \"alternate_name\": null,\n  \"description\": \"A community food pantry serving the Slinger area.\",\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 43.330345,\n        \"longitude\": -88.27969089999999\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"type\": \"voice\",\n      \"number\": \"262-644-0507\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"manual\",\n    \"source_id\": \"e20e8b73-14e4-43a8-8a44-5d2baa10f435\"\n  }\n}",
+  "job_id": "1754630871.213591",
+  "timestamp": "2025-08-08T07:06:11.998368"
+}

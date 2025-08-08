@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1223, \"name\": \"Phillips County Event Center\", \"address\": \"22505 US-385 Holyoke CO, 80734\", \"city\": \"Holyoke\", \"state\": \"CO\", \"zip_code\": 80734, \"latitude\": 40.590557, \"longitude\": -102.304726, \"phone\": 3033719250, \"website\": \"https://www.foodbankrockies.org/find-food/\", \"organization_id\": 1223, \"pantry_id\": 3466, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1223\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-09-03\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-01\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-05\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-12-03\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:40:54.258634"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 992, \"name\": \"Jewish Family Services- Montbello Family Health Center\", \"address\": \"12600 Albrook Dr Denver CO, 80239\", \"city\": \"Denver\", \"state\": \"CO\", \"zip_code\": 80239, \"latitude\": 39.781277, \"longitude\": -104.84391, \"phone\": 3035975000, \"website\": \"https://www.jewishfamilyservice.org/mobile-schedule\", \"organization_id\": 992, \"pantry_id\": 3001, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"5\"], \"source\": \"plentiful\", \"source_id\": \"992\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-29\", \"time\": 36000, \"until\": 50400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:38:16.609466"
+}

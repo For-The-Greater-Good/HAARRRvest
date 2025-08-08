@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"cc3555b2-60ac-4366-8baf-0287a88eb9e1\",\n  \"name\": \"Franklin Church of God\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 31.6705287,\n        \"longitude\": -87.4343923\n      }\n    }\n  ],\n  \"phones\": [],\n  \"services\": [],\n  \"location_types\": [\n    {\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630739.886274",
+  "timestamp": "2025-08-08T06:09:35.173637"
+}

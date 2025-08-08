@@ -1,0 +1,5 @@
+{
+  "result": "[\n  {\n    \"id\": \"org_1\",\n    \"name\": \"Calvary Food Bank\",\n    \"description\": \"Calvary Food Bank provides food assistance.\",\n    \"addresses\": [\n      {\n        \"id\": \"loc_1\",\n        \"address_type\": \"physical\",\n        \"state_province\": \"UT\",\n        \"postal_code\": null,\n        \"country\": \"US\",\n        \"coordinates\": {\n          \"latitude\": 40.3741068,\n          \"longitude\": -111.7896518\n        },\n        \"location_type\": \"physical\"\n      }\n    ],\n    \"services\": [\n      {\n        \"id\": \"svc_1\",\n        \"name\": \"Food Pantry\",\n        \"description\": \"Provides food assistance.\",\n        \"status\": \"active\",\n        \"locations\": [\n          \"loc_1\"\n        ]\n      }\n    ],\n    \"metadata\": {\n      \"last_action_date\": \"2024-02-20\"\n    }\n  }\n]",
+  "job_id": "1754630824.014344",
+  "timestamp": "2025-08-08T06:46:09.703293"
+}

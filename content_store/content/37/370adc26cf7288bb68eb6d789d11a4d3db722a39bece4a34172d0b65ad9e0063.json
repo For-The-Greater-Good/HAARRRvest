@@ -1,0 +1,8 @@
+{
+  "content": "{\"locationId\": \"1947\", \"organizationId\": \"1334\", \"name\": \"First United Methodist Church\", \"address1\": \"610 Bonus Ave\", \"address2\": null, \"city\": \"Belvidere\", \"state\": \"IL\", \"zipCode\": \"61008\", \"country\": null, \"phone\": null, \"phoneExt\": null, \"website\": null, \"latitude\": \"42.2720779\", \"longitude\": \"-88.8327526\", \"foodPrograms\": \"Mobile Market\", \"serviceAreas\": \"\", \"languages\": \"\", \"features\": \"\", \"aboutUs\": \"\", \"notes\": \"\", \"contactName\": null, \"contactPhone\": null, \"contactEmail\": null, \"servicePrograms\": \"\", \"foodServiceTypes\": \"\", \"dietRestrictions\": \"\", \"foodOfferings\": \"\", \"networkAffiliations\": [{\"regionId\": 2, \"regionName\": \"Northern Illinois Food Bank\", \"logoBlobNameSmall\": \"dbf64577-4f05-4753-a6ec-ebbbd9c99e9c.png\", \"website\": \"solvehungertoday.org\"}], \"timeZoneName\": \"Central Standard Time\", \"timeZoneCode\": \"CT\", \"offsetHours\": \"-5\", \"schedules\": [], \"services\": [], \"specialHours\": [{\"locationSpecialHoursId\": 9206, \"locationId\": 1947, \"specialDate\": \"2025-10-15T00:00:00\", \"startTime\": \" 3:30:00 PM\", \"endTime\": \" 5:00:00 PM\", \"startTimeDescr\": \"3:30 PM\", \"endTimeDescr\": \"5:00 PM\", \"closedInd\": false, \"notes\": \"Mobile Market Distribution\", \"addDateTime\": \"2025-05-13T19:33:02.51\", \"addUserName\": \"nhuerta@northernilfoodbank.org\", \"updateDateTime\": null, \"updateUserName\": null}]}",
+  "metadata": {
+    "scraper_id": "vivery_api",
+    "source": "vivery_api"
+  },
+  "timestamp": "2025-08-08T05:40:06.930069"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organization\": {\n    \"id\": \"org_3991\",\n    \"name\": \"Kalama Helping Hands\",\n    \"description\": \"A food pantry providing food assistance.\",\n    \"locations\": [\n      {\n        \"id\": \"loc_3991\",\n        \"name\": \"Kalama Helping Hands\",\n        \"address_type\": \"physical\",\n        \"street_address\": \"191 Cloverdale Rd\",\n        \"city\": \"Kalama\",\n        \"state_province\": \"WA\",\n        \"postal_code\": \"98625\",\n        \"country\": \"US\",\n        \"location_type\": \"physical\",\n        \"coordinates\": {\n          \"latitude\": 46.000882450492,\n          \"longitude\": -122.837223961408\n        }\n      }\n    ]\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_3991\",\n      \"organization_id\": \"org_3991\",\n      \"location_id\": \"loc_3991\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"schedule\": []\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630025.683976",
+  "timestamp": "2025-08-08T05:59:29.569778"
+}

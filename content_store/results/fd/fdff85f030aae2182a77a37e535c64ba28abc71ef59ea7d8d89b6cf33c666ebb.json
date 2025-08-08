@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"org_1\",\n  \"name\": \"Olive Hill Church of the Nazarene\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"url\": null,\n  \"email\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 38.3014417,\n        \"longitude\": -83.1675257\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"type\": \"voice\",\n      \"number\": \"606-286-2452\",\n      \"extension\": null,\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"manual\"\n  }\n}",
+  "job_id": "1754630803.769327",
+  "timestamp": "2025-08-08T06:37:28.558962"
+}

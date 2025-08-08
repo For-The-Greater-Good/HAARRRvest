@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Stanwood Elementary\",\n      \"addresses\": [\n        {\n          \"id\": \"loc_1\",\n          \"address_type\": \"physical\",\n          \"street1\": \"255 Arona Rd\",\n          \"street2\": null,\n          \"city\": \"New Stanton\",\n          \"state_province\": \"PA\",\n          \"postal_code\": \"15672\",\n          \"country\": \"US\",\n          \"coordinates\": {\n            \"latitude\": 40.2263644,\n            \"longitude\": -79.603395\n          }\n        }\n      ],\n      \"metadata\": {\n        \"last_action_date\": \"2024-02-15\"\n      }\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"organization_id\": \"org_1\",\n      \"location_id\": \"loc_1\",\n      \"name\": \"Hot/Cold Meal Program\",\n      \"description\": \"Provides a Hot/Cold Meal Program.\",\n      \"status\": \"active\",\n      \"service_types\": [\n        \"meal\"\n      ],\n      \"metadata\": {\n        \"last_action_date\": \"2024-02-15\"\n      }\n    }\n  ]\n}",
+  "job_id": "1754631600.75241",
+  "timestamp": "2025-08-08T07:28:15.707390"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"13a4e3a6-2f85-45a4-854c-7bb8a6f6b80e\",\n  \"name\": \"Food Pantry\",\n  \"alternate_name\": \"\",\n  \"description\": \"A food pantry providing food assistance.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_1\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"MO\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\",\n      \"location\": {\n        \"latitude\": 38.2174152,\n        \"longitude\": -90.3905444\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"phones\": [],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry Services\",\n      \"description\": \"Provides food assistance.\",\n      \"status\": \"active\",\n      \"regular_schedule\": [],\n      \"locations\": [\n        \"loc_1\"\n      ]\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754630802.291587",
+  "timestamp": "2025-08-08T06:36:59.131226"
+}

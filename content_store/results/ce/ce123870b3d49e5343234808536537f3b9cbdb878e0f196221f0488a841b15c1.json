@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"18717c71-4352-4912-8b0d-d9f49fb08d42\",\n  \"name\": \"St Bartholomew Catholic Church\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"location\": {\n        \"latitude\": 39.2291885,\n        \"longitude\": -85.9117508\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"8123799353\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630816.086135",
+  "timestamp": "2025-08-08T06:42:31.195885"
+}

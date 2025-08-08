@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"b4390883-c4ea-4578-b073-e62f69c4c8b0\",\n  \"name\": \"Beth El Faith Church\",\n  \"description\": \"Beth El Faith Church is a food pantry.\",\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"AL\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\",\n    \"location_type\": \"physical\"\n  },\n  \"phones\": [\n    {\n      \"number\": \"3344754156\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"location\": {\n    \"latitude\": 31.3351245,\n    \"longitude\": -85.7928876\n  },\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-21\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630740.148014",
+  "timestamp": "2025-08-08T06:09:40.785556"
+}

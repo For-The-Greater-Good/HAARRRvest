@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"ad19ade9-0ee4-43da-b417-c0c8394096ed\",\n  \"name\": \"Goes Ahead Camp\",\n  \"alternate_name\": \"\",\n  \"description\": \"A camp offering services.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\",\n      \"location\": {\n        \"latitude\": 45.595927499999995,\n        \"longitude\": -107.4524007,\n        \"location_type\": \"physical\"\n      }\n    }\n  ],\n  \"phones\": [],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Camp Services\",\n      \"description\": \"General services provided by Goes Ahead Camp.\",\n      \"status\": \"active\",\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630883.666521",
+  "timestamp": "2025-08-08T07:10:11.719642"
+}

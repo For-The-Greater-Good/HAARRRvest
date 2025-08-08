@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_3917\",\n  \"name\": \"Cultivate South Park\",\n  \"description\": \"Cultivate South Park is a food pantry providing food assistance.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_3917\",\n      \"address_type\": \"physical\",\n      \"street_address_1\": \"1251 S Cloverdale St Unit B\",\n      \"city\": \"Seattle\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98108\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.526342518407,\n        \"longitude\": -122.315366418248\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_3917\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food assistance through a food bank service.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"source\": \"food_lifeline_wa\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630098.079892",
+  "timestamp": "2025-08-08T06:00:02.710350"
+}

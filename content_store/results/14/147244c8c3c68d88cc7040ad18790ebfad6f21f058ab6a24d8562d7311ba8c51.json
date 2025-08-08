@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"e40a5e24-a839-4049-8597-03bee5d6bd0b\",\n  \"name\": \"Cityseed - Food Distribution Center\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": null,\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\",\n      \"location\": {\n        \"latitude\": \"41.3100415\",\n        \"longitude\": \"-72.9300581\"\n      }\n    }\n  ],\n  \"phones\": [],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Distribution Center\",\n      \"description\": \"Food distribution services provided by Cityseed.\",\n      \"status\": \"active\",\n      \"location_type\": \"physical\",\n      \"schedule\": []\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630840.298715",
+  "timestamp": "2025-08-08T06:53:29.462612"
+}

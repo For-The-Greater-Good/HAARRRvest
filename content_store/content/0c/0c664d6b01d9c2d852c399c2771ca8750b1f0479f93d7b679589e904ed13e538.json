@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 862, \"name\": \"Church of God Brownsville - Food Distribution\", \"address\": \"760 Sackman St Brooklyn NY, 11212\", \"city\": \"Brooklyn\", \"state\": \"NY\", \"zip_code\": 11212, \"latitude\": 40.6586, \"longitude\": -73.902351, \"phone\": 9179662652, \"website\": \"https://www.churchofgodbrownsville.org/s-a/pantry\", \"organization_id\": 862, \"pantry_id\": 2544, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"5\"], \"source\": \"plentiful\", \"source_id\": \"862\", \"amenities\": [\"Client choice\", \"Speaks Spanish\"], \"conditions\": [\"1 Visit per Per Day\"], \"service_hours\": [{\"date\": \"2025-08-08\", \"time\": 46800, \"until\": 54000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:42:08.941345"
+}

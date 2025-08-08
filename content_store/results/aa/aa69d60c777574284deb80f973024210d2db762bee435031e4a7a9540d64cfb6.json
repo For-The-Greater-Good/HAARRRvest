@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"e897763f-d4de-4a72-a70f-5eb8f9582e3d\",\n  \"name\": \"Northwood Emergency Food Pantry\",\n  \"alternate_name\": \"\",\n  \"description\": \"Northwood Emergency Food Pantry provides food assistance to individuals and families in need.\",\n  \"email\": \"adminassist@northwoodnh.org\",\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": \"Northwood\",\n    \"state_province\": \"NH\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"location\": {\n    \"latitude\": 43.2167924,\n    \"longitude\": -71.20483279999999,\n    \"location_type\": \"physical\"\n  },\n  \"regular_schedule\": [],\n  \"metadata\": {\n    \"data_source\": \"foodpantries\",\n    \"last_action_date\": \"2024-03-09\",\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630863.822536",
+  "timestamp": "2025-08-08T07:03:09.593089"
+}

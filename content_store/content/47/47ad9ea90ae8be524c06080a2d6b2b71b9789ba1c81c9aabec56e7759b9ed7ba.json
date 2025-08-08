@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1094, \"name\": \"CHASI MFP - Tappen Park\", \"address\": \"Tappen Ct Staten Island NY, 10304\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10304, \"latitude\": 40.625885, \"longitude\": -74.080116, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1094, \"pantry_id\": 3242, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"1094\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-20\", \"time\": 43200, \"until\": 54000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-22\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-27\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:42:28.788254"
+}

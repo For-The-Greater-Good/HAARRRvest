@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"org_4132\",\n  \"name\": \"St. Vincent De Paul Bremerton\",\n  \"description\": \"A food pantry providing food assistance in Bremerton, Washington.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_4132\",\n      \"address_type\": \"physical\",\n      \"address_1\": \"1137 N Callow Ave\",\n      \"city\": \"Bremerton\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98312\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.572600314195,\n        \"longitude\": -122.653611918284\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_4132\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food assistance through a food bank service.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"food_lifeline_wa\",\n    \"source_organization\": \"Food Lifeline\"\n  }\n}",
+  "job_id": "1754629848.837632",
+  "timestamp": "2025-08-08T05:58:00.912403"
+}

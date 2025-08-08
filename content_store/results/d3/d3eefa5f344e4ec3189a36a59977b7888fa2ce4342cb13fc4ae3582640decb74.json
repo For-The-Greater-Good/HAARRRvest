@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"1eb0fd1e-17cd-400b-9b94-824dccecac4a\",\n  \"name\": \"Vineyard Community Services\",\n  \"description\": \"Vineyard Community Services provides food pantry services.\",\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_1\",\n      \"address_type\": \"physical\",\n      \"state_province\": \"MN\",\n      \"postal_code\": null,\n      \"location\": {\n        \"latitude\": 44.9798474,\n        \"longitude\": -93.0653075\n      },\n      \"location_type\": \"physical\",\n      \"metadata\": {\n        \"last_action_date\": \"2024-02-15\"\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"id\": \"phone_1\",\n      \"number\": \"9525955980\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry\",\n      \"description\": \"Provides food pantry services.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-15\"\n  }\n}",
+  "job_id": "1754630876.413701",
+  "timestamp": "2025-08-08T07:07:47.133100"
+}

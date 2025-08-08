@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"84aea8df-7c27-4782-ae0e-f12c3dbf3b6c\",\n  \"name\": \"Little Free Food Bank\",\n  \"alternate_name\": null,\n  \"description\": \"A community food pantry providing assistance.\",\n  \"emails\": [],\n  \"urls\": [],\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_1\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"CA\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"address_type\": \"physical\",\n      \"coordinates\": {\n        \"latitude\": 37.2654558,\n        \"longitude\": -121.9021163\n      }\n    }\n  ],\n  \"phones\": [],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry Services\",\n      \"description\": \"Provides food assistance to those in need.\",\n      \"status\": \"active\",\n      \"locations\": [\n        \"loc_1\"\n      ],\n      \"schedule\": []\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"version\": \"3.1.1\"\n  }\n}",
+  "job_id": "1754630789.218259",
+  "timestamp": "2025-08-08T06:31:30.737009"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 620, \"name\": \"Crown Heights Community Outreach Center\", \"address\": \"467 Rutland Road Brooklyn NY, 11203\", \"city\": \"Brooklyn\", \"state\": \"NY\", \"zip_code\": 11203, \"latitude\": 40.65992, \"longitude\": -73.945091, \"phone\": 9172872262, \"website\": \"\", \"organization_id\": 620, \"pantry_id\": 1431, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"620\", \"amenities\": [\"Client choice\", \"Speaks Chinese\"], \"conditions\": [\"1 Visit per Every Calendar Month\"], \"service_hours\": [{\"date\": \"2025-08-16\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 30, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-20\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 30, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-18\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 30, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-15\", \"time\": 32400, \"until\": 39600, \"max_people\": 10, \"time_interval\": 30, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:43:48.406151"
+}

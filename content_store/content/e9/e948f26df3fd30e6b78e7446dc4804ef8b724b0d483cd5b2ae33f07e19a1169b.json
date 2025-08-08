@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1033, \"name\": \"Kids At Their Best- Log Lane\", \"address\": \"17131 N Frontage Rd Fort Morgan CO, 80701\", \"city\": \"Fort Morgan\", \"state\": \"CO\", \"zip_code\": 80701, \"latitude\": 40.267422, \"longitude\": -103.829201, \"phone\": 9703806096, \"website\": \"www.kidsattheirbest.org\", \"organization_id\": 1033, \"pantry_id\": 3113, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"1033\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-09\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-13\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-11\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-08\", \"time\": 25200, \"until\": 32400, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:40:45.071933"
+}

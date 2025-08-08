@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"ee21adf7-9e90-4dce-9cde-f095651fd489\",\n  \"name\": \"Mt Shasta Community Resource Center\",\n  \"alternate_name\": null,\n  \"description\": \"Provides community resources and support.\",\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": \"Mount Shasta\",\n    \"state_province\": \"CA\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [\n    {\n      \"number\": \"530-926-1400\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"location\": {\n    \"latitude\": 41.3135064,\n    \"longitude\": -122.3117194,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2024-02-28\",\n    \"org_id\": \"org_ee21adf7\",\n    \"svc_id\": \"svc_ee21adf7\",\n    \"loc_id\": \"loc_ee21adf7\"\n  }\n}",
+  "job_id": "1754630835.782749",
+  "timestamp": "2025-08-08T06:51:23.676556"
+}

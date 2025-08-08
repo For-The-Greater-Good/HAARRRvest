@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"type\": \"Organization\",\n  \"id\": \"org_3f6f3ecf-1c83-4217-8c93-3e3428412e89\",\n  \"name\": \"Local First La Plata\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": \"info@local-first.org\",\n  \"url\": null,\n  \"status\": \"active\",\n  \"country\": \"US\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": null,\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\",\n    \"coordinates\": {\n      \"latitude\": 37.2775875,\n      \"longitude\": -107.8770163\n    }\n  },\n  \"phones\": [\n    {\n      \"number\": \"9707996618\",\n      \"extension\": null,\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"data_source\": \"manual\"\n  }\n}",
+  "job_id": "1754630790.09432",
+  "timestamp": "2025-08-08T06:31:53.898024"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"4145\",\n  \"name\": \"The Storehouse\",\n  \"description\": \"A food pantry providing food bank services.\",\n  \"addresses\": [\n    {\n      \"id\": \"loc_1\",\n      \"address_type\": \"physical\",\n      \"address_1\": \"26201 180th Ave SE\",\n      \"city\": \"Covington\",\n      \"state_province\": \"WA\",\n      \"postal_code\": \"98042\",\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 47.366665502715,\n        \"longitude\": -122.102879724513\n      },\n      \"location_type\": \"physical\"\n    }\n  ],\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Bank\",\n      \"description\": \"Provides food bank services.\",\n      \"status\": \"active\",\n      \"location_id\": \"loc_1\"\n    }\n  ],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"source\": \"food_lifeline_wa\",\n    \"org_id\": \"org_1\"\n  }\n}",
+  "job_id": "1754629820.845878",
+  "timestamp": "2025-08-08T05:57:43.122855"
+}

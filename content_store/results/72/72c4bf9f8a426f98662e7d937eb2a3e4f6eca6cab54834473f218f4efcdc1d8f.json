@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organization\": {\n    \"id\": \"org_1\",\n    \"name\": \"FeedMore WNY\",\n    \"alternate_name\": \"\",\n    \"description\": \"FeedMore WNY is a food bank serving Western New York.\",\n    \"email\": null,\n    \"url\": null,\n    \"status\": \"active\",\n    \"addresses\": [\n      {\n        \"id\": \"loc_1\",\n        \"address_type\": \"physical\",\n        \"address_1\": null,\n        \"address_2\": null,\n        \"city\": null,\n        \"state_province\": \"NY\",\n        \"postal_code\": null,\n        \"country\": \"US\",\n        \"coordinates\": {\n          \"latitude\": 42.880989,\n          \"longitude\": -78.806488\n        }\n      }\n    ],\n    \"phones\": [\n      {\n        \"id\": \"phone_1\",\n        \"number\": \"7168222002\",\n        \"type\": \"voice\",\n        \"languages\": [\n          {\n            \"name\": \"English\"\n          }\n        ]\n      }\n    ],\n    \"metadata\": {\n      \"source_id\": \"2f9d399b-0dfc-438b-a6f7-00f588ad3eea\",\n      \"last_action_date\": \"2023-10-27\"\n    }\n  },\n  \"services\": []\n}",
+  "job_id": "1754630857.444543",
+  "timestamp": "2025-08-08T07:00:35.650338"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"ef18ad6f-cd99-401f-89c6-ee4ac50cf6d9\",\n  \"name\": \"Emmanuel Lutheran Church\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"addresses\": [\n    {\n      \"address_type\": \"physical\",\n      \"address_1\": null,\n      \"address_2\": null,\n      \"city\": null,\n      \"state_province\": \"NE\",\n      \"postal_code\": null,\n      \"country\": \"US\",\n      \"coordinates\": {\n        \"latitude\": 41.7768224,\n        \"longitude\": -96.2201193\n      }\n    }\n  ],\n  \"phones\": [\n    {\n      \"number\": \"4023741337\",\n      \"type\": \"voice\",\n      \"extension\": null,\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\",\n    \"org_id\": \"org_1\",\n    \"locations\": [\n      {\n        \"loc_id\": \"loc_1\"\n      }\n    ],\n    \"services\": []\n  }\n}",
+  "job_id": "1754630855.52618",
+  "timestamp": "2025-08-08T06:59:47.681644"
+}

@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"29a22182-88f1-4a4a-80c6-17801e3e9bd4\",\n  \"name\": \"Hand To Hand\",\n  \"alternate_name\": null,\n  \"description\": null,\n  \"email\": null,\n  \"url\": null,\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": \"OK\",\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [\n    {\n      \"number\": \"5802866383\",\n      \"type\": \"voice\",\n      \"languages\": [\n        {\n          \"name\": \"English\"\n        }\n      ]\n    }\n  ],\n  \"location\": {\n    \"latitude\": 33.8448028,\n    \"longitude\": -94.6538925,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [],\n  \"metadata\": {\n    \"org_id\": \"org_1\",\n    \"svc_id\": \"svc_1\",\n    \"loc_id\": \"loc_1\",\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754630761.474265",
+  "timestamp": "2025-08-08T06:19:04.308766"
+}

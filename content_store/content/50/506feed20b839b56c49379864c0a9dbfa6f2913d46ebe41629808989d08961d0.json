@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1109, \"name\": \"CHASI MFP - Clove Road\", \"address\": \"1950 Clove Rd Staten Island NY, 10304\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10304, \"latitude\": 40.604439, \"longitude\": -74.087135, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1109, \"pantry_id\": 3263, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"5\"], \"source\": \"plentiful\", \"source_id\": \"1109\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-08\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-19\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-10\", \"time\": 36000, \"until\": 45000, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:43:01.026553"
+}

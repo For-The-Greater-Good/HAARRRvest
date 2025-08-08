@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1377, \"name\": \"Springs Food Pantry\", \"address\": \"6805 Bismark Rd Colorado Springs CO, 80922\", \"city\": \"Colorado Springs\", \"state\": \"CO\", \"zip_code\": 80922, \"latitude\": 38.868561, \"longitude\": -104.712326, \"phone\": 7196440075, \"website\": \"https://www.springsunited.online/food-events/monthly-event\", \"organization_id\": 1377, \"pantry_id\": 3704, \"service_type\": null, \"has_appointments\": false, \"week_days\": [], \"source\": \"plentiful\", \"source_id\": \"1377\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-08-23\", \"time\": 36000, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-09-27\", \"time\": 36000, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-25\", \"time\": 36000, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-22\", \"time\": 36000, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:36:16.008146"
+}

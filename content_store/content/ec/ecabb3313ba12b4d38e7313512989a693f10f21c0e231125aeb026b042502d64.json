@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1103, \"name\": \"CHASI MFP - Lincoln Ave & Colfax Ave\", \"address\": \"Lincoln Ave Staten Island NY, 10306\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10306, \"latitude\": 40.575607, \"longitude\": -74.101501, \"phone\": 7188736270, \"website\": \"\", \"organization_id\": 1103, \"pantry_id\": 3256, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"3\"], \"source\": \"plentiful\", \"source_id\": \"1103\", \"amenities\": [], \"conditions\": [], \"service_hours\": [{\"date\": \"2025-09-03\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-10-01\", \"time\": 50400, \"until\": 57600, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:41:59.834571"
+}

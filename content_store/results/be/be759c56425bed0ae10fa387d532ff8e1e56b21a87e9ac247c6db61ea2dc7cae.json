@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"id\": \"8dc2c0a3-903b-4ea3-a143-8ffd0362fa8a\",\n  \"name\": \"Our Lady Of Guadalupe\",\n  \"description\": \"Our Lady Of Guadalupe is a food pantry.\",\n  \"status\": \"active\",\n  \"address\": {\n    \"address_1\": null,\n    \"address_2\": null,\n    \"city\": null,\n    \"state_province\": null,\n    \"postal_code\": null,\n    \"country\": \"US\",\n    \"address_type\": \"physical\"\n  },\n  \"phones\": [],\n  \"geo_location\": {\n    \"latitude\": 36.146807599999995,\n    \"longitude\": -105.2421958,\n    \"location_type\": \"physical\"\n  },\n  \"services\": [\n    {\n      \"id\": \"svc_1\",\n      \"name\": \"Food Pantry\",\n      \"description\": \"Food pantry services offered by Our Lady Of Guadalupe.\",\n      \"status\": \"active\"\n    }\n  ],\n  \"metadata\": {\n    \"data_source\": \"food_pantry_converter\",\n    \"last_action_date\": \"2023-10-27\",\n    \"organization_id\": \"org_1\",\n    \"location_id\": \"loc_1\"\n  }\n}",
+  "job_id": "1754630780.042893",
+  "timestamp": "2025-08-08T06:27:25.072120"
+}

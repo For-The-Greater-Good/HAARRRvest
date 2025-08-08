@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1175, \"name\": \"Calvary Baptist Church-Reflections of God the Way Ministry\", \"address\": \"38 McKinley Ave Carteret NJ, 7008\", \"city\": \"Carteret\", \"state\": \"NJ\", \"zip_code\": 7008, \"latitude\": 40.573692, \"longitude\": -74.227974, \"phone\": 7329126007, \"website\": \"https://www.cbccarteret.com\", \"organization_id\": 1175, \"pantry_id\": 3404, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"6\"], \"source\": \"plentiful\", \"source_id\": \"1175\", \"amenities\": [], \"conditions\": [\"1 Visit per Every Calendar Month\"], \"service_hours\": [{\"date\": \"2025-08-30\", \"time\": 39600, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}, {\"date\": \"2025-11-22\", \"time\": 39600, \"until\": 46800, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:42:38.616920"
+}

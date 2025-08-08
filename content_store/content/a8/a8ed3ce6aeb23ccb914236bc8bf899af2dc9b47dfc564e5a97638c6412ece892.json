@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 391, \"name\": \"Calvary Assembly Of GOD\", \"address\": \"4055 Richmond Avenue Staten Island NY, 10312\", \"city\": \"Staten Island\", \"state\": \"NY\", \"zip_code\": 10312, \"latitude\": 40.539848, \"longitude\": -74.160332, \"phone\": 7183564555, \"website\": \"www.calverysi.com\", \"organization_id\": 391, \"pantry_id\": 391, \"service_type\": \"1\", \"has_appointments\": false, \"week_days\": [\"4\"], \"source\": \"plentiful\", \"source_id\": \"391\", \"amenities\": [\"Client choice\", \"Distributes food based on household size\", \"Indoor waiting area\", \"Seating area available\", \"Speaks Spanish\", \"Speaks Chinese\", \"Speaks Russian\", \"Other\"], \"conditions\": [\"1 Visit per Calender Week\"], \"service_hours\": [{\"date\": \"2025-08-14\", \"time\": 34200, \"until\": 43200, \"max_people\": 10, \"time_interval\": 15, \"service_type\": 1, \"type\": \"first_come_first_serve\"}], \"description\": \"\", \"kosher\": false, \"details_fetched\": true}",
+  "metadata": {
+    "scraper_id": "plentiful",
+    "source": "plentiful"
+  },
+  "timestamp": "2025-08-08T05:43:12.091238"
+}
