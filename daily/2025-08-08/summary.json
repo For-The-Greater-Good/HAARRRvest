@@ -1,6 +1,6 @@
 {
   "date": "2025-08-08",
-  "total_jobs": 14006,
+  "total_jobs": 14019,
   "scrapers": {
     "community_action_of_napa_valley_food_bank_ca": {
       "count": 15,
@@ -141,6 +141,11 @@
       "count": 3290,
       "first_job": "2025-08-08T06:15:52.208070",
       "last_job": "2025-08-08T06:54:49.403359"
+    },
+    "unknown": {
+      "count": 13,
+      "first_job": "2025-08-08T17:03:46.592332",
+      "last_job": "2025-08-08T17:03:59.703750"
     }
   },
   "jobs": [
@@ -70173,6 +70178,71 @@
       "job_id": "1754641643.416858",
       "scraper_id": "the_food_pantries_org",
       "timestamp": "2025-08-08T09:16:49.283097"
+    },
+    {
+      "job_id": "1754672624.68563",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:46.592332"
+    },
+    {
+      "job_id": "1754672624.903974",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:47.161706"
+    },
+    {
+      "job_id": "1754672625.235756",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:47.697545"
+    },
+    {
+      "job_id": "1754672625.236594",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:48.286665"
+    },
+    {
+      "job_id": "1754672625.468045",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:48.843128"
+    },
+    {
+      "job_id": "1754672625.238094",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:49.377326"
+    },
+    {
+      "job_id": "1754672625.23731",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:49.928555"
+    },
+    {
+      "job_id": "1754672625.469793",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:50.469714"
+    },
+    {
+      "job_id": "1754672625.468996",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:51.020806"
+    },
+    {
+      "job_id": "8d66a073-6b9c-4398-982f-6188d69fbe2e",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:58.033586"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:58.623952"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:59.168935"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T17:03:59.703750"
     }
   ]
 }
