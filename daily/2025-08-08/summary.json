@@ -1,6 +1,6 @@
 {
   "date": "2025-08-08",
-  "total_jobs": 14019,
+  "total_jobs": 14045,
   "scrapers": {
     "community_action_of_napa_valley_food_bank_ca": {
       "count": 15,
@@ -143,9 +143,9 @@
       "last_job": "2025-08-08T06:54:49.403359"
     },
     "unknown": {
-      "count": 13,
+      "count": 39,
       "first_job": "2025-08-08T17:03:46.592332",
-      "last_job": "2025-08-08T17:03:59.703750"
+      "last_job": "2025-08-08T19:18:13.762905"
     }
   },
   "jobs": [
@@ -70243,6 +70243,136 @@
       "job_id": "test-job",
       "scraper_id": "unknown",
       "timestamp": "2025-08-08T17:03:59.703750"
+    },
+    {
+      "job_id": "1754680470.472758",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:31.580817"
+    },
+    {
+      "job_id": "1754680470.690767",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:32.159268"
+    },
+    {
+      "job_id": "1754680470.92244",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:32.689361"
+    },
+    {
+      "job_id": "1754680470.920567",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:33.227142"
+    },
+    {
+      "job_id": "1754680470.921571",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:33.765670"
+    },
+    {
+      "job_id": "1754680470.923183",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:34.297199"
+    },
+    {
+      "job_id": "1754680471.174491",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:34.823222"
+    },
+    {
+      "job_id": "1754680471.176418",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:35.348059"
+    },
+    {
+      "job_id": "1754680471.175572",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:35.997488"
+    },
+    {
+      "job_id": "43c6fe6c-16de-4090-9abf-ea3952f03fbf",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:41.702787"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:42.284269"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:42.850218"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:14:43.406494"
+    },
+    {
+      "job_id": "1754680681.275785",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:02.283334"
+    },
+    {
+      "job_id": "1754680681.597875",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:03.572430"
+    },
+    {
+      "job_id": "1754680681.911713",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:04.157650"
+    },
+    {
+      "job_id": "1754680681.912935",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:04.793518"
+    },
+    {
+      "job_id": "1754680681.910927",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:05.382335"
+    },
+    {
+      "job_id": "1754680681.912313",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:05.913436"
+    },
+    {
+      "job_id": "1754680682.134636",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:06.446805"
+    },
+    {
+      "job_id": "1754680682.134066",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:06.983983"
+    },
+    {
+      "job_id": "1754680682.13339",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:07.519410"
+    },
+    {
+      "job_id": "9616a7fa-478d-42e9-8d6e-74fa8d3ef939",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:12.155997"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:12.703519"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:13.233150"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T19:18:13.762905"
     }
   ]
 }
