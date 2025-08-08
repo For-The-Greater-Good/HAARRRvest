@@ -1,6 +1,6 @@
 {
   "date": "2025-08-08",
-  "total_jobs": 14045,
+  "total_jobs": 14049,
   "scrapers": {
     "community_action_of_napa_valley_food_bank_ca": {
       "count": 15,
@@ -143,9 +143,9 @@
       "last_job": "2025-08-08T06:54:49.403359"
     },
     "unknown": {
-      "count": 39,
+      "count": 43,
       "first_job": "2025-08-08T17:03:46.592332",
-      "last_job": "2025-08-08T19:18:13.762905"
+      "last_job": "2025-08-08T23:45:36.282751"
     }
   },
   "jobs": [
@@ -70373,6 +70373,26 @@
       "job_id": "test-job",
       "scraper_id": "unknown",
       "timestamp": "2025-08-08T19:18:13.762905"
+    },
+    {
+      "job_id": "c3a5b98f-1c02-4e79-8b1a-e8293ee58192",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T23:45:34.818667"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T23:45:35.310848"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T23:45:35.793476"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-08T23:45:36.282751"
     }
   ]
 }
