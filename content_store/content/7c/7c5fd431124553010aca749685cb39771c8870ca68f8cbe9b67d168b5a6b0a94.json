@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mercy Seed Resource Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://newmerciescc.org/mercy-seed-community-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"4000 Five Forks Trickum Road Southwest\", \"address_2\": null, \"city\": \"Lilburn\", \"state_province\": \"GA\", \"postal_code\": \"30047\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.86823529999999, \"longitude\": -84.09022949999999}, \"phones\": [{\"number\": \"(770) 925-8600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Distribution in parking lot\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.417289"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Williamsport UMC Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"218 North Main Street\", \"address_2\": null, \"city\": \"Williamsport\", \"state_province\": \"OH\", \"postal_code\": \"43164\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5872183, \"longitude\": -83.1182781}, \"phones\": [{\"number\": \"(740) 986-6404\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.420654"
+}

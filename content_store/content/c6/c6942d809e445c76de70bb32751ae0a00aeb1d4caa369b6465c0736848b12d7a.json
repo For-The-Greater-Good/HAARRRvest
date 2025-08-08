@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CROS MINISTRIES, INC. (CALL FOR ADDITIONAL PANTRY LOCATIONS)\", \"alternate_name\": \"\", \"description\": \"Palm beach residents \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1615 Lake Avenue\", \"address_2\": null, \"city\": \"Lake Worth\", \"state_province\": \"FL\", \"postal_code\": \"33460\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.6152938, \"longitude\": -80.0645808}, \"phones\": [{\"number\": \"(561) 779-7936\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.598078"
+}

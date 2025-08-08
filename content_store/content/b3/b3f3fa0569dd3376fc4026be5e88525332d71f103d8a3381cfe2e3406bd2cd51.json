@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army/Booth House\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"file:///C:/Users/dipen/Desktop/Baltimore_City.pdf\", \"status\": \"active\", \"address\": {\"address_1\": \"1114 North Calvert Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MD\", \"postal_code\": \"21202\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3029945, \"longitude\": -76.6135291}, \"phones\": [{\"number\": \"(410) 685-8878\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.778945"
+}

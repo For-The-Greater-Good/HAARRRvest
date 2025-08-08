@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2952, \"name\": \"Norwalk Alliance Church\", \"nickname\": \"Norwalk Alliance Church\", \"address\": \"2755 US HIGHWAY 250  S\", \"city\": \"NORWALK\", \"state\": \"OH\", \"zip\": \"44857\", \"phone\": \"419-554-1633\", \"latitude\": 41.0941, \"longitude\": -82.48576, \"estimated_distance\": 848.82, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4661, \"name\": \"Pantry\", \"address\": \"2755 US HIGHWAY 250  S\", \"city\": \"NORWALK\", \"state\": \"OH\", \"zip\": \"44857\", \"latitude\": 41.2154217, \"longitude\": -82.5928499, \"event_details\": \"\", \"estimated_distance\": 848.82, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357257, \"event_id\": 4661, \"capacity\": 200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-30\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:37.693571"
+}

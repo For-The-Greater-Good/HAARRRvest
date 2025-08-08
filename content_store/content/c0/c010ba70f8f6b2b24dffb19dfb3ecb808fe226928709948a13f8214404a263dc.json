@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Department of Education Free Meals Food Truck\", \"alternate_name\": \"\", \"description\": \"USDA National Hunger Hotline (Hunger Free America): 1-866-3-HUNGRY or 1-877-8-HAMBRE (para espa\\u00f1ol)\\nText the USDA National Hunger Hotline at  914-415-6617 with a question containing the words food, summer, or meals for resources near you.\\nHRA\\u2019s Emergency Food Hotline: 866-888-8777\\nShelter or Temporary Housing Assistance: 3-1-1\", \"email\": \"\", \"url\": \"https://www.nycfoodpolicy.org/nyc-food-resource-guide-flushing-whitestone/\", \"status\": \"active\", \"address\": {\"address_1\": \"29-66 137th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11354\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7702563, \"longitude\": -73.8311312}, \"phones\": [{\"number\": \"(866) 348-6479\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.738014"
+}

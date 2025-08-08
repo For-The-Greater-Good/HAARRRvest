@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Beverly Waterford Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serving Waterford & Watertown Townships\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"307 7th Street\", \"address_2\": null, \"city\": \"Beverly\", \"state_province\": \"OH\", \"postal_code\": \"45715\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.549649, \"longitude\": -81.635505}, \"phones\": [{\"number\": \"(740) 984-4651\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.005068"
+}

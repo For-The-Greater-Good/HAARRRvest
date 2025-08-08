@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Roslindale Food Collective/ Trinity Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.trinitylutheranchurchofboston.org/missions\", \"status\": \"active\", \"address\": {\"address_1\": \"1195 Centre Street\", \"address_2\": null, \"city\": \"Brook Farm\", \"state_province\": \"MA\", \"postal_code\": \"02130\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2987656, \"longitude\": -71.1299536}, \"phones\": [{\"number\": \"(617) 327-5155\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Resource is at capacity. Doesn't want to be published.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.943245"
+}

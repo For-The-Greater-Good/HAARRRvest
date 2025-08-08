@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Mother Teresa Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.stjosephnewton.org\", \"status\": \"active\", \"address\": {\"address_1\": \"22 Halsted Street\", \"address_2\": \"\", \"city\": \"Newton\", \"state_province\": \"NJ\", \"postal_code\": \"07860\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.0549133, \"longitude\": -74.7530688}, \"phones\": [{\"number\": \"(973) 383-1985\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.953894"
+}

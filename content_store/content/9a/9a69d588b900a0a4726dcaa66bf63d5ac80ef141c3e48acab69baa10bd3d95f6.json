@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"84140\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in BLANCHE MEMORIAL CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 658-2458\", \"country\": \"US\"}, \"phones\": [{\"number\": \"109-74 SUTPHIN BLVD\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.690006, \"longitude\": -73.797106}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"BLANCHE MEMORIAL CHURCH\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:17:33.969665"
+}

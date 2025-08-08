@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Beechfield United Methodist Church - Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/beechfieldumcbalt.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"541 South Beechfield Avenue\", \"address_2\": null, \"city\": \"Yale Heights\", \"state_province\": \"MD\", \"postal_code\": \"21229\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2758559, \"longitude\": -76.6941008}, \"phones\": [{\"number\": \"(410) 644-7640\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.055838"
+}

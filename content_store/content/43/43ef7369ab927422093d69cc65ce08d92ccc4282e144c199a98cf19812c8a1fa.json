@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Sharing Place Food Pantry\", \"alternate_name\": \"\", \"description\": \"Requires to call for hours. Serves Hudson County.\", \"email\": \"\", \"url\": \"https://www.thesharingplacenj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"440 Hoboken Avenue\", \"address_2\": \"Back parking lot\", \"city\": \"Journal Square\", \"state_province\": \"NJ\", \"postal_code\": \"07306\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7348319, \"longitude\": -74.0581251}, \"phones\": [{\"number\": \"(201) 963-5518\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.812859"
+}

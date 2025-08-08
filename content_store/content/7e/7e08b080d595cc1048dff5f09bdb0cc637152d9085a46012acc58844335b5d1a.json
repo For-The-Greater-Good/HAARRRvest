@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Living Faith Ministries\", \"alternate_name\": \"\", \"description\": \"Food distribution is at the rear of the church (door 11)\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"2323 New Jersey 73\", \"address_2\": null, \"city\": \"Pennsauken Township\", \"state_province\": \"NJ\", \"postal_code\": \"08110\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.977442, \"longitude\": -75.01684709999999}, \"phones\": [{\"number\": \"(856) 661-8110\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.784191"
+}

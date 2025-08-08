@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Nourishing Bethesda Food  Distributions\", \"alternate_name\": \"\", \"description\": \"Text (DO NOT CALL) \\u202ainfo to 301-664-4630\\u202c OR email food@nourishingbethesda.org to make an appointment\", \"email\": \"\", \"url\": \"https://www.nourishingbethesda.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5020 Battery Lane\", \"address_2\": null, \"city\": \"Bethesda\", \"state_province\": \"MD\", \"postal_code\": \"20814\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9904667, \"longitude\": -77.1028369}, \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"23:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Contact in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.850888"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Playstreet 4100 Lawndale St.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.phila.gov/programs/playstreets/\", \"status\": \"active\", \"address\": {\"address_1\": \"4146 Lawndale St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19124\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.01087747020865, \"longitude\": -75.10558960731122}, \"phones\": [{\"number\": \"(215) 685-2719\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:48.410491"
+}

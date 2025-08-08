@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"RIVIERA PRESBYTERIAN CHURCH\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://rivierachurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5275 Sunset Drive\", \"address_2\": null, \"city\": \"Miami\", \"state_province\": \"FL\", \"postal_code\": \"33143\", \"country\": \"US\"}, \"location\": {\"latitude\": 25.7052117, \"longitude\": -80.2789033}, \"phones\": [{\"number\": \"(305) 666-8586\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.638202"
+}

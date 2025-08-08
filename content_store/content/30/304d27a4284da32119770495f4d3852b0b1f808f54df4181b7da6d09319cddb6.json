@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Oneg Shabbos\", \"alternate_name\": \"\", \"description\": \"- They have moved locations temporarily to 38 42 flatlands avenue.\", \"email\": \"\", \"url\": \"http://www.onegshabbos.org/contact-us.html\", \"status\": \"active\", \"address\": {\"address_1\": \"East 42nd Street\", \"address_2\": null, \"city\": \"Flatlands\", \"state_province\": \"NY\", \"postal_code\": \"11218\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6323807, \"longitude\": -73.9360528}, \"phones\": [{\"number\": \"(718) 686-8174\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"23:00\", \"closes_at\": \"02:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.838287"
+}

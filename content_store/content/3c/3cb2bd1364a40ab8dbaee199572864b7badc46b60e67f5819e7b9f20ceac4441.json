@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" First Presbyterian Church of Dunellen\", \"alternate_name\": \"\", \"description\": \" \\nFood available to Middlesex County residents in need.\", \"email\": \"\", \"url\": \"https://dunellenpres.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"218 Dunellen Avenue\", \"address_2\": null, \"city\": \"Dunellen\", \"state_province\": \"NJ\", \"postal_code\": \"08812\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5946342, \"longitude\": -74.46378179999999}, \"phones\": [{\"number\": \"(732) 968-3844\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:15\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Spanish Available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.786208"
+}

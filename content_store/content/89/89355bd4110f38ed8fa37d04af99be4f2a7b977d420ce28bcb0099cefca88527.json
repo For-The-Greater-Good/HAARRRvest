@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CrossPoint Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1640 U.S. 19\", \"address_2\": null, \"city\": \"Pelham\", \"state_province\": \"GA\", \"postal_code\": \"31779\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.1145497, \"longitude\": -84.1287323}, \"phones\": [{\"number\": \"(229) 225-8585\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:14.328751"
+}

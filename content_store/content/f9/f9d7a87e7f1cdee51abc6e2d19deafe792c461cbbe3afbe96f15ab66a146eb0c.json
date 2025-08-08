@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80260\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in CROWN HEIGHTS JEWISH COMMUNITY COUNCIL\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FPK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-771-9000\", \"country\": \"US\"}, \"phones\": [{\"number\": \"899 MONTGOMERY STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.665668, \"longitude\": -73.942336}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"CROWN HEIGHTS JEWISH COMMUNITY COUNCIL\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:08:25.683496"
+}

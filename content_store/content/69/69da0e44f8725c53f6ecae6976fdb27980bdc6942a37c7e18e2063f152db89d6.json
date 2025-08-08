@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"HILLSBOROUGH | La Senda Antiqua\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4810 North Howard Avenue\", \"address_2\": null, \"city\": \"Wellswood\", \"state_province\": \"FL\", \"postal_code\": \"33603\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9893949, \"longitude\": -82.48300449999999}, \"phones\": [{\"number\": \"(813) 876-2470\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.371211"
+}

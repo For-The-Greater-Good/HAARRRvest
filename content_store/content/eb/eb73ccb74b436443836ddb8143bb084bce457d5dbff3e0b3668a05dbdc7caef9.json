@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Somerton Interfaith Food Bank\", \"alternate_name\": \"\", \"description\": \"We serve the following Zip Codes:  19116, 19115, 19114, 19154, 19152,  and 19136.\", \"email\": \"\", \"url\": \"https://www.somertonfoodbank.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"510 Somerton Avenue\", \"address_2\": null, \"city\": \"Northeast Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19116\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1224952, \"longitude\": -75.0190812}, \"phones\": [{\"number\": \"(215) 673-1117\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:47.848614"
+}

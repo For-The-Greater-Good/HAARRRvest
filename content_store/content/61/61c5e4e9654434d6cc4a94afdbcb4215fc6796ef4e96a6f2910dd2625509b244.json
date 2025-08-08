@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80167\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in ST. THOMAS AQUINAS FOOD PANTRY\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-589-5235\", \"country\": \"US\"}, \"phones\": [{\"number\": \"1900 CROTONA PARKWAY (SIDE OF CHURCH/BASEMENT)\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.619803, \"longitude\": -73.935576}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"ST. THOMAS AQUINAS FOOD PANTRY\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:13:25.274012"
+}

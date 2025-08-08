@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Meals on Wheels of Mercer County \", \"alternate_name\": \"\", \"description\": \"Serves Mercer County, home delivered meals to seniors over 60 age with dietary restrictions, Delivery window Monday through friday , 10:30 am to 1pm , including weekend meals on friday, Call to register for services or register online at https://www.mealsonwheelsmercer.org/meal-delivery-application to receive food\", \"email\": \"\", \"url\": \"https://www.mealsonwheelsmercer.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"320 Hollowbrook Drive\", \"address_2\": null, \"city\": \"Ewing Township\", \"state_province\": \"NJ\", \"postal_code\": \"08638\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2647757, \"longitude\": -74.77041729999999}, \"phones\": [{\"number\": \"(609) 695-3483\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Priority given to seniors & disabled persons\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors and people with disabilities\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Meal delivery available for seniors\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.730400"
+}

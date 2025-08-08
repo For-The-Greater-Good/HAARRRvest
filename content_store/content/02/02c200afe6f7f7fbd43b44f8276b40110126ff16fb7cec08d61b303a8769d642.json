@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mary, Queen of All Saints Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://maryqueenofallsaints.org/ministries.html\", \"status\": \"active\", \"address\": {\"address_1\": \"4801 Camden Avenue\", \"address_2\": null, \"city\": \"Pennsauken Township\", \"state_province\": \"NJ\", \"postal_code\": \"08110\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.95731610000001, \"longitude\": -75.0655158}, \"phones\": [{\"number\": \"(856) 662-2721\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.463486"
+}

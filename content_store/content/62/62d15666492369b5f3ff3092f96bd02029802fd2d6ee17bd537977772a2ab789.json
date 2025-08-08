@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Norwell Food Pantry\", \"alternate_name\": \"\", \"description\": \"Norwell Residents only.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"345 Main Street\", \"address_2\": null, \"city\": \"Norwell\", \"state_province\": \"MA\", \"postal_code\": \"02061\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.15802739999999, \"longitude\": -70.8176727}, \"phones\": [{\"number\": \"(781) 690-5050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.999338"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Jerome\\u2019s Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Present passport, ID, or consular registration\\nPresent proof of address\\nRegistration Hours\\nThursday: 10:00 AM - 1:00 PM\\nFriday: 10:00 AM - 1:00 PM\\nDistribution Schedule\\nWednesday: 10:00 AM - 1:00 PM \\n100 tickers will be distributed at 10:00 AM. \\nFood is distributed per family once a month.\\nPlease bring your own shopping cart or grocery bags and your QR code to pick up your food.\\n230 Alexander Ave, Bronx, NY 10454 this address can be used for pin location \", \"email\": \"\", \"url\": \"https://jeromehands.com/foodpantry-1\", \"status\": \"active\", \"address\": {\"address_1\": \"330 E. 138TH ST.\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10454\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.809593, \"longitude\": -73.924797}, \"phones\": [{\"number\": \"(718) 402-7866\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.912740"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ray of Hope Mission Center\", \"alternate_name\": \"\", \"description\": \"To become a client, you will need to call the store and schedule an appointment to meet with the intake counselor.\\n\\nWe service North East, Perryville, Port Deposit, Charlestown, Rising Sun, Colora, & Conowingo. \\n\\nClothing is available upon approval.\\n\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"960 Craigtown Road\", \"address_2\": null, \"city\": \"Port Deposit\", \"state_province\": \"MD\", \"postal_code\": \"21904\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6303801, \"longitude\": -76.0766737}, \"phones\": [{\"number\": \"(410) 378-9800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit: Once Every 2 weeks\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:10.063049"
+}

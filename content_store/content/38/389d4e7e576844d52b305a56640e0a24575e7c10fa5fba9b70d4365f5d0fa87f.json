@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ABCD South End Neighborhood Service Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"554 Columbus Avenue\", \"address_2\": null, \"city\": \"Boston\", \"state_province\": \"MA\", \"postal_code\": \"02118\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.34116969999999, \"longitude\": -71.080681}, \"phones\": [{\"number\": \"(617) 267-7400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.111428"
+}

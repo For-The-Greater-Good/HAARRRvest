@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Impact United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2323 Sylvan Road\", \"address_2\": null, \"city\": \"Jefferson Park\", \"state_province\": \"GA\", \"postal_code\": \"30344\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6910521, \"longitude\": -84.41963}, \"phones\": [{\"number\": \"(404) 577-2826\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:58.846299"
+}

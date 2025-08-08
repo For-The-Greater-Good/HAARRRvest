@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Missionary Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.fmbcwh.com/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"200 Avenue R Northwest\", \"address_2\": null, \"city\": \"Winter Haven\", \"state_province\": \"FL\", \"postal_code\": \"33881\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.041124, \"longitude\": -81.728043}, \"phones\": [{\"number\": \"(863) 294-6553\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.530512"
+}

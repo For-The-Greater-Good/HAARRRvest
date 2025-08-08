@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Garfield Park Academy\", \"alternate_name\": \"\", \"description\": \"Coordinator: Theresa\\tSlocombe\\t6093875828\\nStart: 07/07/2025\\tEnd: 07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"24 Glenolden Lane\", \"address_2\": null, \"city\": \"Willingboro\", \"state_province\": \"NJ\", \"postal_code\": \"08046\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.020504, \"longitude\": -74.8776929}, \"phones\": [{\"number\": \"(609) 877-4111\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:47.985886"
+}

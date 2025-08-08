@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Jude's Catholic Church\", \"alternate_name\": \"\", \"description\": \"Contact: Barbara\", \"email\": \"\", \"url\": \"https://www.stjudech.org/service-for-those-in-need\", \"status\": \"active\", \"address\": {\"address_1\": \"10 Eisenhower Road\", \"address_2\": null, \"city\": \"Columbia\", \"state_province\": \"NJ\", \"postal_code\": \"07832\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.97106040000001, \"longitude\": -75.0321622}, \"phones\": [{\"number\": \"(908) 362-6444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.947437"
+}

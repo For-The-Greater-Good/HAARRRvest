@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"85309\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in NEXT STEP COMMUNITY CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-875-1858\", \"country\": \"US\"}, \"phones\": [{\"number\": \"360 SCHERMERHORN STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.686472, \"longitude\": -73.980125}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"NEXT STEP COMMUNITY CHURCH\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:09:07.244786"
+}

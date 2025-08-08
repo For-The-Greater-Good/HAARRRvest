@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"YWCA of Bucks County - Country Commons Family Center Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3338 Richlieu Road\", \"address_2\": null, \"city\": \"Bensalem\", \"state_province\": \"PA\", \"postal_code\": \"19020\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1251301, \"longitude\": -74.9589044}, \"phones\": [{\"number\": \"(215) 639-5853\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.503872"
+}

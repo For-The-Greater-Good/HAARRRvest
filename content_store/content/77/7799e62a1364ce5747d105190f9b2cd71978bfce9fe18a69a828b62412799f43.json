@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mount Olive Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1601 13th Rd S\", \"address_2\": null, \"city\": \"Arlington\", \"state_province\": \"VA\", \"postal_code\": \"22204\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.862704, \"longitude\": -77.071447}, \"phones\": [{\"number\": \"(703) 909-9818\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"1 bag per family/person\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.599079"
+}

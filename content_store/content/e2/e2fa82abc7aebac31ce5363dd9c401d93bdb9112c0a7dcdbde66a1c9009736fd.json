@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Impact/Ford Hall\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://communityimpact.columbia.edu/\", \"status\": \"active\", \"address\": {\"address_1\": \"616 W 114th st\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10025\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.807026, \"longitude\": -73.965714}, \"phones\": [{\"number\": \"(212) 854-6310\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.252434"
+}

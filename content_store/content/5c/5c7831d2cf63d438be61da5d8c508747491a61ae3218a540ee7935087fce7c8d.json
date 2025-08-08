@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jefferson Park Ministries Inc. (JPM)\", \"alternate_name\": \"\", \"description\": \"*Registration will start at 9 am and food distribution will start at 1pm\\n* Diapers aavailable, but parent must register before the 3rd Thursday of the month.\", \"email\": \"\", \"url\": \"https://www.jeffersonparks.com/our-services-1\", \"status\": \"active\", \"address\": {\"address_1\": \"70 West Grand Street\", \"address_2\": \"\", \"city\": \"Elizabeth\", \"state_province\": \"NJ\", \"postal_code\": \"07202\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6657652, \"longitude\": -74.21949169999999}, \"phones\": [{\"number\": \"(908) 469-9508\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Distribution in parking lot\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.367876"
+}

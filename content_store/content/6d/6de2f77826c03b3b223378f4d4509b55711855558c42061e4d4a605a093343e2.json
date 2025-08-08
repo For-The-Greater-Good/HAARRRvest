@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The UW Food Pantry\", \"alternate_name\": \"\", \"description\": \"Anyone with a Husky ID is eligible to receive support.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1311 Northeast 41st Street\", \"address_2\": null, \"city\": \"Northeast Seattle\", \"state_province\": \"WA\", \"postal_code\": \"98105\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.65651099999999, \"longitude\": -122.31405}, \"phones\": [{\"number\": \"(206) 543-2100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.401336"
+}

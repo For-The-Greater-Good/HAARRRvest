@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lacey Food Bank\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.facebook.com/LaceyFoodBank\", \"status\": \"active\", \"address\": {\"address_1\": \"102 Station Drive\", \"address_2\": null, \"city\": \"Forked River\", \"state_province\": \"New Jersey\", \"postal_code\": \"08731\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8377933, \"longitude\": -74.1946014}, \"phones\": [{\"number\": \"(609) 242-2848\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Serves New Jersey residents\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Diapers available once a month, but parents must register \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.360888"
+}

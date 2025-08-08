@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Center at Visitation\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.communitycenteratvis.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2646 Kensington Avenue\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19125\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9897526, \"longitude\": -75.12617019999999}, \"phones\": [{\"number\": \"(215) 426-9422\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.032848"
+}

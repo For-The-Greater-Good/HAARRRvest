@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bryson Park gwinnett mobile\", \"alternate_name\": \"\", \"description\": \"Food distribution dates are every other month\\nFebruary 25, 2025\\nMay 20, 2025\\nAugust 26, 2025\\nNovember 18, 2025\", \"email\": \"\", \"url\": \"https://www.gwinnettcounty.com/web/gwinnett/departments/communityservices/foodsecurityresources\", \"status\": \"active\", \"address\": {\"address_1\": \"5075 Lawrenceville Highway\", \"address_2\": null, \"city\": \"Lilburn\", \"state_province\": \"GA\", \"postal_code\": \"30047\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8902577, \"longitude\": -84.1489713}, \"phones\": [{\"number\": \"(770) 995-3339\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.269510"
+}

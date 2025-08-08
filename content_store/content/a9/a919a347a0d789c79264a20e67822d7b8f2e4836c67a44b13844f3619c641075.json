@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Quinn House\", \"alternate_name\": \"\", \"description\": \"* Please Note: PROOF OF ADDRESS IS REQUIRED FOR FOOD BOXES and FOOD BOX PICK UPS ARE BY APPOINTMENT ONLY. \\n* Please call our office at (770) 962-0470 Tuesday - Thursday starting at 9:00 a.m.  to schedule an appointment.\\n* Only serves Gwinnet County\", \"email\": \"\", \"url\": \"thequinnhouse.com\", \"status\": \"active\", \"address\": {\"address_1\": \"555 Hurricane Shoals Road Northwest\", \"address_2\": null, \"city\": \"Lawrenceville\", \"state_province\": \"GA\", \"postal_code\": \"30046\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.9665712, \"longitude\": -84.00607169999999}, \"phones\": [{\"number\": \"(770) 962-0470\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must call during this time to register and book an appointment\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Client can visit: Once in 2 months\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.207544"
+}

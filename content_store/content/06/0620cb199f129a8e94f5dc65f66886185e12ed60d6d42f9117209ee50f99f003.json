@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fellowship Covenant Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://fellowshipcovenant.church/\", \"status\": \"active\", \"address\": {\"address_1\": \"720 Castle Hill Ave\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10473\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.821667, \"longitude\": -73.848251}, \"phones\": [{\"number\": \"(718) 829-2116\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.629287"
+}

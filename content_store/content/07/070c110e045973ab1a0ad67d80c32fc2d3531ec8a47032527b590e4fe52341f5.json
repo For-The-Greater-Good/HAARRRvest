@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Nutley Senior Center\", \"alternate_name\": \"\", \"description\": \"For information 973-744-8103 ext. 246\\nCommunity members over the age of 60.  Free with $3 suggested donation\", \"email\": \"\", \"url\": \"https://fhecessex.org/events/\", \"status\": \"active\", \"address\": {\"address_1\": \"65 Bloomfield Avenue\", \"address_2\": null, \"city\": \"Nutley\", \"state_province\": \"NJ\", \"postal_code\": \"07110\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8116176, \"longitude\": -74.1745631}, \"phones\": [{\"number\": \"(973) 744-8103\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:53.182202"
+}

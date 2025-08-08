@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Foundation Academy Charter School\", \"alternate_name\": \"\", \"description\": \"Jacqueline\\tMartinez\\t6099893361\\t07/07/2025\\t08/01/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"363 West State Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"NJ\", \"postal_code\": \"08618\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2237654, \"longitude\": -74.7772957}, \"phones\": [{\"number\": \"(609) 468-3902\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:15\", \"closes_at\": \"13:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:50.917659"
+}

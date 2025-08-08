@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethel Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"119 Atkins Ave\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"New Jersey\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.215825, \"longitude\": -74.021039}, \"phones\": [{\"number\": \"(732) 988-6883\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.508903"
+}

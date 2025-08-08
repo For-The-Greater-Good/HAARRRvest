@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Gray House Food Pantry\", \"alternate_name\": \"\", \"description\": \"Special Distribution for Senior Citizens (55+) and Veterans: Second Friday of every month from 2:00pm\\u20133:30pm\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"22 Sheldon Street\", \"address_2\": null, \"city\": \"Memorial Square\", \"state_province\": \"MA\", \"postal_code\": \"01107\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1149238, \"longitude\": -72.6071157}, \"phones\": [{\"number\": \"(413) 734-6696\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.870148"
+}

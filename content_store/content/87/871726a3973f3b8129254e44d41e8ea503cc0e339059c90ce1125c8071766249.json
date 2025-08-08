@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Action Council of Howard County\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://cac-hc.org/food-assistance/\", \"status\": \"active\", \"address\": {\"address_1\": \"9385 Gerwig Lane\", \"address_2\": null, \"city\": \"Columbia\", \"state_province\": \"MD\", \"postal_code\": \"21046\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1694654, \"longitude\": -76.83831119999999}, \"phones\": [{\"number\": \"(410) 313-6440\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers available (must bring birth certificate)\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.125069"
+}

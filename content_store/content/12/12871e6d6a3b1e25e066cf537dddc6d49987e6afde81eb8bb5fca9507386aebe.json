@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"John F. Street Community Center\", \"alternate_name\": \"\", \"description\": \"This pop up distribution is hosted by Mighty Writers. We give out a variety of goods: bread, pastries, fresh fruit & vegetables, canned goods, meat, etc. Each week is different and we can't guarantee specific items but feel free to stop by!\", \"email\": \"\", \"url\": \"https://www.phila.gov/food/?fbclid=IwAR1KFfmGkseNeQsSAKcOzhJXx400E4xtzNwZA10AHVSclYi7kr7dPSNDBac&address=1100%20Poplar%20St.\", \"status\": \"active\", \"address\": {\"address_1\": \"1100 Poplar St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19123\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.96876823896136, \"longitude\": -75.15548456234644}, \"phones\": [{\"number\": \"(267) 768-7498\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:40\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID or proof of income is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Residents can pick up supplemental food for their household.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Any resident is eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:48.159697"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hickory Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"Free meal served Monday through Friday. It is hot and nutritious. The homeless in Catawba County also get access to showers, daily food, and a free hygiene service.\", \"email\": \"\", \"url\": \"https://hickorysoupkitchen.org/our-services\", \"status\": \"active\", \"address\": {\"address_1\": \"110 2nd Street Place Southeast\", \"address_2\": null, \"city\": \"Hickory\", \"state_province\": \"NC\", \"postal_code\": \"28602\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.73013, \"longitude\": -81.3348628}, \"phones\": [{\"number\": \"(828) 327-4828\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:15.296051"
+}

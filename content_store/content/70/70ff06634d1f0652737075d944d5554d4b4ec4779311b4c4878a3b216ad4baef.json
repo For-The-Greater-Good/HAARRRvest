@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St James the Less Food Pantry\", \"alternate_name\": \"\", \"description\": \"Referral from 211MD required. Call 211 to make an appointment.\\n\\nServes residents of 43224 zip code.\", \"email\": \"\", \"url\": \"https://www.stjames-cpps.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1652 Oakland Park Avenue\", \"address_2\": null, \"city\": \"North Linden\", \"state_province\": \"OH\", \"postal_code\": \"43224\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0320413, \"longitude\": -82.96886649999999}, \"phones\": [{\"number\": \"(614) 447-1074\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointment and Referral Required. Call 211.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.260619"
+}

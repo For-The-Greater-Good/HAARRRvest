@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Vets House Honor - Hollis Vets Complex\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"194-14 Hollis Avenue\", \"address_2\": null, \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11412\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7066498, \"longitude\": -73.76335279999999}, \"phones\": [{\"number\": \"(646) 261-1973\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring proof of Veteran status\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:54.121923"
+}

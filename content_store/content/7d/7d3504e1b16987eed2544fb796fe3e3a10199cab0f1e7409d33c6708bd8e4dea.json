@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Johns Hopkins Bayview, Social Work Department\", \"alternate_name\": \"\", \"description\": \"First Call 211 for help to get a referral and follow the prompt for food assistance.  You can receive food twice a year.\\nSocial workers in hospitals can also help you in getting a referal.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4940 Eastern Avenue\", \"address_2\": null, \"city\": \"Bayview\", \"state_province\": \"MD\", \"postal_code\": \"21224\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2901622, \"longitude\": -76.5471072}, \"phones\": [{\"number\": \"(410) 550-0296\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointment and Referral Required. Call 211.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Opens twice a year\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.280834"
+}

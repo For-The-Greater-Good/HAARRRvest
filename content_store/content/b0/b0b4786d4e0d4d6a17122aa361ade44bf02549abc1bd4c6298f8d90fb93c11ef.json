@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Holy Name of Jesus\", \"alternate_name\": \"\", \"description\": \"We serve residents within the following zip codes: 10023, 10024, 10025, 10026. For residents not within the listed zip codes, we have an emergency food pantry available Fridays from 12 Noon to 1:00 PM.\", \"email\": \"\", \"url\": \"https://www.holynamenyc.org/franciscan-community-center/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"207 W 96th St.\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10025\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.794464, \"longitude\": -73.970642}, \"phones\": [{\"number\": \"(212) 932-8040\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.717411"
+}

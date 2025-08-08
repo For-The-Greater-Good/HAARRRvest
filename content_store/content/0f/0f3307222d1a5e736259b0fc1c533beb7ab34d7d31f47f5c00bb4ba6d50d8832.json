@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hollybush Neighborhood Network\", \"alternate_name\": \"\", \"description\": \"The pantry is not open 1st week of the month. Patrons are allowed 1 visit each month.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"60 Holly Bush Gardens\", \"address_2\": null, \"city\": \"Glassboro\", \"state_province\": \"NJ\", \"postal_code\": \"08028\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.704697, \"longitude\": -75.105397}, \"phones\": [{\"number\": \"(856) 881-8547\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"22:00\", \"closes_at\": \"22:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.759363"
+}

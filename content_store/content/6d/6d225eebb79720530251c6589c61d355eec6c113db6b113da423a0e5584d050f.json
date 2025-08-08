@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Friends of Jean Webster Soup Kitchen\\t\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"108 North Pennsylvania Avenue\", \"address_2\": null, \"city\": \"Atlantic City\", \"state_province\": \"NJ\", \"postal_code\": \"08401\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3655092, \"longitude\": -74.4260291}, \"phones\": [{\"number\": \"(609) 457-2999\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:45\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:45\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.346149"
+}

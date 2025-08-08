@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Sparta\", \"alternate_name\": \"\", \"description\": \"Food pantry in Sussex County, NJ. Services: Food Pantry\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": \"\", \"city\": \"Sparta\", \"state_province\": \"NJ\", \"postal_code\": \"\", \"country\": \"US\"}, \"phones\": [{\"number\": \"862-266-0563\", \"type\": \"voice\"}], \"location\": {\"latitude\": 41.03608, \"longitude\": -74.636612}, \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Food Pantry\"}, {\"attribute_key\": \"COUNTY\", \"attribute_value\": \"Sussex\"}]}",
+  "metadata": {
+    "scraper_id": "rutgers_against_hunger",
+    "source": "rutgers_against_hunger"
+  },
+  "timestamp": "2025-08-08T05:10:48.959971"
+}

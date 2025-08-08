@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary Episcopal (Beach Food Pantry)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.calvaryirb.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1615 1st Street\", \"address_2\": null, \"city\": \"Indian Rocks Beach\", \"state_province\": \"FL\", \"postal_code\": \"33785\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8993995, \"longitude\": -82.8469783}, \"phones\": [{\"number\": \"(727) 282-4085\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.054366"
+}

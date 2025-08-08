@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Eastlake Senior Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://eastlakeohio.com/senior-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"600 East 349th Street\", \"address_2\": null, \"city\": \"Eastlake\", \"state_province\": \"OH\", \"postal_code\": \"44095\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.660913, \"longitude\": -81.4395138}, \"phones\": [{\"number\": \"(440) 975-4268\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Driver's License\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.275884"
+}

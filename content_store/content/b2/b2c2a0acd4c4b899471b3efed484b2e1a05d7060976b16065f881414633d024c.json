@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Life Worship Centre Food Pantry\", \"alternate_name\": \"\", \"description\": \"The food distribution is not in operation as of now but will be restarting again soon. Please call again after a month or two.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3900 5th Avenue North\", \"address_2\": null, \"city\": \"United Central\", \"state_province\": \"FL\", \"postal_code\": \"33713\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7769856, \"longitude\": -82.6862756}, \"phones\": [{\"number\": \"(727) 547-1400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.055565"
+}

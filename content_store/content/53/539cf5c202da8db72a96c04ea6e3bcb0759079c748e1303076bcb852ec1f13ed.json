@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2815, \"name\": \"Clearview School District\", \"nickname\": \"Clearview School District\", \"address\": \"100 N RIDGE RD W\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44053\", \"phone\": \"440.233.6869\", \"latitude\": 41.42454, \"longitude\": -82.1627, \"estimated_distance\": 871.47, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5933, \"name\": \"Durling Middle School\", \"address\": \"100 N RIDGE RD W\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44053\", \"latitude\": 41.42494383, \"longitude\": -82.16631504, \"event_details\": \"\", \"estimated_distance\": 871.47, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356348, \"event_id\": 5933, \"capacity\": 50, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-14\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:37.145193"
+}

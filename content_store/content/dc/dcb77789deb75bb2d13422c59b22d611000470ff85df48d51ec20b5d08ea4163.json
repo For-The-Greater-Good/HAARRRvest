@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Berean Outreach Ministries Center\", \"alternate_name\": \"\", \"description\": \"only serve ZIP Codes for 30314, 30318, AND 30331\", \"email\": \"\", \"url\": \"http://atlantaberean.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"312 Hamilton E Holmes Drive Northwest\", \"address_2\": null, \"city\": \"Collier Heights\", \"state_province\": \"GA\", \"postal_code\": \"30318\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7639824, \"longitude\": -84.47054519999999}, \"phones\": [{\"number\": \"(470) 225-7202\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.299973"
+}

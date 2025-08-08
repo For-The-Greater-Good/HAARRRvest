@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": \"RDNC\", \"name\": \"Richmond Neighborhood Center\", \"address\": \"741 30th Ave\", \"city\": \"San Francisco\", \"state\": \"CA\", \"zip\": \"94121\", \"phone\": \"(415)750-8554\", \"latitude\": 37.77525, \"longitude\": -122.48993, \"hours\": \"2:30 pm - 4:00 pm\", \"services\": [\"Food Pantry\"], \"website\": \"https://foodlocator.sfmfoodbank.org/en/site/RDNC\", \"notes\": \"Distribution Day: Thursday | Distribution Time: 2:30 pm - 4:00 pm | Enrollment Time: 3:45 pm | Zip Codes Served: 94118, 94121 | Additional Languages: 375, 376, 377\", \"enrollment_required\": false, \"availability\": \"-32\", \"source\": \"sfmarin_food_bank_ca\", \"food_bank\": \"SF-Marin Food Bank\"}",
+  "metadata": {
+    "scraper_id": "sfmarin_food_bank_ca",
+    "source": "sfmarin_food_bank_ca"
+  },
+  "timestamp": "2025-08-08T05:05:11.603895"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Maximilian Kolbe Church (St. Vincent de Paul)\", \"alternate_name\": \"\", \"description\": \"Port Charlotte Residents only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"17783 Toledo Blade Boulevard\", \"address_2\": null, \"city\": \"Port Charlotte\", \"state_province\": \"FL\", \"postal_code\": \"33948\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.0057638, \"longitude\": -82.16266399999999}, \"phones\": [{\"number\": \"(941) 258-3398\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.549486"
+}

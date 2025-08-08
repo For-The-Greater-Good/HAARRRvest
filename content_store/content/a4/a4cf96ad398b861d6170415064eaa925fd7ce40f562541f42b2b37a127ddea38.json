@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Plainsboro Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.plainsboronj.com/495/2020-Food-Pantry-Calendar\", \"status\": \"active\", \"address\": {\"address_1\": \"641 Plainsboro Rd\", \"address_2\": \"\", \"city\": \"Plainsboro\", \"state_province\": \"NJ\", \"postal_code\": \"08536\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.334575, \"longitude\": -74.579381}, \"phones\": [{\"number\": \"(609) 799-0909\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.059183"
+}

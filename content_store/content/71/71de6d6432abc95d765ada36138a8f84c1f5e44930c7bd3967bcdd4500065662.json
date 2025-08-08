@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Life Long Learning\", \"alternate_name\": \"\", \"description\": \"Call in the start of every month to confirm the day of distribution\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"22 Piercing Road\", \"address_2\": null, \"city\": \"Seabrook\", \"state_province\": \"NJ\", \"postal_code\": \"08302\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.50094199999999, \"longitude\": -75.217955}, \"phones\": [{\"number\": \"(856) 677-8216\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:50.387919"
+}

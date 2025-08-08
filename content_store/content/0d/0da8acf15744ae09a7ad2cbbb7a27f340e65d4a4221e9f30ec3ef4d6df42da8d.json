@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Holy Child Jesus Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"112-06 86th Avenue\", \"address_2\": null, \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11418\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6987703, \"longitude\": -73.8368062}, \"phones\": [{\"number\": \"(718) 847-1860\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:47.465820"
+}

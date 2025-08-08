@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Villiage Table\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"30 Viking Way\", \"address_2\": null, \"city\": \"Ashville\", \"state_province\": \"OH\", \"postal_code\": \"43103\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7147239, \"longitude\": -82.94311859999999}, \"phones\": [{\"number\": \"(740) 983-4675\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.582052"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Montville Kiwanis Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.montvillekiwanis.org/food-pantry?fbclid=IwAR3MDMOYVV2eRz6rzahObPOm1rwnHiNfI7pPtP1CcAGftrvTKWBburBAGFE\", \"status\": \"active\", \"address\": {\"address_1\": \"91 Passaic Valley Road\", \"address_2\": \"(Rt. 202)\", \"city\": \"Montville\", \"state_province\": \"NJ\", \"postal_code\": \"07045\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8949228, \"longitude\": -74.3557919}, \"phones\": [{\"number\": \"(973) 400-9222\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.098511"
+}

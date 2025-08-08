@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Second Reformed Church of Hackensack\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://newjersey.salvationarmy.org/NewJersey/hackensack\", \"status\": \"active\", \"address\": {\"address_1\": \"436 Union Street\", \"address_2\": null, \"city\": \"Hackensack\", \"state_province\": \"NJ\", \"postal_code\": \"07601\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8918895, \"longitude\": -74.040987}, \"phones\": [{\"number\": \"(201) 342-6531\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:39.450185"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CCSA Palm Harbor Comm. Activity Ctr\", \"alternate_name\": \"\", \"description\": \"People have to register and on the distribution day they receive a call \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1500 16th Street\", \"address_2\": null, \"city\": \"Palm Harbor\", \"state_province\": \"FL\", \"postal_code\": \"34683\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.081835, \"longitude\": -82.75708999999999}, \"phones\": [{\"number\": \"(727) 771-6000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.050307"
+}

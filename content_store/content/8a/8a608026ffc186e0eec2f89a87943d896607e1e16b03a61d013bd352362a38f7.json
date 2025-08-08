@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"85733\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in MOUNT MORIAH SEVENTH DAY ADVENTIST CHURCH FP\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"347-217-4988\", \"country\": \"US\"}, \"phones\": [{\"number\": \"1834 DECATUR STREET (RIDGEWOOD)\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.698117, \"longitude\": -73.897558}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"MOUNT MORIAH SEVENTH DAY ADVENTIST CHURCH FP\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:16:40.643526"
+}

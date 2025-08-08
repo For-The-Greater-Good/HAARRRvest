@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bounty Food Bank\", \"alternate_name\": \"\", \"description\": \"Must bring their own boxes or reusable bags to carry their food in.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5634 Park Avenue South\", \"address_2\": null, \"city\": \"South End\", \"state_province\": \"WA\", \"postal_code\": \"98408\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.2052387100006, \"longitude\": -122.4422997989955}, \"phones\": [{\"number\": \"(253) 475-7098\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Christmas & New Year\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.959774"
+}

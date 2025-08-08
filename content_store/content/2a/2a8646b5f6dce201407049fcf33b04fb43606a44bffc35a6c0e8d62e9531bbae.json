@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Soup for the Soul\", \"alternate_name\": \"\", \"description\": \"Zip codes requirement: 21221, 21222 21220, and 21224\\n\\nClosed for one week after Christmas\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"295 Willow Spring Road\", \"address_2\": null, \"city\": \"Dundalk\", \"state_province\": \"MD\", \"postal_code\": \"21222\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2595411, \"longitude\": -76.5267587}, \"phones\": [{\"number\": \"(443) 742-9160\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.309820"
+}

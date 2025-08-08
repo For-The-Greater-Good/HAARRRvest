@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"TRI COUNTY FAMILY CONNECTIONS\", \"alternate_name\": \"\", \"description\": \"Call for Emergency Assistance\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"703 Dobbins Street\", \"address_2\": null, \"city\": \"Mount Vernon\", \"state_province\": \"GA\", \"postal_code\": \"30445\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.1829244, \"longitude\": -82.58184729999999}, \"phones\": [{\"number\": \"(478) 697-3603\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"New clients should call & leave a voicemail\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.320642"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Meal At Noon - Second Baptist Church\", \"alternate_name\": \"\", \"description\": \"Monmouth County, NJ and Ocean County, NJ.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"93 Liberty Street\", \"address_2\": null, \"city\": \"Long Branch\", \"state_province\": \"New Jersey\", \"postal_code\": \"07740\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.307772, \"longitude\": -73.9860102}, \"phones\": [{\"number\": \"(732) 456-0963\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.333763"
+}

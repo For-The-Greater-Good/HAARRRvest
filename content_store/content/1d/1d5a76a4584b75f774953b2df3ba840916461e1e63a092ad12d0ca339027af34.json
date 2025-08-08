@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jewish Association Serving the Aging (JASA)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.jasa.org/services/meals\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7127753, \"longitude\": -74.0059728}, \"phones\": [{\"number\": \"(212) 273-5272\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Kosher meals are available upon request. Through JASA's Case Management Program, potential clients are individually assessed and evaluated.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:59.173288"
+}

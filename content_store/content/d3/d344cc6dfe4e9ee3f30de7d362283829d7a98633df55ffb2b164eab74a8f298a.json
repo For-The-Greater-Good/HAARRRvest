@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"81148\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in BETHEL GOSPEL TABERNACLE CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-291-2676\", \"country\": \"US\"}, \"phones\": [{\"number\": \"110-25 GUY R. BREWER BLVD.\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.713505, \"longitude\": -73.779067}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"BETHEL GOSPEL TABERNACLE CHURCH\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:17:23.732969"
+}

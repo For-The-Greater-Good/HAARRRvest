@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mizell's Helping Hands, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"461 Dove Lane\", \"address_2\": null, \"city\": \"Axson\", \"state_province\": \"GA\", \"postal_code\": \"31624\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.301001, \"longitude\": -82.73627809999999}, \"phones\": [{\"number\": \"(912) 286-0482\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:14.910833"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Athens County Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://athenscountyfoodpantry.org/get-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"13183a Ohio 13\", \"address_2\": null, \"city\": \"Millfield\", \"state_province\": \"OH\", \"postal_code\": \"45761\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.392914, \"longitude\": -82.12005909999999}, \"phones\": [{\"number\": \"(740) 590-7051\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit: once every 4 weeks\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.317280"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"LaVale United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.umclavale.org\", \"status\": \"active\", \"address\": {\"address_1\": \"565 National Highway\", \"address_2\": null, \"city\": \"Cumberland\", \"state_province\": \"MD\", \"postal_code\": \"21502\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6545274, \"longitude\": -78.81293699999999}, \"phones\": [{\"number\": \"(301) 722-6800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:26.550628"
+}

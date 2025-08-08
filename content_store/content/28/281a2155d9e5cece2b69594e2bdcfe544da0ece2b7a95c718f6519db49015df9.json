@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"True Vine Pantry\", \"alternate_name\": \"\", \"description\": \"- By appointments only and to book appointments call (7326087706).\\n- Open to New Jersey residents.\\n- They offer household supplies. \\n- Code Blue Shelter & Counseling Services are available as well.\\n\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"340 U.S. 9\", \"address_2\": null, \"city\": \"Bayville\", \"state_province\": \"NJ\", \"postal_code\": \"08721\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.91921200000001, \"longitude\": -74.15995699999999}, \"phones\": [{\"number\": \"(732) 608-7706\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.209398"
+}

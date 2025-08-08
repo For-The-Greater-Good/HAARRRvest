@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mission of Hope\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"822 Industrial Way Northeast\", \"address_2\": null, \"city\": \"Silverton\", \"state_province\": \"OR\", \"postal_code\": \"97381\", \"country\": \"US\"}, \"location\": {\"latitude\": 45.0089546, \"longitude\": -122.7979449}, \"phones\": [{\"number\": \"(503) 873-7353\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.216424"
+}

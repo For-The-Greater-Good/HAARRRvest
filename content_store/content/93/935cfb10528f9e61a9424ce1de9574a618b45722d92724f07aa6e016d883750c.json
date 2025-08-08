@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ferry Avenue United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/ferryaveumc/\", \"status\": \"active\", \"address\": {\"address_1\": \"768 Ferry Avenue\", \"address_2\": null, \"city\": \"Centerville\", \"state_province\": \"NJ\", \"postal_code\": \"08104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9201899, \"longitude\": -75.112623}, \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:08.181237"
+}

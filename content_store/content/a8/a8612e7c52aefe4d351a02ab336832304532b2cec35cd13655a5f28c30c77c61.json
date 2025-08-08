@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 643, \"name\": \"Marietta Church of God\", \"nickname\": \"Marietta Church of God\", \"address\": \"501 COLEGATE DR\", \"city\": \"MARIETTA\", \"state\": \"OH\", \"zip\": \"45750\", \"phone\": \"740-374-9910\", \"latitude\": 39.42529, \"longitude\": -81.43634, \"estimated_distance\": 916.65, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 857, \"name\": \"Pantry\", \"address\": \"501 COLEGATE DR\", \"city\": \"MARIETTA\", \"state\": \"OH\", \"zip\": \"45750\", \"latitude\": 39.4256184, \"longitude\": -81.4363981, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. Phone Number: (740) 373-4219\", \"estimated_distance\": 916.65, \"exception_note\": \"Serving those within a 25-minute radius\", \"event_dates\": [{\"id\": 357662, \"event_id\": 857, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-29\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:32.823123"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Colquitt County Food and Clothing Bank, Inc.\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"309 3rd Street Southeast\", \"address_2\": null, \"city\": \"Moultrie\", \"state_province\": \"GA\", \"postal_code\": \"31768\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.1763492, \"longitude\": -83.78484279999999}, \"phones\": [{\"number\": \"(229) 985-7725\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:14.421853"
+}

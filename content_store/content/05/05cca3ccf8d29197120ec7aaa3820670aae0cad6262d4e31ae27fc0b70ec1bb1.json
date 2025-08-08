@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Survival Center\", \"alternate_name\": \"\", \"description\": \"consisting of 1 or 2 people; senior households of 3 or more people are served through the Emergency Food Pantry.\\nThe program offers twelve 20-22 lb. bags of food (one each month of the year) \\n\\nHampden County Residents\", \"email\": \"\", \"url\": \"https://communitysurvivalcenter.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"240 Main Street\", \"address_2\": null, \"city\": \"Indian Orchard\", \"state_province\": \"MA\", \"postal_code\": \"01151\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1594407, \"longitude\": -72.49899169999999}, \"phones\": [{\"number\": \"(413) 543-3930\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"21:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.787658"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Bobrow Kosher Food Pantry - Oheb Shalom Congregation\", \"alternate_name\": \"\", \"description\": \"You can find their schedule at: https://www.ohebshalom.org/event/bobrow-kosher-food-pantry-.html\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"170 Scotland Rd\", \"address_2\": null, \"city\": \"South Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07079\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.748662, \"longitude\": -74.255072}, \"phones\": [{\"number\": \"(973) 762-7067\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.962697"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Whittier Street Health Center \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.wshc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1290 Tremont Street\", \"address_2\": null, \"city\": \"Roxbury\", \"state_province\": \"MA\", \"postal_code\": \"02120\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3328735, \"longitude\": -71.0920291}, \"phones\": [{\"number\": \"(617) 427-1000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.305897"
+}

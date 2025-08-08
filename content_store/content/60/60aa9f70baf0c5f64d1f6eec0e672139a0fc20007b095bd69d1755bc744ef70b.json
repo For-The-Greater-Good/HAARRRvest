@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"83382\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in SHOUT FOR JOY BAPTIST CHURCH INC\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"347-400-0409\", \"country\": \"US\"}, \"phones\": [{\"number\": \"456 WHITE PLAINS ROAD\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.81234, \"longitude\": -73.861543}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"SHOUT FOR JOY BAPTIST CHURCH INC\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:14:08.357329"
+}

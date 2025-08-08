@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Vailsburg Branch Library\", \"alternate_name\": \"\", \"description\": \"Coordinator: Paul\\tVolpe\\t9737339309\\nStart: 07/01/2025\\tEnd: 08/29/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"75 Alexander Street\", \"address_2\": null, \"city\": \"Lower Vailsburg\", \"state_province\": \"NJ\", \"postal_code\": \"07106\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7430527, \"longitude\": -74.2255887}, \"phones\": [{\"number\": \"(973) 733-7755\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:48.471888"
+}

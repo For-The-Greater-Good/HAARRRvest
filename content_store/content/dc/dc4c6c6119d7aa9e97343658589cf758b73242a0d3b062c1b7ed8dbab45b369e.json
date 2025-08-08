@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Good Shepherd Food Pantry - Food Distribution Center (Cabrini Immigrant Services)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.goodshepherdnyc.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"630 Isham Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10034\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8695555, \"longitude\": -73.92100959999999}, \"phones\": [{\"number\": \"(212) 791-4590\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:30\", \"closes_at\": \"13:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.160491"
+}

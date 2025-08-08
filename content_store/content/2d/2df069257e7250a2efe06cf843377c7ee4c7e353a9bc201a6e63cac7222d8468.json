@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mason Memorial\", \"alternate_name\": \"\", \"description\": \"Contact: Mary Curtis\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2608 Frederick Avenue\", \"address_2\": null, \"city\": \"Shipley Hill\", \"state_province\": \"MD\", \"postal_code\": \"21223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2825957, \"longitude\": -76.657898}, \"phones\": [{\"number\": \"(410) 947-4466\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.169381"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady Help of Christians\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1315 East 28th Street\", \"address_2\": null, \"city\": \"Midwood\", \"state_province\": \"NY\", \"postal_code\": \"11210\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6192055, \"longitude\": -73.9470496}, \"phones\": [{\"number\": \"(718) 338-5242\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Non-perishable food only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.038142"
+}

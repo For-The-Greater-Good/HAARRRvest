@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3574, \"name\": \"FACCES\", \"nickname\": \"FACCES\", \"address\": \"2515 LOCKBOURNE RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43207\", \"phone\": \"614-319-6070\", \"latitude\": 39.91391, \"longitude\": -82.96737, \"estimated_distance\": 831.74, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6225, \"name\": \"Produce Market\", \"address\": \"2515 LOCKBOURNE RD\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43207\", \"latitude\": 39.9133913, \"longitude\": -82.96623169, \"event_details\": \"phone number: 614-319-6070\", \"estimated_distance\": 831.74, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356549, \"event_id\": 6225, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-13\"}, {\"id\": 356550, \"event_id\": 6225, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:38.565108"
+}

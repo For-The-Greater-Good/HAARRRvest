@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christian Assembly of the Bronx - NYC Love Kitchen\", \"alternate_name\": \"\", \"description\": \"Clients need to register with their name and cell # so they will be placed on our list to receive texts about future pantry dates.\", \"email\": \"\", \"url\": \"http://www.cabx.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"659 East 188th Street\", \"address_2\": null, \"city\": \"Belmont\", \"state_province\": \"NY\", \"postal_code\": \"10458\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8558277, \"longitude\": -73.8849535}, \"phones\": [{\"number\": \"(718) 365-0078\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must have telephone number\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.355008"
+}

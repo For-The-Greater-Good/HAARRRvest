@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Restoration Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5600 Sunnyside Avenue\", \"address_2\": null, \"city\": \"Beltsville\", \"state_province\": \"MD\", \"postal_code\": \"20705\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0235214, \"longitude\": -76.9098357}, \"phones\": [{\"number\": \"(240) 645-7177\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Supplemental governmental help proof is required (Disability, WIC, or Social Security)\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.031342"
+}

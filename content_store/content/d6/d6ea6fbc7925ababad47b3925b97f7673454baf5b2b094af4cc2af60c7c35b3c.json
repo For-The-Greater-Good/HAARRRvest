@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SS. Peter & Paul Russian Orthodox Cathedral Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Passaic County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"200 3rd Street\", \"address_2\": null, \"city\": \"Passaic\", \"state_province\": \"NJ\", \"postal_code\": \"07055\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8689047, \"longitude\": -74.1160526}, \"phones\": [{\"number\": \"(973) 778-0826\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.793496"
+}

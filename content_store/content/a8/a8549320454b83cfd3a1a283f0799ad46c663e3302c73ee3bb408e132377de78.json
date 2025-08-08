@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Rockaway Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.fpcrockaway.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"35 Church Street\", \"address_2\": \"35 Church Street\", \"city\": \"Rockaway\", \"state_province\": \"NJ\", \"postal_code\": \"07866\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9034493, \"longitude\": -74.5128659}, \"phones\": [{\"number\": \"(973) 627-1059\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:59.758330"
+}

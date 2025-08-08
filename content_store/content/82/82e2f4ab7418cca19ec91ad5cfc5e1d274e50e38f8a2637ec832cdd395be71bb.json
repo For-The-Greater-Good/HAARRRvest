@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"AL-NASR MOSQUE- Humanity First USA\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://usa.humanityfirst.org/al-nasr-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"500 Bridge Street\", \"address_2\": null, \"city\": \"Willingboro\", \"state_province\": \"NJ\", \"postal_code\": \"08046\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0032, \"longitude\": -74.8707}, \"phones\": [{\"number\": \"(609) 330-4578\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.816049"
+}

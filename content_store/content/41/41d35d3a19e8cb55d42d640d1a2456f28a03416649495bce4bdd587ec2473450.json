@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Open Hands Food Pantry\", \"alternate_name\": \"\", \"description\": \"drive-through pantry\", \"email\": \"\", \"url\": \"https://openhandspantry.org\", \"status\": \"active\", \"address\": {\"address_1\": \"10540 Browning Road\", \"address_2\": null, \"city\": \"Lithia\", \"state_province\": \"FL\", \"postal_code\": \"33547\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8491835, \"longitude\": -82.1737639}, \"phones\": [{\"number\": \"(813) 653-2354\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Female hygiene products\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Drive-up Food Pantry\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.832500"
+}

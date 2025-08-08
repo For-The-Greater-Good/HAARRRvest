@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Flatbush SDA\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.flatbushsda.org/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"261 E 21st.\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11226\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.648056, \"longitude\": -73.959381}, \"phones\": [{\"number\": \"(718) 693-9180\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.147503"
+}

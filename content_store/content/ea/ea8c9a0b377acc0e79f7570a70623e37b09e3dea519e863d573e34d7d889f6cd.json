@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Meals on Wheels of Tampa\", \"alternate_name\": \"\", \"description\": \"* Helping homebound seniors and people with disablilities who can't get out of their home to receive meals 5 days in a week. Also provides frozen meals for the weekend.\\n* Call 813-238-8410 to inquire.\", \"email\": \"\", \"url\": \"https://mowtampa.org/meal-service/\", \"status\": \"active\", \"address\": {\"address_1\": \"5320 North Boulevard\", \"address_2\": null, \"city\": \"Wellswood\", \"state_province\": \"FL\", \"postal_code\": \"33603\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9956838, \"longitude\": -82.4681698}, \"phones\": [{\"number\": \"(813) 238-8410\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Delivery available for seniors & those adults with disabilities\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.098298"
+}

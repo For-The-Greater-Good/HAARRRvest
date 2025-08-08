@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethel Ridge Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serving Scioto & Liberty Twps plus any emergency situation\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2840 Whaleytown Road\", \"address_2\": null, \"city\": \"Jackson\", \"state_province\": \"OH\", \"postal_code\": \"45640\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0615215, \"longitude\": -82.7699876}, \"phones\": [{\"number\": \"(740) 988-2895\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.177956"
+}

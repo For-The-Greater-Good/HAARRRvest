@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Aspen Hill Christian Church\", \"alternate_name\": \"\", \"description\": \"Recipients must be Montgomery County residents; Driver\\u2019s License with current address shown and/or Utility bill in the name of the applicant with their current address shown.\\n\\n\\n\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"13501 Georgia Avenue\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20906\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0784271, \"longitude\": -77.0702223}, \"phones\": [{\"number\": \"(301) 929-8675\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.223403"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Encompass Ministries, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.encompassministriesinc.org/need-food-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"6551 Commerce Parkway\", \"address_2\": null, \"city\": \"Woodstock\", \"state_province\": \"GA\", \"postal_code\": \"30189\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.1215397, \"longitude\": -84.5868856}, \"phones\": [{\"number\": \"(770) 591-4707\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.699857"
+}

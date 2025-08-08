@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Louise Pantry at Nazareth Housing - Bronx\", \"alternate_name\": \"\", \"description\": \"Text \\u201c**Food**\\u201d to **726879**, come to the office, or call the office **(646) 713-2739** directly to make an appointment.\", \"email\": \"\", \"url\": \"https://nazarethhousingnyc.org/louises-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"406 East 184th Street\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10458\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8563985, \"longitude\": -73.894757}, \"phones\": [{\"number\": \"(646) 713-2739\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"11:30\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.263451"
+}

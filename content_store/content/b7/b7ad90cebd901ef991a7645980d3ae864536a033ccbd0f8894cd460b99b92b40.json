@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Brooklyn College Campus Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.brooklyn.cuny.edu/web/about/offices/studentaffairs/student-support-services/food-pantry.php\", \"status\": \"active\", \"address\": {\"address_1\": \"2900 Bedford Avenue\", \"address_2\": null, \"city\": \"Flatbush\", \"state_province\": \"NY\", \"postal_code\": \"11210\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.63179, \"longitude\": -73.953419}, \"phones\": [{\"number\": \"(718) 951-5059\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Student ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.454980"
+}

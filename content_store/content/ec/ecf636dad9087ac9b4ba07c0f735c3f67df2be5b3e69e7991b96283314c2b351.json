@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Paramount Baptist Church\", \"alternate_name\": \"\", \"description\": \"Bring photo identification, Medicaid card, SNAP card, or referral.\\n\\nFocus is on Ward 8 residents\", \"email\": \"\", \"url\": \"http://www.paramountbaptist church.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3924 4th Street Southeast\", \"address_2\": null, \"city\": \"Southeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20032\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8321092, \"longitude\": -77.0002571}, \"phones\": [{\"number\": \"(202) 562-6339\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.484551"
+}

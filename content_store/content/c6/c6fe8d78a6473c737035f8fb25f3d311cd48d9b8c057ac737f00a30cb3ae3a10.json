@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Baby Pantry\", \"alternate_name\": \"\", \"description\": \"Need to fill out the online form through their website, https://thebabypantry.org/participant-information-form/ and upload their IDs before coming.\\n\\nClosed if the holidays falls on Tuesday and Thursday.\\n\\nhttps://www.facebook.com/thebabypantryatl\\n\", \"email\": \"\", \"url\": \"https://thebabypantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1580 Peachtree Road Northwest\", \"address_2\": null, \"city\": \"Midtown Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30309\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7968923, \"longitude\": -84.38990059999999}, \"phones\": [{\"number\": \"(404) 376-3946\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.111733"
+}

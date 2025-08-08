@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The River Community Assembly of God\", \"alternate_name\": \"\", \"description\": \"Name and mailing address required\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5043 Thompson Bridge Road\", \"address_2\": null, \"city\": \"Murrayville\", \"state_province\": \"GA\", \"postal_code\": \"30564\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.4065236, \"longitude\": -83.8962519}, \"phones\": [{\"number\": \"(770) 536-8768\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.131158"
+}

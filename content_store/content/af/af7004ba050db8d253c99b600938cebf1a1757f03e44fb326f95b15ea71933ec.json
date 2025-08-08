@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Upon This Rock Ministry\", \"alternate_name\": \"\", \"description\": \"Please leave a message on phone by Thursday before first Saturday\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1206 College Street\", \"address_2\": null, \"city\": \"Oxford\", \"state_province\": \"NC\", \"postal_code\": \"27565\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.3297939, \"longitude\": -78.59221}, \"phones\": [{\"number\": \"(919) 692-0007\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:18.022942"
+}

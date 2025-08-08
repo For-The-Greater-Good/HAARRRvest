@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of Epiphany (Helping Hands Ministry)\", \"alternate_name\": \"\", \"description\": \"Serves Ocean County. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"621 Herbertsville Road\", \"address_2\": null, \"city\": \"Brick Township\", \"state_province\": \"NJ\", \"postal_code\": \"08724\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1126074, \"longitude\": -74.1093246}, \"phones\": [{\"number\": \"(732) 458-0434\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.909167"
+}

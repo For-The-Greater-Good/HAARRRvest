@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mary's - Friends of Clementon\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://friendsofclementon.wordpress.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"33 Berlin Road\", \"address_2\": \"\", \"city\": \"Clementon\", \"state_province\": \"NJ\", \"postal_code\": \"08021\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8057316, \"longitude\": -74.9893221}, \"phones\": [{\"number\": \"(609) 230-7714\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Accepts Walk-ins & Appointments\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.084705"
+}

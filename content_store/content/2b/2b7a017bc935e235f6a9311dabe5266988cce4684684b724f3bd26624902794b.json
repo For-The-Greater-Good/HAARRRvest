@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Joseph R.C. Church\", \"alternate_name\": \"\", \"description\": \"Food pantry in Hudson County, NJ. 07306\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"511 Pavonia Avenue\", \"address_2\": \"\", \"city\": \"Jersey City\", \"state_province\": \"NJ\", \"postal_code\": \"\", \"country\": \"US\"}, \"phones\": [], \"location\": {\"latitude\": 40.730417003264, \"longitude\": -74.05740797243}, \"hours_notes\": \"NJ\", \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Food Pantry\"}, {\"attribute_key\": \"COUNTY\", \"attribute_value\": \"Hudson\"}]}",
+  "metadata": {
+    "scraper_id": "hccc_food_pantry",
+    "source": "hccc_food_pantry"
+  },
+  "timestamp": "2025-08-08T05:07:03.460380"
+}

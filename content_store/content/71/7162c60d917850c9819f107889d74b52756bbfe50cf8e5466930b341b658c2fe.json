@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Solidarity Sandy Springs\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://solidaritysandysprings.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"6315 Roswell Road\", \"address_2\": null, \"city\": \"Sandy Springs\", \"state_province\": \"GA\", \"postal_code\": \"30328\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.9273179, \"longitude\": -84.3780376}, \"phones\": [{\"number\": \"(404) 271-1347\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.551949"
+}

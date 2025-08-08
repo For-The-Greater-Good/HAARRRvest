@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christ Church Pantry\", \"alternate_name\": \"\", \"description\": \"They are open on 3rd Saturday on the month of November\", \"email\": \"\", \"url\": \"https://www.christchurchnj.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"71 Oak Glen Road\", \"address_2\": null, \"city\": \"Howell Township\", \"state_province\": \"NJ\", \"postal_code\": \"07731\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1648474, \"longitude\": -74.196517}, \"phones\": [{\"number\": \"(732) 938-7500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Open to NJ residents\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.477796"
+}

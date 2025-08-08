@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SVDP Ann's Haines City\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://svdpstann.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1001 South 10th Street\", \"address_2\": null, \"city\": \"Haines City\", \"state_province\": \"FL\", \"postal_code\": \"33844\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0957191, \"longitude\": -81.6232869}, \"phones\": [{\"number\": \"(863) 419-4819\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:15\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:15\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.290993"
+}

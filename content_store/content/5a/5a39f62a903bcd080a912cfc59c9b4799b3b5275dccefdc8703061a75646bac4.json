@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Rhema Worship Center \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"381 North Midland Avenue\", \"address_2\": null, \"city\": \"Saddle Brook\", \"state_province\": \"NJ\", \"postal_code\": \"07663\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9098952, \"longitude\": -74.1085341}, \"phones\": [{\"number\": \"(201) 475-2400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.644189"
+}

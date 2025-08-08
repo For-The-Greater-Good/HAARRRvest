@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul Lutheran Church - Daisy's Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7701 Michigan 36\", \"address_2\": null, \"city\": \"Whitmore Lake\", \"state_province\": \"MI\", \"postal_code\": \"48189\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4529083, \"longitude\": -83.79616159999999}, \"phones\": [{\"number\": \"(810) 231-1033\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"06:00\", \"closes_at\": \"09:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:03.370434"
+}

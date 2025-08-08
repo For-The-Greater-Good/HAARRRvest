@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Union Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://unionbaptistwsnc.org/contact/\", \"status\": \"active\", \"address\": {\"address_1\": \"1200 Trade Street Northwest\", \"address_2\": null, \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27101\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.1098466, \"longitude\": -80.247207}, \"phones\": [{\"number\": \"(336) 724-9305\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:12.277432"
+}

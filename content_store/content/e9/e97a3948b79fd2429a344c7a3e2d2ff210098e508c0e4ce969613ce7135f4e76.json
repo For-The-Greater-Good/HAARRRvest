@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Restoration Christian Ministry Food Pantry\", \"alternate_name\": \"\", \"description\": \"Call +1 (347) 216-7681 to confirm if they are open before going.\", \"email\": \"\", \"url\": \"https://rcmrestores.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"822 East 233rd Street\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10466\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.89217, \"longitude\": -73.854034}, \"phones\": [{\"number\": \"(347) 216-7681\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"1 bag per family/person\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.505307"
+}

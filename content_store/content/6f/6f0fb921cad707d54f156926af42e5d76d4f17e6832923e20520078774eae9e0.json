@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvert Churches Community Food Pantry, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"100 Jibsail Drive\", \"address_2\": null, \"city\": \"Prince Frederick\", \"state_province\": \"MD\", \"postal_code\": \"20678\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.5110756, \"longitude\": -76.6380673}, \"phones\": [{\"number\": \"(443) 295-7768\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.423799"
+}

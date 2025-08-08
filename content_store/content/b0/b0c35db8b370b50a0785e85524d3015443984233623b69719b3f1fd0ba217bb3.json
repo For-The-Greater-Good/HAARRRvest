@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mary Queen of Creation\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"50931 Maria Street\", \"address_2\": null, \"city\": \"New Baltimore\", \"state_province\": \"MI\", \"postal_code\": \"48047\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.678509, \"longitude\": -82.7354689}, \"phones\": [{\"number\": \"(586) 725-6304\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:03.387375"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gwinnett Community Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"gwinnettcommunitychurch.com\", \"status\": \"active\", \"address\": {\"address_1\": \"2516 Five Forks Trickum Road Southwest\", \"address_2\": null, \"city\": \"Lawrenceville\", \"state_province\": \"GA\", \"postal_code\": \"30044\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8993776, \"longitude\": -84.0486665}, \"phones\": [{\"number\": \"(770) 979-1864\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.250241"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"James Finnegan Recreation Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Grover Avenue\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"15223\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5146307, \"longitude\": -79.95601529999999}, \"phones\": [{\"number\": \"(215) 685-4191\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.110405"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Angels on the Ground\", \"alternate_name\": \"\", \"description\": \"Angels on the Ground Inc is a non-profit (501c3) organization that feeds and clothes the homeless and displaced community in Newark. \\n\\nThey serve every Sunday from 7AM-9AM on Fortress of Solitude parking lot on University Ave. \\n\\nThey take non-perishable goods and canned goods with easy open lid.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"53 University Avenue\", \"address_2\": null, \"city\": \"Central Ward\", \"state_province\": \"NJ\", \"postal_code\": \"07102\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7457456, \"longitude\": -74.1721857}, \"phones\": [{\"number\": \"(973) 641-2743\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"11:00\", \"closes_at\": \"13:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Food donations are accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.621149"
+}

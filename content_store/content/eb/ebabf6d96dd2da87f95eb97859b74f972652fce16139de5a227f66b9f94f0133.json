@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Feeding Minds Pantry at Campbell Park Resource Center\", \"alternate_name\": \"\", \"description\": \"Building 7, Enter through The Rear of JHOP Middle School\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"701 16th Street South\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33705\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7628479, \"longitude\": -82.6557709}, \"phones\": [{\"number\": \"(727) 280-6703\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.844794"
+}

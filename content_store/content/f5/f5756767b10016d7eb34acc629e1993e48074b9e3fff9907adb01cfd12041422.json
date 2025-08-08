@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Parrish United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"12180 U.S. 301\", \"address_2\": null, \"city\": \"Parrish\", \"state_province\": \"FL\", \"postal_code\": \"34219\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.5756524, \"longitude\": -82.42623789999999}, \"phones\": [{\"number\": \"(941) 776-1539\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and feminine hygiene products may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.343357"
+}

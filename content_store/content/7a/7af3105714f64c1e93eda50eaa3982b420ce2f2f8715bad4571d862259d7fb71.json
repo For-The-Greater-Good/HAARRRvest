@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Regional Day School\", \"alternate_name\": \"\", \"description\": \"Kristen\\tDeehan\\t8567690101\\nStarts: 07/07/2025\\t08/14/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"45 Cheney Road\", \"address_2\": null, \"city\": \"Woodstown\", \"state_province\": \"NJ\", \"postal_code\": \"08098\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6251417, \"longitude\": -75.3643072}, \"phones\": [{\"number\": \"(856) 769-0101\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:15\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:45\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:45\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:45\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:45\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:50.326878"
+}

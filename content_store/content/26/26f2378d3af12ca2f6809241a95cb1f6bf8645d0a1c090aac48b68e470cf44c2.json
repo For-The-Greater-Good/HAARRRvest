@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Apostles Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Camd. & Glouc. Counties\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4401 Black Horse Pike\", \"address_2\": null, \"city\": \"Turnersville\", \"state_province\": \"NJ\", \"postal_code\": \"08012\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7601126, \"longitude\": -75.04803489999999}, \"phones\": [{\"number\": \"(856) 629-4228\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.384499"
+}

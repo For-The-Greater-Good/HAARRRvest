@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tommy's Pantry\", \"alternate_name\": \"\", \"description\": \"* Every 1st Saturday of the month: 325 Health and Wellness items are distributed.\\n* Every 3rd Saturday of the month: 320 Food boxes are distributed. \", \"email\": \"\", \"url\": \"https://tommyspantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"630 Silver Spring Ave.\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20910\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.991836, \"longitude\": -77.014655}, \"phones\": [{\"number\": \"(202) 262-4537\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"11:30\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.497737"
+}

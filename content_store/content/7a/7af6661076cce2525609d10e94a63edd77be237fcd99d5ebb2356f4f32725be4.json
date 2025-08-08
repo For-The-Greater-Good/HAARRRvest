@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Glory of Christ Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.gloryofchristchurch.com\", \"status\": \"active\", \"address\": {\"address_1\": \"2137 Ellis Avenue\", \"address_2\": \"\", \"city\": \"East Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10462\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8326183, \"longitude\": -73.8528652}, \"phones\": [{\"number\": \"(718) 828-8007\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: August\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.452585"
+}

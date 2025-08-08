@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"WHEDCo - Food Pantry\", \"alternate_name\": \"\", \"description\": \"Tickets distributed on Wednesdays at 8am\", \"email\": \"\", \"url\": \"https://whedco.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"50 E 168th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10452\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8362836, \"longitude\": -73.9191271}, \"phones\": [{\"number\": \"(718) 839-1100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number or ticket by 8am\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:59.994203"
+}

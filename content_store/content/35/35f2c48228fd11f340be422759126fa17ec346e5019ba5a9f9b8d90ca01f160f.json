@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Southborough Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"15 Common Street\", \"address_2\": null, \"city\": \"Southborough\", \"state_province\": \"MA\", \"postal_code\": \"01772\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3064573, \"longitude\": -71.5316449}, \"phones\": [{\"number\": \"(508) 485-4847\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produces, milk, eggs, cheese, meats,food supplemental packages, & personal hygiene products.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.034413"
+}

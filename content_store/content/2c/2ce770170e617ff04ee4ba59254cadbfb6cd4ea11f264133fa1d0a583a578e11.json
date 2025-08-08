@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Eternal Life Missionary Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2001 South 65th Street\", \"address_2\": null, \"city\": \"Elmwood Park\", \"state_province\": \"PA\", \"postal_code\": \"19142\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9272448, \"longitude\": -75.2360442}, \"phones\": [{\"number\": \"(610) 809-2607\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.438502"
+}

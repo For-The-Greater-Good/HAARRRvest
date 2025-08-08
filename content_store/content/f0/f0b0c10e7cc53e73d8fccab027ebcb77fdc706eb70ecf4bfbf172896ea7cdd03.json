@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Southwestern Church of Christ Pantry\", \"alternate_name\": \"\", \"description\": \"Must bring: State Issued Identification and 2 Bills with current address from the last two months.\\n\\nhttps://www.facebook.com/SouthwesternChurch/\", \"email\": \"\", \"url\": \"https://sw-church.com/index.php/food-bank-ministry/\", \"status\": \"active\", \"address\": {\"address_1\": \"3767 Grove City Road\", \"address_2\": null, \"city\": \"Grove City\", \"state_province\": \"OH\", \"postal_code\": \"43123\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8816282, \"longitude\": -83.1032742}, \"phones\": [{\"number\": \"(614) 875-4395\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Requires 2 different proof of address that matches ID\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.530302"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Feast for Friends\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.feastforfriends.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"6001 Colgate St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19111\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.04464766691042, \"longitude\": -75.10014904883771}, \"phones\": [{\"number\": \"(215) 921-1689\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.439419"
+}

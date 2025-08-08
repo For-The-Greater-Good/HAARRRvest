@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Winston-Salem Rescue Mission Pantry & Shelter\", \"alternate_name\": \"\", \"description\": \"Clients can visit after 2 months \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"717 Oak Street Northwest\", \"address_2\": null, \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27101\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.1033778, \"longitude\": -80.24700829999999}, \"phones\": [{\"number\": \"(336) 723-1848\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social security cards or Birth certificates for every member of the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.006235"
+}

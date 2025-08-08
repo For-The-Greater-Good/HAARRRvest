@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Duluth Cooperative Ministry-Hands of Christ\", \"alternate_name\": \"\", \"description\": \"1. Go to this link to make appointment: https://duluthco-op.org/calendar/ \\n2. Select the date you wanted\\n3. Choose the time\\n4. Fill out the profile\\n5. Click *\\\"Book Appointment\\\"*\", \"email\": \"\", \"url\": \"https://duluthco-op.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3649 Rogers Bridge Road\", \"address_2\": null, \"city\": \"Duluth\", \"state_province\": \"GA\", \"postal_code\": \"30097\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.012254, \"longitude\": -84.1341361}, \"phones\": [{\"number\": \"(770) 623-9563\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Book online appointment 24/7\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.209384"
+}

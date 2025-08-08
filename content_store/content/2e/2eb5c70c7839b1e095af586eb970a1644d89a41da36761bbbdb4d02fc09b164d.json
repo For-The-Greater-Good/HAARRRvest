@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Hopewell Baptist Church\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/p/First-Hopewell-Baptist-Church-100070234211821/\", \"email\": \"\", \"url\": \"http://1sthopewell.org/wp-content/uploads/2015/03/food-pantry.jpg\", \"status\": \"active\", \"address\": {\"address_1\": \"525 Orange Street\", \"address_2\": null, \"city\": \"Newark\", \"state_province\": \"NJ\", \"postal_code\": \"07107\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7548198, \"longitude\": -74.192435}, \"phones\": [{\"number\": \"(973) 485-8100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on the 1st Wednesday of the month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.985591"
+}

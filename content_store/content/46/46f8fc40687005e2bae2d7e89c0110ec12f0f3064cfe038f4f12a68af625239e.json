@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ICNA Flushing Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"icnarelief.org\", \"status\": \"active\", \"address\": {\"address_1\": \"140-32 Cherry Ave\", \"address_2\": \"\", \"city\": \"Flushing\", \"state_province\": \"NY\", \"postal_code\": \"11355\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7578102, \"longitude\": -73.8140178}, \"phones\": [{\"number\": \"(718) 658-7028\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.681868"
+}

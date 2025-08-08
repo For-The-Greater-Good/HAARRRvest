@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"We Feed The Homeless Philly, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.wefeedthehomelessphilly.org/contact-us.html\", \"status\": \"active\", \"address\": {\"address_1\": \"18 Vine Street\", \"address_2\": null, \"city\": \"Old City\", \"state_province\": \"PA\", \"postal_code\": \"19106\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9551482, \"longitude\": -75.139748}, \"phones\": [{\"number\": \"(267) 259-9184\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Dec. 15-Jan. 15 (52nd and Master St. location)\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.393204"
+}

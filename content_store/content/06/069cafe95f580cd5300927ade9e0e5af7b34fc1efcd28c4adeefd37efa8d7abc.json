@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mission City Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"County Served: Mecklenburg\", \"email\": \"\", \"url\": \"https://themissioncity.org/missions/\", \"status\": \"active\", \"address\": {\"address_1\": \"608 Valleydale Road\", \"address_2\": null, \"city\": \"Coulwood East\", \"state_province\": \"NC\", \"postal_code\": \"28214\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2891887, \"longitude\": -80.9254899}, \"phones\": [{\"number\": \"(704) 707-6818\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.833740"
+}

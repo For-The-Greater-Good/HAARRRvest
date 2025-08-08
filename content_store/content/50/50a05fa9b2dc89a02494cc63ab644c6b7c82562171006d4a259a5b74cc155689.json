@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mary's Cupboard\", \"alternate_name\": \"\", \"description\": \"Clients Can Visit: Six times per year\\n\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"100 Levittown Parkway\", \"address_2\": \"\", \"city\": \"Levittown\", \"state_province\": \"PA\", \"postal_code\": \"19054\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.142957, \"longitude\": -74.817762}, \"phones\": [{\"number\": \"(215) 949-1991\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.322847"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fort Street Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"Distribute 15 Bags Daily\\n\", \"email\": \"\", \"url\": \"https://www.fortstreet.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"631 W. Fort Street\", \"address_2\": \"\", \"city\": \"Detroit\", \"state_province\": null, \"postal_code\": \"48226\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.327545, \"longitude\": -83.053799}, \"phones\": [{\"number\": \"(313) 961-4533\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:08.836275"
+}

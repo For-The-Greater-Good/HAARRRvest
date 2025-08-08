@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"River of Life Philadelphia\", \"alternate_name\": \"\", \"description\": \"Photo ID required.\", \"email\": \"\", \"url\": \"https://www.riveroflifephil.com\", \"status\": \"active\", \"address\": {\"address_1\": \"701 East Cornwall Street\", \"address_2\": \"\", \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19134\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9993195, \"longitude\": -75.1167625}, \"phones\": [{\"number\": \"(908) 303-6383\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.708839"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bayard Street Presbyterian Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/bayardstreetchurch\", \"status\": \"active\", \"address\": {\"address_1\": \"107 Bayard St\", \"address_2\": \"\", \"city\": \"New Brunswick\", \"state_province\": \"NJ\", \"postal_code\": \"08903\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.49401, \"longitude\": -74.44654}, \"phones\": [{\"number\": \"(732) 247-0384\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.906867"
+}

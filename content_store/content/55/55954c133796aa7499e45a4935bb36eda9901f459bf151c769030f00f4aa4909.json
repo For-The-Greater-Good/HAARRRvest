@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ebenezer Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ebenezeratl.org/mission-social-justice/\", \"status\": \"active\", \"address\": {\"address_1\": \"101 Jackson Street Northeast\", \"address_2\": null, \"city\": \"Sweet Auburn\", \"state_province\": \"GA\", \"postal_code\": \"30312\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.756746, \"longitude\": -84.37399049999999}, \"phones\": [{\"number\": \"(404) 688-7300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.743952"
+}

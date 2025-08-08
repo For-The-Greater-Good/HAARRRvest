@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Presbyterian Church of Alpha\", \"alternate_name\": \"\", \"description\": \"Food is distributed once at the end of each month to clients. Clients who have access to transportation pick up at an assigned time, while those who don't get arranged drop offs at their homes instead. \", \"email\": \"\", \"url\": \" http://alphaupc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"859 High Street\", \"address_2\": \"\", \"city\": \"Alpha\", \"state_province\": \"NJ\", \"postal_code\": \"08865\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6662678, \"longitude\": -75.1657373}, \"phones\": [{\"number\": \"(908) 229-3392\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.988281"
+}

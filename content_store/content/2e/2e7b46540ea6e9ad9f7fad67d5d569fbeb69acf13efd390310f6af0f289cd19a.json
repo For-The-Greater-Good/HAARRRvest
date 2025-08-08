@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Life Source Impact Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"lifesourcechurches.com/pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"7000 Rossville Boulevard\", \"address_2\": null, \"city\": \"Rosedale\", \"state_province\": \"MD\", \"postal_code\": \"21237\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3493726, \"longitude\": -76.48712859999999}, \"phones\": [{\"number\": \"(410) 391-8000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Infant food and formula depends on availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.764249"
+}

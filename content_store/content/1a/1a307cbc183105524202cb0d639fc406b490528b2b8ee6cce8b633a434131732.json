@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mt. Zion CME Church \", \"alternate_name\": \"\", \"description\": \"Saturday pantry schedule requires proof of address (Only allows Delaware county residents). Closed during Thanksgiving, Christmas, and New Year if distribution falls on those days.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"701 Felton Avenue\", \"address_2\": null, \"city\": \"Sharon Hill\", \"state_province\": \"PA\", \"postal_code\": \"19079\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9003612, \"longitude\": -75.27012390000002}, \"phones\": [{\"number\": \"(610) 620-8133\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Adult diapers available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Thanksgiving. Christmas & New Year\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.097814"
+}

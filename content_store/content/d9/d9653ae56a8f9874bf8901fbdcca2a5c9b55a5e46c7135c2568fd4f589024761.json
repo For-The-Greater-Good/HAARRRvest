@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mid-County Hub at Harvest Intercontinental Church Olney\", \"alternate_name\": \"\", \"description\": \"* Case managers are available to provide information for additional assistance.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"16227 Batchellors Forest Rd\", \"address_2\": null, \"city\": \"Olney\", \"state_province\": \"MD\", \"postal_code\": \"20832\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.121097, \"longitude\": -77.06904}, \"phones\": [{\"number\": \"(301) 512-5584\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.491653"
+}

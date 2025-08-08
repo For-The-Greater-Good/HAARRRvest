@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Gwinnett Cooperative Ministry \", \"alternate_name\": \"\", \"description\": \"Serving zip codes: 30011, 30517, 30515, 30519, 30548, 30518, 30024\", \"email\": \"\", \"url\": \"northgwinnettcoop.org/services\", \"status\": \"active\", \"address\": {\"address_1\": \"4395 Commerce Drive\", \"address_2\": null, \"city\": \"Buford\", \"state_province\": \"GA\", \"postal_code\": \"30518\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.0989524, \"longitude\": -84.00827319999999}, \"phones\": [{\"number\": \"(770) 271-9793\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Copy of photo ID: Medicaid/food stamp or section\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social security cards or Birth certificates for every member of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.422051"
+}

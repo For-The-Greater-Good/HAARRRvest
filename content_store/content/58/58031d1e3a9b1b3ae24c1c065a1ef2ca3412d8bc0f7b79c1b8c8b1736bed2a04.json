@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Barton Village - Augusta Housing Apartments/ golden harvest van supplies\", \"alternate_name\": \"\", \"description\": \"When you visit, you do not need anything beyond a government ID and basic information like your name, county of residence, and the number of people in your household to receive food assistance. Anyone who visits a food pantry for help is eligible to receive food. Some food pantries will ask you to self-declare that your income falls within federal guidelines.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3617 London Boulevard\", \"address_2\": null, \"city\": \"Augusta\", \"state_province\": \"GA\", \"postal_code\": \"30906\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.4358105, \"longitude\": -82.0889057}, \"phones\": [{\"number\": \"(706) 736-1199\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.074774"
+}

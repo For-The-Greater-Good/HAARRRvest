@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mary's Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://stmarys-pompton.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"22 Lakeside Avenue\", \"address_2\": null, \"city\": \"Pompton Lakes\", \"state_province\": \"NJ\", \"postal_code\": \"07442\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.0052587, \"longitude\": -74.2906514}, \"phones\": [{\"number\": \"(973) 831-4442\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.437783"
+}

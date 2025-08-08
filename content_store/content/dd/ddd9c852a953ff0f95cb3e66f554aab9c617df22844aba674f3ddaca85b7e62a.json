@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pathstone\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://pathstone.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"930 Washington Avenue\", \"address_2\": null, \"city\": \"South Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19147\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9361779, \"longitude\": -75.15955439999999}, \"phones\": [{\"number\": \"(585) 340-3300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.872696"
+}

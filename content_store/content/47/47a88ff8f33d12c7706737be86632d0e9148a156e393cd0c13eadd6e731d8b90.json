@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project Hospitality @ Cedar Grove Ave\", \"alternate_name\": \"\", \"description\": \"This is a mobile pantry maybe it will be late due to the traffic please wait 15 min from the time of arrival\", \"email\": \"\", \"url\": \"https://projecthospitality.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"99 Cedar Grove Avenue\", \"address_2\": null, \"city\": \"New Dorp Beach\", \"state_province\": \"NY\", \"postal_code\": \"10306\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5622657, \"longitude\": -74.0998379}, \"phones\": [{\"number\": \"(718) 448-1544\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:55.733281"
+}

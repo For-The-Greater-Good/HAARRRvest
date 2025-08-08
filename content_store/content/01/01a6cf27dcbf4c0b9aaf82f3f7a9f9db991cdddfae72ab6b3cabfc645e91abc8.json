@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bridgeton Union Baptist Temple\", \"alternate_name\": \"\", \"description\": \"Call (856) 451-6054 ext. 6 to make an appointment if you're unable to come to the food pantry, ask if a grocery delivery can be made.\\n\", \"email\": \"\", \"url\": \"https://www.ubtchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1 Martin Luther King Junior Way\", \"address_2\": null, \"city\": \"Bridgeton\", \"state_province\": \"NJ\", \"postal_code\": \"08302\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.424608, \"longitude\": -75.229258}, \"phones\": [{\"number\": \"(856) 451-6054\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"04:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Female hygiene products\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:39.197942"
+}

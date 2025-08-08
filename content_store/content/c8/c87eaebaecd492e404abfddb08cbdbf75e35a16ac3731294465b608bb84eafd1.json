@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Food Pantry at First United Methodist Church of Bristol\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.umc.org/en/find-a-church/church/?id=14018\", \"status\": \"active\", \"address\": {\"address_1\": \"201 Mulberry Street\", \"address_2\": null, \"city\": \"Bristol\", \"state_province\": \"PA\", \"postal_code\": \"19007\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0965318, \"longitude\": -74.8548248}, \"phones\": [{\"number\": \"(215) 788-9043\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.548423"
+}

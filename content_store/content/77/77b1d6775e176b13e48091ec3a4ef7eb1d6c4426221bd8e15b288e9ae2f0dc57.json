@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mary\\u2019s Church \\u2013 Newark\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.smcnewark.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"520 Doctor Martin Luther King Junior Boulevard\", \"address_2\": null, \"city\": \"Springfield/Belmont\", \"state_province\": \"NJ\", \"postal_code\": \"07102\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7357752, \"longitude\": -74.1797307}, \"phones\": [{\"number\": \"(973) 792-5793\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.040330"
+}

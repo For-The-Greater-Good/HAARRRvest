@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"OLPH Pantry (Our Lady of Perpetual Help)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.olphstagnes.org/community\", \"status\": \"active\", \"address\": {\"address_1\": \"121 Miller Street\", \"address_2\": \"Basement\", \"city\": \"Highlands\", \"state_province\": \"NJ\", \"postal_code\": \"07732\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3989401, \"longitude\": -73.9886442}, \"phones\": [{\"number\": \"(732) 872-1290\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:15.113397"
+}

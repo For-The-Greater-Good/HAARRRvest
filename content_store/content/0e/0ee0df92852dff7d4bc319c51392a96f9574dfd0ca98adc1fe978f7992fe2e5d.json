@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Patrick's Catholic Church\", \"alternate_name\": \"\", \"description\": \"If you or someone you know is struggling to feed themselves and their family, we can help. Call the food pantry hotline at 727-489-8221. All requests are confidential and kept in the strictest privacy.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1507 Trotter Road\", \"address_2\": null, \"city\": \"Largo\", \"state_province\": \"FL\", \"postal_code\": \"33770\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9032326, \"longitude\": -82.8105343}, \"phones\": [{\"number\": \"(727) 489-8221\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:21.720181"
+}

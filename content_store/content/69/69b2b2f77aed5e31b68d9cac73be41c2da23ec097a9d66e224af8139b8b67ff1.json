@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fairfield Interfaith Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"23 Lawrence Avenue\", \"address_2\": null, \"city\": \"Fairfield\", \"state_province\": \"ME\", \"postal_code\": \"04937\", \"country\": \"US\"}, \"location\": {\"latitude\": 44.5876236, \"longitude\": -69.5957964}, \"phones\": [{\"number\": \"(207) 317-0801\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.388305"
+}

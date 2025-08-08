@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4595, \"name\": \"Sharing and Caring\", \"nickname\": \"Sharing and Caring\", \"address\": \"920 3rd St SE\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"phone\": \"330-832-3507\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 905.45, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8502, \"name\": \"Pantry\", \"address\": \"920 3rd St SE\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"latitude\": 40.7866866, \"longitude\": -81.5137515, \"event_details\": \"Regular Hours - 1st, 3rd, and 5th Wednesdays from 10:45-12pm\", \"estimated_distance\": 905.45, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359915, \"event_id\": 8502, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10:45 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-20\"}, {\"id\": 367079, \"event_id\": 8502, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10:45 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:41.687429"
+}

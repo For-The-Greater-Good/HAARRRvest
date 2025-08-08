@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Newport Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serving those within a 7-mile Radius\", \"email\": \"\", \"url\": \"https://www.facebook.com/NewportCommunityFoodPantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"245 Greene Street\", \"address_2\": null, \"city\": \"Newport\", \"state_province\": \"OH\", \"postal_code\": \"45768\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.391442, \"longitude\": -81.2296593}, \"phones\": [{\"number\": \"(740) 473-2900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.977184"
+}

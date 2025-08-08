@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Epicenter at Aberdeen \\u2013 Community Caf\\u00e9/Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"epicenter.org\", \"status\": \"active\", \"address\": {\"address_1\": \"21 Aberdeen Shopping Plaza\", \"address_2\": null, \"city\": \"Aberdeen\", \"state_province\": \"MD\", \"postal_code\": \"21001\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5215378, \"longitude\": -76.18970929999999}, \"phones\": [{\"number\": \"(443) 788-1016\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit: 3 times a week\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.459187"
+}

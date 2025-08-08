@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Burlington County Office on Aging - Meals on Wheels\", \"alternate_name\": \"\", \"description\": \"Clients must meet criteria to be eligible:\\n1. Must be 60 years or older\\n2. Physically unable to prepare meals\\n3. Homebound\\n4. Family or other support systems are unavailable\", \"email\": \"\", \"url\": \" https://www.co.burlington.nj.us/DocumentCenter/View/1822/Criteria-for-MOW?bidId=\", \"status\": \"active\", \"address\": {\"address_1\": \"795 Woodlane Road\", \"address_2\": null, \"city\": \"Westampton\", \"state_province\": \"NJ\", \"postal_code\": \"08060\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0129273, \"longitude\": -74.8055782}, \"phones\": [{\"number\": \"(609) 702-7053\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"For homebound seniors\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.643218"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bread of Life Food Pantry\", \"alternate_name\": \"\", \"description\": \"Revised Hours: Added drive thru dinner service weekly on Weds 5-6:30 pm.\", \"email\": \"\", \"url\": \"www.clearwaternazarene.org\", \"status\": \"active\", \"address\": {\"address_1\": \"Clearwater Nazarene\", \"address_2\": \"1875 Nursery Road\", \"city\": \"Clearwater\", \"state_province\": \"FL\", \"postal_code\": \"33764\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9417014, \"longitude\": -82.760126}, \"phones\": [{\"number\": \"(727) 536-1498\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.027022"
+}

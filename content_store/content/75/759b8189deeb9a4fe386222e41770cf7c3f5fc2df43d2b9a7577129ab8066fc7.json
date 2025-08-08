@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Natick Service Council\", \"alternate_name\": \"\", \"description\": \"Open to Clients (Must be a resident of Natick)\\n\\nby appointments only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2 Webster Street\", \"address_2\": null, \"city\": \"Natick\", \"state_province\": \"MA\", \"postal_code\": \"01760\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2802662, \"longitude\": -71.3467163}, \"phones\": [{\"number\": \"(508) 655-1791\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.040297"
+}

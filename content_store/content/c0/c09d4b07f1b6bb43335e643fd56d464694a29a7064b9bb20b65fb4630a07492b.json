@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Solidarity Hungtington Food Share\", \"alternate_name\": \"\", \"description\": \"Line starts at 7PM\\nDue to the popularity of the Huntington Food Share if you are coming by car we require you to adhere to our parking guidelines listed below. There is a single line for this distribution and numbers allotting placement are given out every 15 minutes. https://www.communitysolidarity.org/foodshares/huntington#parking\", \"email\": \"\", \"url\": \"https://www.communitysolidarity.org/foodshares/huntington\", \"status\": \"active\", \"address\": {\"address_1\": \"107 Fairground Avenue\", \"address_2\": null, \"city\": \"Huntington Station\", \"state_province\": \"NY\", \"postal_code\": \"11746\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8495351, \"longitude\": -73.4087002}, \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"00:15\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:56.916644"
+}

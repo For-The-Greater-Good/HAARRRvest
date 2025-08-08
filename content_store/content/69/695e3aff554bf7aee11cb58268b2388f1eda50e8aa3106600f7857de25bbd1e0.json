@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"My Temple Rock Prayer\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.templerock.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"88-90 Verona Avenue\", \"address_2\": null, \"city\": \"North Broadway\", \"state_province\": \"NJ\", \"postal_code\": \"07104\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7794043, \"longitude\": -74.1565573}, \"phones\": [{\"number\": \"(973) 484-5840\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food Pantry Location: annex building 88-90 verona ave.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.570769"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Center for Food Action (BCC)\", \"alternate_name\": \"\", \"description\": \"Once every 3 weeks, our guests can make an appointment to receive a box of non-perishable food, along with fresh produce, meat, dairy, and bread, as available.\\nEnter your login below to make a food appointment. Please be prepared with household member names, birthdates, gender, ethnicity, and income.\\nMake an appointment here: https://app.pantrysoft.com/login/cfanj Or call your local site to complete registration and make an appointment over the phone.\", \"email\": \"\", \"url\": \"https://www.cfanj.org/gethelp/\", \"status\": \"active\", \"address\": {\"address_1\": \"400 Paramus Road\", \"address_2\": null, \"city\": \"Paramus\", \"state_province\": \"NJ\", \"postal_code\": \"07652\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9516768, \"longitude\": -74.09384}, \"phones\": [{\"number\": \"(201) 447-7191\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.769213"
+}

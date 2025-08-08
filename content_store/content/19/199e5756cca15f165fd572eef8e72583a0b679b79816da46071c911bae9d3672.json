@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army of Pueblo\", \"alternate_name\": \"\", \"description\": \"Food pantry in Pueblo County\", \"url\": \"https://careandshare.org/locations/salvation-army-of-pueblo/\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": \"\", \"city\": \"\", \"state_province\": \"CO\", \"postal_code\": \"81005\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-543-3656\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"12 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"12 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"12 p.m.\"}], \"location\": {\"latitude\": 38.260116874361, \"longitude\": -104.644326085525}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-08-08T05:08:26.109711"
+}

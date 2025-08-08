@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Father's Cupboard at Grace Redeemer Church\", \"alternate_name\": \"\", \"description\": \"* Slots are limited \\n* Call in advance for services between 9am-6pm Monday-Friday\\n* Client will have to bag their own items\", \"email\": \"\", \"url\": \"https://graceredeemer.com/fc/\", \"status\": \"active\", \"address\": {\"address_1\": \"21 Harristown Road\", \"address_2\": \"\", \"city\": \"Glen Rock\", \"state_province\": \"NJ\", \"postal_code\": \"07452\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9493015, \"longitude\": -74.14482389999999}, \"phones\": [{\"number\": \"(201) 301-6260\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:50\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Serves New Jersey residents\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.367629"
+}

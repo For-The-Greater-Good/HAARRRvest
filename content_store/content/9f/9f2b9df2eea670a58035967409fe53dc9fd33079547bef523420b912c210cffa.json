@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Kensington-WT Mutual Aid\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.kwtmutualaid.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"143 East 2nd Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"10009\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7230138, \"longitude\": -73.9863775}, \"phones\": [{\"number\": \"(347) 433-8725\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open 24/7! Free, outdoor community fridge/pantry operated by local volunteers.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.047866"
+}

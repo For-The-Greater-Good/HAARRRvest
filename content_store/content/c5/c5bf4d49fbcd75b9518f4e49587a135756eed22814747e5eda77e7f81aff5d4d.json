@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"HILLSBOROUGH | Lockhart Magnet\", \"alternate_name\": \"\", \"description\": \"Distribution Entrance is : 3888 N 19th St, Tampa, FL 33610\\n\\nDistribution starts at 4:30 PM but line starts at 3PM\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3719 North 17th Street\", \"address_2\": null, \"city\": \"Ybor City\", \"state_province\": \"FL\", \"postal_code\": \"33610\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9786377, \"longitude\": -82.4387558}, \"phones\": [{\"number\": \"(813) 276-5727\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.376537"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Temple University Hospital, Episcopal Campus\", \"alternate_name\": \"\", \"description\": \"Located in the Tower Building Basement\\nAre able to provide resources to assist with other social determinants of health, including mental health resources\", \"email\": \"\", \"url\": \"215-707-0305\", \"status\": \"active\", \"address\": {\"address_1\": \"100 E. Lehigh Ave.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19125\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.99001438596334, \"longitude\": -75.12921282794757}, \"phones\": [{\"number\": \"(215) 707-0305\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Linkages to services offered through Temple Health\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"SNAP assistance available\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will be given a Pantry ID upon registration\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.829614"
+}

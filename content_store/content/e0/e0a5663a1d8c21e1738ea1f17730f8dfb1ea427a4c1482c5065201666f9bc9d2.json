@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sylan Abbey Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.sylvanabbeyumc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2817 Sunset Point Road\", \"address_2\": null, \"city\": \"Clearwater\", \"state_province\": \"FL\", \"postal_code\": \"33759\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9902816, \"longitude\": -82.7202566}, \"phones\": [{\"number\": \"(727) 796-3057\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.936384"
+}

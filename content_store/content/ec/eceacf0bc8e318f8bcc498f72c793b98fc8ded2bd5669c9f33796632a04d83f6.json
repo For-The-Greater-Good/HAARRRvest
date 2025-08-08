@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SVDP St Philip Benizi Catholic Church\", \"alternate_name\": \"\", \"description\": \"The pantry is behind the church. Food recipients are expected to be residents of Clayton County.  We need to see their driver's license and the social security card, state ID card or some type of legal document for every member of their household.\", \"email\": \"\", \"url\": \"https://www.stphilipbenizi.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"591 Flint River Road\", \"address_2\": null, \"city\": \"Jonesboro\", \"state_province\": \"GA\", \"postal_code\": \"30238\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.5180668, \"longitude\": -84.3725941}, \"phones\": [{\"number\": \"(770) 478-0178\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.650551"
+}

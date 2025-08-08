@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mt. Zion UMC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.mountzionumcphila.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1530 North 11th Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19122\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9760307, \"longitude\": -75.1532892}, \"phones\": [{\"number\": \"(215) 684-1811\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.899146"
+}

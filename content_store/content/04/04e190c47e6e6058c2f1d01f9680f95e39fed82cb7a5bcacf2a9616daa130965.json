@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80518\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in CHRIST CHURCH UNITED METHODIST\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(212) 838-3036\", \"country\": \"US\"}, \"phones\": [{\"number\": \"524 PARK AVENUE @ 60TH ST.\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.763922, \"longitude\": -73.969503}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"CHRIST CHURCH UNITED METHODIST\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:16:00.071871"
+}

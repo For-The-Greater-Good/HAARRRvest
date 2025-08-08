@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hughesville Baptist Church\", \"alternate_name\": \"\", \"description\": \"Contact: Ray Allen\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"8505 Old Leonardtown Road\", \"address_2\": null, \"city\": \"Hughesville\", \"state_province\": \"MD\", \"postal_code\": \"20637\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.5335407, \"longitude\": -76.7785892}, \"phones\": [{\"number\": \"(301) 884-6163\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.865059"
+}

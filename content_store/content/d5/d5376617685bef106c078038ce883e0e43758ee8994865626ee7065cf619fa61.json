@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"DeSoto Middle School\", \"alternate_name\": \"\", \"description\": \"420 E Gibson St, Arcadia, FL 34266\\nMay 31 \\u2013 June 29 (Mon-Thur; closed Fridays)\\n11:30 am to 12:40 pm\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"420 East Gibson Street\", \"address_2\": null, \"city\": \"Arcadia\", \"state_province\": \"FL\", \"postal_code\": \"34266\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.223739, \"longitude\": -81.8506361}, \"phones\": [{\"number\": \"(941) 379-6333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:40\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:40\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:40\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:40\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.065912"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Bradenton\", \"alternate_name\": \"\", \"description\": \"Manatee county residents\", \"email\": \"\", \"url\": \"https://bradenton.church/missions-outreach/\", \"status\": \"active\", \"address\": {\"address_1\": \"1402 Manatee Avenue West\", \"address_2\": null, \"city\": \"Bradenton\", \"state_province\": \"FL\", \"postal_code\": \"34205\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.4957722, \"longitude\": -82.5754742}, \"phones\": [{\"number\": \"(941) 705-6840\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.396687"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Leo Soup Kitchen\", \"alternate_name\": \"\", \"description\": \"We believe that all men and women are gifts from God, St. Leo's Soup Kitchen is a nonprofit, nondenominational organization that strives to provide sustenance and other social services as needed to the less fortunate members of the community. Detroit community at no cost to all who come.\", \"email\": \"\", \"url\": \"https://www.stleosoupkitchendetroit.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"8601 Woodward Avenue\", \"address_2\": null, \"city\": \"Piety Hill\", \"state_province\": \"MI\", \"postal_code\": \"48202\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.37885840000001, \"longitude\": -83.0796316}, \"phones\": [{\"number\": \"(313) 335-3261\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.349566"
+}

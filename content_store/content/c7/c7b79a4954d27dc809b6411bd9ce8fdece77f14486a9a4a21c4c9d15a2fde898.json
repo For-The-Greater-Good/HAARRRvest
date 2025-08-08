@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trenton Area Soup Kitchen\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://trentonsoupkitchen.org/get-involved/\", \"status\": \"active\", \"address\": {\"address_1\": \"72 1/2 Escher Street\", \"address_2\": null, \"city\": \"Trenton\", \"state_province\": \"NJ\", \"postal_code\": \"08609\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2281268, \"longitude\": -74.7536631}, \"phones\": [{\"number\": \"(609) 697-6185\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.333058"
+}

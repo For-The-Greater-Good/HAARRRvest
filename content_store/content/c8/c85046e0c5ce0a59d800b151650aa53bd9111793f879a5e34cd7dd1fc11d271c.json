@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Stephen Lutheran Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Emergency nonperishable food distribution is available for any residents in need.\", \"email\": \"\", \"url\": \"https://www.facebook.com/StStephensSPNJ/?locale=tr_TR\", \"status\": \"active\", \"address\": {\"address_1\": \"3145 Park Avenue\", \"address_2\": null, \"city\": \"South Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07080\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5850279, \"longitude\": -74.3942007}, \"phones\": [{\"number\": \"(908) 757-4474\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:55.067097"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Harford Senior Center\", \"alternate_name\": \"\", \"description\": \"Contact: Jessie Martek\", \"email\": \"\", \"url\": \"https://health.baltimorecity.gov/seniors/senior-centers\", \"status\": \"active\", \"address\": {\"address_1\": \"4920 Harford Road\", \"address_2\": null, \"city\": \"Waltherson\", \"state_province\": \"MD\", \"postal_code\": \"21214\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3469308, \"longitude\": -76.56647699999999}, \"phones\": [{\"number\": \"(410) 426-4009\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.347024"
+}

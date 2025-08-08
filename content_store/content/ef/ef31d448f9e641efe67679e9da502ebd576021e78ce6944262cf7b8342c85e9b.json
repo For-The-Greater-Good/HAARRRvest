@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Playstreet 5000 Chancellor St.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.phila.gov/programs/playstreets/\", \"status\": \"active\", \"address\": {\"address_1\": \"5031 Chancellor Street\", \"address_2\": null, \"city\": \"University City\", \"state_province\": \"PA\", \"postal_code\": \"19139\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9561252, \"longitude\": -75.222689}, \"phones\": [{\"number\": \"(215) 685-2719\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:48.235405"
+}

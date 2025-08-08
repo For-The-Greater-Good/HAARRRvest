@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hurdtown United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/umclh\", \"status\": \"active\", \"address\": {\"address_1\": \"520 Howard Boulevard\", \"address_2\": \"PO Box 665\", \"city\": \"Lake Hopatcong\", \"state_province\": \"NJ\", \"postal_code\": \"07849\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9404394, \"longitude\": -74.62140339999999}, \"phones\": [{\"number\": \"(973) 663-1216\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.084314"
+}

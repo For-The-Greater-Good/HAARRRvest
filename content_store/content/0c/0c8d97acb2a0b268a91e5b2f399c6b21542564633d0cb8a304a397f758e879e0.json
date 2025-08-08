@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Calvary Baptist Food and Clothing Pantry \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://calvaryofgarfield.org/index.php\", \"status\": \"active\", \"address\": {\"address_1\": \"217 Passaic Street\", \"address_2\": null, \"city\": \"Garfield\", \"state_province\": \"NJ\", \"postal_code\": \"07026\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8689367, \"longitude\": -74.0993726}, \"phones\": [{\"number\": \"(973) 773-2444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:58.506020"
+}

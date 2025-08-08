@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of the Living God\", \"alternate_name\": \"\", \"description\": \"If there is a 5th Saturday in a month they will be closed\", \"email\": \"\", \"url\": \"https://www.clgfgm.org/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"1417 Chillum Road\", \"address_2\": null, \"city\": \"Hyattsville\", \"state_province\": \"MD\", \"postal_code\": \"20783\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9624216, \"longitude\": -76.9946401}, \"phones\": [{\"number\": \"(301) 559-8893\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.688947"
+}

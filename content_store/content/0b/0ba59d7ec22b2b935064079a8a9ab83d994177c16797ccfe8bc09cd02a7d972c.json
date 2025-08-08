@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"360 EATS INC-Douglas Ave\", \"alternate_name\": \"\", \"description\": \"Free Mobile Meal Program (Food Truck) - serves free, chef-prepared, nutritious, gourmet meals to anyone in need of food assistance via our Sustain-A-Bowl food truck. Most meals are served hot and ready to eat.\", \"email\": \"\", \"url\": \"https://www.360eats.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1201 Douglas Avenue\", \"address_2\": null, \"city\": \"Clearwater\", \"state_province\": \"FL\", \"postal_code\": \"33755\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9778028, \"longitude\": -82.7872574}, \"phones\": [{\"number\": \"(808) 631-0896\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.746549"
+}

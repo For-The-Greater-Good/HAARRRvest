@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"N.J. Food & Clothing Rescue\", \"alternate_name\": \"\", \"description\": \"Call Renee at 201-218-1707 after 6pm \\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"127 Paterson Avenue\", \"address_2\": \"\", \"city\": \"Wallington\", \"state_province\": \"NJ\", \"postal_code\": \"07057\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8513812, \"longitude\": -74.1151843}, \"phones\": [{\"number\": \"(201) 747-8706\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.073993"
+}

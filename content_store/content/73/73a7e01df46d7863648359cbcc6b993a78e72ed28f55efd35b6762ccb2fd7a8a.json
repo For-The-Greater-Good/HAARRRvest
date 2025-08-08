@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Operation D.E.F.R.O.S.T.\", \"alternate_name\": \"\", \"description\": \"The location of the pantry is at the rear end of the building.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1136 Metropolitan Parkway Southwest\", \"address_2\": null, \"city\": \"Pittsburgh\", \"state_province\": \"GA\", \"postal_code\": \"30310\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7239019, \"longitude\": -84.4075313}, \"phones\": [{\"number\": \"(305) 305-1848\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.426683"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Essen Health Care\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"essenhealthcare.com\", \"status\": \"active\", \"address\": {\"address_1\": \"1990 McGraw Ave\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10462\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8348359, \"longitude\": -73.85830849999999}, \"phones\": [{\"number\": \"(718) 561-0200\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.552975"
+}

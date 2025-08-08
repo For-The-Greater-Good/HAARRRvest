@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Philip & James Church - Food Distribution Center\", \"alternate_name\": \"\", \"description\": \"Requirements: Residents of 21210, 21212, & 21218. Photo ID and proof\\n of residency require. By appointment only, call first \", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"2801 North Charles Street\", \"address_2\": null, \"city\": \"Charles Village\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.322644, \"longitude\": -76.6167663}, \"phones\": [{\"number\": \"(410) 235-2294\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.737301"
+}

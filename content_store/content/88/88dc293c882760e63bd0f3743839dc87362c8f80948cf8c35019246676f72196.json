@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Believers Fellowship Chruch \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"35 Augusta Street\", \"address_2\": null, \"city\": \"Irvington\", \"state_province\": \"NJ\", \"postal_code\": \"07111\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7247141, \"longitude\": -74.2272661}, \"phones\": [{\"number\": \"(973) 374-4754\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.895080"
+}

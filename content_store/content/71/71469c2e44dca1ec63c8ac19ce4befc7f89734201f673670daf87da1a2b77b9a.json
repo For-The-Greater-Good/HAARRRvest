@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hope for the Hungry\", \"alternate_name\": \"\", \"description\": \"The pantry is set up in a garage next to the church.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1006 Pine Street\", \"address_2\": null, \"city\": \"Pine Hill\", \"state_province\": \"NJ\", \"postal_code\": \"08021\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7830089, \"longitude\": -74.9912394}, \"phones\": [{\"number\": \"(856) 784-7999\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Serves New Jersey residents\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.899840"
+}

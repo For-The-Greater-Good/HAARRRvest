@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" First Presbyterian Church of Woodbridge\", \"alternate_name\": \"\", \"description\": \"Emergency groceries SFPP and T.E.F.A.P. commodities are provided to all residents in need. To \\nreceive T.E.F.A.P. food, proof of residency, address, social services information and ID card are \\nrequired. Proper notification is also required.  Food is given to registered adults only. Families are \\nwelcome, but food is only distributed to adults.\", \"email\": \"\", \"url\": \"http://www.fpcwoodbridgenj.org/community-outreach.php\", \"status\": \"active\", \"address\": {\"address_1\": \"600 Rahway Avenue\", \"address_2\": \"\", \"city\": \"Woodbridge\", \"state_province\": \"NJ\", \"postal_code\": \"07095\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5618037, \"longitude\": -74.273378}, \"phones\": [{\"number\": \"(732) 634-1024\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.029270"
+}

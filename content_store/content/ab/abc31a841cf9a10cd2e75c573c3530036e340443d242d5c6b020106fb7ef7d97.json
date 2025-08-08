@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"85247\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in ADMIRABLE CHURCH INC\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"347-779-7192\", \"country\": \"US\"}, \"phones\": [{\"number\": \"1910 FLATBUSH AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.7130466, \"longitude\": -74.0072301}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"ADMIRABLE CHURCH INC\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:07:35.387101"
+}

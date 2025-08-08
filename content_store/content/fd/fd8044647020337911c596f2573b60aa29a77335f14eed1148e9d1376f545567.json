@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FAWN Food Pantry in the Atrium of PHMC Public Health Campus\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.phila.gov/food/?fbclid=IwAR1KFfmGkseNeQsSAKcOzhJXx400E4xtzNwZA10AHVSclYi7kr7dPSNDBac&address=501%20S%2054th%20St\", \"status\": \"active\", \"address\": {\"address_1\": \"501 S 54th St\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": 39.95236150856223, \"longitude\": -75.23022194921414}, \"phones\": [{\"number\": \"(445) 216-9766\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID or proof of income is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Any resident is eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.261296"
+}

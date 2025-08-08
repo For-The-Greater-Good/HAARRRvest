@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Five Corner Sharing Place\", \"alternate_name\": \"\", \"description\": \"Please bring ID and any documentation showing enrolled programs (such as SNAP, SSDI, SSI, etc.)\\nNO ONE IS TURNED AWAY (as long as we have food).\", \"email\": \"\", \"url\": \"https://www.thesharingplacenj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"440 Hoboken Avenue\", \"address_2\": null, \"city\": \"Journal Square\", \"state_province\": \"NJ\", \"postal_code\": \"07306\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7346753, \"longitude\": -74.0581366}, \"phones\": [{\"number\": \"(201) 963-5518\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring referral Letter and/or Income or Assistance Letter\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Come early, line starts at 6am\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.840210"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Assembly of God\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"800 Bay Avenue\", \"address_2\": null, \"city\": \"Toms River\", \"state_province\": \"New Jersey\", \"postal_code\": \"08753\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.97337, \"longitude\": -74.16639}, \"phones\": [{\"number\": \"(732) 929-1900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.399309"
+}

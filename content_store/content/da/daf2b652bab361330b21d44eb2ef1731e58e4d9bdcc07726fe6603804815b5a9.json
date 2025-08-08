@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Presbyterian Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"The Food Pantry is open the last 2 Saturdays of the month\", \"email\": \"\", \"url\": \"https://www.trinitypresbalt.org/committees/TheNancyBennettFoodBank\", \"status\": \"active\", \"address\": {\"address_1\": \"3200 Walbrook Avenue\", \"address_2\": null, \"city\": \"Walbrook\", \"state_province\": \"MD\", \"postal_code\": \"21216\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3104237, \"longitude\": -76.6712783}, \"phones\": [{\"number\": \"(410) 383-9633\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.343625"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tri-Cities HS SAFE Center\", \"alternate_name\": \"\", \"description\": \"Serves TriCities Community only\", \"email\": \"\", \"url\": \"https://www.fultonschools.org/all-departments/academics/student-services/office-of-student-supports/community-schools/fcs-safe-center-hubs/tri-cities-hs-safe-center\", \"status\": \"active\", \"address\": {\"address_1\": \"2575 Harris Street\", \"address_2\": null, \"city\": \"Jefferson Park\", \"state_province\": \"GA\", \"postal_code\": \"30344\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6846651, \"longitude\": -84.43638519999999}, \"phones\": [{\"number\": \"(470) 254-3132\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.056066"
+}

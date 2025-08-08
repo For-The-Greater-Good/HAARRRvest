@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 661, \"name\": \"Bell Chapel United Methodist Food Pantry\", \"nickname\": \"Bell Chap UMC Food Pantry\", \"address\": \"3427 STATE ROUTE 213\", \"city\": \"STEUBENVILLE\", \"state\": \"OH\", \"zip\": \"43952\", \"phone\": \"740-283-2239\", \"latitude\": 40.42133, \"longitude\": -80.65926, \"estimated_distance\": 951.51, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 888, \"name\": \"Pantry\", \"address\": \"3427 STATE ROUTE 213\", \"city\": \"STEUBENVILLE\", \"state\": \"OH\", \"zip\": \"43952\", \"latitude\": 40.42267547, \"longitude\": -80.65983995, \"event_details\": \"\", \"estimated_distance\": 951.51, \"exception_note\": \"\", \"event_dates\": [{\"id\": 354345, \"event_id\": 888, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9:30 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:32.895240"
+}

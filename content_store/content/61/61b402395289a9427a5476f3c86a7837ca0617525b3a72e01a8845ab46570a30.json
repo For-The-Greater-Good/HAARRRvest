@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Victory Villa Baptist Pantry\", \"alternate_name\": \"\", \"description\": \"The Victory Villa food pantry is one of a few in the Middle River area, we average between 30-50 bags of groceries that we give out each month\", \"email\": \"\", \"url\": \"https://www.vvbcministries.com/vvbc-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"75 Chandelle Road\", \"address_2\": null, \"city\": \"Middle River\", \"state_province\": \"MD\", \"postal_code\": \"21220\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3370279, \"longitude\": -76.45373289999999}, \"phones\": [{\"number\": \"(410) 686-0141\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.702483"
+}

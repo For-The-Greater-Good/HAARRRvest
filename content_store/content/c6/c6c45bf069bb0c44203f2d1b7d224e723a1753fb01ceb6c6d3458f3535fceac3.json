@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gig Harbor FISH\", \"alternate_name\": \"\", \"description\": \"Assistance for residents living in the following zip codes. Please see below for additional eligibility requirements.\\n98322 (Burley)\\n98329 (KPN)\\n98332 (Purdy)\\n98333 (Fox Island)\\n98335 (Gig Harbor)\\n98349 (Lakebay)\\n98351 (Longbranch)\\n98359 (South part of Kitsap County only)\\n98367 (Horseshoe Lake)\\n98394 (Vaughn)\\n98395 (Wauna)\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4303 Burnham Drive\", \"address_2\": null, \"city\": \"Gig Harbor\", \"state_province\": \"WA\", \"postal_code\": \"98332\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.34314310000001, \"longitude\": -122.5960825}, \"phones\": [{\"number\": \"(253) 858-6179\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.412396"
+}

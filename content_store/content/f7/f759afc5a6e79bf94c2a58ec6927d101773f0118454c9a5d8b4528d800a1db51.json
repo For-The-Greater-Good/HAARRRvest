@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Community Corporation Champion House\", \"alternate_name\": \"\", \"description\": \"We provide one monthly food package, containing non-perishable groceries and fresh produce to eligible individuals and families. To access the food pantry, you must bring:\\n\\n* Government ID\\n* Social Security card\\n* Proof of Recent Residency (lease, mail addressed to you, library card, proof of income). If you are not receiving income, you must fill out a zero-income verification form.\\n\\nIf you are currently without a government ID, we can provide you with one complimentary food package and refer you to our case management team, who can assist you in applying for new identification documents.\", \"email\": \"\", \"url\": \"http://www.uccnewark.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"409 South 18th Street\", \"address_2\": \"\", \"city\": \"West Side\", \"state_province\": \"NJ\", \"postal_code\": \"07103\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7426667, \"longitude\": -74.2079157}, \"phones\": [{\"number\": \"(973) 642-0181\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.069692"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Old First Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.phila.gov/departments/office-of-homeless-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"151 N. 4th St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19106\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.95376409593312, \"longitude\": -75.14620403279612}, \"phones\": [{\"number\": \"(215) 922-4566\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.229071"
+}

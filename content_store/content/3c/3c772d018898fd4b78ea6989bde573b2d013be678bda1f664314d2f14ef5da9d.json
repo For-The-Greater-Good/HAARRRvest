@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cohasset Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"129 South Main Street\", \"address_2\": null, \"city\": \"Cohasset\", \"state_province\": \"MA\", \"postal_code\": \"02025\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2373117, \"longitude\": -70.7992477}, \"phones\": [{\"number\": \"(781) 383-0219\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.047186"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Congregational Church / Gibraltar Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"29885 Bayview Drive\", \"address_2\": null, \"city\": \"Rockwood\", \"state_province\": \"MI\", \"postal_code\": \"48173\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.0915652, \"longitude\": -83.18972869999999}, \"phones\": [{\"number\": \"(734) 676-6725\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:03.943695"
+}

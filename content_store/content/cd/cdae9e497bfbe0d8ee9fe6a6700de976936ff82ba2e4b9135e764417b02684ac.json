@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Center for Family Resources\", \"alternate_name\": \"\", \"description\": \"Call the number for appointment.\\nThree (3) visit per year.\\nhttps://www.facebook.com/CFFRHeadStart\\nGet registered to receive food from mobile pantry here: https://forms.gle/iEFqPnzdeYBefP7B9\\n\", \"email\": \"\", \"url\": \"https://centerforfamilyresources.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"12 Morris Road\", \"address_2\": null, \"city\": \"Ringwood\", \"state_province\": \"NJ\", \"postal_code\": \"07456\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.130568, \"longitude\": -74.253658}, \"phones\": [{\"number\": \"(973) 962-0055\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.172580"
+}

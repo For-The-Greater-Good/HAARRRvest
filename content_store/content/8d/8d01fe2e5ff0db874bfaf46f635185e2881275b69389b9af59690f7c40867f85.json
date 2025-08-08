@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Guardian Angels Church, Society of St. Vincent De Paul \", \"alternate_name\": \"\", \"description\": \"Food Pantry services are available during the designated hours. Clients must be a resident of Edison \\nor Highland Park. Photo I.D. is required. \", \"email\": \"\", \"url\": \"http://www.transfiguration-parish.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"37 Plainfield Avenue\", \"address_2\": \"\", \"city\": \"Edison\", \"state_province\": \"NJ\", \"postal_code\": \"08817\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5019057, \"longitude\": -74.39812979999999}, \"phones\": [{\"number\": \"(732) 572-0977\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.371107"
+}

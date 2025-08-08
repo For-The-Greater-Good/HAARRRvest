@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Metropolitan Ministries - East Pasco\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.metromin.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"13703 17th Street\", \"address_2\": null, \"city\": \"Dade City\", \"state_province\": \"FL\", \"postal_code\": \"33525\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.3572431, \"longitude\": -82.2003781}, \"phones\": [{\"number\": \"(352) 437-4815\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.257367"
+}

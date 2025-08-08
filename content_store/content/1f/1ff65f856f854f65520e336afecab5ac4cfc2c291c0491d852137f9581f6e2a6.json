@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army of New Bern and Craven\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1402 Rhem Avenue\", \"address_2\": null, \"city\": \"New Bern\", \"state_province\": \"NC\", \"postal_code\": \"28560\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.1064306, \"longitude\": -77.0576382}, \"phones\": [{\"number\": \"(252) 637-2277\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:12.790192"
+}

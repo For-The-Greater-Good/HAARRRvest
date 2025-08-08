@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Assumption Food Bank\", \"alternate_name\": \"\", \"description\": \"* To arrive no later than 11:30am\\n* If the person has children - Proof from the current school with the child's info or DHS Printout \\n* Bring valid D.C. photo identification or proof of residency \\n* Must be Ward 8 residents\", \"email\": \"\", \"url\": \"http://assumptiondc.org/outr each/\", \"status\": \"active\", \"address\": {\"address_1\": \"220 Highview Place Southeast\", \"address_2\": null, \"city\": \"Southeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20032\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8415138, \"longitude\": -77.0045809}, \"phones\": [{\"number\": \"(202) 561-5941\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.654548"
+}

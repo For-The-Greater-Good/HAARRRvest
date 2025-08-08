@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project Eats\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://projecteats.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"251 Chester St.\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11221\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.665844, \"longitude\": -73.910255}, \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.959766"
+}

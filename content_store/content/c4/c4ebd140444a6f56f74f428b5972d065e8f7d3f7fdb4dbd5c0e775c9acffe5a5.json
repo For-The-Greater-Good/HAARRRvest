@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"homefront freestore\", \"alternate_name\": \"\", \"description\": \"This location does not have any sort of food distribution..it is only for clothes and home appliances. marked unavailable\", \"email\": \"\", \"url\": \"https://www.homefrontnj.org/food-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"1000 Division Street\", \"address_2\": null, \"city\": \"Chambersburg\", \"state_province\": \"NJ\", \"postal_code\": \"08611\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2060913, \"longitude\": -74.74394769999999}, \"phones\": [{\"number\": \"(609) 989-9417\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.735345"
+}

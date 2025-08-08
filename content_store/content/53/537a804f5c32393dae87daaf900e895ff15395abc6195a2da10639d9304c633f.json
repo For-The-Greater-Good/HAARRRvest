@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Point Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://pointchurch.com/care/\", \"status\": \"active\", \"address\": {\"address_1\": \"1503 Walnut Street\", \"address_2\": null, \"city\": \"Cary\", \"state_province\": \"NC\", \"postal_code\": \"27511\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7655428, \"longitude\": -78.7510408}, \"phones\": [{\"number\": \"(919) 467-9159\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:10.850540"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Redeemer Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Required: ID, physical address, birthdates for household members\", \"email\": \"\", \"url\": \"https://www.facebook.com/redeemertoledo/\", \"status\": \"active\", \"address\": {\"address_1\": \"1702 Upton Avenue\", \"address_2\": null, \"city\": \"Ottawa\", \"state_province\": \"OH\", \"postal_code\": \"43607\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6565432, \"longitude\": -83.5880494}, \"phones\": [{\"number\": \"(419) 536-3781\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.288180"
+}

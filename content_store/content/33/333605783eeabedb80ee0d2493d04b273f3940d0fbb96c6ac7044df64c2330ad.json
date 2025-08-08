@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Cecilia's Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://discovermass.com/church/st-cecilia-church-divine-mercy-parish-brooklyn-ny/\", \"status\": \"active\", \"address\": {\"address_1\": \"24 North Henry Street\", \"address_2\": \"St. Cecilia's Auditorium\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11222\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7198629, \"longitude\": -73.94248189999999}, \"phones\": [{\"number\": \"(718) 387-0256\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:05.325086"
+}

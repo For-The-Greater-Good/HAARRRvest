@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Richmond Senior Services Mobile Food Pantry\", \"alternate_name\": \"\", \"description\": \"In addition to our food security program, we have Project Share - shared living facilities for seniors who are unable to afford affordable housing. \", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"192 Corson Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10310\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6345775, \"longitude\": -74.1084043}, \"phones\": [{\"number\": \"(718) 816-1811\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.178472"
+}

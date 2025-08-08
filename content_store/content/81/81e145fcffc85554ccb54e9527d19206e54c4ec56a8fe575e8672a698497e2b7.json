@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Anthony's Church\", \"alternate_name\": \"\", \"description\": \"Area served: Butler & Bloomingdale\\n\", \"email\": \"\", \"url\": \"https://saopp.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"57 Bartholdi Avenue\", \"address_2\": \"\", \"city\": \"Butler\", \"state_province\": \"NJ\", \"postal_code\": \"07405\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9971572, \"longitude\": -74.3412821}, \"phones\": [{\"number\": \"(973) 838-0031\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.220969"
+}

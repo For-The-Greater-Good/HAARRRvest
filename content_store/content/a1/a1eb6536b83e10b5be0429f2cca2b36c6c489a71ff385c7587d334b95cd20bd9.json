@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace Tabernacle\", \"alternate_name\": \"\", \"description\": \"USDA pantry\", \"email\": \"\", \"url\": \"https://www.gracetab.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"7279 Warm Springs Avenue\", \"address_2\": null, \"city\": \"Wildwood\", \"state_province\": \"FL\", \"postal_code\": \"34785\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.8009674, \"longitude\": -81.9843545}, \"phones\": [{\"number\": \"(352) 748-3255\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.184576"
+}

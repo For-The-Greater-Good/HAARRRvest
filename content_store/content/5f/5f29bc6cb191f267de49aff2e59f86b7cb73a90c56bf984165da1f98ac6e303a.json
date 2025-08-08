@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Neighbors In Need/Bel Air United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Harford County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"21 Linwood Avenue\", \"address_2\": null, \"city\": \"Bel Air\", \"state_province\": \"MD\", \"postal_code\": \"21014\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5309555, \"longitude\": -76.3423372}, \"phones\": [{\"number\": \"(410) 838-5181\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.616877"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"FIRST BAPTIST CHURCH OF MIDDLEBURG\", \"alternate_name\": \"\", \"description\": \"Food receivable: fresh produce, refrigerated,\\nfrozen, dry goods. Serves directly to individuals.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2645 Blanding Boulevard\", \"address_2\": null, \"city\": \"Middleburg\", \"state_province\": \"FL\", \"postal_code\": \"32068\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.0634334, \"longitude\": -81.8718075}, \"phones\": [{\"number\": \"(904) 282-5289\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.615871"
+}

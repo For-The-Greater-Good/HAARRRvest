@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army - Greater Philadelphia\", \"alternate_name\": \"\", \"description\": \"Appointment not required, but they prefer if you call ahead so they can have your food box ready\", \"email\": \"\", \"url\": \"https://easternusa.salvationarmy.org/eastern-pennsylvania/philadelphia-central/\", \"status\": \"active\", \"address\": {\"address_1\": \"3225 Reed Street\", \"address_2\": null, \"city\": \"Grays Ferry\", \"state_province\": \"PA\", \"postal_code\": \"19146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9370679, \"longitude\": -75.197445}, \"phones\": [{\"number\": \"(215) 465-0300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.828865"
+}

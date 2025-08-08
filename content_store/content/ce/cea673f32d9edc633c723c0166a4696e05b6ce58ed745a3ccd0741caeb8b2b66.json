@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Central Food Ministry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://mvfb.org/resources/\", \"status\": \"active\", \"address\": {\"address_1\": \"370 West 6th Street\", \"address_2\": null, \"city\": \"Centralville\", \"state_province\": \"MA\", \"postal_code\": \"01850\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6577707, \"longitude\": -71.3139654}, \"phones\": [{\"number\": \"(978) 454-7445\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.736226"
+}

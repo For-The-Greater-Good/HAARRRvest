@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Vincent\\u2019s Emergency Services\", \"alternate_name\": \"\", \"description\": \"Baltimore residents only\\n\\nHoliday closings: May 27 (Memorial Day), September 2 (Labor Day), December 23 & 30 (Christmas)\", \"email\": \"\", \"url\": \"www.st.vgeorge.org\", \"status\": \"active\", \"address\": {\"address_1\": \"120 North Front Street\", \"address_2\": null, \"city\": \"Jonestown\", \"state_province\": \"MD\", \"postal_code\": \"21202\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2913883, \"longitude\": -76.6062951}, \"phones\": [{\"number\": \"(410) 962-5078\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.410907"
+}

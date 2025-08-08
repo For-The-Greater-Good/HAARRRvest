@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Food Pantry at St. Paul\\u2019s\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"8700 Memory Gardens Lane\", \"address_2\": null, \"city\": \"Hebron\", \"state_province\": \"MD\", \"postal_code\": \"21830\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.42966070000001, \"longitude\": -75.67312790000001}, \"phones\": [{\"number\": \"(443) 523-2370\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.095265"
+}

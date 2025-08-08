@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Reformed Church Whiting Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.whitingcrc.org/about-5\", \"status\": \"active\", \"address\": {\"address_1\": \"36 Lacey Road\", \"address_2\": \"(Reformed Church) \", \"city\": \"Whiting\", \"state_province\": \"NJ\", \"postal_code\": \"08759\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.93549489999999, \"longitude\": -74.35652499999999}, \"phones\": [{\"number\": \"(732) 350-0232\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.754271"
+}

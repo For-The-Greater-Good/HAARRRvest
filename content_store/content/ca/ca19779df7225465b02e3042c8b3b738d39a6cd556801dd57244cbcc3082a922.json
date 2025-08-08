@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mill Grove United Methodist Church\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/millgroveumc\", \"email\": \"\", \"url\": \"https://millgrove.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"7311 Mill Grove Road\", \"address_2\": null, \"city\": \"Indian Trail\", \"state_province\": \"NC\", \"postal_code\": \"28079\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.1248093, \"longitude\": -80.6056957}, \"phones\": [{\"number\": \"(704) 882-3770\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No appointment necessary\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.311291"
+}

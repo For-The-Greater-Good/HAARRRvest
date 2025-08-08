@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. John's Lutheran Church Food Pantry - Hands On 4 Hunger\", \"alternate_name\": \"\", \"description\": \"Serves Hudson County.\", \"email\": \"\", \"url\": \"http://www.stjohnsjerseycity.net/\", \"status\": \"active\", \"address\": {\"address_1\": \"155 North Street\", \"address_2\": null, \"city\": \"The Heights\", \"state_province\": \"NJ\", \"postal_code\": \"07307\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7531775, \"longitude\": -74.0483069}, \"phones\": [{\"number\": \"(201) 798-0540\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.532705"
+}

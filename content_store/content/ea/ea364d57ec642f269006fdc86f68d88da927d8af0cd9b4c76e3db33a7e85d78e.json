@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Family Feeding Family, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2501 Kensington Avenue\", \"address_2\": null, \"city\": \"East Kensington\", \"state_province\": \"PA\", \"postal_code\": \"19125\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9871288, \"longitude\": -75.12890689999999}, \"phones\": [{\"number\": \"(267) 252-3310\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.394658"
+}

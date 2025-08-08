@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Assembly Of God \", \"alternate_name\": \"\", \"description\": \"SERVES Franklin County\", \"email\": \"\", \"url\": \"http://trinaghome.com/missionsoutreach\", \"status\": \"active\", \"address\": {\"address_1\": \"1112 Demorest Road\", \"address_2\": null, \"city\": \"Hilltop\", \"state_province\": \"OH\", \"postal_code\": \"43204\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9307685, \"longitude\": -83.08936550000001}, \"phones\": [{\"number\": \"(614) 276-5090\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"20:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"20:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.627986"
+}

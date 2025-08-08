@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"City of East Orange Food Distribution\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.orangesfoodpantry.org/covid-info\", \"status\": \"active\", \"address\": {\"address_1\": \"1 Fellowship Cir\", \"address_2\": null, \"city\": \"East Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07017\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7588971, \"longitude\": -74.2011486}, \"phones\": [{\"number\": \"(973) 414-4141\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be an East Orange Resident\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.194890"
+}

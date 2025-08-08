@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Berean Seventh Day Adventist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"229 Powell Street\", \"address_2\": null, \"city\": \"Brownsville\", \"state_province\": \"NY\", \"postal_code\": \"11212\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6689954, \"longitude\": -73.9034887}, \"phones\": [{\"number\": \"(917) 371-5528\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.427997"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fatima Catholic Outreach Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/FCOC12/\", \"status\": \"active\", \"address\": {\"address_1\": \"2913 Street Rd.\", \"address_2\": \"\", \"city\": \"Bensalem\", \"state_province\": \"PA\", \"postal_code\": \"19020\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.113899, \"longitude\": -74.954533}, \"phones\": [{\"number\": \"(215) 400-1130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.992980"
+}

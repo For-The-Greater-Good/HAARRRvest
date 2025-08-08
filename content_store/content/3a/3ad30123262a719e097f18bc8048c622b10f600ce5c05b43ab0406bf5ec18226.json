@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jenkintown United Methodist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.jenkintownfoodcupboard.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"328 Summit Avenue\", \"address_2\": \"\", \"city\": \"Jenkintown\", \"state_province\": \"PA\", \"postal_code\": \"19046\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.093182, \"longitude\": -75.129273}, \"phones\": [{\"number\": \"(215) 274-5720\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.946198"
+}

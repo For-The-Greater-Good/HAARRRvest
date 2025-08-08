@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dwelling Place\", \"alternate_name\": \"\", \"description\": \"Serves: 43515, 43522, 43528, 43537, 43542, 43558,\\n43560, 43567, 43605, 43609, 43612, 43613, 43614,\\n43615, 43617\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"8201 Angola Road\", \"address_2\": null, \"city\": \"Holland\", \"state_province\": \"OH\", \"postal_code\": \"43528\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6243304, \"longitude\": -83.7380979}, \"phones\": [{\"number\": \"(419) 867-7794\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.447085"
+}

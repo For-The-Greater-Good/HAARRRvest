@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"River Fund, Inc\", \"alternate_name\": \"\", \"description\": \"Food distribution on Wednesday's is for seniors only\", \"email\": \"\", \"url\": \"https://www.river.fund\", \"status\": \"active\", \"address\": {\"address_1\": \"89-11 Lefferts Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11418\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.69701200000001, \"longitude\": -73.8291295}, \"phones\": [{\"number\": \"(718) 441-1125\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Help with social services/public benefits\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.167693"
+}

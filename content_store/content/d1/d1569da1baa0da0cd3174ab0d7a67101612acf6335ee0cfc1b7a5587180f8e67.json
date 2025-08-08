@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. John's Bread and Life\", \"alternate_name\": \"\", \"description\": \"Arrive early to receive a number. Diapers for the children under 2.\\nHot meals and help with housing and EBT services may be available.\", \"email\": \"\", \"url\": \"www.breadandlife.org\", \"status\": \"active\", \"address\": {\"address_1\": \"795 Lexington Avenue\", \"address_2\": \"NA\", \"city\": \"Bedford-Stuyvesant\", \"state_province\": \"NY\", \"postal_code\": \"11221\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.69046, \"longitude\": -73.92895469999999}, \"phones\": [{\"number\": \"(718) 574-0058\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers available (must bring birth certificate)\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Gives out meals from Whole Foods twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.682874"
+}

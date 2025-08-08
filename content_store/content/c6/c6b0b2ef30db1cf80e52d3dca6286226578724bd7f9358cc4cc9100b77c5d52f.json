@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MCNY Community Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.mcny.edu\", \"status\": \"active\", \"address\": {\"address_1\": \"60 West St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10006\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7085735, \"longitude\": -74.0149887}, \"phones\": [{\"number\": \"(212) 343-1234\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"23:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.504354"
+}

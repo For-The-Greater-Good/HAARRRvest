@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. James Helping Hands Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.stjamescambridge.org/ministries-1\", \"status\": \"active\", \"address\": {\"address_1\": \"364 Rindge Avenue\", \"address_2\": null, \"city\": \"North Cambridge\", \"state_province\": \"MA\", \"postal_code\": \"02140\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3931522, \"longitude\": -71.1388724}, \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Female hygiene products\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.192783"
+}

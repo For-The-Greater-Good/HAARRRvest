@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3665, \"name\": \"Jackson Area Festivals and Events\", \"nickname\": \"JAFE\", \"address\": \"521 McCarty Lane\", \"city\": \"JACKSON\", \"state\": \"OH\", \"zip\": \"45640\", \"phone\": \"\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 855.77, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6539, \"name\": \"Pantry\", \"address\": \"102 CHEROKEE ST APT 49\", \"city\": \"JACKSON\", \"state\": \"OH\", \"zip\": \"45640\", \"latitude\": 39.0560364, \"longitude\": -82.61923604, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. Phone Number: (740) 710-0183\", \"estimated_distance\": 857.13, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357515, \"event_id\": 6539, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8:30 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-30\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:38.870763"
+}

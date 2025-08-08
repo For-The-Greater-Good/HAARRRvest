@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mickey Bowman @ First Baptist Church of Salem\", \"alternate_name\": \"\", \"description\": \"Distribution is every Saturday after the second Thursday from 8AM-12PM. Emergency food is available but needs to call (856) 803-0780 to inquire.\", \"email\": \"\", \"url\": \"https://www.facebook.com/foodforsalem?mibextid=ZbWKwL\", \"status\": \"active\", \"address\": {\"address_1\": \"130 West Broadway\", \"address_2\": null, \"city\": \"Salem\", \"state_province\": \"NJ\", \"postal_code\": \"08079\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.572663, \"longitude\": -75.468216}, \"phones\": [{\"number\": \"(856) 935-0531\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"An eligibility assessment is completed by a caseworker.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.878837"
+}

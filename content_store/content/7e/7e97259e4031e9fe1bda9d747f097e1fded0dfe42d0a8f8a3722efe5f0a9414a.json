@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Manna of Life Ministries, Inc.\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://mannaoflife.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1101 Boston Road\", \"address_2\": \"\", \"city\": \"Morrisania\", \"state_province\": \"NY\", \"postal_code\": \"10456\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.82756980000001, \"longitude\": -73.9049118}, \"phones\": [{\"number\": \"(347) 577-5788\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.811723"
+}

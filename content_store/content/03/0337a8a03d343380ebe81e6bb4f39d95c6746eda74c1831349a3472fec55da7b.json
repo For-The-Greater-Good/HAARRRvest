@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"City Harvest Mobile Market - Queens Mobile Markets - Astoria \", \"alternate_name\": \"\", \"description\": \"Held in the basketball court off of Astoria Boulevard in the Astoria Houses\\nYou are eligible if you are a resident of the Astoria Houses or are a resident in zip code 11102\\nCall the Mobile Market Hotline the day before for updates: 866-444-0244\", \"email\": \"\", \"url\": \"https://www.cityharvest.org/programs/mobile-markets/\", \"status\": \"active\", \"address\": {\"address_1\": \"7-1 Astoria Blvd\", \"address_2\": \"\", \"city\": \"Astoria\", \"state_province\": \"NY\", \"postal_code\": \"11102\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.774052, \"longitude\": -73.93679}, \"phones\": [{\"number\": \"(866) 444-0244\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.022126"
+}

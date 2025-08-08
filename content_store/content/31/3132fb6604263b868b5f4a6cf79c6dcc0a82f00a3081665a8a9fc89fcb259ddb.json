@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mount Calvary AME Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.mtcalvaryame.org/about-4\", \"status\": \"active\", \"address\": {\"address_1\": \"300 Eudowood Lane\", \"address_2\": null, \"city\": \"Towson\", \"state_province\": \"MD\", \"postal_code\": \"21286\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3979287, \"longitude\": -76.5948298}, \"phones\": [{\"number\": \"(410) 296-9474\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.984476"
+}

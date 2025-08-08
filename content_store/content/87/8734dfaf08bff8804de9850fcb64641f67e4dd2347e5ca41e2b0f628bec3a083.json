@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80740\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in CROSSROADS COMMUNITY SERVICES INC\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"212-378-0229\", \"country\": \"US\"}, \"phones\": [{\"number\": \"108 EAST 51ST STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": -36.604082890136, \"longitude\": -72.115605069378}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"CROSSROADS COMMUNITY SERVICES INC\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:14:52.468802"
+}

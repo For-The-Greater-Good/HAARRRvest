@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Central Detroit Christian\", \"alternate_name\": \"\", \"description\": \"- Advised to arrive a little ealier .\", \"email\": \"\", \"url\": \"https://www.centraldetroitchristian.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1550 Taylor St\", \"address_2\": \"\", \"city\": \"Detroit\", \"state_province\": null, \"postal_code\": \"48206\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.37705, \"longitude\": -83.095795}, \"phones\": [{\"number\": \"(313) 873-0064\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"05:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:08.994204"
+}

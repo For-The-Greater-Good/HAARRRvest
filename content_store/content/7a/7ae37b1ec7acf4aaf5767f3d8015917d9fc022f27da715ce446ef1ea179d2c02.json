@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Charles Borromeo\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://scbrchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"211 West 141st Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10030\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8196272, \"longitude\": -73.9416537}, \"phones\": [{\"number\": \"(212) 281-2100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.091914"
+}

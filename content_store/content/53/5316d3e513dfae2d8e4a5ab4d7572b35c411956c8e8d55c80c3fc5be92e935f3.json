@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Orange Street Church of Christ\", \"alternate_name\": \"\", \"description\": \"serves auburndale residents only \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"310 Orange Street\", \"address_2\": null, \"city\": \"Auburndale\", \"state_province\": \"FL\", \"postal_code\": \"33823\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0618256, \"longitude\": -81.7919874}, \"phones\": [{\"number\": \"(863) 967-1757\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and feminine hygiene products may be available\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.226695"
+}

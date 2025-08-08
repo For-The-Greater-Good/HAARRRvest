@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"QCC - Lucille A. Bova Food Pantry\", \"alternate_name\": \"\", \"description\": \"Can take up to 10 items during each weekly visit to the pantry\\n\", \"email\": \"\", \"url\": \"https://www.qcc.cuny.edu/foodpantry/index.html\", \"status\": \"active\", \"address\": {\"address_1\": \"222-05, 56th Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11364\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7554985, \"longitude\": -73.7565195}, \"phones\": [{\"number\": \"(718) 281-5510\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Student ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"If the pantry is closed when you visit, you can pick up a prepackaged bag behind the reference desk in the library during the library's open hours.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.469185"
+}

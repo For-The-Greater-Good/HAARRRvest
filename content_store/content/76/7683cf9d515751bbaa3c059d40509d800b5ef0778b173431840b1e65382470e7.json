@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"PATERSON CHURCH OF GOD\", \"alternate_name\": \"\", \"description\": \"* If two days of distribution fall close together, they will not distribute on the second day.\\n* Please bring a SNAP food stamp card, if you have one.\\n* Come early to line up and the disabled will be helped out first\", \"email\": \"\", \"url\": \"https://www.patersoncog.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"351 10th Avenue\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07514\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.924362, \"longitude\": -74.150329}, \"phones\": [{\"number\": \"(862) 357-1708\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.373410"
+}

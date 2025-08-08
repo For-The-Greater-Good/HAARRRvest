@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": \"SDOM\", \"name\": \"St. Dominic's\", \"address\": \"2390 Bush St\", \"city\": \"San Francisco\", \"state\": \"CA\", \"zip\": \"94115\", \"phone\": \"\", \"latitude\": 37.7875, \"longitude\": -122.43583, \"hours\": \"10:00 am - 11:00 am\", \"services\": [\"Food Pantry\"], \"website\": \"https://foodlocator.sfmfoodbank.org/en/site/SDOM\", \"notes\": \"Distribution Day: Monday | Distribution Time: 10:00 am - 11:00 am | Enrollment Time: 10:30 am | Zip Codes Served: 94102, 94109, 94115, 94117, 94118, 94123\", \"enrollment_required\": false, \"availability\": \"-8\", \"source\": \"sfmarin_food_bank_ca\", \"food_bank\": \"SF-Marin Food Bank\"}",
+  "metadata": {
+    "scraper_id": "sfmarin_food_bank_ca",
+    "source": "sfmarin_food_bank_ca"
+  },
+  "timestamp": "2025-08-08T05:05:21.632067"
+}

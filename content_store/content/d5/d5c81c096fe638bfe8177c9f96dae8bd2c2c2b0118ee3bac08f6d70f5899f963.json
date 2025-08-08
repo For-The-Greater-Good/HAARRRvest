@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Joseph's Food Pantry\", \"alternate_name\": \"\", \"description\": \"-Nonperishable, fresh and frozen food items are available to Carteret residents in need. Proof of residency is required. \\n-  School supplies may be available during distribution dates for the food pantry. This is although not given\", \"email\": \"\", \"url\": \"https://sjps.net/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"55 High St\", \"address_2\": \"\", \"city\": \"Carteret\", \"state_province\": \"NJ\", \"postal_code\": \"07008\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.57489, \"longitude\": -74.221991}, \"phones\": [{\"number\": \"(732) 541-8946\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.045333"
+}

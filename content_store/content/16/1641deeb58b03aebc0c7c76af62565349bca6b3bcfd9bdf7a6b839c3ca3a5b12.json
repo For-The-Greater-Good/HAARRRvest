@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"American Veterans Post #4\", \"alternate_name\": \"\", \"description\": \"* Photo ID required.\\n* Serves Hillsborough county \\n* Giving out numbers around 9:30am \", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1014 Skipper Road\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33613\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0808257, \"longitude\": -82.44945849999999}, \"phones\": [{\"number\": \"(813) 971-1881\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.920309"
+}

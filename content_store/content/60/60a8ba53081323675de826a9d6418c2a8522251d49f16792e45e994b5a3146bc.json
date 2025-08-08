@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Brooklyn Park Elementary\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/profile.php?id=100066705630064\", \"status\": \"active\", \"address\": {\"address_1\": \"200 14th Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21225\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2222427, \"longitude\": -76.6177627}, \"phones\": [{\"number\": \"(410) 553-4505\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.358707"
+}

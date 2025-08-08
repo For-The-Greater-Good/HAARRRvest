@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"RCCG ICB Bread of Life\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"rccgbrooklyn.org\", \"status\": \"active\", \"address\": {\"address_1\": \"781 East 93rd Street\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11236\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6492, \"longitude\": -73.91185}, \"phones\": [{\"number\": \"(347) 955-4403\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.849278"
+}

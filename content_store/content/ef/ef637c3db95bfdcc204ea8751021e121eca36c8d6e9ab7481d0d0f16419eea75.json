@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community of Hope Ministries\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"601 Saint Marys Street\", \"address_2\": null, \"city\": \"Garner\", \"state_province\": \"NC\", \"postal_code\": \"27529\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7029966, \"longitude\": -78.6138265}, \"phones\": [{\"number\": \"(919) 779-6679\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:11.047146"
+}

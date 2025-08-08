@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Good Samaritan Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.discovergoodsam.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"6085 Park Boulevard\", \"address_2\": null, \"city\": \"Pinellas Park\", \"state_province\": \"FL\", \"postal_code\": \"33781\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8395627, \"longitude\": -82.71797099999999}, \"phones\": [{\"number\": \"(727) 544-8558\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.086314"
+}

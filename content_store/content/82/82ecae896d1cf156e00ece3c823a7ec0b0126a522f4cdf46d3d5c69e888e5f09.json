@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Iglesia De Dios Pentecostal\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.iglesiaebenezercentralnorte.com\", \"status\": \"active\", \"address\": {\"address_1\": \"3801 Dyre Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10466\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.88793709999999, \"longitude\": -73.83159110000001}, \"phones\": [{\"number\": \"(347) 891-1347\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.636027"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Food Pantry Of Washington\", \"alternate_name\": \"\", \"description\": \"Serves Warren County.\", \"email\": \"\", \"url\": \"http://www.washingtoncommunityfoodpantry.com/contact-us\", \"status\": \"active\", \"address\": {\"address_1\": \"40 East Church Street\", \"address_2\": \"\", \"city\": \"Washington\", \"state_province\": \"NJ\", \"postal_code\": \"07882\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7603685, \"longitude\": -74.97918729999999}, \"phones\": [{\"number\": \"(908) 689-2547\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:15\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:15\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:15\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:15\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:15\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.820466"
+}

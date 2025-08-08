@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities Brooklyn and Queens, St. Michael - Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food Pantry is located at the basement of rectory\", \"email\": \"\", \"url\": \"https://stmichaelsflushing.org/about/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"136-76 41st Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11355\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7587185, \"longitude\": -73.82585019999999}, \"phones\": [{\"number\": \"(347) 957-2450\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Pre-registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.239340"
+}

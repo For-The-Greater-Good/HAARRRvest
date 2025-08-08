@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Manna House\", \"alternate_name\": \"\", \"description\": \"Food pantry in Eastern Fremont County\", \"url\": \"https://careandshare.org/locations/manna-house/\", \"status\": \"active\", \"address\": {\"address_1\": \"115 East Main Street #4\", \"address_2\": \"\", \"city\": \"Florence\", \"state_province\": \"CO\", \"postal_code\": \"81226\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-784-1955\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"1 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"1 p.m.\"}], \"location\": {\"latitude\": 38.390079079378, \"longitude\": -105.116833245902}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-08-08T05:07:55.381067"
+}

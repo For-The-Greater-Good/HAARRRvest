@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hopewell Baptist Church \", \"alternate_name\": \"\", \"description\": \"60 families per week \\n\\nEvery 14days clients can get food \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5086 Poplar Springs Road\", \"address_2\": null, \"city\": \"Gainesville\", \"state_province\": \"GA\", \"postal_code\": \"30507\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.2131941, \"longitude\": -83.786543}, \"phones\": [{\"number\": \"(770) 287-3311\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.207227"
+}

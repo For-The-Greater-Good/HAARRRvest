@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHASI MFP - St. Mary's Episcopal Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://chasiny.org/services/food-pantry-mobile-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"347 Davis Ave\", \"address_2\": null, \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10310\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.635242, \"longitude\": -74.108421}, \"phones\": [{\"number\": \"(718) 808-1300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.572133"
+}

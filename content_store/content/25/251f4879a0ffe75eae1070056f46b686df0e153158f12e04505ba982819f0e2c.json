@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Maryland Access Point (MAP)\", \"alternate_name\": \"\", \"description\": \"Register to get the food delivered to your home. Only for Baltimore city residents. Call to register and they will deliver bags of canned products, enough for family of 4 individuals. \\n\\nCalls are answered by a team of Certified Information and Referral Specialists (CIRS), Monday through Friday, between the hours of 8:30 a.m. and 4:30 p.m.\\ncurrently not taking in new clients and asked clients to call and check in in June\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"100 Holliday Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MD\", \"postal_code\": \"21202\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2908475, \"longitude\": -76.6105378}, \"phones\": [{\"number\": \"(410) 396-2273\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.891162"
+}

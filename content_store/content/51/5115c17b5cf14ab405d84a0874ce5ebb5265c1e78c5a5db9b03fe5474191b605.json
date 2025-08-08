@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Christian Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.fccmarietta.org/our-ministries\", \"status\": \"active\", \"address\": {\"address_1\": \"569 Frasier Street Southeast\", \"address_2\": null, \"city\": \"Marietta\", \"state_province\": \"GA\", \"postal_code\": \"30060\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.91931400000001, \"longitude\": -84.5426653}, \"phones\": [{\"number\": \"(770) 428-3125\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.735147"
+}

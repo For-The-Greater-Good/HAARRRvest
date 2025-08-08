@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jersey City Golden Door Charter School\", \"alternate_name\": \"\", \"description\": \"Paul\\tVelelis\\t2014136921\\nStart: 07/07/2025\\t07/25/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3044 John F. Kennedy Boulevard\", \"address_2\": null, \"city\": \"Journal Square\", \"state_province\": \"NJ\", \"postal_code\": \"07306\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7371912, \"longitude\": -74.0627324}, \"phones\": [{\"number\": \"(201) 795-4400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:50.476698"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church\", \"alternate_name\": \"\", \"description\": \"Free meal including food and drinks. No registration or ID required.\", \"email\": \"\", \"url\": \"https://www.firstbaptistjp.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"633 Centre Street\", \"address_2\": null, \"city\": \"Jamaica Hills\", \"state_province\": \"MA\", \"postal_code\": \"02130\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3137208, \"longitude\": -71.1141091}, \"phones\": [{\"number\": \"(617) 524-3992\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.972285"
+}

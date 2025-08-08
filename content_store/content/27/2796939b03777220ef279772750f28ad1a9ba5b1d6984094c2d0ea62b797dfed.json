@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bux-Mont Christian Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://buxmontchristian.com/food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"400 Jacksonville Road\", \"address_2\": null, \"city\": \"Ivyland\", \"state_province\": \"PA\", \"postal_code\": \"18974\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2209781, \"longitude\": -75.05476879999999}, \"phones\": [{\"number\": \"(215) 322-1732\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.676042"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Church of God Seventh Day (Pentecostal) Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.homelessshelterdirectory.org/cgi-bin/id/foodbank.cgi?foodbank=4056\", \"status\": \"active\", \"address\": {\"address_1\": \"922 St Marks Avenue\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11213\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6745, \"longitude\": -73.941612}, \"phones\": [{\"number\": \"(718) 221-9718\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"09:00\", \"closes_at\": \"10:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.311692"
+}

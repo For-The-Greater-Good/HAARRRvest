@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Richland Road Church of Christ\", \"alternate_name\": \"\", \"description\": \"PARKING LOT OPENS AT 8 AM AND DOORS WILL OPEN AT 9:00 AM\\n200 FAMILIES CAN BE SERVED ON A FIRST COME FIRST SERVE BASIS\\n AS OF MARCH 1, 2020 EACH HOUSEHOLD IS ONLY ALLOWED 1 PROXY. \\nID IS REQUIRED\\nAS YOU ENTER THE PARKING LOT YOU WILL BE GIVEN A NUMBER\\n1 INDIVIDUAL PER VEHICLE/HOUSEHOLD WILL BE ALLOWED TO ENTER THE BUILDING WHEN YOUR NUMBER IS UP\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"535 Richland Road\", \"address_2\": null, \"city\": \"Marion\", \"state_province\": \"OH\", \"postal_code\": \"43302\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5748194, \"longitude\": -83.0979936}, \"phones\": [{\"number\": \"(740) 389-1017\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.203956"
+}

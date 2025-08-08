@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Faith Hope Tabernacle\", \"alternate_name\": \"\", \"description\": \"Entrance at 30th street\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1900 East 30th Street\", \"address_2\": null, \"city\": \"Coldstream Homestead Montebello\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3256096, \"longitude\": -76.5889614}, \"phones\": [{\"number\": \"(410) 366-3920\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:54.354495"
+}

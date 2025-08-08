@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sussex Help Center\", \"alternate_name\": \"\", \"description\": \" Everyone in need is welcome.\\nWe provide our community Sussex, Wantage and Montague the following at least Four Times a Week:\\n\\n    Bags of food are given to your neighbors in need.\\n    Currently close to 75 to 100 households are served.\\n    Some people in these households are unemployed\\n    Often there is not enough income\\n    Some have physical or mental disabilities\\n    There are home-bound seniors\\n    Quite a few are single-parent households\\n    Some 75 local children benefit from our food distribution programs\\n\", \"email\": \"\", \"url\": \"https://www.SussexHelpCenter.org\", \"status\": \"active\", \"address\": {\"address_1\": \"20 Main Street\", \"address_2\": \"\", \"city\": \"Sussex\", \"state_province\": \"NJ\", \"postal_code\": \"07461\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.2087173, \"longitude\": -74.60786039999999}, \"phones\": [{\"number\": \"(973) 875-6417\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.144258"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Belmont Community Organization\", \"alternate_name\": \"\", \"description\": \"Food, clothing, medicine, heat and household items\", \"email\": \"\", \"url\": \"https://www.belmontcommunityorg.info/\", \"status\": \"active\", \"address\": {\"address_1\": \"91 East Catawba Street\", \"address_2\": null, \"city\": \"Belmont\", \"state_province\": \"NC\", \"postal_code\": \"28012\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.24066, \"longitude\": -81.02171109999999}, \"phones\": [{\"number\": \"(704) 825-4526\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Helps with income, rent, utility and food stamps\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Client can visit: Once in 2 months\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:13.659565"
+}

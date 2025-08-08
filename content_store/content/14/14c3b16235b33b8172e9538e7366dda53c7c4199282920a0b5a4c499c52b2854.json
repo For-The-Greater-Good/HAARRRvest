@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First United Christian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.fuccny.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"109 Victory Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10301\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6376893, \"longitude\": -74.08019929999999}, \"phones\": [{\"number\": \"(347) 825-3181\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.860926"
+}

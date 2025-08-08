@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Nicetown CDC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://nicetowncdc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4300 Germantown Avenue\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19140\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0192317, \"longitude\": -75.15598620000002}, \"phones\": [{\"number\": \"(215) 329-1824\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.857112"
+}

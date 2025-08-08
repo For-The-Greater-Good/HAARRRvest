@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Second Baptist Church Southwest\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.sbcsw.org/helping-hands-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"5501 Silver Hill Road\", \"address_2\": null, \"city\": \"District Heights\", \"state_province\": \"MD\", \"postal_code\": \"20747\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.852007, \"longitude\": -76.912275}, \"phones\": [{\"number\": \"(301) 420-2929\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Drive-up Food Pantry\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.892389"
+}

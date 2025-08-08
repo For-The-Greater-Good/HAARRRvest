@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tindley Temple\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.tindleyphl.us/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"750-762 S. Broad St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19146\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9414268, \"longitude\": -75.1663147}, \"phones\": [{\"number\": \"(215) 735-0442\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.517601"
+}

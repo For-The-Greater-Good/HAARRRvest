@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cobbs Creek Rec Ctr\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.phila.gov/food/?fbclid=IwAR1KFfmGkseNeQsSAKcOzhJXx400E4xtzNwZA10AHVSclYi7kr7dPSNDBac&address=280%20Cobbs%20Creek%20\", \"status\": \"active\", \"address\": {\"address_1\": \"280 Cobbs Creek Pkwy\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19139\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.95811300014564, \"longitude\": -75.24822509973386}, \"phones\": [{\"number\": \"(215) 685-1983\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:47.277088"
+}

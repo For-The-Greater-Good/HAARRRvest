@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Livingston United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Eligibility: Residents of 43205, 43206 or 43215.\\n\\nIntake Process: Walk-in.\\n\\nDocuments: ID for each household member. Current proof of address (within last 90 days)\", \"email\": \"\", \"url\": \"https://charitablepharmacy.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"200 East Livingston Avenue\", \"address_2\": null, \"city\": \"South Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9529654, \"longitude\": -82.9936225}, \"phones\": [{\"number\": \"(614) 560-0377\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.827113"
+}

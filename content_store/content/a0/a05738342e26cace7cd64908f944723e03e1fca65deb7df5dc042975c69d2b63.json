@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"EAST COMPASSION COMMUNITY CENTER\", \"alternate_name\": \"\", \"description\": \"*Closed December 21st - January 2nd, reopens Tuesday, January 3rd*\", \"email\": \"\", \"url\": \"compassioncristian/lighthous\", \"status\": \"active\", \"address\": {\"address_1\": \"9150 Old Montgomery Road\", \"address_2\": null, \"city\": \"Savannah\", \"state_province\": \"GA\", \"postal_code\": \"31406\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.9761117, \"longitude\": -81.1049724}, \"phones\": [{\"number\": \"(912) 629-4742\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.035109"
+}

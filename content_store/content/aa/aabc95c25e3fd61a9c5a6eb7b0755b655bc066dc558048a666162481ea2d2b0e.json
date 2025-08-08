@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHURCH OF THE RESURRECTION\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"200 Tuckahoe Road\", \"address_2\": null, \"city\": \"Marmora\", \"state_province\": \"NJ\", \"postal_code\": \"08223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2654574, \"longitude\": -74.65590519999999}, \"phones\": [{\"number\": \"(609) 390-2203\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:14.992221"
+}

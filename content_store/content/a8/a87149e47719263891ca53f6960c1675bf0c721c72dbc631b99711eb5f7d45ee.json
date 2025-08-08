@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Lourdes\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"14 Montebello Road\", \"address_2\": null, \"city\": \"Jamaica Plain\", \"state_province\": \"MA\", \"postal_code\": \"02130\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3132312, \"longitude\": -71.1023891}, \"phones\": [{\"number\": \"(617) 524-0240\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.626216"
+}

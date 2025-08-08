@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Civic Works\", \"alternate_name\": \"\", \"description\": \"Civic Works will deliver a box of fresh produce for $5 to your home. You must be 55 or older and reside in Baltimore city. To register, leave a message at 410-826-5955 on Monday at 9am and you will receive a call back on Tuesday. Deliveries are made on Thursdays & Fridays.\", \"email\": \"\", \"url\": \"http://civicworks.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"2701 Saint Lo Drive\", \"address_2\": null, \"city\": \"Belair - Edison\", \"state_province\": \"MD\", \"postal_code\": \"21213\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.32087569999999, \"longitude\": -76.58603269999999}, \"phones\": [{\"number\": \"(410) 826-5955\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.951611"
+}

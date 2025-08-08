@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mi Salud Wellness Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.philabundance.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"200 E. Wyoming Ave.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19120\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.02100413823693, \"longitude\": -75.12222131487086}, \"phones\": [{\"number\": \"(215) 220-4421\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.423059"
+}

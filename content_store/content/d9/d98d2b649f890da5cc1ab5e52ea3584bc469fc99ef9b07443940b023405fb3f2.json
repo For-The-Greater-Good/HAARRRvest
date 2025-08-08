@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Simple Way\", \"alternate_name\": \"\", \"description\": \"People can sign up for text updates by texting FOOD to 866-551-1675.\\n\\nWait times may be long.\", \"email\": \"\", \"url\": \"https://www.thesimpleway.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3234 Potter Street\", \"address_2\": \"\", \"city\": \"Harrowgate\", \"state_province\": \"PA\", \"postal_code\": \"19134\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9978678, \"longitude\": -75.11218960000001}, \"phones\": [{\"number\": \"(215) 423-3598\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Spanish Available\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Temporarily closed\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed for the last 2 weeks of the year\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.479074"
+}

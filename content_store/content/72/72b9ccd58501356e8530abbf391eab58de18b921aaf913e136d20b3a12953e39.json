@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Nazareth Housing Inc., Louise's Pantry, Lower East Side\", \"alternate_name\": \"\", \"description\": \"Registration at Haven Plaza office at 200 Avenue C is required\", \"email\": \"\", \"url\": \"https://nazarethhousingnyc.org/louises-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"206 E 4th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10009\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.72365689999999, \"longitude\": -73.9842426}, \"phones\": [{\"number\": \"(646) 713-2681\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.786674"
+}

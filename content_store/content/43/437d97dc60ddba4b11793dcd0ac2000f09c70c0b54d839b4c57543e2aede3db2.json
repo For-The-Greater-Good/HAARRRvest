@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saguache Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food pantry in 81149  81125  81131  81151  81143\", \"url\": \"https://careandshare.org/locations/saguache-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"605 Christy Avenue\", \"address_2\": \"\", \"city\": \"Saguache\", \"state_province\": \"CO\", \"postal_code\": \"81149\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-655-2537 *105\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"8 a.m.\", \"closes_at\": \"4 p.m.\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"8 a.m.\", \"closes_at\": \"4 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"8 a.m.\", \"closes_at\": \"4 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"8 a.m.\", \"closes_at\": \"4 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"8 a.m.\", \"closes_at\": \"4 p.m.\"}], \"location\": {\"latitude\": 38.085236008319, \"longitude\": -106.140143175675}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-08-08T05:08:45.820023"
+}

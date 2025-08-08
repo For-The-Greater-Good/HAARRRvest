@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lutheran Mission Society Hickory Compassion Center\", \"alternate_name\": \"\", \"description\": \"Food distributed upon request during Center hours\", \"email\": \"\", \"url\": \"https://www.compassionplace.org/centers\", \"status\": \"active\", \"address\": {\"address_1\": \"2500 Conowingo Road\", \"address_2\": null, \"city\": \"Bel Air\", \"state_province\": \"MD\", \"postal_code\": \"21015\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5942292, \"longitude\": -76.3227288}, \"phones\": [{\"number\": \"(410) 974-9296\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:56.865883"
+}

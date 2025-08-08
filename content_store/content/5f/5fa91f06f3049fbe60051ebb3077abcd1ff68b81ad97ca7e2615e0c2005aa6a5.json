@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Zion Cares Community Development Corp.\", \"alternate_name\": \"\", \"description\": \"The exact location of food pantry is at the Parish Hall, not in the church.  521 Bramhall Avenue.  Lower Level \\n\", \"email\": \"\", \"url\": \"https://www.zioncaresjc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"521 Bramhall Avenue\", \"address_2\": null, \"city\": \"Jersey City\", \"state_province\": \"NJ\", \"postal_code\": \"07304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7142429, \"longitude\": -74.07329279999999}, \"phones\": [{\"number\": \"(201) 898-0851\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Recommended to arrive before 10am; people begin lining up at 7am\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.779033"
+}

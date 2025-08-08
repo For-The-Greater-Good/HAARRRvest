@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wellesley Food Pantry\", \"alternate_name\": \"\", \"description\": \" Open to Residents of Wellesley\\n The Pantry is located in the basement of the Wellesley Hills Congregational Church\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"207 Washington Street\", \"address_2\": null, \"city\": \"Wellesley\", \"state_province\": \"MA\", \"postal_code\": \"02481\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3156284, \"longitude\": -71.2711807}, \"phones\": [{\"number\": \"(781) 235-1188\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.075932"
+}

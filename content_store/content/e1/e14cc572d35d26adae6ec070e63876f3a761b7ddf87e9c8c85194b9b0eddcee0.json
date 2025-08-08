@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"TriTowns Food Pantry\", \"alternate_name\": \"\", \"description\": \"63 Ashfield St Piedmont, WV. Also call John Fazenbaker 301-707-2222\", \"email\": \"\", \"url\": \"https://www.facebook.com/p/Tri-Towns-Food-Pantry-100066696123615/\", \"status\": \"active\", \"address\": {\"address_1\": \"32 Main Street\", \"address_2\": null, \"city\": \"Westernport\", \"state_province\": \"MD\", \"postal_code\": \"21562\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4844776, \"longitude\": -79.04492929999999}, \"phones\": [{\"number\": \"(304) 790-1771\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"04:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:10.019732"
+}

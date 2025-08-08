@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pratt Institute\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.pratt.edu/student-life/student-affairs/health-counseling/health-and-counseling-contact/\", \"status\": \"active\", \"address\": {\"address_1\": \"215 Willoughby Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11205\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6923421, \"longitude\": -73.9632258}, \"phones\": [{\"number\": \"(718) 399-4542\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.250071"
+}

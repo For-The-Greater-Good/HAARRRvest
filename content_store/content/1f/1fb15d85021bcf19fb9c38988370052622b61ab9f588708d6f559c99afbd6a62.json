@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SAN JOSE MISSION CLINIC\", \"alternate_name\": \"\", \"description\": \"Health Care\\n\\nContact: Sister Sara Proctor\\n\\nNotes: Provides services to low/mid income families to provide free medical, health, promotiion, and social services.\\n\\nHours: Monday 5 pm-7 pm (Gym with appointment)\", \"email\": \"\", \"url\": \"ccdosp.org\", \"status\": \"active\", \"address\": {\"address_1\": \"13571 San Juan Diego Way\", \"address_2\": null, \"city\": \"Dover\", \"state_province\": \"FL\", \"postal_code\": \"33527\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9943921, \"longitude\": -82.23245899999999}, \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"03:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:18.710114"
+}

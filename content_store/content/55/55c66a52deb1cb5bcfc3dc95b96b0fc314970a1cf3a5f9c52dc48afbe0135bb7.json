@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Roxborough Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"8232 Ridge Ave\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19128\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0591609999051, \"longitude\": -75.23779530804396}, \"phones\": [{\"number\": \"(215) 483-2762\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call Ms. Amy Karl at 267-9084553 to confirm schedule on Thanksgiving week\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.308799"
+}

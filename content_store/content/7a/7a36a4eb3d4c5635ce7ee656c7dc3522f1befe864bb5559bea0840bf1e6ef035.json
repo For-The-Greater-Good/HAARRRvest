@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SVDP\\u2013Our Lady of Hope Parish\", \"alternate_name\": \"\", \"description\": \"- They just need to call us at 856-232-5558 to make an appointment.  We distribute food every Saturday morning from 9:15 to 11:00 a.m. To qualify, they must be as resident of the New Jersey and should either be low income (185% of the poverty level or less), already on an existing local, state or federal program such as WIC, or some type of emergency disaster such as divorce, domestic violence, loss of employment, etc. \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"701 Little Gloucester Road\", \"address_2\": null, \"city\": \"Blackwood\", \"state_province\": \"NJ\", \"postal_code\": \"08012\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8123191, \"longitude\": -75.04727799999999}, \"phones\": [{\"number\": \"(856) 232-5558\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.726699"
+}

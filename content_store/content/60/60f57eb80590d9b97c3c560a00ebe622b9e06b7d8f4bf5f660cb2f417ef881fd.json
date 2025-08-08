@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army of Lower Bucks\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://easternusa.salvationarmy.org/eastern-pennsylvania/levittown-pa/alleviate-hunger/\", \"status\": \"active\", \"address\": {\"address_1\": \"215 Appletree Drive\", \"address_2\": null, \"city\": \"Levittown\", \"state_province\": \"PA\", \"postal_code\": \"19055\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1591496, \"longitude\": -74.84070609999999}, \"phones\": [{\"number\": \"(215) 945-0717\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No appointment necessary\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.520113"
+}

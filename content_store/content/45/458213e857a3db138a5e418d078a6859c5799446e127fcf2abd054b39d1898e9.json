@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mulberry Community Service Center MOBILE Pantry.. \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.mulberrycsc.org/basic-needs\", \"status\": \"active\", \"address\": {\"address_1\": \"306 Southwest 2nd Avenue\", \"address_2\": null, \"city\": \"Mulberry\", \"state_province\": \"FL\", \"postal_code\": \"33860\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.892775, \"longitude\": -81.9747672}, \"phones\": [{\"number\": \"(863) 425-1523\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.532699"
+}

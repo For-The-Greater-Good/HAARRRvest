@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Chester Corps\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://pa.salvationarmy.org/chester/Social-Services\", \"status\": \"active\", \"address\": {\"address_1\": \"151 West 15th Street\", \"address_2\": \"\", \"city\": \"Chester\", \"state_province\": \"PA\", \"postal_code\": \"19013\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.859204, \"longitude\": -75.36266}, \"phones\": [{\"number\": \"(610) 874-4266\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Delivery may be available\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.376521"
+}

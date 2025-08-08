@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"COPO HALAL FOOD PANTRY\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.copo.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1077 Coney Island Avenue\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11230\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.631252, \"longitude\": -73.966248}, \"phones\": [{\"number\": \"(718) 434-3266\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.168918"
+}

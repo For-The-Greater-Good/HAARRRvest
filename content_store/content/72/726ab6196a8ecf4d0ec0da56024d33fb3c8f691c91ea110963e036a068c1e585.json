@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Westwood Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"60 Nahatan Street\", \"address_2\": null, \"city\": \"Westwood\", \"state_province\": \"MA\", \"postal_code\": \"02090\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2181472, \"longitude\": -71.2207641}, \"phones\": [{\"number\": \"(781) 329-8799\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.947513"
+}

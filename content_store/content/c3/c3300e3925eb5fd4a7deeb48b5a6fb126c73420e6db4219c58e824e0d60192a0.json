@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SVDP - Our Lady of Guadalupe\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.guadalupeshrinenj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"135 North White Horse Pike\", \"address_2\": null, \"city\": \"Lindenwold\", \"state_province\": \"NJ\", \"postal_code\": \"08021\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8209818, \"longitude\": -74.99461749999999}, \"phones\": [{\"number\": \"(856) 627-2222\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.568902"
+}

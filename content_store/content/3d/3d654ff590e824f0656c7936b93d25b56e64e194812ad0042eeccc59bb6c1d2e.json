@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Union Baptist Temple\", \"alternate_name\": \"\", \"description\": \"Advised to arrive early as the linestarts forming at 7am\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"335 North Pennsylvania Avenue\", \"address_2\": null, \"city\": \"Atlantic City\", \"state_province\": \"NJ\", \"postal_code\": \"08401\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3688987, \"longitude\": -74.4273113}, \"phones\": [{\"number\": \"(301) 346-4776\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:58.562173"
+}

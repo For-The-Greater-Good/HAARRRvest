@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"THE FOOD PANTRY AT ST. AGNES\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.stagneslf.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"65 Union Ave\", \"address_2\": null, \"city\": \"Little Falls\", \"state_province\": \"NJ\", \"postal_code\": \"07424\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.881647, \"longitude\": -74.235036}, \"phones\": [{\"number\": \"(973) 256-5020\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Come early, line starts at 6am\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.415821"
+}

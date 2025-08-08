@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cherry Hill Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Cherry Hill, Haddonfield, Marlton or Mt. Laurel\\nIf you live in any other New Jersey town, you may come to the pantry on Wednesdays between the hours of 5:00 PM and 6:30 PM to receive Food. You will need to provide a Photo ID and only 1 member of each household is eligible to receive food. \", \"email\": \"\", \"url\": \"https://cherryhillfoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1463 Brace Road\", \"address_2\": \"\", \"city\": \"Ashland\", \"state_province\": \"NJ\", \"postal_code\": \"08034\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8893157, \"longitude\": -75.0159345}, \"phones\": [{\"number\": \"(856) 910-9090\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.214949"
+}

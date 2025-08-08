@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ST. JOSEPH\\u2019S CHURCH FOOD PANTRY\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"245 Hilton Avenue\", \"address_2\": null, \"city\": \"Maplewood\", \"state_province\": null, \"postal_code\": \"07040\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7196153, \"longitude\": -74.27117489999999}, \"phones\": [{\"number\": \"(908) 656-1436\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Drive-up Food Pantry\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:59.953719"
+}

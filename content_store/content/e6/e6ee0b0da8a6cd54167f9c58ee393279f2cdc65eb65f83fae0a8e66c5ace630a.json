@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"La Colmena\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.lacolmenanyc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"774 Port Richmond Ave\", \"address_2\": null, \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.62537, \"longitude\": -74.144569}, \"phones\": [{\"number\": \"(718) 442-7700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:08.159183"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1528, \"name\": \"Basics Needs at Albany Baptist Church\", \"nickname\": \"ABC foodbank\", \"address\": \"5331 STATE ST\", \"city\": \"ALBANY\", \"state\": \"OH\", \"zip\": \"45710\", \"phone\": \"740-856-7076\", \"latitude\": 39.22555, \"longitude\": -82.20272, \"estimated_distance\": 877.65, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2281, \"name\": \"Pantry\", \"address\": \"5331 STATE ST\", \"city\": \"ALBANY\", \"state\": \"OH\", \"zip\": \"45710\", \"latitude\": 39.2255225, \"longitude\": -82.20266856, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. \\nPhone Number: (740) 698-3163\", \"estimated_distance\": 877.65, \"exception_note\": \"Serving those within 10 miles of Albany\", \"event_dates\": [{\"id\": 357405, \"event_id\": 2281, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-11\"}, {\"id\": 364568, \"event_id\": 2281, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-08\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:35.891450"
+}

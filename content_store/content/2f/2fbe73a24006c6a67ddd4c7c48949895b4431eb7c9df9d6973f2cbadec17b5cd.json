@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Theodore Roosevelt School\", \"alternate_name\": \"\", \"description\": \"Coordinator: Guadeloupe\\tChong\\t2013196025\\nStart:07/07/2025\\tEnd: 08/08/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1 Louisa Place\", \"address_2\": null, \"city\": \"Weehawken Township\", \"state_province\": \"NJ\", \"postal_code\": \"07086\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7767406, \"longitude\": -74.0153966}, \"phones\": [{\"number\": \"(201) 319-6005\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:55\", \"closes_at\": \"17:55\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:55\", \"closes_at\": \"17:55\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:55\", \"closes_at\": \"17:55\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:55\", \"closes_at\": \"17:55\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:55\", \"closes_at\": \"17:55\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:48.344960"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Guadalupe Food Pantry\", \"alternate_name\": \"\", \"description\": \"Document required: Proof of residency in south riverview, Sun City, Balm, Wimauma, Ruskin, Apollo Beach, and Gibsonton.\", \"email\": \"\", \"url\": \"https://www.ourladyspantry.com/get-food/\", \"status\": \"active\", \"address\": {\"address_1\": \"16650 U.S. 301\", \"address_2\": null, \"city\": \"Wimauma\", \"state_province\": \"FL\", \"postal_code\": \"33598\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7100105, \"longitude\": -82.3344104}, \"phones\": [{\"number\": \"(813) 741-2000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:30\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.714506"
+}

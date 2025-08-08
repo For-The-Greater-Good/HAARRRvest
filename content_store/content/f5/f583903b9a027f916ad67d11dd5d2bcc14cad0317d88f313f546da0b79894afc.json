@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"YMCA Boston @ Church of the Holy Spirit\", \"alternate_name\": \"\", \"description\": \"To register to attend a Community Cafe Meal Service at site, please call 617-477-6688 or email ethosmeals@ethocare.org\", \"email\": \"\", \"url\": \"https://www.ethocare.org/services/nutrition/community-cafes/\", \"status\": \"active\", \"address\": {\"address_1\": \"525 River Street\", \"address_2\": null, \"city\": \"Southern Mattapan\", \"state_province\": \"MA\", \"postal_code\": \"02126\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2675642, \"longitude\": -71.0952554}, \"phones\": [{\"number\": \"(617) 298-0577\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.511428"
+}

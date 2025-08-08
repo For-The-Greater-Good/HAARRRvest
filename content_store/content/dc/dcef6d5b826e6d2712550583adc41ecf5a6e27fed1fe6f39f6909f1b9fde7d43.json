@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace Baptist Church\", \"alternate_name\": \"\", \"description\": \"* Entrance is at the side red door on the East 32nd St.\\n* Please check the church's Facebook page or call (410) 235-0784 to confirm if there will be distribution since there are instances when there's church event or function (and there'll be no distribution).\", \"email\": \"\", \"url\": \"https://www.facebook.com/GraceBCMD\", \"status\": \"active\", \"address\": {\"address_1\": \"3201 The Alameda\", \"address_2\": null, \"city\": \"Coldstream - Homestead - Montebello\", \"state_province\": \"MD\", \"postal_code\": \"21218\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3269243, \"longitude\": -76.5939047}, \"phones\": [{\"number\": \"(410) 235-0784\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Check their social media for updates\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.880496"
+}

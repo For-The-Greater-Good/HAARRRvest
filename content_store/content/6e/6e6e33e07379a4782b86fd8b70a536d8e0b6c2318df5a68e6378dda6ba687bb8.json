@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cedar Creek High School\", \"alternate_name\": \"\", \"description\": \"Summer meal program\\ncoordinator: Tom\\tGrossi\\t6099092620\\nStart: 07/07/2025\\tEnd: 08/21/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1701 New York Avenue\", \"address_2\": null, \"city\": \"Egg Harbor City\", \"state_province\": \"NJ\", \"postal_code\": \"08215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.55146999999999, \"longitude\": -74.6302647}, \"phones\": [{\"number\": \"(609) 909-2645\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:49.352930"
+}

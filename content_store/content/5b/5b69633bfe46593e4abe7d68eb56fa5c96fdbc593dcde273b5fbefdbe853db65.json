@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"A Joyful Noise Worship\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"100 Dayton Street\", \"address_2\": null, \"city\": \"Ridgewood\", \"state_province\": \"NJ\", \"postal_code\": \"07450\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9781495, \"longitude\": -74.11826099999999}, \"phones\": [{\"number\": \"(201) 652-2868\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.839318"
+}

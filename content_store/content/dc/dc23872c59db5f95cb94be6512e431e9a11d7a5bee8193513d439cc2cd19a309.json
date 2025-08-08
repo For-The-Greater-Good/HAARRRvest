@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cumac Mobile Pantry - Greater Bergen Community Action, Inc\", \"alternate_name\": \"\", \"description\": \"Get registered to receive food here https://forms.gle/iEFqPnzdeYBefP7B9\", \"email\": \"\", \"url\": \"https://www.cumac.org/mobile-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"265 Totowa Avenue\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07502\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.91616340109396, \"longitude\": -74.18886617675285}, \"phones\": [{\"number\": \"(973) 742-5518\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:56.478065"
+}

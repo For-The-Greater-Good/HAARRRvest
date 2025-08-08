@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"West End Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://westendchurchnyc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"165 W 105th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10025\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7997898, \"longitude\": -73.96562399999999}, \"phones\": [{\"number\": \"(212) 663-2900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:30\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.073414"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ICNA Relief NJ - Somerset Location\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.icnarelief.org/nj/specialty-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1320 Hamilton Street\", \"address_2\": null, \"city\": \"Somerset\", \"state_province\": \"NJ\", \"postal_code\": \"08873\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.487403, \"longitude\": -74.501691}, \"phones\": [{\"number\": \"(732) 509-9143\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.328046"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Iredell Christian Ministries\", \"alternate_name\": \"\", \"description\": \"Clients must register 30 minutes before closing to be able to shop in the pantry.  Those who arrive less than 30 minutes before closing will receive a box of food that was prepared in advance.\", \"email\": \"\", \"url\": \"http://iredellcm.org/home.html\", \"status\": \"active\", \"address\": {\"address_1\": \"752 Old Salisbury Road\", \"address_2\": null, \"city\": \"Statesville\", \"state_province\": \"NC\", \"postal_code\": \"28677\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7761529, \"longitude\": -80.8731052}, \"phones\": [{\"number\": \"(704) 924-6700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:15.568351"
+}

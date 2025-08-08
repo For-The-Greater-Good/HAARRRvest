@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Francis On The Hill\", \"alternate_name\": \"\", \"description\": \"- A bag of groceries is given.\\n- Numbers are given out at 1:30 pm so be sure to be there at or before that time.\\n- Meridian Hill Park is located in NW Washington between 16th and 15th Streets and Euclid St. on the north and W St. on the south. We distribute at the Chapin St. entrance which is halfway up the park on 15th St..\\n- They have 2 lines where one line is for the 260 premade bags they have on their truck and to get a ticket you have to arrive early while the second line is for anyone who didn't receive a ticket and got in line to get any extra food they may have\", \"email\": \"\", \"url\": \"https://www.followingfrancis.org/francisonthehill\", \"status\": \"active\", \"address\": {\"address_1\": \"1498 Chapin Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20009\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9214632, \"longitude\": -77.0352114}, \"phones\": [{\"number\": \"(202) 680-0517\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.619320"
+}

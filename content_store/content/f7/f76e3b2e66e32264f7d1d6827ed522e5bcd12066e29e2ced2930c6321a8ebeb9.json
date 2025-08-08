@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"TRIANGLE PARK COMMUNITY CENTER (EPISCOPAL JERSEY CITY)\", \"alternate_name\": \"\", \"description\": \"Our food pantry operates on the third Saturdays of the month from 10:00 am to 12:00 pm. We have also had food distributions on some Fridays each month.\\nPlease check our calendar for accurate dates and times. \\nWe host emergency food distributions when extra has been available from the food bank or donations. Please check with us if you are in need.\", \"email\": \"\", \"url\": \"https://www.triangleparkcc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"247 Old Bergen Road\", \"address_2\": null, \"city\": \"Greenville\", \"state_province\": \"NJ\", \"postal_code\": \"07305\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6985138, \"longitude\": -74.09258919999999}, \"phones\": [{\"number\": \"(201) 994-4302\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.631544"
+}

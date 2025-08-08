@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Del Norte Food Bank\", \"alternate_name\": \"\", \"description\": \"Food pantry in Rio Grande County\", \"url\": \"https://careandshare.org/locations/del-norte-food-bank/\", \"status\": \"active\", \"address\": {\"address_1\": \"645 Pine St\", \"address_2\": \"\", \"city\": \"Del Norte\", \"state_province\": \"CO\", \"postal_code\": \"81132\", \"country\": \"US\"}, \"phones\": [{\"number\": \"(719) 850 - 2643\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"9 a.m.\", \"closes_at\": \"11 p.m.\"}], \"location\": {\"latitude\": 37.676890095545, \"longitude\": -106.356402480209}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-08-08T05:09:26.915102"
+}

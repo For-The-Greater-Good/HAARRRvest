@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Just Believe Inc\", \"alternate_name\": \"\", \"description\": \"Homeless shelter in Toms River, New Jersey that may do delivery. \", \"email\": \"\", \"url\": \"https://justbelieveinc.org/about-us/\", \"status\": \"active\", \"address\": {\"address_1\": \"734 New Jersey 37\", \"address_2\": null, \"city\": \"Toms River\", \"state_province\": \"NJ\", \"postal_code\": \"08755\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9703436, \"longitude\": -74.232719}, \"phones\": [{\"number\": \"(732) 279-6157\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Delivery may be available\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.110228"
+}

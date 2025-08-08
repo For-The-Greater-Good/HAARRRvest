@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. John Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Referral from DSS Center is preferred. \\nYou need to call and leave a message and they will call you back and set up an appointment. \\nCall ahead before Thursday to set appointment\\n\\n\", \"email\": \"\", \"url\": \"https://saintjohnbrooklynmd.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"226 Washburn Avenue\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"MD\", \"postal_code\": \"21225\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2361143, \"longitude\": -76.60810049999999}, \"phones\": [{\"number\": \"(410) 355-7295\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.753972"
+}

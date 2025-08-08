@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Food Pantry at Harbor Health\", \"alternate_name\": \"\", \"description\": \"Food Pantry open to everyone in the community. You do not have to be a Harbor Health patient to come to the Food Pantry. Pantry clients can attend once per month. 3 bags (1 bag of frozen protein, 1 bag of dry goods, and 1 bag of produce). \\n\\nOnly 1 client per household can register. Other household members may pick up food. Please contact the Food Pantry at 617-533-2228 for more information. Proof of address requested but not required. \\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": null, \"state_province\": null, \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": null, \"longitude\": null}, \"phones\": [{\"number\": \"(617) 533-2228\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:00.968616"
+}

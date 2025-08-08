@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mamre SDA\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"mamresda.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1623 Utica Ave\", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11234\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.632698, \"longitude\": -73.928146}, \"phones\": [{\"number\": \"(646) 617-8775\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.626863"
+}

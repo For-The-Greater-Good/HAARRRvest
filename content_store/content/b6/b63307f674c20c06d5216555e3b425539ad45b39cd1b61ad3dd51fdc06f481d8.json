@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Neighborhood House\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1000 Atcheson Street\", \"address_2\": null, \"city\": \"Mount Vernon\", \"state_province\": \"OH\", \"postal_code\": \"43203\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9751977, \"longitude\": -82.97510539999999}, \"phones\": [{\"number\": \"(614) 252-4941\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.405601"
+}

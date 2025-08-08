@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Peter's Primitive Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"457 Drummond Avenue\", \"address_2\": null, \"city\": \"Neptune City\", \"state_province\": \"NJ\", \"postal_code\": \"07753\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.21901014231808, \"longitude\": -74.02893002744267}, \"phones\": [{\"number\": \"(732) 988-3910\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.964251"
+}

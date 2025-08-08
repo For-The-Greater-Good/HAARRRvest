@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lansdowne Presbyterian Church (For the Southeast Delco School District)\", \"alternate_name\": \"\", \"description\": \"* Please call 610-622-0800 x4 for an appointment by 3:00 PM on the day you wish to come.\\n* Serves residents of the following borough: Alden, Darby, East Lansdowne, Lansdowne, and Yeadon. \", \"email\": \"\", \"url\": \"https://lansdownepresbyterianchurch.com/interfaith-food-cupboard\", \"status\": \"active\", \"address\": {\"address_1\": \"140 North Lansdowne Avenue\", \"address_2\": null, \"city\": \"Lansdowne\", \"state_province\": \"PA\", \"postal_code\": \"19050\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9430993, \"longitude\": -75.2743184}, \"phones\": [{\"number\": \"(610) 622-0800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.103107"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Scott Elementary\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1752 Hollywood Road Northwest\", \"address_2\": null, \"city\": \"Scotts Crossing\", \"state_province\": \"GA\", \"postal_code\": \"30318\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.803378, \"longitude\": -84.471701}, \"phones\": [{\"number\": \"(404) 802-7000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.766294"
+}

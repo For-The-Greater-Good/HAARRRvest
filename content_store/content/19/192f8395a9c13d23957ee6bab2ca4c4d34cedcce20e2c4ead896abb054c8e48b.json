@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Prince of Peace Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Small Pantry \", \"email\": \"\", \"url\": \"https://princeofpeacehowellnj.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"434 Aldrich Road\", \"address_2\": null, \"city\": \"Howell Township\", \"state_province\": \"NJ\", \"postal_code\": \"07731\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1568301, \"longitude\": -74.2272605}, \"phones\": [{\"number\": \"(732) 363-0732\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Only serve the neighborhood\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:56.880777"
+}

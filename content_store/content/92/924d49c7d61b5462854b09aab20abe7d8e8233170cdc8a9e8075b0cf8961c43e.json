@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul's House\", \"alternate_name\": \"\", \"description\": \"- Must live within 20 blocks of the neighborhood \", \"email\": \"\", \"url\": \"www.sphnyc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"335 West 51st Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10019\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7636837, \"longitude\": -73.98697779999999}, \"phones\": [{\"number\": \"(212) 265-5433\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"12:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.666922"
+}

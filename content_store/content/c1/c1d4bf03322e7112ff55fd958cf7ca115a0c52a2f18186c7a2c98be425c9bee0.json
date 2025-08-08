@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Prospect Hill Senior Service Center\", \"alternate_name\": \"\", \"description\": \"Only for seniors\", \"email\": \"\", \"url\": \"https://www.stjme.org/prospect-hill-senior-services-center\", \"status\": \"active\", \"address\": {\"address_1\": \"283 Prospect Avenue\", \"address_2\": null, \"city\": \"Park Slope\", \"state_province\": \"NY\", \"postal_code\": \"11215\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.66349719999999, \"longitude\": -73.9888338}, \"phones\": [{\"number\": \"(718) 499-9574\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:58.634788"
+}

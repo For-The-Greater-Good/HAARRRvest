@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jackman Food Cupboard\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"369 Main Street\", \"address_2\": null, \"city\": \"Jackman\", \"state_province\": \"ME\", \"postal_code\": \"04945\", \"country\": \"US\"}, \"location\": {\"latitude\": 45.6211355, \"longitude\": -70.2483687}, \"phones\": [{\"number\": \"(207) 668-2111\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.857568"
+}

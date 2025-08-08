@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Front Street Community Church Food Pantry/ God's Storehouse\", \"alternate_name\": \"\", \"description\": \"Provide prepacked bags or boxes of food\\n\\nServe only residents of 19133 or 19134.\", \"email\": \"\", \"url\": \"https://www.hungercoalition.org/food-pantries/front-street-community-church-food-pantry-gods-storehouse\", \"status\": \"active\", \"address\": {\"address_1\": \"2812 North Front Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19133\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9929549, \"longitude\": -75.1307085}, \"phones\": [{\"number\": \"(215) 900-6794\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.309517"
+}

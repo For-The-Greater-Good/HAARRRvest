@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Family Impact Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"735 North Grand Street\", \"address_2\": null, \"city\": \"Fowlerville\", \"state_province\": \"MI\", \"postal_code\": \"48836\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.66928410000001, \"longitude\": -84.0740122}, \"phones\": [{\"number\": \"(517) 223-4428\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"23:00\", \"closes_at\": \"01:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:03.967761"
+}

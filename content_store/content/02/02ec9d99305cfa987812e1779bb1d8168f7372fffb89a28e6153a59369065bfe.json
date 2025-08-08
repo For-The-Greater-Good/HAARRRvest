@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mano-a-Mano\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2921 Saddle Club Street Southeast\", \"address_2\": null, \"city\": \"Southeast Mill Creek\", \"state_province\": \"OR\", \"postal_code\": \"97317\", \"country\": \"US\"}, \"location\": {\"latitude\": 44.90216009999999, \"longitude\": -122.9709111}, \"phones\": [{\"number\": \"(503) 315-2290\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:45\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.304965"
+}

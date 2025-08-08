@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"La Jara Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food pantry in Costilla County and Conejos County\", \"url\": \"https://careandshare.org/locations/la-jara-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"19617 U.S. 285\", \"address_2\": \"\", \"city\": \"La Jara\", \"state_province\": \"CO\", \"postal_code\": \"19617\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-274-5267\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"9:30 a.m.\", \"closes_at\": \"10:30 a.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"2:30 p.m.\", \"closes_at\": \"5 p.m.\"}], \"location\": {\"latitude\": 37.279349080302, \"longitude\": -105.960395056956}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-08-08T05:09:55.453923"
+}

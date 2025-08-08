@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ALIVE! Del Ray Food Hub\", \"alternate_name\": \"\", \"description\": \"* Open to Alexandria residents\", \"email\": \"\", \"url\": \"http://www.alive-inc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2601 Mount Vernon Avenue\", \"address_2\": null, \"city\": \"Potomac West\", \"state_province\": \"VA\", \"postal_code\": \"22301\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8285821, \"longitude\": -77.0588161}, \"phones\": [{\"number\": \"(703) 837-9300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.818504"
+}

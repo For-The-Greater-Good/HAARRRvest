@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Secaucus Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food pantry in Hudson County, NJ. Services: Food Pantry\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": \"\", \"city\": \"Secaucus\", \"state_province\": \"NJ\", \"postal_code\": \"\", \"country\": \"US\"}, \"phones\": [{\"number\": \"201-330-2014\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.778204, \"longitude\": -74.067857}, \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Food Pantry\"}, {\"attribute_key\": \"COUNTY\", \"attribute_value\": \"Hudson\"}]}",
+  "metadata": {
+    "scraper_id": "rutgers_against_hunger",
+    "source": "rutgers_against_hunger"
+  },
+  "timestamp": "2025-08-08T05:07:46.248636"
+}

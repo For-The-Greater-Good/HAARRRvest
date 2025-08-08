@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"PRAHD - The Puerto Rican Association for Human Development\", \"alternate_name\": \"\", \"description\": \"Pre school. After day program . Registration required for the first time. 7326382814\", \"email\": \"\", \"url\": \"https://www.prahd.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"98 1st Street\", \"address_2\": \"\", \"city\": \"Perth Amboy\", \"state_province\": \"NJ\", \"postal_code\": \"08861\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5031114, \"longitude\": -74.27416629999999}, \"phones\": [{\"number\": \"(732) 442-1081\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.831539"
+}

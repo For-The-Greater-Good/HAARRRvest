@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Northeast Conference Community Center SDA\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.northeastern.org/services/adventist-community-services-center\", \"status\": \"active\", \"address\": {\"address_1\": \"99-13 Northern Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11368\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.75726, \"longitude\": -73.869266}, \"phones\": [{\"number\": \"(347) 527-2444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed during summer\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.636481"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"81251\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in BROADWAY COMMUNITY\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"212-864-6100\", \"country\": \"US\"}, \"phones\": [{\"number\": \"601 WEST 114TH STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.784105884981, \"longitude\": -73.685745454}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"BROADWAY COMMUNITY\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:14:59.446672"
+}

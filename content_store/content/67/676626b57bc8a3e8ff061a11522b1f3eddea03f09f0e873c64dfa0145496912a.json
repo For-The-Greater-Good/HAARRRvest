@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Southside Life Station\", \"alternate_name\": \"\", \"description\": \"Clothing Pantry: Tuesday 10:00am-12:00pm .\\nMay offer delivery.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"402 South Avenue\", \"address_2\": null, \"city\": \"Southside\", \"state_province\": \"OH\", \"postal_code\": \"43609\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6309649, \"longitude\": -83.5484618}, \"phones\": [{\"number\": \"(419) 242-3340\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.175619"
+}

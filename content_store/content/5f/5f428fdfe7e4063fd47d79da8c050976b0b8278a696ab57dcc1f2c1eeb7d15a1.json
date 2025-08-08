@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Society of Saint Vincent de Paul -- Saint Charles Borromeo Parish Conference\", \"alternate_name\": \"\", \"description\": \"* Every Tuesday to Thursday starting on the 9th of the month. By appointment only.\\n* Open to Sicklerville, Sewell, Williamstown, Blackwood, Turnersville, Pine Hill, and Clementin residents.\\n* For non-vaccinated clients, they can come using the curb-side service.\\n* For vaccinated clients, they can come and make their selection.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"176 Stagecoach Road\", \"address_2\": null, \"city\": \"Sicklerville\", \"state_province\": \"NJ\", \"postal_code\": \"08081\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7414344, \"longitude\": -75.0345676}, \"phones\": [{\"number\": \"(856) 818-7670\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Covid vaccine card\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.877154"
+}

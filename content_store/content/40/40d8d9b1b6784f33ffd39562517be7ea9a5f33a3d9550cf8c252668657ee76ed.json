@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"UPPER ROOM TEMPLE\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"99 West Allen Street\", \"address_2\": null, \"city\": \"Baxley\", \"state_province\": \"GA\", \"postal_code\": \"31513\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.7877316, \"longitude\": -82.3534797}, \"phones\": [{\"number\": \"(912) 278-2151\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.303210"
+}

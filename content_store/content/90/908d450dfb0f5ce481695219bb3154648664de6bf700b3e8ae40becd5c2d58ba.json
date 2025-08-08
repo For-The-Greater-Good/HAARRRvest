@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sacred Heart (St.Vincent de Paul)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"25200 Airport Road\", \"address_2\": null, \"city\": \"Punta Gorda\", \"state_province\": \"FL\", \"postal_code\": \"33950\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.9175276, \"longitude\": -82.0325862}, \"phones\": [{\"number\": \"(941) 575-0767\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.575614"
+}

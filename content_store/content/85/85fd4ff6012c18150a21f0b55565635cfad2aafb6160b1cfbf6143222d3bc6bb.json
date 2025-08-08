@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Heaven\\u2019s Bounty Quakertown First Church of the Brethren\", \"alternate_name\": \"\", \"description\": \"Clients must be residents of the Quakertown Community School District\\nand bring photo ID/proof of residency when signing up for the first time. \\nClients are welcomed to visit once every four weeks and should arrive before 11:30 am in order to get done by 12:00.\", \"email\": \"\", \"url\": \"https://quakertowncoborg.wordpress.com/heavens-bounty-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"455 Trumbauersville Road\", \"address_2\": null, \"city\": \"Quakertown\", \"state_province\": \"PA\", \"postal_code\": \"18951\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.424864, \"longitude\": -75.3604837}, \"phones\": [{\"number\": \"(215) 536-1317\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.704141"
+}

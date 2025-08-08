@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fred's Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.chhop.org\", \"status\": \"active\", \"address\": {\"address_1\": \"137 N Division St\", \"address_2\": \"\", \"city\": \"Peekskill\", \"state_province\": \"NY\", \"postal_code\": \"10566\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.292919, \"longitude\": -73.918968}, \"phones\": [{\"number\": \"(914) 736-1935\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.547340"
+}

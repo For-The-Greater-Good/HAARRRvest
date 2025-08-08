@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Essecare, LLC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"20 Main Street\", \"address_2\": null, \"city\": \"City of Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07050\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7680742, \"longitude\": -74.2213488}, \"phones\": [{\"number\": \"(973) 414-0091\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"New Jersey resident Age 18 or older\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.446236"
+}

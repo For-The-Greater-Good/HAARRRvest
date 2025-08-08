@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Emmitsburg Food Bank\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.emmitsburgmd.gov/community/foodbank.php\", \"status\": \"active\", \"address\": {\"address_1\": \"130 South Seton Avenue\", \"address_2\": null, \"city\": \"Emmitsburg\", \"state_province\": \"MD\", \"postal_code\": \"21727\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7033558, \"longitude\": -77.3280228}, \"phones\": [{\"number\": \"(717) 642-6963\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.630385"
+}

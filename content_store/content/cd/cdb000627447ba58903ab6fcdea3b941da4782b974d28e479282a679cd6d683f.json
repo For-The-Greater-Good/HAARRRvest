@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community United Methodist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://onechurchnyc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"81-10 35th Avenue\", \"address_2\": null, \"city\": \"Flushing\", \"state_province\": \"NY\", \"postal_code\": \"11372\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7515739, \"longitude\": -73.8850308}, \"phones\": [{\"number\": \"(718) 446-0690\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:49.728867"
+}

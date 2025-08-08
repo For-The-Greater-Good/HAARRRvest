@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ST. PAUL UNITED METHODIST CHURCH\", \"alternate_name\": \"\", \"description\": \"Open Arms has food available on Monday-Wednesday from 1-3 PM. Some clothing and personal care items/toiletries are also available.\\nClients can receive food up to four times a month with Photo ID or twice a month without Photo ID.\\n\\n- New clients must bring Photo ID for Open Arms food (available twice a month)\\n- No Photo ID required for USDA food (available twice a month)\\n\\nhttps://www.facebook.com/StPaulUMCLargo\", \"email\": \"\", \"url\": \"https://www.stpaulumc.org/serve/open-arms-ministry/\", \"status\": \"active\", \"address\": {\"address_1\": \"2039 Druid Road\", \"address_2\": null, \"city\": \"Clearwater\", \"state_province\": \"FL\", \"postal_code\": \"33764\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9565937, \"longitude\": -82.75271389999999}, \"phones\": [{\"number\": \"(727) 584-8165\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:21.863050"
+}

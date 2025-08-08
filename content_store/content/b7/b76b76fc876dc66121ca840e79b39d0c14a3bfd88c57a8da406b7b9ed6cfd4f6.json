@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"USCC/ St. Matthew's Church Food Pantry  \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"29 Stanton Street\", \"address_2\": null, \"city\": \"Dorchester\", \"state_province\": \"MA\", \"postal_code\": \"02124\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2847198, \"longitude\": -71.0800774}, \"phones\": [{\"number\": \"(617) 653-0655\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.232493"
+}

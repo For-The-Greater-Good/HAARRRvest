@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Faith Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1209 Bangs Ave.\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"New Jersey\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.218826, \"longitude\": -74.019024}, \"phones\": [{\"number\": \"(732) 988-1816\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.419311"
+}

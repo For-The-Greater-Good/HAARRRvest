@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"a.m.e.n ( A Meal Encourages Nourishment)\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"81 Bellevue Avenue\", \"address_2\": null, \"city\": \"Central West\", \"state_province\": \"NJ\", \"postal_code\": \"08618\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2255954, \"longitude\": -74.77041729999999}, \"phones\": [{\"number\": \"(609) 882-7719\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.757699"
+}

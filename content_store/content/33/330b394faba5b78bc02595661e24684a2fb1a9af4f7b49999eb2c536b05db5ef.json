@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Department of Probation, Manhattan\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.nyc.gov/site/neon/programs/nutrition-kitchen.page\", \"status\": \"active\", \"address\": {\"address_1\": \"128 West 128th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10027\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8100148, \"longitude\": -73.9452127}, \"phones\": [{\"number\": \"(718) 802-4500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.749375"
+}

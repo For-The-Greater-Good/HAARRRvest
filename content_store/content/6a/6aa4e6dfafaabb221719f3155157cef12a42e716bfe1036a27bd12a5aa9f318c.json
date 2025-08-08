@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. John's United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/profile.php?id=100064940100723\", \"status\": \"active\", \"address\": {\"address_1\": \"354 High Street\", \"address_2\": \"\", \"city\": \"Hackettstown\", \"state_province\": \"NJ\", \"postal_code\": \"07840\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9100525, \"longitude\": -74.9698737}, \"phones\": [{\"number\": \"(908) 459-4456\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.846151"
+}

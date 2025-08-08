@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of God of Bronxwood\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.bicog.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3232 Lurting Avenue\", \"address_2\": null, \"city\": \"Williamsbridge\", \"state_province\": \"NY\", \"postal_code\": \"10469\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.87237469999999, \"longitude\": -73.8563041}, \"phones\": [{\"number\": \"(718) 652-0337\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No appointment necessary\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.500992"
+}

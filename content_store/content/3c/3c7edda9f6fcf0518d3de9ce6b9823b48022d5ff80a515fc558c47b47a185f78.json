@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Southside United-Los Sures - Caf\\u00e9\", \"alternate_name\": \"\", \"description\": \"If you are picking up food for someone else, please bring their ID.\", \"email\": \"\", \"url\": \"http://www.southsideunitedhdfc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"145 South 3rd Street\", \"address_2\": \"\", \"city\": \"Williamsburg\", \"state_province\": \"NY\", \"postal_code\": \"11211\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7124161, \"longitude\": -73.9616521}, \"phones\": [{\"number\": \"(718) 599-1940\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.556710"
+}

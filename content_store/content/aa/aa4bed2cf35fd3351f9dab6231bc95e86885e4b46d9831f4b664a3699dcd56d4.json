@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"A Place to Turn\", \"alternate_name\": \"\", \"description\": \"Open to MetroWest Residents with Referral (See Website for Referral Details)\", \"email\": \"\", \"url\": \"https://www.aplacetoturn-natick.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"99 Hartford Street\", \"address_2\": null, \"city\": \"Natick\", \"state_province\": \"MA\", \"postal_code\": \"01760\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2931906, \"longitude\": -71.3875865}, \"phones\": [{\"number\": \"(508) 655-8868\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.065366"
+}

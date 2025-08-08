@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ETHOS Nutrition Department\", \"alternate_name\": \"\", \"description\": \"To be eligible for this service, you must be:\\nResiding within the city of Boston\\nAt least 60 years of age\\nEither temporarily or permanently homebound.\\nBased on their individual needs, elders may also receive frozen weekend meals, cold meals, and nutritional supplements.\", \"email\": \"\", \"url\": \"https://www.ethocare.org/services/nutrition/meals-on-wheels/\", \"status\": \"active\", \"address\": {\"address_1\": \"555 Amory Street\", \"address_2\": null, \"city\": \"Jamaica Plain\", \"state_province\": \"MA\", \"postal_code\": \"02130\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3085932, \"longitude\": -71.1079942}, \"phones\": [{\"number\": \"(617) 477-6606\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Meal delivery available for seniors\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:55.615670"
+}

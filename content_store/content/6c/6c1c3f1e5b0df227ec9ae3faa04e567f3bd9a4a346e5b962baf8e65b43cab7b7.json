@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Open Link Inc.\", \"alternate_name\": \"\", \"description\": \"Available for Local Families/ School Districr\", \"email\": \"\", \"url\": \"https://www.theopenlink.org\", \"status\": \"active\", \"address\": {\"address_1\": \"452 Penn Street\", \"address_2\": \"\", \"city\": \"Pennsburg\", \"state_province\": \"PA\", \"postal_code\": \"18073\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.398818, \"longitude\": -75.495284}, \"phones\": [{\"number\": \"(215) 679-4112\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.183211"
+}

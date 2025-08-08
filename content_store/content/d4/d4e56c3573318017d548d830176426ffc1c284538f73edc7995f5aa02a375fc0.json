@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"City of Praise Family Ministries\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"8806 Brightseat Road\", \"address_2\": null, \"city\": \"Landover\", \"state_province\": \"MD\", \"postal_code\": \"20785\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.914319, \"longitude\": -76.853332}, \"phones\": [{\"number\": \"(301) 404-8234\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.847785"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Nativity Catholic Church\", \"alternate_name\": \"\", \"description\": \"serves individuals and families in the Brandon/Valrico area. \\nThe car line opens at 9:30 am\", \"email\": \"\", \"url\": \"https://www.nativitycatholicchurch.org/food\", \"status\": \"active\", \"address\": {\"address_1\": \"705 East Brandon Boulevard\", \"address_2\": null, \"city\": \"Brandon\", \"state_province\": \"FL\", \"postal_code\": \"33511\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9362832, \"longitude\": -82.2758036}, \"phones\": [{\"number\": \"(813) 681-4608\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.704736"
+}

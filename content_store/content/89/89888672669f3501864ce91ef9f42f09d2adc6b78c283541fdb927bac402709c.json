@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ponds Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://pondsnj.org/need-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"341 Ramapo Valley Rd\", \"address_2\": null, \"city\": \"Oakland\", \"state_province\": \"NJ\", \"postal_code\": \"07436\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.023846, \"longitude\": -74.243401}, \"phones\": [{\"number\": \"(201) 337-6744\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"05:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:52.819744"
+}

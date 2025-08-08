@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Riverdale Neighborhood House Monthly Food Pantry\", \"alternate_name\": \"\", \"description\": \"Pantry items and limited produce available. No eligibility requirements. Register here for your first visit: https://docs.google.com/forms/d/e/1FAIpQLSeR8-KRjuPO8o0c-Lj8qIIUvaV9L6GBDt7Ix275ubyu1BND5g/viewform\", \"email\": \"\", \"url\": \"https://www.riverdaleonline.org/food-and-farm\", \"status\": \"active\", \"address\": {\"address_1\": \"5521 Mosholu Avenue\", \"address_2\": null, \"city\": \"North Riverdale\", \"state_province\": \"NY\", \"postal_code\": \"10471\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9033612, \"longitude\": -73.9038554}, \"phones\": [{\"number\": \"(718) 549-8100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Indoors or outdoors depending on weather. If indoors, there will be signs directing people to the gym which has elevator access.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.217358"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4653, \"name\": \"Prince of Peace Baptist Church\", \"nickname\": \"Prince of Peace Baptist Church\", \"address\": \"844 Garth Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44320\", \"phone\": \"33-762-4997\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 903.21, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8599, \"name\": \"Pantry\", \"address\": \"844 Garth Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44320\", \"latitude\": 41.0807518, \"longitude\": -81.551573, \"event_details\": \"Regular Hours - 3rd Wednesday from 10-12pm\", \"estimated_distance\": 903.21, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360166, \"event_id\": 8599, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:41.837827"
+}

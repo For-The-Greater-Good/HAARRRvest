@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Fruit Ministries\", \"alternate_name\": \"\", \"description\": \"On Mondays, our food pantry is geared towards moms with diapers, wipes, and formula distribution\\n\\nFIRST-TIME REGISTRATION REQUIREMENTS:\\n\\n   \\u2022 Full name\\n\\n   \\u2022 Date of birth\\n\\n   \\u2022 Gender\\n\\n   \\u2022 Home address\\n\\n   \\u2022 Phone number or email \\n\\n   \\u2022 Names and ages of everyone in the household\\n\\n   \\u2022 Highest level of education\\n\\n   \\u2022 Employment status\\n\\n   \\u2022 Income source and amount\", \"email\": \"\", \"url\": \"https://www.firstfruitministries.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"2750 Vance Street\", \"address_2\": null, \"city\": \"Wilmington\", \"state_province\": \"NC\", \"postal_code\": \"28412\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.1883602, \"longitude\": -77.94093579999999}, \"phones\": [{\"number\": \"(910) 794-9353\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:11.608491"
+}

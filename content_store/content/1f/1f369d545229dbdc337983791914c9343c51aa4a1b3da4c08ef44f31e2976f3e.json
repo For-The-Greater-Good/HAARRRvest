@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Van Riper Ellis Broadway Baptist Church\", \"alternate_name\": \"\", \"description\": \"Please call for more information\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7-01 River Road\", \"address_2\": null, \"city\": \"Fair Lawn\", \"state_province\": \"NJ\", \"postal_code\": \"07410\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9274992, \"longitude\": -74.1294471}, \"phones\": [{\"number\": \"(201) 791-8845\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.112567"
+}

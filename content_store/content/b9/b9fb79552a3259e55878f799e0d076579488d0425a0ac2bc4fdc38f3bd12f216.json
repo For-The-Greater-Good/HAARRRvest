@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tri Boro Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.triborofoodpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"65 Pascack Road\", \"address_2\": \"\", \"city\": \"Park Ridge\", \"state_province\": \"NJ\", \"postal_code\": \"07656\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.03205250000001, \"longitude\": -74.0435172}, \"phones\": [{\"number\": \"(201) 573-9083\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.617753"
+}

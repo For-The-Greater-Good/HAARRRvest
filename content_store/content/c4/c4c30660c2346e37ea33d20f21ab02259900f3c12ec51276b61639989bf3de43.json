@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cedar Lane Missionary Homes\", \"alternate_name\": \"\", \"description\": \"Must Bring any proof of claim: food stamps, SSI/SSD, WIC, Medicaid, or a paystub for low income\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"103 Cedar Lane\", \"address_2\": null, \"city\": \"Laurel Springs\", \"state_province\": \"NJ\", \"postal_code\": \"08021\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8021321, \"longitude\": -75.0270606}, \"phones\": [{\"number\": \"(856) 783-6525\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring referral Letter and/or Income or Assistance Letter\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.190596"
+}

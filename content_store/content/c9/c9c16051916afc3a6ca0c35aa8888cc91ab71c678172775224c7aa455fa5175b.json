@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mark AME Church \", \"alternate_name\": \"\", \"description\": \"Backside of the church \\nFOOD PANTRY DISTRIBUTION:\\u200b\\nCurbside pickup is available.\\nPicture ID is required.\\nOne Visit Per Month.\\nVisits are confidential.\", \"email\": \"\", \"url\": \"https://www.stmarkameatl.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"3605 Campbellton Road Southwest\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30331\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.690828, \"longitude\": -84.5067461}, \"phones\": [{\"number\": \"(404) 349-6800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:53.509525"
+}

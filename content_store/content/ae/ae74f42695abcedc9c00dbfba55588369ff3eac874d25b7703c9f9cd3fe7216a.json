@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Obetz Community Center\", \"alternate_name\": \"\", \"description\": \"only for obetz residents and hamilton township. \", \"email\": \"\", \"url\": \"https://obetz.oh.us/obetz-community-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"1650 Obetz Avenue\", \"address_2\": null, \"city\": \"South Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8795448, \"longitude\": -82.9556764}, \"phones\": [{\"number\": \"(614) 491-4546\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.399659"
+}

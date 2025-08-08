@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Weymouth Pop Up Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Weymouth residents\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"17 Church Street\", \"address_2\": null, \"city\": \"East Weymouth\", \"state_province\": \"MA\", \"postal_code\": \"02189\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2296552, \"longitude\": -70.94489190000002}, \"phones\": [{\"number\": \"(781) 335-1686\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.932280"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pisgah Gospel Ministries Food Pantry\", \"alternate_name\": \"\", \"description\": \"Don't visit pantry without appointment.\\nAppointments can be made via the Plentiful App\\nOr by texting \\\"PGM FOOD\\\" to 726-879\\n\\nPeople without an appointment have to wait until 11:30 a.m., and if they have any food left they will distribute it.\", \"email\": \"\", \"url\": \"pisgahgospelministries.org\", \"status\": \"active\", \"address\": {\"address_1\": \"11 West Sandford Boulevard\", \"address_2\": \"\", \"city\": \"South Side\", \"state_province\": \"NY\", \"postal_code\": \"10550\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8995004, \"longitude\": -73.83306150000001}, \"phones\": [{\"number\": \"(914) 573-3915\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.737642"
+}

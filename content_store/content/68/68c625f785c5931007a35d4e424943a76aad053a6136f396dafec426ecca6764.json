@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Second Antioch Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://secondantiochbaptist.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"912 North 41st Street\", \"address_2\": null, \"city\": \"West Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9707169, \"longitude\": -75.20619169999999}, \"phones\": [{\"number\": \"(215) 387-6774\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"COVID vaccination help\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.259817"
+}

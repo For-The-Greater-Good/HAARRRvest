@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Michael St Vincent DePaul Food Pantry\", \"alternate_name\": \"\", \"description\": \"Call 211 to request food and schedule an appointment/referral.\", \"email\": \"\", \"url\": \"https://www.saintmichael-cd.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5750 North High Street\", \"address_2\": null, \"city\": \"Colonial Hills\", \"state_province\": \"OH\", \"postal_code\": \"43085\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0777693, \"longitude\": -83.0178999}, \"phones\": [{\"number\": \"(614) 885-7814\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointment and Referral Required. Call 211.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.587578"
+}

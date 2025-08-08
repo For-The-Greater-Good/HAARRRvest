@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Victory in Christ Ministries\", \"alternate_name\": \"\", \"description\": \"Located behind H.O.P.E Outlet & Victory in Christ Ministries in H.O.P.E Plaza\\nOptional $10 donation towards the pantry\", \"email\": \"\", \"url\": \"https://www.victoryinchrist.life/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"6398 Georgia 85\", \"address_2\": null, \"city\": \"Riverdale\", \"state_province\": \"GA\", \"postal_code\": \"30274\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.5803631, \"longitude\": -84.4109517}, \"phones\": [{\"number\": \"(770) 778-8572\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early to make a line starting at 9am\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.212150"
+}

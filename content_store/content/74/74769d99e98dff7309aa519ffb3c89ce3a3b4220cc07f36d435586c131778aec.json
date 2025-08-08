@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 655, \"name\": \"The Father's House\", \"nickname\": \"The Father's House\", \"address\": \"4061 Wadsworth Rd\", \"city\": \"Norton\", \"state\": \"OH\", \"zip\": \"44203\", \"phone\": \"(330) 813-3591\", \"latitude\": 41.04795, \"longitude\": -81.67447, \"estimated_distance\": 896.8, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 882, \"name\": \"Pantry\", \"address\": \"4061 Wadsworth Rd\", \"city\": \"Norton\", \"state\": \"OH\", \"zip\": \"44203\", \"latitude\": 41.04780117, \"longitude\": -81.67403263, \"event_details\": \"Regular Hours - 3rd Saturday from 10-1pm\", \"estimated_distance\": 896.8, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359001, \"event_id\": 882, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:32.883947"
+}

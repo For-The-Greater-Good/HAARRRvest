@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Glen Royal Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"731 Elizabeth Avenue\", \"address_2\": null, \"city\": \"Wake Forest\", \"state_province\": \"NC\", \"postal_code\": \"27587\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.9896102, \"longitude\": -78.50347339999999}, \"phones\": [{\"number\": \"(919) 880-7817\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:10.651177"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"GAINESVILLE COMMUNITY MINISTRIES\", \"alternate_name\": \"\", \"description\": \"Food available: fresh produce, refrigerated, frozen, dry goods. Serves directly to individuals. Must be a resident of Alachua County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"238 Southwest 4th Avenue\", \"address_2\": null, \"city\": \"Gainesville\", \"state_province\": \"FL\", \"postal_code\": \"32601\", \"country\": \"US\"}, \"location\": {\"latitude\": 29.6485085, \"longitude\": -82.3277876}, \"phones\": [{\"number\": \"(352) 372-8162\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.901126"
+}

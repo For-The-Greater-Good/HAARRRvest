@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catawba County Council on Aging - West Hickory Senior Citizens Center\", \"alternate_name\": \"\", \"description\": \"Call +1 (828) 328-2269 to make an appointment.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"400 17th Street Southwest\", \"address_2\": null, \"city\": \"Hickory\", \"state_province\": \"NC\", \"postal_code\": \"28602\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.7267115, \"longitude\": -81.36868460000001}, \"phones\": [{\"number\": \"(828) 328-2269\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:12.917101"
+}

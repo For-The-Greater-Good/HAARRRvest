@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Maumee Senior Center\", \"alternate_name\": \"\", \"description\": \"Required: Call 24 hours ahead for reservation, small\\nsuggested donation per meal.\", \"email\": \"\", \"url\": \"https://www.maumeeseniorcenter.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"2430 South Detroit Avenue\", \"address_2\": null, \"city\": \"Maumee\", \"state_province\": \"OH\", \"postal_code\": \"43537\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.5784402, \"longitude\": -83.6207464}, \"phones\": [{\"number\": \"(419) 893-1994\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"04:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"04:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"04:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"04:00\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:26.861919"
+}

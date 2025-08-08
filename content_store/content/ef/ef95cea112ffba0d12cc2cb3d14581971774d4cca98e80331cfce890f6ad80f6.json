@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Good Samaritan Food Network\", \"alternate_name\": \"\", \"description\": \"Clients can acquire referrals from multiple non-profits around town, The Salvation Army, United Way, Ross County Child & Family Services, Community Action, Etc.\\n\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"477 North Woodbridge Avenue\", \"address_2\": null, \"city\": \"Chillicothe\", \"state_province\": \"OH\", \"postal_code\": \"45601\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3373922, \"longitude\": -83.0041735}, \"phones\": [{\"number\": \"(740) 774-6303\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.732372"
+}

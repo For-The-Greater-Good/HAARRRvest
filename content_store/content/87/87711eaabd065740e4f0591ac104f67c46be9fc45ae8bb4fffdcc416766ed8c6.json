@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80284\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in GOD'S BATTALION OF PRAYER CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 774-5447\", \"country\": \"US\"}, \"phones\": [{\"number\": \"661 LINDEN BOULEVARD\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.65361, \"longitude\": -73.93389}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"GOD'S BATTALION OF PRAYER CHURCH\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:05:43.999764"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First UMC Sebring\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"126 South Pine Street\", \"address_2\": null, \"city\": \"Sebring\", \"state_province\": \"FL\", \"postal_code\": \"33870\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.4963963, \"longitude\": -81.437779}, \"phones\": [{\"number\": \"(863) 385-5184\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.882836"
+}

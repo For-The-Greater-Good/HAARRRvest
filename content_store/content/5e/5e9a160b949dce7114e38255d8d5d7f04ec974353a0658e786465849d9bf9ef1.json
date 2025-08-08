@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Shepherd's Crook\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"302 North Baltimore Avenue\", \"address_2\": null, \"city\": \"Ocean City\", \"state_province\": \"MD\", \"postal_code\": \"21842\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.340228, \"longitude\": -75.126684}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.032802"
+}

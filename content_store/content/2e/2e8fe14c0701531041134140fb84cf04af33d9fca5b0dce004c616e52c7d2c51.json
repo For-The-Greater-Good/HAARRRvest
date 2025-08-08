@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"San Jose Mission\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3228 San Jose Mission Drive\", \"address_2\": null, \"city\": \"Dover\", \"state_province\": \"FL\", \"postal_code\": \"33527\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9946746, \"longitude\": -82.2334355}, \"phones\": [{\"number\": \"(813) 707-7416\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.087078"
+}

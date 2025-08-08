@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"HOPE STREET FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"Hope Street Food Pantry is a community food pantry open to anyone in need. You can receive food from Hope Street once a week. **You do not need a referral, appointment, ID or financial documents to receive food.**\\n\\nGo to hopestreetfoodpantry.com for a list of all the Charlotte Mecklenburg Library branches we serve at every Tuesday 10am-noon. We're also open every Thursday 4-7pm at 4100 Johnston Oehler Road. \", \"email\": \"\", \"url\": \"https://hopestreetfoodpantry.com\", \"status\": \"active\", \"address\": {\"address_1\": \"4100 Johnston Oehler Road\", \"address_2\": null, \"city\": \"Highland Creek\", \"state_province\": \"NC\", \"postal_code\": \"28269\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.3657749, \"longitude\": -80.7738964}, \"phones\": [{\"number\": \"(704) 584-9073\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must have telephone number\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.846512"
+}

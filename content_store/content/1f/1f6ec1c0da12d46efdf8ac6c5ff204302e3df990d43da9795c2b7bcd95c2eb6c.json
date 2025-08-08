@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Your Place at the Table\", \"alternate_name\": \"\", \"description\": \"We serve families mostly in Mullica Hill, South Harrison twp, Elk twp. Mantua and East Greenwich. Please enter around the back of the building.\", \"email\": \"\", \"url\": \"https://www.ypatt.org\", \"status\": \"active\", \"address\": {\"address_1\": \"284 Cedar Road\", \"address_2\": null, \"city\": \"Mullica Hill\", \"state_province\": \"NJ\", \"postal_code\": \"08062\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7420176, \"longitude\": -75.20154819999999}, \"phones\": [{\"number\": \"(609) 202-0015\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.450361"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cathedral of Faith\", \"alternate_name\": \"\", \"description\": \"Hours of Operation:\\n\\nFrom 5:00 PM to 6:30 PM on the first Tuesday of the month.\\n\\nHours of Operation\\n\\nMonday              closed\\nTuesday             5:00 PM - 6:30 PM\\nWednesday      closed\\nThursday           closed\\nFriday                 closed\\nSaturday           closed\\nSunday              closed\", \"email\": \"\", \"url\": \"https://www.cathedraloffaithdetmi.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"13925 Burt Road\", \"address_2\": null, \"city\": \"Brightmoor\", \"state_province\": \"MI\", \"postal_code\": \"48223\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3868273, \"longitude\": -83.2470179}, \"phones\": [{\"number\": \"(313) 533-9673\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.055925"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Chad's Episcopal\", \"alternate_name\": \"\", \"description\": \"Waiting list / not taking new clients for monthly food distribution.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5609 North Albany Avenue\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33603\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9979789, \"longitude\": -82.480035}, \"phones\": [{\"number\": \"(813) 872-7545\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers bread, sweets and treats. Fresh produce upon availability, selections vary\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.651618"
+}

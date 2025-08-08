@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Collective Focus Resource Hub\", \"alternate_name\": \"\", \"description\": \"Our fridges are outside and open 24/7. Will fill our fridges with groceries every Monday and Wednesday at 5:30 and every Sunday at 11. The food is available until it\\u2019s gone\", \"email\": \"\", \"url\": \"https://collectivefocus.site\", \"status\": \"active\", \"address\": {\"address_1\": \"1046 Broadway\", \"address_2\": null, \"city\": \"Bedford-Stuyvesant\", \"state_province\": \"NY\", \"postal_code\": \"11221\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6951911, \"longitude\": -73.9323711}, \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Christmas & New Year\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.228609"
+}

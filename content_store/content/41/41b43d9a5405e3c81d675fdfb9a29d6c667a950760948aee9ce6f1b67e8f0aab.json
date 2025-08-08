@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jonesboro First UMC Food Co Op\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"142 South Main Street\", \"address_2\": null, \"city\": \"Jonesboro\", \"state_province\": \"GA\", \"postal_code\": \"30236\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.5196782, \"longitude\": -84.3548211}, \"phones\": [{\"number\": \"(770) 478-6444\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.638585"
+}

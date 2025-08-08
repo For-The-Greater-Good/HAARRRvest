@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Freedom Christian Center \", \"alternate_name\": \"\", \"description\": \"* There's also distribution on Sunday after the church service\", \"email\": \"\", \"url\": \"https://www.fccmorrow.com/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"6928 Commercial Drive\", \"address_2\": null, \"city\": \"Morrow\", \"state_province\": \"GA\", \"postal_code\": \"30260\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.56623680000001, \"longitude\": -84.34114369999999}, \"phones\": [{\"number\": \"(678) 651-4335\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.614503"
+}

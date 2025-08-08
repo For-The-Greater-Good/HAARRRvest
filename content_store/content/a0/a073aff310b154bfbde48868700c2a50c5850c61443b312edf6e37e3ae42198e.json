@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Baptist Women's Center of Phila\", \"alternate_name\": \"\", \"description\": \"Bring written referral from any emergency agency in person or through e-mail. Serve only to residents in 19130.*\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1428 Poplar Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19130\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9701759, \"longitude\": -75.1609794}, \"phones\": [{\"number\": \"(215) 235-8070\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.603394"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Corpus Christi Parish\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.corpuschristi-detroit.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"19800 Pembroke Avenue\", \"address_2\": null, \"city\": \"O'hair Park\", \"state_province\": \"MI\", \"postal_code\": \"48219\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.43709399999999, \"longitude\": -83.2384743}, \"phones\": [{\"number\": \"(313) 272-0990\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.061409"
+}

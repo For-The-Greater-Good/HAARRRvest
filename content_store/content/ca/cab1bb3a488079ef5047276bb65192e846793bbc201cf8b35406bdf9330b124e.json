@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Warrington Fellowship Church\", \"alternate_name\": \"\", \"description\": \"Please call 215-343-1916 or email to schedule an appointment for our food pantry\", \"email\": \"\", \"url\": \"https://www.warringtonfellowship.org/local-outreach/\", \"status\": \"active\", \"address\": {\"address_1\": \"1455 Cooper Lane\", \"address_2\": null, \"city\": \"Warrington\", \"state_province\": \"PA\", \"postal_code\": \"18976\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2497603, \"longitude\": -75.12745679999999}, \"phones\": [{\"number\": \"(215) 343-1916\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.641014"
+}

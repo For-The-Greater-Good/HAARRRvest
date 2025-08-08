@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Crestdale Middle School\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"940 Sam Newell Road\", \"address_2\": null, \"city\": \"Matthews\", \"state_province\": \"NC\", \"postal_code\": \"28105\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.1282494, \"longitude\": -80.7175477}, \"phones\": [{\"number\": \"(980) 343-5755\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.887220"
+}

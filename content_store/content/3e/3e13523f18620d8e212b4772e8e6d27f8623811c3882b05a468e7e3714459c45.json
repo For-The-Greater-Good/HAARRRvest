@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christ the King Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://christthekingjerseycity.org/food-ministry\", \"status\": \"active\", \"address\": {\"address_1\": \"768 Ocean Avenue\", \"address_2\": null, \"city\": \"Bergen-Lafayette\", \"state_province\": \"NJ\", \"postal_code\": \"07304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7119415, \"longitude\": -74.0746398}, \"phones\": [{\"number\": \"(201) 333-4862\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:01.804546"
+}

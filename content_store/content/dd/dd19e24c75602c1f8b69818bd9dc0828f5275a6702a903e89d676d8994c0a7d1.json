@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Keith Haring (GMHC)\", \"alternate_name\": \"\", \"description\": \"We are only open to folks who are already GMHC clients. In order to receive our food pantry or hot meal services, folks must arrive with a GMHC client ID\", \"email\": \"\", \"url\": \"https://www.gmhc.org/services/meals-nutrition/\", \"status\": \"active\", \"address\": {\"address_1\": \"307 W 38th St\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10018\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.752419, \"longitude\": -73.996017}, \"phones\": [{\"number\": \"(212) 367-1409\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"GMHC Client ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:47.868455"
+}

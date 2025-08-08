@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Day Church of the Nazarene, Inc\", \"alternate_name\": \"\", \"description\": \"Schedule may vary based on the distribution of Atlanta Food Bank, please check the website and Facebook for details.\", \"email\": \"\", \"url\": \"https://www.facebook.com/NewDayNazarene?\", \"status\": \"active\", \"address\": {\"address_1\": \"8561 Georgia 85\", \"address_2\": null, \"city\": \"Riverdale\", \"state_province\": \"GA\", \"postal_code\": \"30274\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.5219081, \"longitude\": -84.4253497}, \"phones\": [{\"number\": \"(678) 369-1509\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Schedules varies, check website for details\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Line starts at 10am in the morning\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.662817"
+}

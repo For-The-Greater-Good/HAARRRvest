@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Evangelical Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Bellmawr, Glendora, Runnemede & Barrington\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"200 East Clements Bridge Road\", \"address_2\": null, \"city\": \"Runnemede\", \"state_province\": \"NJ\", \"postal_code\": \"08078\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8503559, \"longitude\": -75.0703793}, \"phones\": [{\"number\": \"(856) 939-4411\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No fresh produce\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.893097"
+}

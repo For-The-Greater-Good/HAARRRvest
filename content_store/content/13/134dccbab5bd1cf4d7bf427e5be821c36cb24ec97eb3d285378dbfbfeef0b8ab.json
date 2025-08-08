@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Centre D'adoration Chretienne\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.centredadorationchretienne.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4520 Benner Street\", \"address_2\": null, \"city\": \"Northeast Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19135\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0196324, \"longitude\": -75.0589304}, \"phones\": [{\"number\": \"(215) 548-3788\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"00:30\", \"closes_at\": \"02:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.168256"
+}

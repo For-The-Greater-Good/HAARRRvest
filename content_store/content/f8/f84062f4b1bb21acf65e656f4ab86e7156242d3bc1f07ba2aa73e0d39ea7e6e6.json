@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Emmaus House\", \"alternate_name\": \"\", \"description\": \"Appointment is required. Call the number and choose extention 16.\\n\\nDiaper and Clothing is for children only.\\n\\nhttps://www.facebook.com/EmmausHouseAtl/\", \"email\": \"\", \"url\": \"https://www.emmaushouseatlanta.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"27 Haygood Avenue Southwest\", \"address_2\": null, \"city\": \"Peoplestown\", \"state_province\": \"GA\", \"postal_code\": \"30315\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7267631, \"longitude\": -84.38867189999999}, \"phones\": [{\"number\": \"(404) 523-2856\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.755092"
+}

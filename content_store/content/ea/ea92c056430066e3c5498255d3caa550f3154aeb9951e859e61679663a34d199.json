@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Augusta Community Caring Center\", \"alternate_name\": \"\", \"description\": \"Contact Person: John Pilcher\", \"email\": \"\", \"url\": \"https://augustacaringcenter.org/index.html\", \"status\": \"active\", \"address\": {\"address_1\": \"1301 Helen Street\", \"address_2\": null, \"city\": \"Augusta\", \"state_province\": \"KS\", \"postal_code\": \"67010\", \"country\": \"US\"}, \"location\": {\"latitude\": 37.6881987, \"longitude\": -96.9822003}, \"phones\": [{\"number\": \"(316) 734-4008\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:21.585421"
+}

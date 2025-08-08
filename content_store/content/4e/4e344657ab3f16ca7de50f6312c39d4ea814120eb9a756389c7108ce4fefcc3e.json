@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Benedict The Moor\", \"alternate_name\": \"\", \"description\": \"Enter through the parking lot which is located on 20th Street, behind the school and Church. Pantry will be closed during the month of August.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"320 21st Street Northeast\", \"address_2\": null, \"city\": \"Northeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20002\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8946187, \"longitude\": -76.9756924}, \"phones\": [{\"number\": \"(202) 397-3895\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:39.424729"
+}

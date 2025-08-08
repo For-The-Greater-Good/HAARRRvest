@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"THE BRIDGE\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"841 East Pine Street\", \"address_2\": null, \"city\": \"Jesup\", \"state_province\": \"GA\", \"postal_code\": \"31545\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.6138785, \"longitude\": -81.88905609999999}, \"phones\": [{\"number\": \"(912) 424-2311\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.360873"
+}

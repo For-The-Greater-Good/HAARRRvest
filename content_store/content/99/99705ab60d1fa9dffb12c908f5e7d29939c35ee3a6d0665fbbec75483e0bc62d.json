@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Andrews UMC \", \"alternate_name\": \"\", \"description\": \"Registeration required: https://saumclife.churchcenter.com/registrations/events/1133961\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3315 South Bryan Road\", \"address_2\": null, \"city\": \"Brandon\", \"state_province\": \"FL\", \"postal_code\": \"33511\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.894511, \"longitude\": -82.2769687}, \"phones\": [{\"number\": \"(813) 689-6849\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.380138"
+}

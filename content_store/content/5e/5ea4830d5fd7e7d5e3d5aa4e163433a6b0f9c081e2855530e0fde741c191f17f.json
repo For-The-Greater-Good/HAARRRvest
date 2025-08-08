@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SHOUT FOR JOY BAPTIST CHURCH INC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"456 White Plains Road\", \"address_2\": \"\", \"city\": \"Clason Point\", \"state_province\": \"NY\", \"postal_code\": \"10473\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.814901, \"longitude\": -73.8560573}, \"phones\": [{\"number\": \"(347) 400-0409\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Need vaccination card if person wants to enter the building\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:05.024133"
+}

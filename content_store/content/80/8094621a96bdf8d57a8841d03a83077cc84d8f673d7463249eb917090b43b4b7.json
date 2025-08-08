@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Iglesia Christiana Pentecostal\", \"alternate_name\": \"\", \"description\": \"Requires to call for hours. Serves Passaic County.\", \"email\": \"\", \"url\": \"https://www.facebook.com/iglesiacristianapen/\", \"status\": \"active\", \"address\": {\"address_1\": \"321 Straight Street\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07501\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.913201, \"longitude\": -74.1661311}, \"phones\": [{\"number\": \"(973) 278-1210\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.268289"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Coney Island YMCA\", \"alternate_name\": \"\", \"description\": \"- Tickets are handed over at 10am and pick up starts at 3pm \\n- Application is required to be filled out in person before receiving food and you are advised to go pick up application paper on other days that are not the distribution days.\", \"email\": \"\", \"url\": \"https://ymcanyc.org/locations/coney-island-ymca\", \"status\": \"active\", \"address\": {\"address_1\": \"2980 West 29th Street\", \"address_2\": null, \"city\": \"Coney Island\", \"state_province\": \"NY\", \"postal_code\": \"11224\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5733954, \"longitude\": -73.99528699999999}, \"phones\": [{\"number\": \"(718) 215-6900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:47.768907"
+}

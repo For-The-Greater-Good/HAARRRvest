@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity AME Church\", \"alternate_name\": \"\", \"description\": \"Contact: Nancy Woodhouse\\n\\nhttps://www.facebook.com/tamebaltimore/\", \"email\": \"\", \"url\": \"https://www.trinityamecbaltimore.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"2140 East Hoffman Street\", \"address_2\": null, \"city\": \"Broadway East\", \"state_province\": \"MD\", \"postal_code\": \"21213\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3070443, \"longitude\": -76.587435}, \"phones\": [{\"number\": \"(410) 342-2320\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.129234"
+}

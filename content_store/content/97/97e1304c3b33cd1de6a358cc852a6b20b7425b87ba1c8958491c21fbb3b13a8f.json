@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jamaica SDA\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.jamaicasdachurch.org\", \"status\": \"active\", \"address\": {\"address_1\": \"88-28 163rd Street\", \"address_2\": \"\", \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11432\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.707832, \"longitude\": -73.799042}, \"phones\": [{\"number\": \"(718) 297-1113\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Come early. Line starts at 8am\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.193358"
+}

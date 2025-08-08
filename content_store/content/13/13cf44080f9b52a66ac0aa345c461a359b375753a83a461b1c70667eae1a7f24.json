@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"American Friends of Anvey Yashpe / maryland food bank\", \"alternate_name\": \"\", \"description\": \"Its a meal delivery service for people on kosher diet. call to inquire\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3207 Marnat Road\", \"address_2\": null, \"city\": \"Pikesville\", \"state_province\": \"MD\", \"postal_code\": \"21208\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3722791, \"longitude\": -76.700804}, \"phones\": [{\"number\": \"(410) 504-2430\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Delivery available for seniors & those adults with disabilities\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Financial assistance for some bills, proof required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.056459"
+}

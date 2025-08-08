@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SE Perry Food Pantry (Corning FP)\", \"alternate_name\": \"\", \"description\": \"Serving Bearfield, Pleasant, Monroe, Salt Lick, Coal and Monday Creek Twp\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"115 Corning Street\", \"address_2\": null, \"city\": \"Corning\", \"state_province\": \"OH\", \"postal_code\": \"43730\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6009647, \"longitude\": -82.0862044}, \"phones\": [{\"number\": \"(740) 347-4445\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.072279"
+}

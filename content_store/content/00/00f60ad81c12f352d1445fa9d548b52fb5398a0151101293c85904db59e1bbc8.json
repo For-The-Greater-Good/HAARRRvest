@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"La Esperanza - 7th Day Adventist\", \"alternate_name\": \"\", \"description\": \"Distribution starts at 3 PM .\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2410 West Street\", \"address_2\": null, \"city\": \"Union City\", \"state_province\": \"NJ\", \"postal_code\": \"07087\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7683101, \"longitude\": -74.03334009999999}, \"phones\": [{\"number\": \"(201) 737-9919\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:59.427915"
+}

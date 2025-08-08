@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"University Church\", \"alternate_name\": \"\", \"description\": \"For new client: Please arrive before 4:15 PM\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4747 Hill Avenue\", \"address_2\": null, \"city\": \"Reynolds Corners\", \"state_province\": \"OH\", \"postal_code\": \"43615\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6369982, \"longitude\": -83.654348}, \"phones\": [{\"number\": \"(419) 534-3080\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.055434"
+}

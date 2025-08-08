@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80604\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in HOLY APOSTLES SOUP KITCHEN\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(212) 924-0167\", \"country\": \"US\"}, \"phones\": [{\"number\": \"296 NINTH AVENUE @ 28TH ST.\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.749368, \"longitude\": -73.998829}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"HOLY APOSTLES SOUP KITCHEN\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:14:15.706215"
+}

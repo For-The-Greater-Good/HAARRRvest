@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Joseph Walker Williams Recreation Center\", \"alternate_name\": \"\", \"description\": \"providing a 5pack of frozen meals for seniors 60 and up on Wednesdays. There is a limited number of meals and they are distributed on a first-come, first-served basis. \", \"email\": \"\", \"url\": \"https://detroitmi.gov/departments/detroit-parks-recreation/recreation-centers/food-resources\", \"status\": \"active\", \"address\": {\"address_1\": \"8431 Rosa Parks Boulevard\", \"address_2\": null, \"city\": \"North Lasalle\", \"state_province\": \"MI\", \"postal_code\": \"48206\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3706675, \"longitude\": -83.0971809}, \"phones\": [{\"number\": \"(313) 628-2039\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:08.244943"
+}

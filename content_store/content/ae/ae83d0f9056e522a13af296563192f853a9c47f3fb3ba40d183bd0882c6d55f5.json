@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bergen Family Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"44 Armory Street\", \"address_2\": null, \"city\": \"Englewood\", \"state_province\": \"NJ\", \"postal_code\": \"07631\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8947781, \"longitude\": -73.9799267}, \"phones\": [{\"number\": \"(201) 568-0817\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.889217"
+}

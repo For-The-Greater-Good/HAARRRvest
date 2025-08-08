@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul's Lutheran Church\", \"alternate_name\": \"\", \"description\": \"Serves: Middlesex County\\nBring an ID with you that shows your address (must sign in at the desk each time you come)\\n Produce and non-perishable items are available to those in need.  Nonperishable canned foods are \\navailable on an emergency basis. Assistance is limited to two times each month.\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"445 Old Post Road\", \"address_2\": null, \"city\": \"Edison\", \"state_province\": \"NJ\", \"postal_code\": \"08817\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5142179, \"longitude\": -74.3824807}, \"phones\": [{\"number\": \"(732) 287-0888\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:10.413051"
+}

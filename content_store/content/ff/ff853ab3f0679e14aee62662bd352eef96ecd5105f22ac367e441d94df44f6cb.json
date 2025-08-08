@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ethos Neighborhood House Caf\\u00e9\", \"alternate_name\": \"\", \"description\": \"For more information or to register to attend a Community Cafe near you, please call 617-477-6688 or email ethosmeals@ethocare.org\", \"email\": \"\", \"url\": \"https://www.ethocare.org/services/nutrition/community-cafes/\", \"status\": \"active\", \"address\": {\"address_1\": \"136 H Street\", \"address_2\": null, \"city\": \"South Boston\", \"state_province\": \"MA\", \"postal_code\": \"02127\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3331824, \"longitude\": -71.0411815}, \"phones\": [{\"number\": \"(617) 477-6688\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Pre-registration required by phone\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.019266"
+}

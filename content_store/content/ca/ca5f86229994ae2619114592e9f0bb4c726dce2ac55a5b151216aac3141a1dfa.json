@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dunedin Cares, Inc.\", \"alternate_name\": \"\", \"description\": \"Serving Dunedin, Palm Harbor & Clearwater communities\", \"email\": \"\", \"url\": \"dunedincares.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1630 Pinehurst Road\", \"address_2\": null, \"city\": \"Dunedin\", \"state_province\": \"FL\", \"postal_code\": \"34698\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.027652, \"longitude\": -82.7724255}, \"phones\": [{\"number\": \"(727) 410-8495\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.765218"
+}

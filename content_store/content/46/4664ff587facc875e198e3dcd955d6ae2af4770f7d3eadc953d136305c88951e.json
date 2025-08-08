@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Church of God\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.fcogny.org/calendar\", \"status\": \"active\", \"address\": {\"address_1\": \"14-25 Beach Channel Drive\", \"address_2\": null, \"city\": \"Far Rockaway\", \"state_province\": \"NY\", \"postal_code\": \"11691\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6089539, \"longitude\": -73.75419819999999}, \"phones\": [{\"number\": \"(718) 327-1114\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.504309"
+}

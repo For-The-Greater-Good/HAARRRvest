@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dorothy's Helping Hands Inc\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2685 Barge Road Southwest\", \"address_2\": null, \"city\": \"Ben Hill Pines\", \"state_province\": \"GA\", \"postal_code\": \"30331\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6810924, \"longitude\": -84.50668089999999}, \"phones\": [{\"number\": \"(404) 573-7568\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"14:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.284974"
+}

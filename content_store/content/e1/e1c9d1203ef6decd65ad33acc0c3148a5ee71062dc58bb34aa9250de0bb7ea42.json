@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Grainery Ministries\", \"alternate_name\": \"\", \"description\": \"Food pantry in Chaffee, Nathrop, Saguache, Moffat, Hooper, Coaldale, Westcliff, Howard, Hartsel, Cotopaxi\", \"url\": \"https://careandshare.org/locations/grainery-ministries/\", \"status\": \"active\", \"address\": {\"address_1\": \"1348 E Street\", \"address_2\": \"\", \"city\": \"Salida\", \"state_province\": \"CO\", \"postal_code\": \"81201\", \"country\": \"US\"}, \"phones\": [{\"number\": \"719-530-9050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"4 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"4 p.m.\"}], \"location\": {\"latitude\": 38.525219679399, \"longitude\": -106.001054074323}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-08-08T05:08:04.502454"
+}

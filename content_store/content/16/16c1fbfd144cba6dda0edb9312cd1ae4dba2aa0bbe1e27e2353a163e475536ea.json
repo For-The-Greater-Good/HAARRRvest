@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First United Methodist Church\", \"alternate_name\": \"\", \"description\": \"The operation of the food pantry is contingent upon the availability of volunteers.\", \"email\": \"\", \"url\": \"https://fumcnpr.com/food-ministry/\", \"status\": \"active\", \"address\": {\"address_1\": \"5901 Indiana Avenue\", \"address_2\": null, \"city\": \"New Port Richey\", \"state_province\": \"FL\", \"postal_code\": \"34652\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2536174, \"longitude\": -82.71722129999999}, \"phones\": [{\"number\": \"(727) 842-7674\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Only serves surrounding neighborhood\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.453928"
+}

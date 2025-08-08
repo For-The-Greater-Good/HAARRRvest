@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Redeemed Christian Church of God Orange\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.rccgdominionnj.org/Schedule-Of-Services\", \"status\": \"active\", \"address\": {\"address_1\": \"180 Main Street\", \"address_2\": null, \"city\": \"City of Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07050\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.77068999999999, \"longitude\": -74.226722}, \"phones\": [{\"number\": \"(973) 672-8888\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.118837"
+}

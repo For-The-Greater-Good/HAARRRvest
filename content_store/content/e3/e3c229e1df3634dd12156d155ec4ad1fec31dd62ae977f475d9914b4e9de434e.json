@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mary of The Lakes\", \"alternate_name\": \"\", \"description\": \"They evaluate the clients with paper work and home visit, income is checked and after evaluation they will get appointment to get the food.\\n\\nBrowns Mills, Medford, Medford Lakes, Pemberton residents only\", \"email\": \"\", \"url\": \"http://www.svdptrenton.org/districts/burlington-county\", \"status\": \"active\", \"address\": {\"address_1\": \"1 Jones Road\", \"address_2\": null, \"city\": \"Medford\", \"state_province\": \"NJ\", \"postal_code\": \"08055\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8995561, \"longitude\": -74.8330721}, \"phones\": [{\"number\": \"(609) 953-0021\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.478596"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"La Plata Family Centers Coalition\", \"alternate_name\": \"\", \"description\": \"Food pantry in La Plata County\", \"url\": \"https://careandshare.org/locations/la-plata-family-centers-coalition/\", \"status\": \"active\", \"address\": {\"address_1\": \"150 Tech Center Dr\", \"address_2\": \"\", \"city\": \"Durango\", \"state_province\": \"CO\", \"postal_code\": \"81301\", \"country\": \"US\"}, \"phones\": [{\"number\": \"970-385-4747\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"4:30 p.m.\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"4:30 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"4:30 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"4:30 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"8:30 a.m.\", \"closes_at\": \"4:30 p.m.\"}], \"location\": {\"latitude\": 37.272364863787, \"longitude\": -107.893105320583}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-08-08T05:10:28.901008"
+}

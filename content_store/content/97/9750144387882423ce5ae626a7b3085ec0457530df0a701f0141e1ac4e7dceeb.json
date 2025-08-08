@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"No One Hungry In EHC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.no1hungryinehc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"233 Philadelphia Avenue\", \"address_2\": null, \"city\": \"Egg Harbor City\", \"state_province\": \"NJ\", \"postal_code\": \"08215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.53097760000001, \"longitude\": -74.6453379}, \"phones\": [{\"number\": \"(609) 965-3890\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:56.837277"
+}

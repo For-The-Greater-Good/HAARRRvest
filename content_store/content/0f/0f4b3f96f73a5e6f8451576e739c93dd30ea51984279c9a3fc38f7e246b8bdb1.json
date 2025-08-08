@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of God Brownsville\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.churchofgodbrownsville.org/s-a/pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"760 Sackman Street\", \"address_2\": null, \"city\": \"Brownsville\", \"state_province\": \"NY\", \"postal_code\": \"11212\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6586347, \"longitude\": -73.90233959999999}, \"phones\": [{\"number\": \"(917) 966-2652\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.682435"
+}

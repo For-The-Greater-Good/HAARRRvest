@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4594, \"name\": \"St Barbara's Food Pantry\", \"nickname\": \"St Barbara's Food Pantry\", \"address\": \"2813 Lincoln Way N.W.\", \"city\": \"MASSILLON\", \"state\": \"OH\", \"zip\": \"44647\", \"phone\": \"(330)833-6898\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 902.96, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8501, \"name\": \"Pantry\", \"address\": \"2809 Lincoln Way NW\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44647\", \"latitude\": 40.7958348, \"longitude\": -81.5602146, \"event_details\": \"regular pantry hours- Sept thru April 3rd Sat. 9am - 10:30am, May - Aug 3rd Thurs. 6pm-7:30pm\", \"estimated_distance\": 902.99, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361104, \"event_id\": 8501, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:41.681016"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"School No. 5\", \"alternate_name\": \"\", \"description\": \"Summer meal program\\nCoordinator: Antoinette\\tCarothers\\t9084862800\\nStart: 07/07/2025\\tEnds: 07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1014 Bower Street\", \"address_2\": null, \"city\": \"Linden\", \"state_province\": \"NJ\", \"postal_code\": \"07036\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.64136269999999, \"longitude\": -74.2524114}, \"phones\": [{\"number\": \"(908) 486-2666\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Student Meal Site\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:49.186060"
+}

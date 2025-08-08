@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Presbyterian Church of Jamesburg \\u2013 Deacon\\u2019s Food Cupboard\", \"alternate_name\": \"\", \"description\": \"Please call (732) 521-1711 to schedule an appointment to register for the food pantry.\", \"email\": \"\", \"url\": \"https://www.presbyterianchurchjamesburg.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"175 Gatzmer Avenue\", \"address_2\": \"\", \"city\": \"Jamesburg\", \"state_province\": \"NJ\", \"postal_code\": \"08831\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.348944, \"longitude\": -74.438869}, \"phones\": [{\"number\": \"(732) 521-1711\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.358897"
+}

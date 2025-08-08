@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Lord\\u2019s Pantry St. John the Baptist Catholic Church\", \"alternate_name\": \"\", \"description\": \"Palisads school district area only \", \"email\": \"\", \"url\": \"https://stjohnsottsville.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"4050 Durham Road\", \"address_2\": \"(Route 412) \", \"city\": \"Ottsville\", \"state_province\": \"PA\", \"postal_code\": \"18942\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4970843, \"longitude\": -75.1795032}, \"phones\": [{\"number\": \"(610) 847-2402\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.699136"
+}

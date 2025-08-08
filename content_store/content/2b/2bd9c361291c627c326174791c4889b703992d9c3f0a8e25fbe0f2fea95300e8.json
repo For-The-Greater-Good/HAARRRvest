@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Peter's Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food Pantry operates on the first 4 Saturdays of every month from 9:30 am. to 11 am.\\n\\nClients should bring a picture id or driver's license with their current address.\\n\\nOpens to zip codes 21057, 21128, 21162, 21206, 21234, 21236, & 21237.\", \"email\": \"\", \"url\": \"http://www.st-peterslutheran.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"7910 Belair Road\", \"address_2\": null, \"city\": \"Nottingham\", \"state_province\": \"MD\", \"postal_code\": \"21236\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3728758, \"longitude\": -76.511383}, \"phones\": [{\"number\": \"(410) 931-7470\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.012817"
+}

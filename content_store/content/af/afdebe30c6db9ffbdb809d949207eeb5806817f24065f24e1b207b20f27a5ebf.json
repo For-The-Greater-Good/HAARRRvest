@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"West Brooklyn Waterfront Mutual Aid\", \"alternate_name\": \"\", \"description\": \"Our model is taking individual requests from residents of our covered area (roughly Boerum Hill, Downtown Brooklyn, Brooklyn Heights, Carroll Gardens, Cobble Hill) for groceries, baby supplies, and cleaning/household supplies.\\n\\nWe can shop and deliver, put in an order for the person to pick up at Target, or if they're able to shop for themselves, we can either reimburse them or have one of our volunteers meet them at the store to pay at the register.\\n\\nPlease fill out the request [form](https://www.wbwmutualaid.org/get-help) or give us a call at (929) 314-0899.\", \"email\": \"\", \"url\": \"https://www.wbwmutualaid.org/get-help\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7127753, \"longitude\": -74.0059728}, \"phones\": [{\"number\": \"(929) 314-0899\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"\\\"First come, first served\\\" basis. Whoever called first will be accommodated first.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:59.332456"
+}

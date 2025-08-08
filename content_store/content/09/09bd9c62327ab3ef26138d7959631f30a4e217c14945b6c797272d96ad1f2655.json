@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CARES (Community Aging and Retirement Services)\", \"alternate_name\": \"\", \"description\": \"Provides programs and services to seniors and their families.\", \"email\": \"\", \"url\": \"https://caresfl.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"12417 Clock Tower Parkway\", \"address_2\": null, \"city\": \"Hudson\", \"state_province\": \"FL\", \"postal_code\": \"34667\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.33735919999999, \"longitude\": -82.68288}, \"phones\": [{\"number\": \"(727) 863-6868\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:18.322417"
+}

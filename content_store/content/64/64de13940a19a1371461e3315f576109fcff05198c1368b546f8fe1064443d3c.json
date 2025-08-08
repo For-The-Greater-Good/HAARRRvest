@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Anthony's Bread: St. Vincent de Paul Food Pantry\", \"alternate_name\": \"\", \"description\": \"* The food is distributed on the last two Wednesdays of each month \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1029 Monroe Street Northeast\", \"address_2\": null, \"city\": \"Northeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20017\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9322638, \"longitude\": -76.99144249999999}, \"phones\": [{\"number\": \"(202) 526-8822\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.171274"
+}

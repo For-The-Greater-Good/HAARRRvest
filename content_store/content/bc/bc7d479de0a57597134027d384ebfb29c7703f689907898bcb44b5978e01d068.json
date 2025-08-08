@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"La Aliansa\", \"alternate_name\": \"\", \"description\": \"Maria\\t\\t9088204220\\nStart: 07/15/2025\\t07/19/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"501 Westfield Avenue\", \"address_2\": null, \"city\": \"Elizabeth\", \"state_province\": \"NJ\", \"postal_code\": \"07208\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6662914, \"longitude\": -74.2319868}, \"phones\": [{\"number\": \"(908) 820-4220\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:50.593308"
+}

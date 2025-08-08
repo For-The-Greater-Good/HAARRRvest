@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Paul Baptist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"First come first serve\", \"email\": \"\", \"url\": \"http://www.spbcnc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1401 Allen Street\", \"address_2\": null, \"city\": \"Belmont\", \"state_province\": \"NC\", \"postal_code\": \"28205\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2304876, \"longitude\": -80.8178386}, \"phones\": [{\"number\": \"(704) 334-5309\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.865284"
+}

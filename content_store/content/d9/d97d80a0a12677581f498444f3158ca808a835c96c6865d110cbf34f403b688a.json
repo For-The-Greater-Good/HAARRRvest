@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Brunswick Food Bank \", \"alternate_name\": \"\", \"description\": \"serves North Brunswick\\nFood pantry distribution is in front of senior center\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"15 Linwood Place\", \"address_2\": null, \"city\": \"North Brunswick Township\", \"state_province\": \"NJ\", \"postal_code\": \"08902\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4710633, \"longitude\": -74.4601189}, \"phones\": [{\"number\": \"(732) 247-0922\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Food donations are accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.340610"
+}

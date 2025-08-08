@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Colesville Presbyterian Church (CPC)\", \"alternate_name\": \"\", \"description\": \"Registration is required. Please call (301)424-1130 to sign up!\", \"email\": \"\", \"url\": \"https://www.colesvillepresbyterian.com/about-1\", \"status\": \"active\", \"address\": {\"address_1\": \"12800 New Hampshire Avenue\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20904\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.06446940000001, \"longitude\": -77.0012516}, \"phones\": [{\"number\": \"(301) 424-1130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.607564"
+}

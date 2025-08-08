@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Cecilia Office of Concert\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://officeofconcern.com/\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": \"Englewood\", \"state_province\": null, \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": 41.775305, \"longitude\": -87.6416419}, \"phones\": [{\"number\": \"St. Cecilia Office of Concert\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"SNAP assistance available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.340690"
+}

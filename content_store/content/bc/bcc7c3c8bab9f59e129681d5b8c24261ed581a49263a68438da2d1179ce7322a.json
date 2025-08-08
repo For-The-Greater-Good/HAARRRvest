@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ABCD Food Pop-Up\", \"alternate_name\": \"\", \"description\": \"To sign up, email **mobilefood@bostonabcd.org** or call **617-208-8677**. Eligible clients who register will be informed of their enrollment status between 4/15 - 4/26.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"19 Corinth Street\", \"address_2\": null, \"city\": \"Roslindale\", \"state_province\": \"MA\", \"postal_code\": \"02131\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.28612390000001, \"longitude\": -71.1302529}, \"phones\": [{\"number\": \"(617) 208-8677\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.949204"
+}

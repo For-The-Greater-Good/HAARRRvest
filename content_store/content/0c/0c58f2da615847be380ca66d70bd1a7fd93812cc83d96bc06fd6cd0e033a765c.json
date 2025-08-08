@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gahanna Residents in Need (GRIN)\", \"alternate_name\": \"\", \"description\": \"Eligibility: Residents of Gahanna-Jefferson School District and 43230 zip code area. \\n\\nIntake Process: Walk-in.\\n\\nDocuments: Driver\\u2019s license/state ID with current address. If not current address, client must provide a\\nrecent piece of mail to prove address.\", \"email\": \"\", \"url\": \"https://grin4gahanna.org/services\", \"status\": \"active\", \"address\": {\"address_1\": \"161 Granville Street\", \"address_2\": null, \"city\": \"Gahanna\", \"state_province\": \"OH\", \"postal_code\": \"43230\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0183165, \"longitude\": -82.8757713}, \"phones\": [{\"number\": \"(614) 214-4747\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No appointment necessary\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.858556"
+}

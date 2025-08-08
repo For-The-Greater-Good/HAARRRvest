@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CATHOLIC CHARITIES - VINELAND\", \"alternate_name\": \"\", \"description\": \"Call us to make an appointment.\", \"email\": \"\", \"url\": \"https://catholiccharitiessouthjersey.org/cumberland-county/\", \"status\": \"active\", \"address\": {\"address_1\": \"810 East Montrose Street\", \"address_2\": null, \"city\": \"Vineland\", \"state_province\": \"NJ\", \"postal_code\": \"08360\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4829807, \"longitude\": -75.0186028}, \"phones\": [{\"number\": \"(856) 691-1841\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.902912"
+}

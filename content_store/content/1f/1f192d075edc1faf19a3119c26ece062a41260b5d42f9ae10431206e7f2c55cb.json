@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First African CDC-New Piney Grove\", \"alternate_name\": \"\", \"description\": \"They do not have a set pantry schedule and is dependent on the food bank. Please call ahead. Line forms at 9 AM.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2580 Snapfinger Road\", \"address_2\": null, \"city\": \"Decatur\", \"state_province\": \"GA\", \"postal_code\": \"30034\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7051604, \"longitude\": -84.21480969999999}, \"phones\": [{\"number\": \"(404) 343-6861\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.783301"
+}

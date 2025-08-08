@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace Temple Baptist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"15 East Charleston Avenue\", \"address_2\": null, \"city\": \"Lawnside\", \"state_province\": \"NJ\", \"postal_code\": \"08045\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8651083, \"longitude\": -75.0329634}, \"phones\": [{\"number\": \"(856) 546-6130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.840994"
+}

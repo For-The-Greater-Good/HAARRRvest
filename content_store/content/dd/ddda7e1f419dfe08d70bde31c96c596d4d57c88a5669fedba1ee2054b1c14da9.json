@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Good Shepherd Parish Food Pantry\", \"alternate_name\": \"\", \"description\": \"Call (973) 786-6631 extension 1 to make a reservation.\", \"email\": \"\", \"url\": \"https://goodshepherdrc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"48 Tranquility Road\", \"address_2\": null, \"city\": \"Andover\", \"state_province\": \"NJ\", \"postal_code\": \"07821\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.9761473, \"longitude\": -74.7485657}, \"phones\": [{\"number\": \"(973) 786-6631\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.547875"
+}

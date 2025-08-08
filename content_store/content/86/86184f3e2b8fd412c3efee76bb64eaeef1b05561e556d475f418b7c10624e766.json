@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Paulsboro High School\\t\", \"alternate_name\": \"\", \"description\": \"Ms. Grace\\tRidgeway\\t8564235515\\tStarts: 06/23/2025\\t07/30/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"670 North Delaware Street\", \"address_2\": null, \"city\": \"Paulsboro\", \"state_province\": \"NJ\", \"postal_code\": \"08066\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8370075, \"longitude\": -75.2445338}, \"phones\": [{\"number\": \"(856) 423-2222\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:45\", \"closes_at\": \"12:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:45\", \"closes_at\": \"12:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:45\", \"closes_at\": \"12:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:45\", \"closes_at\": \"12:45\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:51.300980"
+}

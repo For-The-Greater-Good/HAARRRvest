@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gethsemane Food Outreach\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.gmbc-online.org/outreachcenter.html\", \"status\": \"active\", \"address\": {\"address_1\": \"719 South Caldwell Street\", \"address_2\": null, \"city\": \"Salisbury\", \"state_province\": \"NC\", \"postal_code\": \"28144\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.6659559, \"longitude\": -80.4819752}, \"phones\": [{\"number\": \"(704) 637-6036\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social security cards or Birth certificates for every member of the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once in 3 months\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:13.641981"
+}

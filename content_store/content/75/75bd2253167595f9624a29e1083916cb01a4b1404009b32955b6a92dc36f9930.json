@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Transforming Life Church\", \"alternate_name\": \"\", \"description\": \"Need to come in a car\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4801 Sipple Avenue\", \"address_2\": null, \"city\": \"Frankford\", \"state_province\": \"MD\", \"postal_code\": \"21206\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3281867, \"longitude\": -76.5504077}, \"phones\": [{\"number\": \"(757) 642-5442\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed early if the weather is bad\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Healthcare Programs\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.374144"
+}

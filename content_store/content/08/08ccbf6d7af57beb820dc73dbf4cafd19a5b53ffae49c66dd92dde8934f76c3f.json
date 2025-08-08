@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Auburndale\", \"alternate_name\": \"\", \"description\": \"Polk County residents \", \"email\": \"\", \"url\": \"\\\"www.firstpresaub.com https://www.facebook.com/FirstPresAub/\\\"\", \"status\": \"active\", \"address\": {\"address_1\": \"410 Pilaklakaha Avenue\", \"address_2\": null, \"city\": \"Auburndale\", \"state_province\": \"FL\", \"postal_code\": \"33823\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0659321, \"longitude\": -81.7936504}, \"phones\": [{\"number\": \"(863) 967-1010\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.638536"
+}

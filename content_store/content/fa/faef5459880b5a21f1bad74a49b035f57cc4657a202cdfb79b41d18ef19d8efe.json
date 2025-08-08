@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Michael's Lutheran Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6671 Germantown Avenue\", \"address_2\": null, \"city\": \"Northwest Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19119\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0515196, \"longitude\": -75.18492979999999}, \"phones\": [{\"number\": \"(215) 848-0199\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.616285"
+}

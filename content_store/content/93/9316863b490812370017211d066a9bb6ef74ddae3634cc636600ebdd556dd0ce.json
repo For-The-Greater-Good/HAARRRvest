@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Michael's Church @ SVDP Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serves: Monmouth County\", \"email\": \"\", \"url\": \"https://stmichaelnj.com/index.php/about-our-parish/directions-to-our-parish\", \"status\": \"active\", \"address\": {\"address_1\": \"800 Ocean Avenue North\", \"address_2\": null, \"city\": \"Long Branch\", \"state_province\": \"NJ\", \"postal_code\": \"07740\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2777116, \"longitude\": -73.9860518}, \"phones\": [{\"number\": \"(732) 483-0360\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.991951"
+}

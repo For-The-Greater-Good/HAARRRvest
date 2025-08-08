@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Churches Intervention Ministry\", \"alternate_name\": \"\", \"description\": \"The church distributes free meals to Detroit low income families at limited hours.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"16161 Winston Street\", \"address_2\": null, \"city\": \"South Of Six\", \"state_province\": \"MI\", \"postal_code\": \"48219\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4078034, \"longitude\": -83.283796}, \"phones\": [{\"number\": \"(313) 972-5232\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.025699"
+}

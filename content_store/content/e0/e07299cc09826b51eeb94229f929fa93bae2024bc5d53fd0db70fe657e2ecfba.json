@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"BAY HARBOUR CHURCH OF GOD\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3210 U.S. 82\", \"address_2\": null, \"city\": \"Brunswick\", \"state_province\": \"GA\", \"postal_code\": \"31523\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.1432227, \"longitude\": -81.58468309999999}, \"phones\": [{\"number\": \"(912) 262-1227\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.263057"
+}

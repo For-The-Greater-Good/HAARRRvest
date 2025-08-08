@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bridgeway Community Church\", \"alternate_name\": \"\", \"description\": \"Also distributing food on Sundays after the 10:30am service.\", \"email\": \"\", \"url\": \"https://www.bridgeway.cc\", \"status\": \"active\", \"address\": {\"address_1\": \"11301 Red Run Boulevard\", \"address_2\": null, \"city\": \"Owings Mills\", \"state_province\": \"MD\", \"postal_code\": \"21117\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.42990760000001, \"longitude\": -76.8127116}, \"phones\": [{\"number\": \"(410) 992-5832\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.517660"
+}

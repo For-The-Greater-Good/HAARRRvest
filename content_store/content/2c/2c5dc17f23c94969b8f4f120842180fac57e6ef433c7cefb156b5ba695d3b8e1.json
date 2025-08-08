@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Justin's Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://stjustin.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"975 Fischer Boulevard\", \"address_2\": null, \"city\": \"Toms River\", \"state_province\": \"NJ\", \"postal_code\": \"08753\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9789583, \"longitude\": -74.1393648}, \"phones\": [{\"number\": \"(732) 929-1119\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.776158"
+}

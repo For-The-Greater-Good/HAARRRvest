@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jericho Road Ministry\", \"alternate_name\": \"\", \"description\": \"a valid Hernando County photo ID is needed to receive food\", \"email\": \"\", \"url\": \"https://www.jericho-road.net/food-barn\", \"status\": \"active\", \"address\": {\"address_1\": \"1165 Howell Avenue\", \"address_2\": null, \"city\": \"Brooksville\", \"state_province\": \"FL\", \"postal_code\": \"34601\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.5729394, \"longitude\": -82.3786604}, \"phones\": [{\"number\": \"(352) 799-2912\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:18.468494"
+}

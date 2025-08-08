@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pearson Memorial United Methodist Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.pearsonmemorialumc.com/food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"71 Pearson Drive\", \"address_2\": null, \"city\": \"White Horse\", \"state_province\": \"NJ\", \"postal_code\": \"08610\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1868875, \"longitude\": -74.7061324}, \"phones\": [{\"number\": \"(609) 888-1220\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.273718"
+}

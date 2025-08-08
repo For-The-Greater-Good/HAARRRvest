@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Teen Challenge\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.brooklyntc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"416 Clinton Avenue\", \"address_2\": null, \"city\": \"Clinton Hill\", \"state_province\": \"NY\", \"postal_code\": \"11238\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6857739, \"longitude\": -73.96771319999999}, \"phones\": [{\"number\": \"(718) 789-1414\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:53.659917"
+}

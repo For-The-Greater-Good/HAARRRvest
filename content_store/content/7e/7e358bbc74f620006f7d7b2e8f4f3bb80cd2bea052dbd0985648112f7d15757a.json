@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mitzvah Food Project Mainline\", \"alternate_name\": \"\", \"description\": \"SmartChoice remote orders must make an appointment. Call for information 215.832.0815 or 215.832.0627\\nDELIVERY\\nBi-monthly delivery services are available based on need. Call for information.\", \"email\": \"\", \"url\": \"https://www.jewishphilly.org\", \"status\": \"active\", \"address\": {\"address_1\": \"345 Montgomery Ave.\", \"address_2\": \"\", \"city\": \"Bala Cynwnd\", \"state_province\": \"PA\", \"postal_code\": \"19004\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.006306, \"longitude\": -75.244297}, \"phones\": [{\"number\": \"(215) 832-0627\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.737952"
+}

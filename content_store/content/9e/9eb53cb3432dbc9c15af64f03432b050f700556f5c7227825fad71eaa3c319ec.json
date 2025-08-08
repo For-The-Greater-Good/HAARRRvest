@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mount Olivet UM Church\", \"alternate_name\": \"\", \"description\": \"Contact: Milton Gaines\\n\\nHours vary.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"823 Edmondson Avenue\", \"address_2\": null, \"city\": \"Catonsville\", \"state_province\": \"MD\", \"postal_code\": \"21228\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2762983, \"longitude\": -76.7384092}, \"phones\": [{\"number\": \"(410) 788-4361\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.987592"
+}

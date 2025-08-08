@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"GUYTON COMMUNITY FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"Please bring the following items to your visit:\\n\\n-Loyalty card (if previously issued)\\n-Picture ID (driver's license)\\n-Information regarding others in your household (full names & birthdays)\\n-Proof of household income such as a check stub, bank statement or Social Security statement\\n-Proof of Effingham residency such as utility bill, with your name and physical address on it\\n\\nhttps://www.facebook.com/guytoncc/\", \"email\": \"\", \"url\": \"https://www.guytonchristianchurch.org/the_fillin_station_food_pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1290 Georgia 119 South\", \"address_2\": null, \"city\": \"Springfield\", \"state_province\": \"GA\", \"postal_code\": \"31329\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.3540782, \"longitude\": -81.34367619999999}, \"phones\": [{\"number\": \"(912) 772-3478\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.813834"
+}

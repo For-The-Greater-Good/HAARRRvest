@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"John C. Milanesi Elementary School\", \"alternate_name\": \"\", \"description\": \"Start date\\t7/6/2025\\nEnd date\\t7/30/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"880 Harding Highway\", \"address_2\": null, \"city\": \"Buena\", \"state_province\": \"NJ\", \"postal_code\": \"08310\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5063886, \"longitude\": -74.91085799999999}, \"phones\": [{\"number\": \"(856) 697-2400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:52.934912"
+}

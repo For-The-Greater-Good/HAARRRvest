@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mount Pleasant Development Corporation Food Pantry  \", \"alternate_name\": \"\", \"description\": \"- They are opened on the first of the month between 10:30 every month regardless of the day, \\n- Asked to call 211 to confirm if the church is in your location.\\n- Instructions: RIng the bell on the main door, and someone let you in to administration department.\", \"email\": \"\", \"url\": \"https://www.mpdcorp.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"6000 Radecke Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21206\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3323976, \"longitude\": -76.5302316}, \"phones\": [{\"number\": \"(410) 325-3080\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.191974"
+}

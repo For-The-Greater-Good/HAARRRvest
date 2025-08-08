@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lamarque Elementary School\", \"alternate_name\": \"\", \"description\": \"June 5 to July 20 (Mon-Thur; closed Fridays)\\nBreakfast 8:00-9:00 am\\nLunch 10:30-11:45 am\\n*Site closed July 3-7, 2023\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3415 Lamarque Avenue\", \"address_2\": null, \"city\": \"North Port\", \"state_province\": \"FL\", \"postal_code\": \"34286\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.097271, \"longitude\": -82.1865954}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:45\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.243826"
+}

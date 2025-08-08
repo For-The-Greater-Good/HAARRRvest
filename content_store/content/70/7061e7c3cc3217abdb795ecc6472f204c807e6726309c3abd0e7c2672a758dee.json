@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christ the King Episcopal Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://ctkepiscopal.org/food-distribution/\", \"status\": \"active\", \"address\": {\"address_1\": \"1930 Brookdale Road\", \"address_2\": null, \"city\": \"Windsor Mill\", \"state_province\": \"MD\", \"postal_code\": \"21244\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3130175, \"longitude\": -76.7591125}, \"phones\": [{\"number\": \"(443) 797-7449\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed early if the weather is bad\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.749201"
+}

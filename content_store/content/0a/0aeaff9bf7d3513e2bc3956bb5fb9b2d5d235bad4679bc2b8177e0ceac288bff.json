@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fisher Middle School Summer Camp\", \"alternate_name\": \"\", \"description\": \"Valerie\\tChernish\\t6099128710\\t07/01/2025\\t08/26/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1325 Lower Ferry Road\", \"address_2\": null, \"city\": \"Ewing Township\", \"state_province\": \"NJ\", \"postal_code\": \"08618\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2730319, \"longitude\": -74.79386559999999}, \"phones\": [{\"number\": \"(609) 538-9800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:50.162842"
+}

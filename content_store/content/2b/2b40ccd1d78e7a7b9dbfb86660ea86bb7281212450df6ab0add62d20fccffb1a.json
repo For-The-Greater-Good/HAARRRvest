@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Old Tappan Food Pantry\", \"alternate_name\": \"\", \"description\": \"Enjoy a social lunch with friends every 2nd and 4th Thursday of every month.\\nWhere: Aurora, 203 Old Tappan rd\\n\\nOld Tappan residents only \\nThey need to register for the social services by the director in order to get food\", \"email\": \"\", \"url\": \"http://www.oldtappan.net/\", \"status\": \"active\", \"address\": {\"address_1\": \"227 Old Tappan Road\", \"address_2\": null, \"city\": \"Old Tappan\", \"state_province\": \"NJ\", \"postal_code\": \"07675\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.0127983, \"longitude\": -73.98387530000001}, \"phones\": [{\"number\": \"(201) 664-1849\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.043170"
+}

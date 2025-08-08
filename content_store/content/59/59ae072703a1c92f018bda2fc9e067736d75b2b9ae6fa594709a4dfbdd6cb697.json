@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Woodbine Elementary School\", \"alternate_name\": \"\", \"description\": \"Abbe\\tHarris\\t9083553663\\nFrom: 07/07/2025 till:07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"801 Webster Street\", \"address_2\": null, \"city\": \"Woodbine\", \"state_province\": \"NJ\", \"postal_code\": \"08270\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2368106, \"longitude\": -74.81991119999999}, \"phones\": [{\"number\": \"(609) 231-7073\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:51.796122"
+}

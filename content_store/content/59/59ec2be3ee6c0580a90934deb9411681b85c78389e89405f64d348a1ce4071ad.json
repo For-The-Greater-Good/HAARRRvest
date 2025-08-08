@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80121\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in PART OF THE SOLUTION (P.O.T.S.)\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 220-4892\", \"country\": \"US\"}, \"phones\": [{\"number\": \"2759 WEBSTER AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.7130466, \"longitude\": -74.0072301}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"PART OF THE SOLUTION (P.O.T.S.)\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:13:02.668468"
+}

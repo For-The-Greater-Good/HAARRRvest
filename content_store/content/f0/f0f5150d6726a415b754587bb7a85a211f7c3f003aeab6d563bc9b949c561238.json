@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Parktown Food Hub and South Durham Connections\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5123 Revere Road\", \"address_2\": null, \"city\": \"Parkwood\", \"state_province\": \"NC\", \"postal_code\": \"27713\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.8944434, \"longitude\": -78.90945339999999}, \"phones\": [{\"number\": \"(984) 484-8475\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:12.493595"
+}

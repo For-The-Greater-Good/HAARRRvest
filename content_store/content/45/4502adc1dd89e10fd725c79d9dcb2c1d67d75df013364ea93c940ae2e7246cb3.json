@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army\", \"alternate_name\": \"\", \"description\": \"Also helps with rent and utility assistance; clothing vouchers too\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"355 Alexander Avenue\", \"address_2\": null, \"city\": \"Henderson\", \"state_province\": \"NC\", \"postal_code\": \"27536\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.31542719999999, \"longitude\": -78.403649}, \"phones\": [{\"number\": \"(704) 522-4970\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:18.049727"
+}

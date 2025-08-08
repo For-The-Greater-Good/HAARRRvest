@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHASI MFP - Cedar grove ave\", \"alternate_name\": \"\", \"description\": \"There is no income requirement for food pantry services. All are welcome. Everything is free. Please bring personal identification with you and proof of household size if you have it.\", \"email\": \"\", \"url\": \"https://chasiny.org/services/food-pantry-mobile-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"127 Cedar Grove Avenue\", \"address_2\": null, \"city\": \"New Dorp Beach\", \"state_province\": \"NY\", \"postal_code\": \"10306\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5615497, \"longitude\": -74.1002682}, \"phones\": [{\"number\": \"(718) 808-1300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:01.843201"
+}

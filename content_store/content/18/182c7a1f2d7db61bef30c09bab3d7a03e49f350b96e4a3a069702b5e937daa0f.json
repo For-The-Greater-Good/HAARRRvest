@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of the Cross\", \"alternate_name\": \"\", \"description\": \"Serves: 43609, 43614, 43615, 43537\\n\\nRequired: ID & Proof of current address\\n\\nhttps://www.facebook.com/cotctoledo/\\n\", \"email\": \"\", \"url\": \"http://www.cotcumc.com/food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"1750 Eastgate Road\", \"address_2\": null, \"city\": \"Southwyck\", \"state_province\": \"OH\", \"postal_code\": \"43614\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.60772679999999, \"longitude\": -83.6561366}, \"phones\": [{\"number\": \"(419) 382-6722\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.217033"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"OLD BRIDGE TOWNSHIP FOOD BANK\", \"alternate_name\": \"\", \"description\": \"For intake appointment to receive food, you must call 732-721-5600 ext. 6215 (Sandy) or ext. 6625 (Diane). Clients must make initial contact via phone. Required information: 2 proofs of residency, proof of income, SSI/SSD award letter and/or Medicare card.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1 Old Bridge Plaza\", \"address_2\": null, \"city\": \"Old Bridge\", \"state_province\": \"NJ\", \"postal_code\": \"08857\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.40445769999999, \"longitude\": -74.2966684}, \"phones\": [{\"number\": \"(732) 721-5600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Non-perishable food only\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.334154"
+}

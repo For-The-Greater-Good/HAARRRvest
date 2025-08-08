@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Cityline Church \", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://weareclc.org/foodpantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1510 John F. Kennedy Boulevard\", \"address_2\": null, \"city\": \"Greenville\", \"state_province\": \"NJ\", \"postal_code\": \"07305\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6933166, \"longitude\": -74.1008256}, \"phones\": [{\"number\": \"(201) 332-0970\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Come early, line starts at 6am\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:59.858847"
+}

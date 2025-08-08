@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Riverhills Church of God\", \"alternate_name\": \"\", \"description\": \"Distribution is every Sundays starting at 12:15 PM until food runs out. \", \"email\": \"\", \"url\": \"Riverhills.tv\", \"status\": \"active\", \"address\": {\"address_1\": \"6310 East Sligh Avenue\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33617\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0122002, \"longitude\": -82.3819152}, \"phones\": [{\"number\": \"(813) 985-2388\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:15\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.676135"
+}

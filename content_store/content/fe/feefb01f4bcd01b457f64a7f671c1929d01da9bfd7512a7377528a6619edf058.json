@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1069, \"name\": \"Union Baptist Church\", \"nickname\": \"Union Baptist Church\", \"address\": \"413 Cornelia Ave NE\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44704\", \"phone\": \"330-454-7450\", \"latitude\": 40.7956, \"longitude\": -81.34202, \"estimated_distance\": 914.47, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1542, \"name\": \"Pantry\", \"address\": \"413 Cornelia Ave NE\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44704\", \"latitude\": 40.7958243, \"longitude\": -81.3420483, \"event_details\": \"Regular Hours - 3rd Friday from 10-12pm\", \"estimated_distance\": 914.47, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359229, \"event_id\": 1542, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-15\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:35.106045"
+}

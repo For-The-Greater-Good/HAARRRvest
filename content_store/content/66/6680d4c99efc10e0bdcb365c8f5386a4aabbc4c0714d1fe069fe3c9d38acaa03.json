@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Shiloh Baptist Community Development\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"216 West Mill Street\", \"address_2\": null, \"city\": \"Jonesboro\", \"state_province\": \"GA\", \"postal_code\": \"30236\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.5217181, \"longitude\": -84.36131089999999}, \"phones\": [{\"number\": \"(678) 477-4616\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.644600"
+}

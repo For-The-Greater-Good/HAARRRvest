@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Twelfth Baptist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"SERVES residents in\\nSuffolk County.\", \"email\": \"\", \"url\": \"https://tbcboston.org/food-pantry-ministry-2/\", \"status\": \"active\", \"address\": {\"address_1\": \"160 Warren Street\", \"address_2\": null, \"city\": \"Roxbury\", \"state_province\": \"MA\", \"postal_code\": \"02119\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.325405, \"longitude\": -71.0827668}, \"phones\": [{\"number\": \"(617) 442-7855\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.079986"
+}

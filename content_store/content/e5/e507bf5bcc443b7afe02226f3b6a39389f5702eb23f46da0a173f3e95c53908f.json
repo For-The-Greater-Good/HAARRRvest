@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"South Philadelphia Community Fridge @ Fridges and Family\", \"alternate_name\": \"\", \"description\": \"Resource has no phone number however, email and FB is available (https://www.facebook.com/southphlcommunityfridge) and please check their website as well.\", \"email\": \"\", \"url\": \"https://southphillyfridge.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"1149 South 9th Street\", \"address_2\": null, \"city\": \"South Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19147\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9349336, \"longitude\": -75.15854639999999}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"04:00\", \"closes_at\": \"15:59\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"04:00\", \"closes_at\": \"15:59\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:00\", \"closes_at\": \"15:59\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"04:00\", \"closes_at\": \"15:59\"}, {\"weekday\": \"Friday\", \"opens_at\": \"04:00\", \"closes_at\": \"15:59\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"04:00\", \"closes_at\": \"15:59\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"04:00\", \"closes_at\": \"15:59\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open 24/7! Free, outdoor community fridge/pantry operated by local volunteers.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.099218"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Willamsport Food Bank\", \"alternate_name\": \"\", \"description\": \"Contact: Mary Ann Kline\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"35 West Potomac Street\", \"address_2\": null, \"city\": \"Williamsport\", \"state_province\": \"MD\", \"postal_code\": \"21795\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6007045, \"longitude\": -77.8230617}, \"phones\": [{\"number\": \"(301) 223-7136\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.447709"
+}

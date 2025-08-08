@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. John Baptist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/SJBCDiscover/\\n\\nhoward county residents\", \"email\": \"\", \"url\": \"stjohnbaptistchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"9055 Tamar Drive\", \"address_2\": null, \"city\": \"Long Reach\", \"state_province\": \"MD\", \"postal_code\": \"21045\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2097321, \"longitude\": -76.8231926}, \"phones\": [{\"number\": \"(301) 596-5571\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.637108"
+}

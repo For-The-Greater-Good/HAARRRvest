@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Washington Library\", \"alternate_name\": \"\", \"description\": \"Under age 17years \", \"email\": \"\", \"url\": \"https://www.toledolibrary.org/locations/washington\", \"status\": \"active\", \"address\": {\"address_1\": \"5560 Harvest Lane\", \"address_2\": null, \"city\": \"Franklin Park\", \"state_province\": \"OH\", \"postal_code\": \"43623\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.7163881, \"longitude\": -83.6320995}, \"phones\": [{\"number\": \"(419) 259-5330\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:45\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:26.577917"
+}

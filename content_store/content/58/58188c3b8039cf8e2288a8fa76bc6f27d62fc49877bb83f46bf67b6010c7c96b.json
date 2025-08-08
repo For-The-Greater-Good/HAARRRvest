@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Thrift United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Hours: Call (704) 392-9807 before 9:00 AM on Thursday to schedule same day appointment.\", \"email\": \"\", \"url\": \"https://www.facebook.com/ThriftUMC/\", \"status\": \"active\", \"address\": {\"address_1\": \"8245 Moores Chapel Road\", \"address_2\": null, \"city\": \"Pawtuckett\", \"state_province\": \"NC\", \"postal_code\": \"28214\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2754401, \"longitude\": -80.94261159999999}, \"phones\": [{\"number\": \"(704) 392-9807\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.359444"
+}

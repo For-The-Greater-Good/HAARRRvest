@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Church of God for All Nations\", \"alternate_name\": \"\", \"description\": \"- They require you to call ahead incase of adverse weather conditions just to make sure they are open and able to hand food, If not a way forward will be provided.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2295 Bouldercrest Road\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30316\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6895438, \"longitude\": -84.3195357}, \"phones\": [{\"number\": \"(404) 271-3820\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.060546"
+}

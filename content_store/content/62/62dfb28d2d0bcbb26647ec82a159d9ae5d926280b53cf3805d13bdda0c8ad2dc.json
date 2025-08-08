@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Morning Star Baptist Church \\u2013 Baltimore County\", \"alternate_name\": \"\", \"description\": \"Food pantry is by appointment through email at hcarpenter@msbcministries.org or through phone call; Helen Carpenter with extension 118.\", \"email\": \"\", \"url\": \"msbcministries.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1600 Whitehead Court\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21207\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3101206, \"longitude\": -76.7373497}, \"phones\": [{\"number\": \"(410) 747-3417\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Contact in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.085736"
+}

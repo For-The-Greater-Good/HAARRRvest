@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethel Metro Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.bmbcfamily.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"3455 26th Avenue South\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33711\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.745376, \"longitude\": -82.6806403}, \"phones\": [{\"number\": \"(727) 517-5468\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.308530"
+}

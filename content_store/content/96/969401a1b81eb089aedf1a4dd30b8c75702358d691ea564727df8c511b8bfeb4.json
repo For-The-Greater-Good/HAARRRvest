@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Peter Claver Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://saintpeterclaverchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"56 Elmwood Avenue\", \"address_2\": null, \"city\": \"Montclair\", \"state_province\": \"NJ\", \"postal_code\": \"07042\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8060451, \"longitude\": -74.2151686}, \"phones\": [{\"number\": \"(973) 783-4852\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:39.290418"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Open Arms Food Pantry at Jackson Baptist Church\", \"alternate_name\": \"\", \"description\": \"For emergency food contact 848-992-9432.  To use the food pantry you must have an appointment.  In addition, you may be required to show proof of Jackson Township residency and proof of family members. \\n\\nTo make an appointment leave a voicemail with a name and phone number, they will return a call to confirm appointment.\", \"email\": \"\", \"url\": \"https://jacksonbaptist.org/ministries/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"360 Bennetts Mills Road\", \"address_2\": null, \"city\": \"Jackson Township\", \"state_province\": \"NJ\", \"postal_code\": \"08527\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1164674, \"longitude\": -74.31406609999999}, \"phones\": [{\"number\": \"(732) 928-4256\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call to Register or Leave Voicemail with information.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.859137"
+}

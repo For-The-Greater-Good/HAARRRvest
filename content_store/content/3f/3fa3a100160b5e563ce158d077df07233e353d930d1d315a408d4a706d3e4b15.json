@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SCAN-Harbor Mullaly Rec Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.scan-harbor.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1020 Jerome Avenue\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10452\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.831871, \"longitude\": -73.925293}, \"phones\": [{\"number\": \"(917) 280-9039\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.786813"
+}

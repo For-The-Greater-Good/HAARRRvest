@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Beymer UMC\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.beymer.org/food-pantry-2/\", \"status\": \"active\", \"address\": {\"address_1\": \"700 North Lake Howard Drive\", \"address_2\": null, \"city\": \"Winter Haven\", \"state_province\": \"FL\", \"postal_code\": \"33881\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0290304, \"longitude\": -81.7352828}, \"phones\": [{\"number\": \"(863) 294-3186\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.447682"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Morris Chapel UMC\", \"alternate_name\": \"\", \"description\": \"Please call the organizations for their hours and availability of services\", \"email\": \"\", \"url\": \"http://morrischapel.org/serve\", \"status\": \"active\", \"address\": {\"address_1\": \"2715 Darrow Road\", \"address_2\": null, \"city\": \"Walkertown\", \"state_province\": \"NC\", \"postal_code\": \"27051\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.1635545, \"longitude\": -80.14594129999999}, \"phones\": [{\"number\": \"(336) 595-8101\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.059749"
+}

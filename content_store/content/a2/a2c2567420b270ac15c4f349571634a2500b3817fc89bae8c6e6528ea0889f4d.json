@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christ Deliverance Church\", \"alternate_name\": \"\", \"description\": \"Contact: Rev. Martin Jacobs\", \"email\": \"\", \"url\": \"https://cdcbaltimore.weebly.com\", \"status\": \"active\", \"address\": {\"address_1\": \"711 Walnut Avenue\", \"address_2\": null, \"city\": \"Rognel Heights\", \"state_province\": \"MD\", \"postal_code\": \"21229\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2949764, \"longitude\": -76.6883786}, \"phones\": [{\"number\": \"(410) 945-8700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.436275"
+}

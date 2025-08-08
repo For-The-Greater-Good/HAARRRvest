@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Glad Tidings Pantry\", \"alternate_name\": \"\", \"description\": \"* Pantry located at: the garage at the back of the property\\n* Hygiene Products Available.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4012 Asbury Avenue\", \"address_2\": \"\", \"city\": \"Tinton Falls\", \"state_province\": \"NJ\", \"postal_code\": \"07753\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2343982, \"longitude\": -74.0787079}, \"phones\": [{\"number\": \"(732) 640-6244\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.784682"
+}

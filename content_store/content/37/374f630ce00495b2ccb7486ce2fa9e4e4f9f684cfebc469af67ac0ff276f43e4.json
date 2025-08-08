@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Hilltop Elementary School\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.facebook.com/profile.php?id=100066705630064\", \"status\": \"active\", \"address\": {\"address_1\": \"415 Melrose Avenue\", \"address_2\": null, \"city\": \"Glen Burnie\", \"state_province\": \"MD\", \"postal_code\": \"21061\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.190283, \"longitude\": -76.63518619999999}, \"phones\": [{\"number\": \"(410) 553-4505\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.431506"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethel Holy Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.bethelholychurch.com\", \"status\": \"active\", \"address\": {\"address_1\": \"922 Saint Nicholas Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10032\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8315344, \"longitude\": -73.94082709999999}, \"phones\": [{\"number\": \"(212) 283-9407\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.361376"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Magothy United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Serves Pasadena and Glen Burnie residents only.\\n\\nCall (410) 255-2420 in advance to make an appointment on every Saturday distributions.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3703 Mountain Road\", \"address_2\": null, \"city\": \"Pasadena\", \"state_province\": \"MD\", \"postal_code\": \"21122\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1233406, \"longitude\": -76.52533269999999}, \"phones\": [{\"number\": \"(410) 255-2420\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.633463"
+}

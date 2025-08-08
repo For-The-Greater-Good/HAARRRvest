@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Open Doors Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/p/Open-Doors-Food-Pantry-100064362862111/\", \"email\": \"\", \"url\": \"https://mtzionhighland.com/missions\", \"status\": \"active\", \"address\": {\"address_1\": \"12430 Scaggsville Road\", \"address_2\": null, \"city\": \"Highland\", \"state_province\": \"MD\", \"postal_code\": \"20777\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.17912, \"longitude\": -76.95771}, \"phones\": [{\"number\": \"(301) 854-2324\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.868443"
+}

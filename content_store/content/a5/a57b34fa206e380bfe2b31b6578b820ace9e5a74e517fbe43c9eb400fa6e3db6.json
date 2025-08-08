@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Washington DC VA Medical Center\", \"alternate_name\": \"\", \"description\": \"Serves Veterans only \\nDistribution at Clinical Research Building Gate 1\", \"email\": \"\", \"url\": \"https://www.va.gov/washington-dc-health-care/health-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"50 Irving Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20422\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.92931719999999, \"longitude\": -77.01077819999999}, \"phones\": [{\"number\": \"(202) 745-8190\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring proof of Veteran status\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.885809"
+}

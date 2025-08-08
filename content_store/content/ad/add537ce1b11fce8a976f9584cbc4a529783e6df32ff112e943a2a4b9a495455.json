@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3681, \"name\": \"Christian Family Center\", \"nickname\": \"Christian Family Center\", \"address\": \"601 HEATON ST\", \"city\": \"HAMILTON\", \"state\": \"OH\", \"zip\": \"45011\", \"phone\": \"513-844-6807\", \"latitude\": 39.40238, \"longitude\": -84.55359, \"estimated_distance\": 750.71, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6559, \"name\": \"Pantry\", \"address\": \"601 HEATON ST\", \"city\": \"HAMILTON\", \"state\": \"OH\", \"zip\": \"45011\", \"latitude\": 39.40238686, \"longitude\": -84.55359335, \"event_details\": \"\", \"estimated_distance\": 750.71, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356958, \"event_id\": 6559, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-12\"}, {\"id\": 356959, \"event_id\": 6559, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-19\"}, {\"id\": 356960, \"event_id\": 6559, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-26\"}, {\"id\": 364116, \"event_id\": 6559, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-09-02\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:39.260063"
+}

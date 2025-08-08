@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul \\\"The Shepard's Table\\\" Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://spmame.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"8398 Lindbergh Blvd\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19153\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.89763266197043, \"longitude\": -75.2515017374475}, \"phones\": [{\"number\": \"(215) 365-3330\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed from 12/26/22 - 12/30/22\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.383183"
+}

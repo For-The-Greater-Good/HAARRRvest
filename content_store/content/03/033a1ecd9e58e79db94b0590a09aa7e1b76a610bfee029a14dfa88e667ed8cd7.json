@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community of Christ\", \"alternate_name\": \"\", \"description\": \"Manatee County resident required. Tampa Emergency Food Assistance Program requires low income or getting financial aid from SNAP (aka food stamps), TANF (temporary assistance to needy families), SSI (supplemental security income), or Medicaid.  If none of these apply, we have other options. \", \"email\": \"\", \"url\": \"https://cofchristbradenton.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5817 33rd Street East\", \"address_2\": null, \"city\": \"Bradenton\", \"state_province\": \"FL\", \"postal_code\": \"34203\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.4377589, \"longitude\": -82.5212817}, \"phones\": [{\"number\": \"(941) 751-5441\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Form needs to be filled out with household size \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.402669"
+}

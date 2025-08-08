@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Met Council - Lindenbaum Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"77 Water Street\", \"address_2\": null, \"city\": \"Manhattan\", \"state_province\": \"NY\", \"postal_code\": \"10005\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.70428099999999, \"longitude\": -74.0082994}, \"phones\": [{\"number\": \"(646) 995-8441\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.504950"
+}

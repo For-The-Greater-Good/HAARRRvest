@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Orting\", \"alternate_name\": \"\", \"description\": \"Please visit us during distribution hours to sign up.\", \"email\": \"\", \"url\": \"https://ortingfoodbank.org/get-food/\", \"status\": \"active\", \"address\": {\"address_1\": \"224 Washington Avenue Southeast\", \"address_2\": null, \"city\": \"Orting\", \"state_province\": \"WA\", \"postal_code\": \"98360\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.0965306, \"longitude\": -122.2017881}, \"phones\": [{\"number\": \"(360) 893-0095\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Names of all household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.129279"
+}

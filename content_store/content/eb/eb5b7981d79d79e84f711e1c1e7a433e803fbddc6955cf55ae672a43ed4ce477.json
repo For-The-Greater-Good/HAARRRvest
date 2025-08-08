@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Helping Hands, Inc\", \"alternate_name\": \"\", \"description\": \"Contact: Rose Slade\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"24360 Beck Road\", \"address_2\": null, \"city\": \"Hollywood\", \"state_province\": \"MD\", \"postal_code\": \"20636\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.3349774, \"longitude\": -76.5585597}, \"phones\": [{\"number\": \"(301) 373-6990\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.597427"
+}

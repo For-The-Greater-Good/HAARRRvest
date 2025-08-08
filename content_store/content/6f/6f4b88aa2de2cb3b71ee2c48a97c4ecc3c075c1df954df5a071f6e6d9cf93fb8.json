@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hampden United Methodist Church\", \"alternate_name\": \"\", \"description\": \"The 1st and 2nd Wednesdays of the month are open to any residents of Baltimore City.\\n\\nThe 3rd and 4th Wednesdays are only for residents of 21209 and 21211 in Baltimore City.  \\n\\nThe Pantry is closed on the 5th Wednesday of the month.\", \"email\": \"\", \"url\": \"https://hampdenchurch.org/hampden-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"3449 Falls Road\", \"address_2\": null, \"city\": \"Hampden\", \"state_province\": \"MD\", \"postal_code\": \"21211\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3297469, \"longitude\": -76.634237}, \"phones\": [{\"number\": \"(410) 235-0679\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.846048"
+}

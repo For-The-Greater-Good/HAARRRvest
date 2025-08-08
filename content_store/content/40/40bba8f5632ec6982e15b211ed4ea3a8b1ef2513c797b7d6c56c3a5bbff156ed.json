@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3775, \"name\": \"Christ\\u2019s church @ Tiffin\", \"nickname\": \"Christ\", \"address\": \"2586 W US HIGHWAY 224\", \"city\": \"TIFFIN\", \"state\": \"OH\", \"zip\": \"44883\", \"phone\": \"4196182875\", \"latitude\": 41.10879, \"longitude\": -83.22089, \"estimated_distance\": 815.8, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6763, \"name\": \"CSFP Distribution\", \"address\": \"2586 W US HIGHWAY 224\", \"city\": \"TIFFIN\", \"state\": \"OH\", \"zip\": \"44883\", \"latitude\": 41.10878132, \"longitude\": -83.22099167, \"event_details\": \"\", \"estimated_distance\": 815.8, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357964, \"event_id\": 6763, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-20\"}, {\"id\": 365130, \"event_id\": 6763, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 35, \"service_category_name\": \"CSFP\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:39.901270"
+}

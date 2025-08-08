@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Food Bank Council of Michigan- SNAP Assistance\", \"alternate_name\": \"\", \"description\": \"Families need to complete the 2024-25 school meal & summer EBT application to receive summer benefits ($120 per eligible child)- name spelling, address, etc. all need to be up to date and accurate! Summer EBT Outreach Toolkit\\\" https://newmibridges.michigan.gov/s/isd-landing-page?language=en_US\\nThrough our helpline we are able to offer assistance in over 240 languages to Michigan residents in all 83 counties that may need help with applying for SNAP benefits, accessing local food programs, or referrals to other resources. Call (888) 544-8773 and select option #1 to apply online.\\n\\n\", \"email\": \"\", \"url\": \"https://www.fbcmich.org/food-resources-helpline\", \"status\": \"active\", \"address\": {\"address_1\": \"330 Marshall Street\", \"address_2\": null, \"city\": \"Eastside\", \"state_province\": \"MI\", \"postal_code\": \"48912\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.7373717, \"longitude\": -84.525086}, \"phones\": [{\"number\": \"(888) 544-8773\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.216462"
+}

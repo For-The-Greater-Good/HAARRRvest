@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Chester Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://docs.google.com/forms/d/e/1FAIpQLSf3kEF1jnJ4aiSODB4W_MRTtbdxFynAFBrwXc7WkpioEZ6VVg/viewform fill form online to get help...\\nIf you are in need of assistance, reach out to us via email or Facebook.\", \"email\": \"\", \"url\": \"https://www.chestermendhamfp.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"100 North Road\", \"address_2\": null, \"city\": \"Chester\", \"state_province\": \"NJ\", \"postal_code\": \"07930\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.794018, \"longitude\": -74.668204}, \"phones\": [{\"number\": \"(973) 879-2548\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.100138"
+}

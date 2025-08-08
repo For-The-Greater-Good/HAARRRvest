@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Soup Kitchen at Blessed Sacrament Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.blessedsacramentnyc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"152 West 71st Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10023\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7771846, \"longitude\": -73.9812123}, \"phones\": [{\"number\": \"(212) 877-3111\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.245256"
+}

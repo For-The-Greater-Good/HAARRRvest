@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Covenant Community Development Corporation\", \"alternate_name\": \"\", \"description\": \"- Walkins are accepted but you will be required to wait until everyone who made an appointment via plentiful is served and therefore might miss out on some food.\\n- Appoinments are made via plentiful.\", \"email\": \"\", \"url\": \"https://newcovenantdevelopmentcorp.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1175 Boston Road\", \"address_2\": \"\", \"city\": \"Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10456\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.828823, \"longitude\": -73.903717}, \"phones\": [{\"number\": \"(718) 328-6072\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.227185"
+}

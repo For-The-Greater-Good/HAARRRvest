@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Operation PAR\", \"alternate_name\": \"\", \"description\": \"Outpatient recovery program. Offers psychosocial assessments, and individual/group counseling.\", \"email\": \"\", \"url\": \"www.operationpar.org\", \"status\": \"active\", \"address\": {\"address_1\": \"7720 Washington Street\", \"address_2\": null, \"city\": \"Port Richey\", \"state_province\": \"FL\", \"postal_code\": \"34668\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2692346, \"longitude\": -82.7191816}, \"phones\": [{\"number\": \"(727) 499-2335\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:18.079291"
+}

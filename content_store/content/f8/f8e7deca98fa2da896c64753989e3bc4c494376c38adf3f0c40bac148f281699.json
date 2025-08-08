@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Overcomers House \", \"alternate_name\": \"\", \"description\": \"Online registration required https://acfb.oasisinsight.net/kiosk/68f912b37b7c2b071fac70a3e6e68f5d4bec32ecbe34412c4dd684c76255c02c/\", \"email\": \"\", \"url\": \"myovercomershouse.com/services\", \"status\": \"active\", \"address\": {\"address_1\": \"2114 Fountain Square\", \"address_2\": null, \"city\": \"Snellville\", \"state_province\": \"GA\", \"postal_code\": \"30078\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8563868, \"longitude\": -84.0336822}, \"phones\": [{\"number\": \"(678) 615-7714\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"06:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.286995"
+}

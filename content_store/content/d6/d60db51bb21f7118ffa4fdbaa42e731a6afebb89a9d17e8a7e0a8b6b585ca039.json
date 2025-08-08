@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Thomas Church Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stlcnj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"135 Salmon Street\", \"address_2\": null, \"city\": \"Brick\", \"state_province\": \"New Jersey\", \"postal_code\": \"08723\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.063957, \"longitude\": -74.137817}, \"phones\": [{\"number\": \"(732) 477-5533\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.220139"
+}

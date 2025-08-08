@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Belleville City Hall\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6 Main Street\", \"address_2\": null, \"city\": \"Belleville\", \"state_province\": \"MI\", \"postal_code\": \"48111\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2051762, \"longitude\": -83.4854957}, \"phones\": [{\"number\": \"(734) 697-9323\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:58.770274"
+}

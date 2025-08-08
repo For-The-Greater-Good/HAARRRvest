@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Montgomery County Muslim Foundation\", \"alternate_name\": \"\", \"description\": \"Residents of Montgomery County who are in need of food are advised to contact MCMF at mcmfmd@gmail.com and (301) 825-3657.\", \"email\": \"\", \"url\": \"https://mcmfmd.org/charity-programs\", \"status\": \"active\", \"address\": {\"address_1\": \"11 Park Avenue\", \"address_2\": \"Suite G\", \"city\": \"Gaithersburg\", \"state_province\": \"MD\", \"postal_code\": \"20877\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1431523, \"longitude\": -77.194682}, \"phones\": [{\"number\": \"(301) 825-3657\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.813004"
+}

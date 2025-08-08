@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mobile Meals of Hamilton Township, Inc.\", \"alternate_name\": \"\", \"description\": \"Mobile Meals of Hamilton Township, Inc., delivers hot, nutritious meals to Hamilton residents whose physical, mental or social conditions require a home-delivered meal service Monday-Friday from 10:15 am-1:30pm. Qualified individuals are homebound, chronically ill, handicapped or convalescing. Interested individuals can call 6094484088\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2277 New Jersey 33\", \"address_2\": null, \"city\": \"Hamilton Square\", \"state_province\": \"NJ\", \"postal_code\": \"08690\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2206711, \"longitude\": -74.6386708}, \"phones\": [{\"number\": \"(609) 448-4088\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:15\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:15\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:15\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:15\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:15\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors and people with disabilities\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.284868"
+}

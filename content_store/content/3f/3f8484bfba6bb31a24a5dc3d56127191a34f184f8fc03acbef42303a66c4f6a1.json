@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Victory Outreach Christian Ministry Food Pantry\", \"alternate_name\": \"\", \"description\": \"Distribution is at E Westmoreland St & F St\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"735 E Westmoreland St\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19140\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0026555, \"longitude\": -75.1321454}, \"phones\": [{\"number\": \"(267) 344-9665\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Spanish Available\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.444522"
+}

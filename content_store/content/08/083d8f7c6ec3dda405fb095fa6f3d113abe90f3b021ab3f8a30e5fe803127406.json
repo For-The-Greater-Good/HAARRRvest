@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"OPEN DOOR MINISTRIES\", \"alternate_name\": \"\", \"description\": \"Please bring income and household information.\", \"email\": \"\", \"url\": \"https://www.odminc.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"13 North Coastal Highway\", \"address_2\": null, \"city\": \"Savannah\", \"state_province\": \"GA\", \"postal_code\": \"31407\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.1567329, \"longitude\": -81.1654432}, \"phones\": [{\"number\": \"(912) 966-0387\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.539102"
+}

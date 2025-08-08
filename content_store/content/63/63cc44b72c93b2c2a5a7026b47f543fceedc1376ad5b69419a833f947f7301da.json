@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Augustine & St. Monica\", \"alternate_name\": \"\", \"description\": \"Clients can visit once every six weeks \", \"email\": \"\", \"url\": \"https://saintamparish.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4151 Seminole Street\", \"address_2\": null, \"city\": \"Pingree Park\", \"state_province\": \"MI\", \"postal_code\": \"48214\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3711621, \"longitude\": -83.0058074}, \"phones\": [{\"number\": \"(313) 921-4107\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.241280"
+}

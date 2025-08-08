@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sweetwater Mission @ Friendship Baptist Church\", \"alternate_name\": \"\", \"description\": \"In order to receive food all you need is the following:\\n\\nBring Proof of Residency (less than 30 days old) in the form of mail, a rent receipt, or new lease.\\n\\nProvide your Photo ID\\n\\nProvide proof of Children that are 17 years and under.\", \"email\": \"\", \"url\": \"https://www.sweetwatermission.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1880 Old Alabama Road Southwest\", \"address_2\": null, \"city\": \"Mableton\", \"state_province\": \"GA\", \"postal_code\": \"30126\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.80729000000001, \"longitude\": -84.60025139999999}, \"phones\": [{\"number\": \"(770) 819-0662\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:57.861856"
+}

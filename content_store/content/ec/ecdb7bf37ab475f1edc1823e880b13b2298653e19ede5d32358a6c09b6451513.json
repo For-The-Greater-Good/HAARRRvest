@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" San Antonio Catholic Church (St. Vincent de Paul) \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"24445 Rampart Boulevard\", \"address_2\": null, \"city\": \"Punta Gorda\", \"state_province\": \"FL\", \"postal_code\": \"33980\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.0026436, \"longitude\": -82.0438045}, \"phones\": [{\"number\": \"(941) 235-1254\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.565460"
+}

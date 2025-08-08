@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of St. Frances of Rome Food Pantry\", \"alternate_name\": \"\", \"description\": \"Clients have to arrive by 7 am to receive a number.\", \"email\": \"\", \"url\": \"https://sfrbronx.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4307 Barnes Avenue\", \"address_2\": \"\", \"city\": \"East Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10466\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8952973, \"longitude\": -73.8533885}, \"phones\": [{\"number\": \"(718) 324-5340\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.626457"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lawrence Township Commodities (LTFCS)\", \"alternate_name\": \"\", \"description\": \"Serves Cumberland County.\\n\\nRequirements: Requires to bring ID and qualifying documentation, which consists of one of the following: 1. Temporary assistance to needy families.2. Food stamp program.3. Supplemental Security Income (SSI). 4. Women, infants and children (WIC). 5. Medicaid. 6. Low income percurrent state guidelines. 7. Disaster.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"93 Maple Avenue\", \"address_2\": null, \"city\": \"Cedarville\", \"state_province\": \"NJ\", \"postal_code\": \"08311\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3325434, \"longitude\": -75.1990635}, \"phones\": [{\"number\": \"(856) 367-1833\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.969039"
+}

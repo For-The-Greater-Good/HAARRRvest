@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SAPNA Food Pantry\", \"alternate_name\": \"\", \"description\": \"*Must be pre-approved to pick up food* Email info@sapnanyc.org with your full name, phone number, and address. They will get back to you with the application (can be completed over the phone if there are tech/language barriers). Application will take 2-3 weeks to process. Once approved, they will call/text you about when you can visit (usually every other Friday). Fresh produce, cooking oil, dry goods, and eggs are usually given. They speak Bangla, Urdu, and Spanish & can help with other social services.\", \"email\": \"\", \"url\": \"http://www.sapnanyc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2348 Waterbury Avenue\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"New York\", \"postal_code\": \"10462\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8345512, \"longitude\": -73.846575}, \"phones\": [{\"number\": \"(718) 828-9772\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.125216"
+}

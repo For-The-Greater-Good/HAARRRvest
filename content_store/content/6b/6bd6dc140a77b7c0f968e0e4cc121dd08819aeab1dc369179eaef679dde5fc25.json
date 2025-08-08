@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary Temple -  Compassion Int.\", \"alternate_name\": \"\", \"description\": \"- You have to choose a day to go in as you cant go in twice a week\\n- Once in the parking lot and go to the white building which is located towards the back of the calvary learning center.\", \"email\": \"\", \"url\": \"http://calvarynj.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"1111 Preakness Ave\", \"address_2\": \"\", \"city\": \"Wayne\", \"state_province\": \"NJ\", \"postal_code\": \"07470\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.929168, \"longitude\": -74.22582}, \"phones\": [{\"number\": \"(973) 694-2938\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"00:00\", \"closes_at\": \"01:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.890800"
+}

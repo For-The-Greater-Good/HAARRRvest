@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Met Council - COJO Bensonhurst\", \"alternate_name\": \"\", \"description\": \"Serving zip codes; 11214, 11204, 11209, 11223.\", \"email\": \"\", \"url\": \"https://www.bencojo.org/programs.htm\", \"status\": \"active\", \"address\": {\"address_1\": \"8635 21st Avenue\", \"address_2\": \"Suite 1B\", \"city\": \"Bath Beach\", \"state_province\": \"NY\", \"postal_code\": \"11214\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.602336, \"longitude\": -73.99663869999999}, \"phones\": [{\"number\": \"(718) 333-1834\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.521395"
+}

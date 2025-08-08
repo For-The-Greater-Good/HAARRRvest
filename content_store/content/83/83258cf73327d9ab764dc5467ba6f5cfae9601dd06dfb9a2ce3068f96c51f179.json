@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Hope Food Pantry @ Milton United Methodist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"316 Dover-Milton Road\", \"address_2\": null, \"city\": \"Oak Ridge\", \"state_province\": \"NJ\", \"postal_code\": \"07438\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.0204284, \"longitude\": -74.52813300000001}, \"phones\": [{\"number\": \"(973) 697-3194\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.062438"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Middle River Baptist Church\", \"alternate_name\": \"\", \"description\": \"Clothing closet is open on 2nd and 4th Saturday, 8:30am-11:30am.\", \"email\": \"\", \"url\": \"http://www.middleriver.org\", \"status\": \"active\", \"address\": {\"address_1\": \"610 Middle River Road\", \"address_2\": null, \"city\": \"Middle River\", \"state_province\": \"MD\", \"postal_code\": \"21220\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.34144180000001, \"longitude\": -76.4499446}, \"phones\": [{\"number\": \"(410) 686-8810\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.370396"
+}

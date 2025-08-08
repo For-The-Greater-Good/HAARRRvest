@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Seventh Day Adventist Hispanic - Iglesia Adventista del S\\u00e9ptimo D\\u00eda Central de Charlotte\", \"alternate_name\": \"\", \"description\": \"ATTENTION\\n\\nTHESE DATES WILL BE CLOSED\\nMay 19 to 26. Evangelist campaign\\nJune 3 to 7. Mexican Consulate\\nJune 16 to 21. BVS\", \"email\": \"\", \"url\": \"https://www.iglesiadecharlotte.org/comunity-service-2\", \"status\": \"active\", \"address\": {\"address_1\": \"4620 East W.T. Harris Boulevard\", \"address_2\": null, \"city\": \"Charlotte\", \"state_province\": \"NC\", \"postal_code\": \"28215\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.251711, \"longitude\": -80.7376385}, \"phones\": [{\"number\": \"(862) 588-3870\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.448327"
+}

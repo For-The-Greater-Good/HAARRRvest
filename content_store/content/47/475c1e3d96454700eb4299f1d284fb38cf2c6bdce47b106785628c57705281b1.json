@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3822, \"name\": \"Coleman professional services\", \"nickname\": \"Coleman\", \"address\": \"529 s. Main st.\", \"city\": \"LIMA\", \"state\": \"OH\", \"zip\": \"45804\", \"phone\": \"5672426344\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 769.11, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6819, \"name\": \"Pantry\", \"address\": \"529 s. Main st.\", \"city\": \"LIMA\", \"state\": \"OH\", \"zip\": \"45804\", \"latitude\": 40.73379707, \"longitude\": -84.1049263, \"event_details\": \"\", \"estimated_distance\": 769.11, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358474, \"event_id\": 6819, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-11\"}, {\"id\": 358475, \"event_id\": 6819, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-18\"}, {\"id\": 358476, \"event_id\": 6819, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-25\"}, {\"id\": 365642, \"event_id\": 6819, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-09-08\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:40.284981"
+}

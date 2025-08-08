@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Chester Eastside Inc.\", \"alternate_name\": \"\", \"description\": \"2 emergency sessions of food supply in a year\\n\\nLocated in the basment of St.Paul's Church \", \"email\": \"\", \"url\": \"https://www.chestereastside.org\", \"status\": \"active\", \"address\": {\"address_1\": \"301 E. 9th St.\", \"address_2\": \"\", \"city\": \"Chester\", \"state_province\": \"PA\", \"postal_code\": \"19013\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.853277, \"longitude\": -75.358115}, \"phones\": [{\"number\": \"(610) 872-4812\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Christmas basket and Thanksgiving basket provided\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.368726"
+}

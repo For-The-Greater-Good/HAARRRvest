@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Caney Valley Agape Network & Food Pantry\", \"alternate_name\": \"\", \"description\": \"Must be a resident of Montgomery county with qualifying incomes.\\n\", \"email\": \"\", \"url\": \"https://www.facebook.com/CaneyValleyAgapeNetworkandFoodPantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"612 East 6th Avenue\", \"address_2\": null, \"city\": \"Caney\", \"state_province\": \"KS\", \"postal_code\": \"67333\", \"country\": \"US\"}, \"location\": {\"latitude\": 37.0094973, \"longitude\": -95.9267122}, \"phones\": [{\"number\": \"(918) 766-2060\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:20.712796"
+}

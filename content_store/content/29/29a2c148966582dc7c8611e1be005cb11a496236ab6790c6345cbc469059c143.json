@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cooperative Christian Ministry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"WWW.COOPERATIVEMINISTRY.COM\", \"status\": \"active\", \"address\": {\"address_1\": \"246 Country Club Drive Northeast\", \"address_2\": null, \"city\": \"Concord\", \"state_province\": \"NC\", \"postal_code\": \"28025\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.44464809999999, \"longitude\": -80.60281909999999}, \"phones\": [{\"number\": \"(704) 786-4709\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.956070"
+}

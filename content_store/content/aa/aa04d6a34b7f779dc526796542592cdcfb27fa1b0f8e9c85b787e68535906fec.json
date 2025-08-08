@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Mary's Church, Hamilton Village\", \"alternate_name\": \"\", \"description\": \"Hands out sandwiches\", \"email\": \"\", \"url\": \"https://www.uchcphiladelphia.org/meal-schedule.html\", \"status\": \"active\", \"address\": {\"address_1\": \"3916 Locust Walk\", \"address_2\": null, \"city\": \"University City\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9525594, \"longitude\": -75.20170209999999}, \"phones\": [{\"number\": \"(610) 639-4395\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"23:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.407446"
+}

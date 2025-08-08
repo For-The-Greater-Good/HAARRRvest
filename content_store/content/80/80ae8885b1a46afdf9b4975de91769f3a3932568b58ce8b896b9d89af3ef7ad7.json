@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"UNITED PASSAIC ORGANIZATION\", \"alternate_name\": \"\", \"description\": \"Distribution is in the back of the building.\", \"email\": \"\", \"url\": \"https://www.facebook.com/unityatunion/\", \"status\": \"active\", \"address\": {\"address_1\": \"221 Myrtle Ave\", \"address_2\": null, \"city\": \"Passaic\", \"state_province\": \"NJ\", \"postal_code\": \"07055\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8694652, \"longitude\": -74.1350015}, \"phones\": [{\"number\": \"(973) 472-2478\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"In the back of the building\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.786027"
+}

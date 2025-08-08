@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul\\u2019s Lutheran Church\\t\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://stpaulchurchnj.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"941 Slocum Avenue\", \"address_2\": null, \"city\": \"Ridgefield\", \"state_province\": \"NJ\", \"postal_code\": \"07657\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8376696, \"longitude\": -74.00288069999999}, \"phones\": [{\"number\": \"(201) 837-3189\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.909737"
+}

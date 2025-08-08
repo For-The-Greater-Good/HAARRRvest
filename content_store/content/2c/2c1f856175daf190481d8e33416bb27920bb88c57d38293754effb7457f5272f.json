@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Seventh Day Adventist Church-Pleasantville\", \"alternate_name\": \"\", \"description\": \"Requires to call for hours.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"102 Linden Avenue\", \"address_2\": null, \"city\": \"Pleasantville\", \"state_province\": \"NJ\", \"postal_code\": \"08232\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3941526, \"longitude\": -74.5213694}, \"phones\": [{\"number\": \"(609) 641-1416\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"06:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:39.594807"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4920, \"name\": \"Unity Baptist Church\", \"nickname\": \"Unity Baptist Church\", \"address\": \"1358 Mt. Vernon Ave\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43203\", \"phone\": \"\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 831.42, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 9148, \"name\": \"Meal Program\", \"address\": \"1358 Mt. Vernon Ave\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43203\", \"latitude\": 39.9735843, \"longitude\": -82.9660972, \"event_details\": \"\", \"estimated_distance\": 831.42, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360940, \"event_id\": 9148, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7 AM\", \"date\": \"2025-08-13\"}, {\"id\": 360941, \"event_id\": 9148, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7 AM\", \"date\": \"2025-08-20\"}, {\"id\": 360942, \"event_id\": 9148, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7 AM\", \"date\": \"2025-08-27\"}, {\"id\": 368060, \"event_id\": 9148, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7 AM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:42.019822"
+}

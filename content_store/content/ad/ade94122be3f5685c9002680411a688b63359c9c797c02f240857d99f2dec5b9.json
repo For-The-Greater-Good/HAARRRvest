@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 637, \"name\": \"Kings Kitchen\", \"nickname\": \"Kings Kitchen\", \"address\": \"1551 Canton Rd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44312\", \"phone\": \"330-733-8701\", \"latitude\": 41.02556, \"longitude\": -81.41961, \"estimated_distance\": 910.05, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 851, \"name\": \"Pantry\", \"address\": \"1551 Canton Rd\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44312\", \"latitude\": 41.02514497, \"longitude\": -81.42133878, \"event_details\": \"Regular Hours - 2nd Thursday from 3-4pm | Must register first week of the month by calling (330) 733-8701\", \"estimated_distance\": 910.05, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358945, \"event_id\": 851, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-14\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:32.808766"
+}

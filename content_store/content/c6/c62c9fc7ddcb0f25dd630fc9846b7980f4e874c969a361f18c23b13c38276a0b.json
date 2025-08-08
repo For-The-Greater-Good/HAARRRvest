@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Margaret\\u2019s Catholic Church\", \"alternate_name\": \"\", \"description\": \"The food pantry is located at the lower level, next to the playground (at the former daycare entrance).\", \"email\": \"\", \"url\": \"https://stmargaretos.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"408 Addison Road South\", \"address_2\": null, \"city\": \"Capitol Heights\", \"state_province\": \"MD\", \"postal_code\": \"20743\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8828153, \"longitude\": -76.8963709}, \"phones\": [{\"number\": \"(301) 336-3344\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.635539"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bernice Webster Food Pantry (Liberty Food Pantry)\", \"alternate_name\": \"\", \"description\": \"* Also there is a registration process. Gates open 12 noon.\\n* Clients must present a valid government issued ID.\", \"email\": \"\", \"url\": \"www.libertysda.org\", \"status\": \"active\", \"address\": {\"address_1\": \"3301 Milford Mill Road\", \"address_2\": null, \"city\": \"Windsor Mill\", \"state_province\": \"MD\", \"postal_code\": \"21244\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3476913, \"longitude\": -76.7675112}, \"phones\": [{\"number\": \"(410) 922-0050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.696681"
+}

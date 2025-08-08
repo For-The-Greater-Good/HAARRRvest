@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4288, \"name\": \"Zion Lutheran Church North Canton\", \"nickname\": \"Zion Lutheran\", \"address\": \"349 Lindy Lane Ave NW\", \"city\": \"North Canton\", \"state\": \"OH\", \"zip\": \"44720\", \"phone\": \"330-499-3909\", \"latitude\": 40.87996, \"longitude\": -81.41203, \"estimated_distance\": 910.6, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7751, \"name\": \"Pantry\", \"address\": \"349 Lindy Lane Ave NW\", \"city\": \"North Canton\", \"state\": \"OH\", \"zip\": \"44720\", \"latitude\": 40.8801229, \"longitude\": -81.41319458, \"event_details\": \"Regular Hours - 1st and 3rd Tuesday from 1-2pm\", \"estimated_distance\": 910.6, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359973, \"event_id\": 7751, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-19\"}, {\"id\": 367137, \"event_id\": 7751, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-09-02\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:41.222823"
+}

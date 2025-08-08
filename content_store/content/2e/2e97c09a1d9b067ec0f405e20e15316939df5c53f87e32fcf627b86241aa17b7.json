@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"GOD'S CO-OP PANTRY\", \"alternate_name\": \"\", \"description\": \"The pantry is moving after April. \\n\\nCurrently, the pantry is located in a large room behind the church sanctuary. A sign is beside the sidewalk leading to our door.\", \"email\": \"\", \"url\": \"https://brpc.org/mission/gods-co-op-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"321 Minebrook Road\", \"address_2\": null, \"city\": \"Bernardsville\", \"state_province\": \"NJ\", \"postal_code\": \"07924\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7092029, \"longitude\": -74.59107519999999}, \"phones\": [{\"number\": \"(908) 766-1616\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"22:30\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"22:30\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Documentation required for each member of household if picking up for family who is not present\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.607870"
+}

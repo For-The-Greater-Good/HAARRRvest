@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Solid Rock Baptist Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food distribution is closed on 1st wednesday of every month\", \"email\": \"\", \"url\": \"https://www.srbcnj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"644 Chancellor Avenue\", \"address_2\": null, \"city\": \"Irvington\", \"state_province\": \"NJ\", \"postal_code\": \"07111\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.71400089999999, \"longitude\": -74.2345775}, \"phones\": [{\"number\": \"(973) 373-8129\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on the 1st Wednesday of the month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.113262"
+}

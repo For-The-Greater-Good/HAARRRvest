@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Redland Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4888 Rocky Ford Road\", \"address_2\": null, \"city\": \"Valdosta\", \"state_province\": \"GA\", \"postal_code\": \"31601\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.71729999999999, \"longitude\": -83.38539999999999}, \"phones\": [{\"number\": \"(229) 560-4326\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:13.921832"
+}

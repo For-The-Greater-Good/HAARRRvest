@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3629, \"name\": \"Well of Hope Ministries\", \"nickname\": \"Well of Hope Ministries\", \"address\": \"3990 Faircrest St SW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44706\", \"phone\": \"330-234-2662\", \"latitude\": 40.75165, \"longitude\": -81.42737, \"estimated_distance\": 910.05, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6406, \"name\": \"Pantry\", \"address\": \"3990 Faircrest St SW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44706\", \"latitude\": 40.75142762, \"longitude\": -81.42742585, \"event_details\": \"3rd Saturday from 10-12pm\", \"estimated_distance\": 910.05, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359966, \"event_id\": 6406, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:38.825375"
+}

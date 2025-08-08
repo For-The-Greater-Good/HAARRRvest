@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dream Center of Forsyth County\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.dreamcenterforsyth.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"3650 Patterson Avenue\", \"address_2\": null, \"city\": \"Winston-Salem\", \"state_province\": \"NC\", \"postal_code\": \"27105\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.1400464, \"longitude\": -80.2441193}, \"phones\": [{\"number\": \"(336) 744-4004\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.982568"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Social Service Association of Ridgewood\", \"alternate_name\": \"\", \"description\": \"Only serves residents of Ridgewood, Glenwood, Ho Ho Kus, Wykoff and Midland Park\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6 Station Plaza\", \"address_2\": null, \"city\": \"Short Hills\", \"state_province\": \"NJ\", \"postal_code\": \"07078\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.725468, \"longitude\": -74.32370019999999}, \"phones\": [{\"number\": \"(201) 444-2980\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.015802"
+}

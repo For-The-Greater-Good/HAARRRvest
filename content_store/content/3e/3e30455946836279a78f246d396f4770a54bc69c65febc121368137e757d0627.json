@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Edmondson Village\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4518 Edmondson Avenue\", \"address_2\": null, \"city\": \"Rognel Heights\", \"state_province\": \"MD\", \"postal_code\": \"21229\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.29436489999999, \"longitude\": -76.6921366}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:15\", \"closes_at\": \"19:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:15\", \"closes_at\": \"19:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:15\", \"closes_at\": \"19:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:15\", \"closes_at\": \"19:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:15\", \"closes_at\": \"19:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.737479"
+}

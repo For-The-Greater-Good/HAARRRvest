@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"JVL/THE REFINERY\", \"alternate_name\": \"\", \"description\": \"Emergency service also available\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9014 Central Avenue\", \"address_2\": null, \"city\": \"Waycross\", \"state_province\": \"GA\", \"postal_code\": \"31503\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.19796791382538, \"longitude\": -82.22459096891397}, \"phones\": [{\"number\": \"(912) 816-3806\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.685568"
+}

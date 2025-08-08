@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"BackPack Beginnings\", \"alternate_name\": \"\", \"description\": \"The Family Market is open to Guilford County families with children under the age of 18 in the household.\\nPlease use the green button below to schedule, reschedule or cancel your appointment.  \\nhttps://backpackbeginnings.org/shopping-appointments/\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3711 Alliance Drive\", \"address_2\": null, \"city\": \"Hewitt Area\", \"state_province\": \"NC\", \"postal_code\": \"27407\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.05508409999999, \"longitude\": -79.8748821}, \"phones\": [{\"number\": \"(336) 709-9649\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:00\", \"closes_at\": \"08:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"06:00\", \"closes_at\": \"08:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:12.170097"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Clayton County Community Services\", \"alternate_name\": \"\", \"description\": \"404-363-0575 x209\", \"email\": \"\", \"url\": \"https://claytoncountycsa.org/food-assistance\", \"status\": \"active\", \"address\": {\"address_1\": \"1000 Main Street\", \"address_2\": null, \"city\": \"Forest Park\", \"state_province\": \"GA\", \"postal_code\": \"30297\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6206201, \"longitude\": -84.3573961}, \"phones\": [{\"number\": \"(404) 363-0575\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social security cards or Birth certificates for every member of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.136826"
+}

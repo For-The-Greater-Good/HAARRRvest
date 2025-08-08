@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Zephyrhills\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/firstpcz/\", \"email\": \"\", \"url\": \"https://www.firstpcz.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5510 19th Street\", \"address_2\": null, \"city\": \"City Of Zephyrhills\", \"state_province\": \"FL\", \"postal_code\": \"33542\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2380523, \"longitude\": -82.1721281}, \"phones\": [{\"number\": \"(813) 782-7412\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.533222"
+}

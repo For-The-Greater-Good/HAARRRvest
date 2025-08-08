@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ABUNDANT LIFE WORSHIP CENTER\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"43 South Jefferson Rd.\", \"address_2\": null, \"city\": \"Whippany\", \"state_province\": \"NJ\", \"postal_code\": \"07981\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.823989, \"longitude\": -74.43635}, \"phones\": [{\"number\": \"(973) 463-9455\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.065686"
+}

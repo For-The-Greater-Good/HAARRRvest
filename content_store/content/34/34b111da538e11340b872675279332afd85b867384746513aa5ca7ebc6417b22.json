@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Peter\\u2019s Pantry\", \"alternate_name\": \"\", \"description\": \"Provided food and voucher for church\\u2019s thrift shop\\n\\nPhoto id required.\", \"email\": \"\", \"url\": \"https://www.elmerumc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"21 South Main Street\", \"address_2\": \"21 South Main Street\", \"city\": \"Elmer\", \"state_province\": \"NJ\", \"postal_code\": \"08318\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.59374070000001, \"longitude\": -75.1684465}, \"phones\": [{\"number\": \"(856) 358-0135\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"23:30\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Soup Kitchen\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.167575"
+}

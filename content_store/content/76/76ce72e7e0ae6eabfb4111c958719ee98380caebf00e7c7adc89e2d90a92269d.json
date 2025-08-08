@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Campbell Park Recreation Center\", \"alternate_name\": \"\", \"description\": \"BreakSpot Meals\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"601 14th Street South\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33705\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7639533, \"longitude\": -82.6528644}, \"phones\": [{\"number\": \"(727) 893-7733\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Distribution in parking lot\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.316692"
+}

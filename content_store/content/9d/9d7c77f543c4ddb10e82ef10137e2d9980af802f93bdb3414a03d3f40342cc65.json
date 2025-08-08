@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Williamstown Sunrise Rotary / Monroe Twp Pantry\", \"alternate_name\": \"\", \"description\": \"Pantry located at Monroe Township Little League Concession Stand.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"408 Church Street\", \"address_2\": null, \"city\": \"Williamstown\", \"state_province\": \"NJ\", \"postal_code\": \"08094\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.68093959999999, \"longitude\": -74.9958614}, \"phones\": [{\"number\": \"(856) 728-9840\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.530986"
+}

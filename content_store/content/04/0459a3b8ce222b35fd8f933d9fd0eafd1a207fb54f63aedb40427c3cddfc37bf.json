@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"River Jordan, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.riverjordanproject.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"15809 Livingston Road\", \"address_2\": null, \"city\": \"Accokeek\", \"state_province\": \"MD\", \"postal_code\": \"20607\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.670398, \"longitude\": -77.012847}, \"phones\": [{\"number\": \"(301) 873-8704\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.024619"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cranford Family Care Food Pantry\", \"alternate_name\": \"\", \"description\": \"Call ahead or email cfamilycare@gmail.com to arrange a pickup\\n\", \"email\": \"\", \"url\": \"https://www.cranfordfamilycare.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"61 Myrtle St\", \"address_2\": \"\", \"city\": \"Cranford\", \"state_province\": \"NJ\", \"postal_code\": \"07016\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.655696, \"longitude\": -74.305508}, \"phones\": [{\"number\": \"(908) 276-3530\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Cranford residents only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.107548"
+}

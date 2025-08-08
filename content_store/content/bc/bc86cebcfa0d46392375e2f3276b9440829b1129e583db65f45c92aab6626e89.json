@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Purity Baptist Church \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.puritybaptistdc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1325 Maryland Avenue Northeast\", \"address_2\": null, \"city\": \"Northeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20002\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8980873, \"longitude\": -76.9872127}, \"phones\": [{\"number\": \"(202) 397-4333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Must be a resident of Washington DC\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.643841"
+}

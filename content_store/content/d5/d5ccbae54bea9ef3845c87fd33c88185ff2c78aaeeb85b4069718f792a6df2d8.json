@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Daily Bread Center\", \"alternate_name\": \"\", \"description\": \"Must live in Martins Ferry\\nDistribution Model: Drive Thru\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"401 South 4th Street\", \"address_2\": null, \"city\": \"Martins Ferry\", \"state_province\": \"OH\", \"postal_code\": \"43935\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.093909, \"longitude\": -80.72763499999999}, \"phones\": [{\"number\": \"(740) 609-3063\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.880091"
+}

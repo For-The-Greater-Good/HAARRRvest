@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Diakonia Shelter\", \"alternate_name\": \"\", \"description\": \"WORCESTER, SOMERSET, WOCAMACO \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"12747 Old Bridge Road\", \"address_2\": null, \"city\": \"Ocean City\", \"state_province\": \"MD\", \"postal_code\": \"21842\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.3323457, \"longitude\": -75.1074165}, \"phones\": [{\"number\": \"(410) 213-0923\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.281913"
+}

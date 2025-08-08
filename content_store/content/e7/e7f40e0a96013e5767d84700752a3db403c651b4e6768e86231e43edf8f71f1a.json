@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Baltimore Hunger Project\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.baltimorehungerproject.org/whats-in-a-bag/\", \"status\": \"active\", \"address\": {\"address_1\": \"9596 Deereco Road\", \"address_2\": null, \"city\": \"Timonium\", \"state_province\": \"MD\", \"postal_code\": \"21093\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4535375, \"longitude\": -76.6379771}, \"phones\": [{\"number\": \"(410) 989-1247\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.851685"
+}

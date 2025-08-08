@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fulfill NJ - Neptune Township\", \"alternate_name\": \"\", \"description\": \"Serves Monmouth County and Ocean County\", \"email\": \"\", \"url\": \"www.Fulfillnj.org\", \"status\": \"active\", \"address\": {\"address_1\": \"3300 New Jersey 66\", \"address_2\": null, \"city\": \"Neptune Township\", \"state_province\": \"NJ\", \"postal_code\": \"07753\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2291178, \"longitude\": -74.0614021}, \"phones\": [{\"number\": \"(732) 918-2600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"SNAP assistance available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.269886"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mallery Recreation Center\", \"alternate_name\": \"\", \"description\": \"Office Hours: 1:00pm to 9:00pm M-F. Call back when open\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"100 E. Johnson St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19144\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.04801239985588, \"longitude\": -75.17921260025821}, \"phones\": [{\"number\": \"(215) 685-2234\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.494447"
+}

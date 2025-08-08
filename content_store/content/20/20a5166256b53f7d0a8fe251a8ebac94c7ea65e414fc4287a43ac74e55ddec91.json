@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Maranatha - Springfield\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5515 Cherokee Ave Suite 102\", \"address_2\": null, \"city\": \"Alexandria\", \"state_province\": \"VA\", \"postal_code\": \"22312\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.804709, \"longitude\": -77.167149}, \"phones\": [{\"number\": \"(240) 375-2837\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of family composition required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Drive-thru delivery\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.505042"
+}

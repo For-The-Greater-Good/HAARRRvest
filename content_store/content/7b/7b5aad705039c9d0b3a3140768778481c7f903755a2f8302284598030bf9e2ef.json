@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace Church in Newark\", \"alternate_name\": \"\", \"description\": \"We produce about 72-96 bags per week and stop when we run out.\", \"email\": \"\", \"url\": \"https://www.gracechurchinnewark.org/the-food-ministry\", \"status\": \"active\", \"address\": {\"address_1\": \"950 Broad St\", \"address_2\": null, \"city\": \"Newark\", \"state_province\": \"NJ\", \"postal_code\": \"07102\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.73069, \"longitude\": -74.174318}, \"phones\": [{\"number\": \"(973) 623-1733\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.200631"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Area In Need Missionary House Inc.\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/areainneedmissionaryhouse/\", \"email\": \"\", \"url\": \"http://areainneed.org/contact-us/\", \"status\": \"active\", \"address\": {\"address_1\": \"681 Georgia 138\", \"address_2\": null, \"city\": \"Riverdale\", \"state_province\": \"GA\", \"postal_code\": \"30274\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.54959900000001, \"longitude\": -84.41269799999999}, \"phones\": [{\"number\": \"(770) 907-0025\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.591911"
+}

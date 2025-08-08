@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary's Mission Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ourcommunitypantry.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"102-16 89th Avenue\", \"address_2\": null, \"city\": \"Richmond Hill\", \"state_province\": \"NY\", \"postal_code\": \"11418\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6930895, \"longitude\": -73.8435145}, \"phones\": [{\"number\": \"(917) 397-6513\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.314529"
+}

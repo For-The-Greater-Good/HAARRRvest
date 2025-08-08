@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Brightmoor Connection Food Pantry\", \"alternate_name\": \"\", \"description\": \"MONDAY: 2-7pm (Last client seen at 6:30 pm)\\nTUESDAY: 2-7pm (Last client seen at 6:30 pm)\\nWednesdays: 10am-2pm (Last client seen at 1:30 pm)\\n\\n**Closed every first Monday of the month for delivery.  Closed the last week of the month.**\", \"email\": \"\", \"url\": \"https://brightmoorconnection.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"16621 Lahser Road\", \"address_2\": null, \"city\": \"Riverdale\", \"state_province\": \"MI\", \"postal_code\": \"48219\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4105618, \"longitude\": -83.25792369999999}, \"phones\": [{\"number\": \"(313) 740-7688\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on the last week of the month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:08.716683"
+}

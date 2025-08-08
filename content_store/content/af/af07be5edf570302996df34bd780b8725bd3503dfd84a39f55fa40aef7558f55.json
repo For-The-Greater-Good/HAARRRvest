@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Housing Solutions of New York\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"hsofny.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1802 Crotona Avenue\", \"address_2\": null, \"city\": \"West Bronx\", \"state_province\": \"NY\", \"postal_code\": \"10457\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8425989, \"longitude\": -73.8934529}, \"phones\": [{\"number\": \"(347) 974-7397\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.698287"
+}

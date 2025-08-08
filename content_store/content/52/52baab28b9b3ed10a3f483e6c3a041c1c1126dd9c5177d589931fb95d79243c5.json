@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hammonton Family Success Center\", \"alternate_name\": \"\", \"description\": \"Health Services, Job Services, Housing\", \"email\": \"\", \"url\": \"https://www.atlanticare.org/for-our-community/hammonton-family-success-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"310 Bellevue Avenue\", \"address_2\": null, \"city\": \"Hammonton\", \"state_province\": \"NJ\", \"postal_code\": \"08037\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6373044, \"longitude\": -74.8014042}, \"phones\": [{\"number\": \"(609) 567-2900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.764425"
+}

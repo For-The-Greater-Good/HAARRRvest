@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities Food Shopping Program\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.ccannj.org/adult-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"505 South Avenue East\", \"address_2\": null, \"city\": \"Cranford\", \"state_province\": \"NJ\", \"postal_code\": \"07016\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6557763, \"longitude\": -74.2974752}, \"phones\": [{\"number\": \"(908) 497-3950\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"For homebound older adult residents of Union County who are unable to shop for themselves and have no primary caregiver who can shop for them on a consistent basis. The shopping is done on Wednesday and Thursday mornings.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.297200"
+}

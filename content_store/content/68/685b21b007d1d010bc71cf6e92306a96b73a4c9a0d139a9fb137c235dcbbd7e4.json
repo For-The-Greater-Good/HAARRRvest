@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Baltimore Unity Hall\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.baltimoreunityhall.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1505 Eutaw Place\", \"address_2\": null, \"city\": \"Bolton Hill\", \"state_province\": \"MD\", \"postal_code\": \"21217\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3059909, \"longitude\": -76.62800399999999}, \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.777762"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Divine Mercy Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://divinemercyrc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"6667 Chester Avenue\", \"address_2\": null, \"city\": \"Elmwood Park\", \"state_province\": \"PA\", \"postal_code\": \"19142\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9275182, \"longitude\": -75.24065929999999}, \"phones\": [{\"number\": \"(610) 858-0607\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.476108"
+}

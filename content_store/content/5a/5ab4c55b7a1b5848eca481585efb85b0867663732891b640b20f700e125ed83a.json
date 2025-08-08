@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Anthony\\u2019s Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/StAnthonyBronx/\", \"status\": \"active\", \"address\": {\"address_1\": \"1750 Mansion St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10460\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8378781, \"longitude\": -73.8689982}, \"phones\": [{\"number\": \"(718) 931-4040\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Come early, line starts at 6am\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Grab and Go Meals\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.189522"
+}

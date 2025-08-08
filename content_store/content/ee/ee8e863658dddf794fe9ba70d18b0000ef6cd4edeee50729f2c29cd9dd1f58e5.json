@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Believers' Fellowship\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"150 Marion Avenue\", \"address_2\": null, \"city\": \"Spartanburg\", \"state_province\": \"SC\", \"postal_code\": \"29306\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.9393321, \"longitude\": -81.9232634}, \"phones\": [{\"number\": \"(864) 573-5049\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:15.260372"
+}

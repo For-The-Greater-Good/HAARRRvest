@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"85229\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in ST. THERESE OF LISIEUX R.C. CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-451-0683\", \"country\": \"US\"}, \"phones\": [{\"number\": \"4410 AVENUE D\", \"type\": \"voice\"}], \"location\": {\"latitude\": 55.8795926, \"longitude\": -4.2529893}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"ST. THERESE OF LISIEUX R.C. CHURCH\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:05:58.247304"
+}

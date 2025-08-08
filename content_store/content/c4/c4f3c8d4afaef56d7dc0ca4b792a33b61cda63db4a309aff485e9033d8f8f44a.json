@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Glassboro Food Bank\", \"alternate_name\": \"\", \"description\": \"Serves Glassboro residents only.\", \"email\": \"\", \"url\": \"https://www.glassborofoodbank.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"123a East High Street\", \"address_2\": null, \"city\": \"Glassboro\", \"state_province\": \"NJ\", \"postal_code\": \"08028\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.65686729999999, \"longitude\": -75.08816270000001}, \"phones\": [{\"number\": \"(856) 863-9030\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Supplemental governmental help proof is required (Disability, WIC, or Social Security)\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:10.429211"
+}

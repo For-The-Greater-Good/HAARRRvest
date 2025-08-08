@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wilkinson Elementary School\", \"alternate_name\": \"\", \"description\": \"6/14, 6/28, 7/12\\n8:30-9:30 am\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3400 Wilkinson Road\", \"address_2\": null, \"city\": \"Sarasota\", \"state_province\": \"FL\", \"postal_code\": \"34231\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.291503, \"longitude\": -82.50274999999999}, \"phones\": [{\"number\": \"(941) 379-6333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.279718"
+}

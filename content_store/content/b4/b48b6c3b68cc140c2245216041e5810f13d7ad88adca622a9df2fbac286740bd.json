@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Making a Way\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.makingawayhousing.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"377 Westchester Boulevard Northwest\", \"address_2\": null, \"city\": \"Grove Park\", \"state_province\": \"GA\", \"postal_code\": \"30314\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7656078, \"longitude\": -84.4529189}, \"phones\": [{\"number\": \"(404) 792-8011\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Follow the distribution line\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:01.708291"
+}

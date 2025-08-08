@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jerusalem Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"106-8 Atlantic Steet\", \"address_2\": null, \"city\": \"Jersey City\", \"state_province\": \"NJ\", \"postal_code\": \"07304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.716096, \"longitude\": -74.077499}, \"phones\": [{\"number\": \"(973) 951-5765\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: August\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.718895"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Druid Hills Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"County or Counties Served: Fulton\", \"email\": \"\", \"url\": \"https://www.druidhillspresbyterian.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1026 Ponce De Leon Avenue Northeast\", \"address_2\": null, \"city\": \"Virginia-Highland\", \"state_province\": \"GA\", \"postal_code\": \"30306\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.77444019999999, \"longitude\": -84.3538719}, \"phones\": [{\"number\": \"(678) 656-2618\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients may visit twice a week\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Outdoor distribution\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.086641"
+}

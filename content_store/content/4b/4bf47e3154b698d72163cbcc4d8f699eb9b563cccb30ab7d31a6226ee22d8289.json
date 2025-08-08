@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Nourish Food Pantry at Mt. Olive UMC, Community Meal\", \"alternate_name\": \"\", \"description\": \"Announcing the new name for \\\"Loaves & Fishes\\\": \\\"Nourish\\\", same mission, new name.\\nOffice hours:\\nMon.\\u2013 Thurs. 9:00 am \\u2013 3:00 pm\\n-No disribution on the 4th of July\\n\", \"email\": \"\", \"url\": \"https://mountoliveumcmd.org/loaves-and-fishes/\", \"status\": \"active\", \"address\": {\"address_1\": \"5115 Old Court Road\", \"address_2\": null, \"city\": \"Randallstown\", \"state_province\": \"MD\", \"postal_code\": \"21133\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.36311, \"longitude\": -76.7765}, \"phones\": [{\"number\": \"(410) 922-2853\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:08.094318"
+}

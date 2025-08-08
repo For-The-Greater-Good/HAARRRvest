@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Uplift Christian Ministries\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://upliftmin.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"9100 Olmsted Drive\", \"address_2\": null, \"city\": \"University City North\", \"state_province\": \"NC\", \"postal_code\": \"28262\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.3118072, \"longitude\": -80.746507}, \"phones\": [{\"number\": \"(704) 491-7460\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Form needs to be filled out with household size \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.409996"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lutheran Church of the Holy Communion\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.lc-hc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"2111 Sansom Street\", \"address_2\": \"\", \"city\": \"Center City West\", \"state_province\": \"PA\", \"postal_code\": \"19103\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9517253, \"longitude\": -75.176107}, \"phones\": [{\"number\": \"(215) 567-3668\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.528998"
+}

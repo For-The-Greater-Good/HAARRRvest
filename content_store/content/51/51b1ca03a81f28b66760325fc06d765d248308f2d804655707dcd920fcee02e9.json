@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Medgar Evers College Cougar Country Pantry\", \"alternate_name\": \"\", \"description\": \"Distribution is outside of building, Sometimes they don't have a food to distribute so they put closed flyer outside the building.\", \"email\": \"\", \"url\": \"https://ares.mec.cuny.edu/cougar-country-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1638 Bedford Avenue\", \"address_2\": null, \"city\": \"Crown Heights\", \"state_province\": \"NY\", \"postal_code\": \"11225\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6670846, \"longitude\": -73.95774899999999}, \"phones\": [{\"number\": \"(718) 804-8269\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.350659"
+}

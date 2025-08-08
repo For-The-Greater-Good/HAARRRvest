@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Season Apostolic Church Of Jesus\", \"alternate_name\": \"\", \"description\": \"* Tuesday 7:30 am - 9:30 am last names A-K \\n* Friday 7:30 am - 9:30 am last names L-Z \\n\\nGates open at 6am. Bring your own bags.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7416 East Mohawk Avenue\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33610\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9975818, \"longitude\": -82.3717597}, \"phones\": [{\"number\": \"(813) 598-8466\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"11:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"11:30\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.768047"
+}

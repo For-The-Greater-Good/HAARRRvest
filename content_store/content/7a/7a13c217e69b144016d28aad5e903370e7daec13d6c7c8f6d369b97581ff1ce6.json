@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Burlington County Office of Human Services\", \"alternate_name\": \"\", \"description\": \"* Must provide County ID\\n* Must arrive early and make sure that your car has gas as there is usually 200 cars in line by 10am.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"695 Woodlane Road\", \"address_2\": null, \"city\": \"Westampton\", \"state_province\": \"NJ\", \"postal_code\": \"08060\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0188066, \"longitude\": -74.8232902}, \"phones\": [{\"number\": \"(609) 265-5536\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.290280"
+}

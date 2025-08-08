@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Temple of Praise\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://thetempleofpraise.org/news/\", \"status\": \"active\", \"address\": {\"address_1\": \"700 Southern Avenue Southeast\", \"address_2\": null, \"city\": \"Southeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20032\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8260505, \"longitude\": -76.9960858}, \"phones\": [{\"number\": \"(202) 561-0100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:39.382751"
+}

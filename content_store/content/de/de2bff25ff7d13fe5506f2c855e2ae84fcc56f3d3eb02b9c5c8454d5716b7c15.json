@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Liz's Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.stelmo79.org/lizspantry\", \"status\": \"active\", \"address\": {\"address_1\": \"406 E 80th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10024\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.795769, \"longitude\": -73.949226}, \"phones\": [{\"number\": \"(212) 288-6250\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:00.024589"
+}

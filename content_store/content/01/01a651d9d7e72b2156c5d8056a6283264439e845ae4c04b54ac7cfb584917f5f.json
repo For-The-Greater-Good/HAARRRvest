@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Largo Community Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1701 Enterprise Road\", \"address_2\": null, \"city\": \"Mitchellville\", \"state_province\": \"MD\", \"postal_code\": \"20721\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.913834, \"longitude\": -76.79818}, \"phones\": [{\"number\": \"(301) 249-2255\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.481311"
+}

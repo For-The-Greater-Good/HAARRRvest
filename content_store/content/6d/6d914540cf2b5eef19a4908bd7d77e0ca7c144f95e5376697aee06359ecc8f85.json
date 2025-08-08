@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Elizabeth Outreach Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://stcasimir.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2700 East Baltimore Street\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21224\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2924509, \"longitude\": -76.5787392}, \"phones\": [{\"number\": \"(410) 675-8260\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.758918"
+}

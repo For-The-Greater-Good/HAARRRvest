@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dove Creek Care and Share Food Pantry\", \"alternate_name\": \"\", \"description\": \"Food pantry in 81324  81320  81332  81325  81335  81331\", \"url\": \"https://careandshare.org/locations/dove-creek-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": \"\", \"city\": \"\", \"state_province\": \"CO\", \"postal_code\": \"81324\", \"country\": \"US\"}, \"phones\": [{\"number\": \"970-769-0006 or 970-677-2214\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"2 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"2 p.m.\"}, {\"weekday\": \"Friday\", \"opens_at\": \"10 a.m.\", \"closes_at\": \"2 p.m.\"}], \"location\": {\"latitude\": 37.763944793383, \"longitude\": -108.90587609676}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-08-08T05:10:39.015966"
+}

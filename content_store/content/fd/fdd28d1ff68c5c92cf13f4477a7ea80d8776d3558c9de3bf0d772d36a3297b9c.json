@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Client can visit every other month.\", \"email\": \"\", \"url\": \"https://www.concordiafumc.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"740 West 11th Street\", \"address_2\": null, \"city\": \"Concordia\", \"state_province\": \"KS\", \"postal_code\": \"66901\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5657874, \"longitude\": -97.67180959999999}, \"phones\": [{\"number\": \"(785) 243-4560\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:15\", \"closes_at\": \"16:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:21.480989"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"City Harvest Mobile Market \\u2013 Sunset Park\", \"alternate_name\": \"\", \"description\": \"Must be a Brooklyn resident to receive food\\nLOCATION\\nCity Harvest Food Rescue Center, 52nd Street and 1st Avenue\", \"email\": \"\", \"url\": \"https://www.cityharvest.org/mobile-markets/\", \"status\": \"active\", \"address\": {\"address_1\": \"150 52nd St\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11232\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.648277, \"longitude\": -74.018845}, \"phones\": [{\"number\": \"(646) 412-0600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.004114"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Covenant Food Pantry\", \"alternate_name\": \"\", \"description\": \"The Food Pantry is closed in the month of November.\\nDuring Level 2 and Level 3 snow emergencies, the Food Pantry will be canceled.  It will not be rescheduled.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"13360 New Delaware Road\", \"address_2\": null, \"city\": \"Mount Vernon\", \"state_province\": \"OH\", \"postal_code\": \"43050\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3892127, \"longitude\": -82.5090278}, \"phones\": [{\"number\": \"(740) 392-3152\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.682847"
+}

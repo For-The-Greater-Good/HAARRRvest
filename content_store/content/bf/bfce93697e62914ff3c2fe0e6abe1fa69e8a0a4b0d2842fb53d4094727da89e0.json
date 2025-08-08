@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ARCHER CHURCH OF THE NAZARENE\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://archernaz.com/Helping-Hands-Food-Pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"13327 Florida 45\", \"address_2\": null, \"city\": \"Archer\", \"state_province\": \"FL\", \"postal_code\": \"32618\", \"country\": \"US\"}, \"location\": {\"latitude\": 29.5315535, \"longitude\": -82.5182878}, \"phones\": [{\"number\": \"(352) 495-2291\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.920764"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project Hospitality, Staten Island University Hospital North - Mobile Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://projecthospitality.org/wp-content/uploads/2021/07/mobile-pantry-july-2021-eng-spanish.jpg\", \"status\": \"active\", \"address\": {\"address_1\": \"475 Seaview Ave\", \"address_2\": null, \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10305\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.58485524247119, \"longitude\": -74.08613473099489}, \"phones\": [{\"number\": \"(718) 815-0800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.558134"
+}

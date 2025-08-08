@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"TCRC Community Healing Center at First Afrikan Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.thefabchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"6700 Lansdowne Ave\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19151\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.97417648318111, \"longitude\": -75.25392523745738}, \"phones\": [{\"number\": \"(215) 791-0645\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Pet food upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must provide address, list of family members, and proof of family composition\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.798769"
+}

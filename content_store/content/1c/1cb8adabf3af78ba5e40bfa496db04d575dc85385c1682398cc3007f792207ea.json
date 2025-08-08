@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jewish Family Service (JFS) of Clifton/Passaic\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://jfsclifton.org/project/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"110 Main Avenue\", \"address_2\": null, \"city\": \"Passaic\", \"state_province\": \"NJ\", \"postal_code\": \"07055\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8430514, \"longitude\": -74.12963900000001}, \"phones\": [{\"number\": \"(973) 777-7638\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Non-perishable food only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Kosher food available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.623637"
+}

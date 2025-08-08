@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Franklin Twp Food Bank\", \"alternate_name\": \"\", \"description\": \"Please call for an appointment at 732-246-0009\\nAlso served: Franklin Township \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"224 Churchill Avenue\", \"address_2\": null, \"city\": \"Somerset\", \"state_province\": \"NJ\", \"postal_code\": \"08873\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4846337, \"longitude\": -74.50243019999999}, \"phones\": [{\"number\": \"(732) 246-0009\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:10.373189"
+}

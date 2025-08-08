@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Providence Center\", \"alternate_name\": \"\", \"description\": \"Registration at 11:30am\\nOne visit per month\\nServes: 43609 (first 25 people are served)\\nRequired: Photo ID, proof of income, proof of address, verification for each household member\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1205 Broadway Street\", \"address_2\": null, \"city\": \"Southside\", \"state_province\": \"OH\", \"postal_code\": \"43609\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6342059, \"longitude\": -83.5513632}, \"phones\": [{\"number\": \"(419) 244-0666\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.188480"
+}

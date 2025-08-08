@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ellis Baptist Church\", \"alternate_name\": \"\", \"description\": \"Financial requirements must be met.\", \"email\": \"\", \"url\": \"https://www.ellisbc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"107 West 9th Street\", \"address_2\": null, \"city\": \"Ellis\", \"state_province\": \"KS\", \"postal_code\": \"67637\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9386293, \"longitude\": -99.5608247}, \"phones\": [{\"number\": \"(785) 726-3657\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:21.267865"
+}

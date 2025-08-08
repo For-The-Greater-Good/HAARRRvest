@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Father\\u2019s Heart Ministries\", \"alternate_name\": \"\", \"description\": \"Our Hunger Prevention Program consists of a soup kitchen and food pantry, open every Saturday except the first Saturday of the month from 8:30AM to 11 AM. Approximately 1,000 people or more are fed in our soup kitchen during this time. They are served eggs, potatoes, cereal, bread, fruit, juice, coffee and milk.\\n\\nGuests also receive a food pantry bag, which supplies emergency and supplemental food in grocery bags.\\n\\nRegular clients must register and must bring ID and proof of residence.\", \"email\": \"\", \"url\": \"https://www.fathersheartnyc.org/hungerprevention\", \"status\": \"active\", \"address\": {\"address_1\": \"543 East 11th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10009\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7278475, \"longitude\": -73.97987789999999}, \"phones\": [{\"number\": \"(212) 375-1765\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.371841"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"DreamCenterNYC, Fulton Houses\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.dreamcenter.nyc/support\", \"status\": \"active\", \"address\": {\"address_1\": \"459 W 17th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10011\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7431615, \"longitude\": -74.00466879999999}, \"phones\": [{\"number\": \"(917) 327-6050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.933951"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Urban Health Collaborative\", \"alternate_name\": \"\", \"description\": \"Feeding Hope Food and Clothing Pantry will provide food clothing items prioritizing residents \\nfrom, New Brunswick, and North Brunswick, but we will also serve community members from Franklin, \\nMilltown, and Piscataway. We will be accepting new applications for regular clients and we will \\npost community pantry days on our website and social media accounts as they come. We aim to \\nnourish the residents and inform them of better eating practices.\", \"email\": \"\", \"url\": \"https://theurbanhealthcollaborative.com/food-pantry-signup/\", \"status\": \"active\", \"address\": {\"address_1\": \"24 Kirkpatrick St\", \"address_2\": null, \"city\": \"New Brunswick\", \"state_province\": \"NJ\", \"postal_code\": \"8901\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.493542, \"longitude\": -74.446663}, \"phones\": [{\"number\": \"(732) 419-7195\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:01.426785"
+}

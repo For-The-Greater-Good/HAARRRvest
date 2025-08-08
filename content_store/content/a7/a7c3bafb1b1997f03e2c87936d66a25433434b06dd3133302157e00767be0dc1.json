@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Life Connection Center   \", \"alternate_name\": \"\", \"description\": \"Hot Meals for Middlesex County Adults\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"192 Appleton Street\", \"address_2\": null, \"city\": \"Back Central\", \"state_province\": \"MA\", \"postal_code\": \"01852\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6398553, \"longitude\": -71.3118037}, \"phones\": [{\"number\": \"(978) 997-0588\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:54.644311"
+}

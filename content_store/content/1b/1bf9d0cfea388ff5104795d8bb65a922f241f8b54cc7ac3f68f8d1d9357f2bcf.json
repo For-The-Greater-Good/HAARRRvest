@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Asbury UMC\", \"alternate_name\": \"\", \"description\": \"Richmond County \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1305 Troupe Street\", \"address_2\": null, \"city\": \"Summerville\", \"state_province\": \"GA\", \"postal_code\": \"30904\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.4682591, \"longitude\": -82.01513539999999}, \"phones\": [{\"number\": \"(706) 339-3867\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.020749"
+}

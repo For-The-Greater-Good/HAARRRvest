@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Faith Tabernacle Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"553 Spruce Street\", \"address_2\": null, \"city\": \"Bergen Square\", \"state_province\": \"NJ\", \"postal_code\": \"08103\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.93540669999999, \"longitude\": -75.1184846}, \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.244789"
+}

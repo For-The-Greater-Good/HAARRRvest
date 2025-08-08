@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dorcas Ministry Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"249 Holden Road\", \"address_2\": null, \"city\": \"Youngsville\", \"state_province\": \"NC\", \"postal_code\": \"27596\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.0221137, \"longitude\": -78.4885927}, \"phones\": [{\"number\": \"(919) 556-3420\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:15\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:10.733167"
+}

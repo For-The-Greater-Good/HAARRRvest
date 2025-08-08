@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Gregory\\u2019s @ St. Mary\\u2019s By the Sea\", \"alternate_name\": \"\", \"description\": \"* Open to clients that has been referred by schools, churches, and social services agencies.\\n* Clients can request for food bags every two weeks, unless experiencing special circumstances.\\n* Special distribution during Easter, Thanksgiving, and Christmas.\\n* Closed for couple of days after major distribution.\", \"email\": \"\", \"url\": \"https://stgregoryspantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"804 Bay Avenue\", \"address_2\": null, \"city\": \"Point Pleasant Beach\", \"state_province\": \"New Jersey\", \"postal_code\": \"08742\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0880597, \"longitude\": -74.0515387}, \"phones\": [{\"number\": \"(732) 892-8105\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.250194"
+}

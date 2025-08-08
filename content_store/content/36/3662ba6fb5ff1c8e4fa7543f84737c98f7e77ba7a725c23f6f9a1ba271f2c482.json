@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"EVANGEL TEMPLE ASSEMBLY OF GOD\", \"alternate_name\": \"\", \"description\": \"Food receivable: fresh produce, refrigerated,\\nfrozen, dry goods. Serves directly to individuals.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5475 Ramona Boulevard\", \"address_2\": null, \"city\": \"Normandy\", \"state_province\": \"FL\", \"postal_code\": \"32205\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.31431659999999, \"longitude\": -81.7412927}, \"phones\": [{\"number\": \"(904) 291-1426\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.560239"
+}

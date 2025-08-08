@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hillsdale Helping Hands Food Pantry \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"349 Hillsdale Avenue\", \"address_2\": null, \"city\": \"Hillsdale\", \"state_province\": \"NJ\", \"postal_code\": \"07642\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.0024272, \"longitude\": -74.0367844}, \"phones\": [{\"number\": \"(201) 664-0600\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:15\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:58.535290"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 842, \"name\": \"Louisville Community Cupboard\", \"nickname\": \"Louisville Community Cupboard\", \"address\": \"930 S Nickelplate St\", \"city\": \"Louisville\", \"state\": \"OH\", \"zip\": \"44641\", \"phone\": \"330-704-7418\", \"latitude\": 40.83264, \"longitude\": -81.25035, \"estimated_distance\": 919.23, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1232, \"name\": \"Pantry\", \"address\": \"930 S Nickelplate St\", \"city\": \"Louisville\", \"state\": \"OH\", \"zip\": \"44641\", \"latitude\": 40.8320523, \"longitude\": -81.2503517, \"event_details\": \"Regular Hours - 1st and 3rd Thursday from 3-5pm | Website: www.louisvillecommunitycupboard.org\", \"estimated_distance\": 919.23, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359119, \"event_id\": 1232, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-21\"}, {\"id\": 366287, \"event_id\": 1232, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"3 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:33.699977"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Clintonville Beechwold CRC Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.clintonvillecrc.org/family-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"3222 North High Street\", \"address_2\": null, \"city\": \"Clintonville\", \"state_province\": \"OH\", \"postal_code\": \"43202\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.02788779999999, \"longitude\": -83.0142039}, \"phones\": [{\"number\": \"(614) 268-8118\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:15\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Copy of photo ID: Medicaid/food stamp or section\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Helps with income, rent, utility and food stamps\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.414987"
+}

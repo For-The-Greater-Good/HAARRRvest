@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"LUTHERAN SOCIAL SERVICES OF NE FLORIDA\", \"alternate_name\": \"\", \"description\": \"The LSS Food Pantry, located onsite at 4615 Philips Highway, is currently distributing food in the back of the building\", \"email\": \"\", \"url\": \"https://www.lssjax.org/hunger-relief\", \"status\": \"active\", \"address\": {\"address_1\": \"4615 Philips Highway\", \"address_2\": null, \"city\": \"Englewood\", \"state_province\": \"FL\", \"postal_code\": \"32207\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.27479020000001, \"longitude\": -81.6232319}, \"phones\": [{\"number\": \"(904) 448-5995\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No appointment necessary\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.521049"
+}

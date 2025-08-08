@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SKYLIGHT CENTER\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://skylightcenter.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"307 Saint Marks Place\", \"address_2\": null, \"city\": \"Mid Island\", \"state_province\": \"NY\", \"postal_code\": \"10301\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.64261999999999, \"longitude\": -74.07803799999999}, \"phones\": [{\"number\": \"(718) 720-2585\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:47.658198"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"80752\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in ST. IGNATIUS EPISCOPAL CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(212) 580-3326\", \"country\": \"US\"}, \"phones\": [{\"number\": \"552 WEST END AVE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.789261, \"longitude\": -73.97717}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"ST. IGNATIUS EPISCOPAL CHURCH\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:14:55.889929"
+}

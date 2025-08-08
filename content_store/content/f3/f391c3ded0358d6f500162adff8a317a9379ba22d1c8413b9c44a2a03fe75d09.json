@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bay Ridge Community Service Center\", \"alternate_name\": \"\", \"description\": \"- They provide meals on wheels services that requireyou to call ahead for registration.\\n- Please make sure you call case worker to book appointments and schedule deliveries on 7186803530\\n\", \"email\": \"\", \"url\": \"https://www.bayridgecenter.com/food-programs\", \"status\": \"active\", \"address\": {\"address_1\": \"6935 4th Avenue\", \"address_2\": null, \"city\": \"Bay Ridge\", \"state_province\": \"NY\", \"postal_code\": \"11209\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6338574, \"longitude\": -74.0235958}, \"phones\": [{\"number\": \"(718) 748-0650\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Meal delivery available for seniors\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.126826"
+}

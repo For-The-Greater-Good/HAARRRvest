@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethel Lutheran Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Open to Hamilton Co. residents. Open 1/ month.\\n\\nOne document showing proof of address (mail, lease, rent receipt) required.\", \"email\": \"\", \"url\": \"https://www.bethellut heranchurch.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"20650 Cumberland Road\", \"address_2\": null, \"city\": \"Noblesville\", \"state_province\": \"IN\", \"postal_code\": \"46062\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0880208, \"longitude\": -85.9944952}, \"phones\": [{\"number\": \"(317) 773-4315\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.131862"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3318, \"name\": \"Akron Dream Center\", \"nickname\": \"Akron Dream Center\", \"address\": \"1035 Rosemary Ave Ste A\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44306\", \"phone\": \"330-400-4452\", \"latitude\": 41.03431, \"longitude\": -81.48543, \"estimated_distance\": 906.47, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5325, \"name\": \"Meal\", \"address\": \"1035 Rosemary Ave Ste A\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44306\", \"latitude\": 41.03570931, \"longitude\": -81.48945235, \"event_details\": \"Wilbeth Arlington AMHA complex | Regular Hours - 1st Saturday\\nWinter (Oct - Apr 1 pm - 3 pm)\\nSummer (May - Sept 5:30 pm - 7 pm)\", \"estimated_distance\": 906.47, \"exception_note\": \"\", \"event_dates\": [{\"id\": 363099, \"event_id\": 5325, \"capacity\": 50, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-09-06\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:37.844034"
+}

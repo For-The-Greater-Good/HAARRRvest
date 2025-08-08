@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"81738\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in AIDS SERVICE CENTER OF LOWER MANHATTAN\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"212-675-0875\", \"country\": \"US\"}, \"phones\": [{\"number\": \"64 WEST 35TH STREET 3RD FLOOR\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.768480065789, \"longitude\": -73.97569311781}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"AIDS SERVICE CENTER OF LOWER MANHATTAN\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:14:14.127725"
+}

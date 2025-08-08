@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ServFirst Inc.\", \"alternate_name\": \"\", \"description\": \"- Advised to come early\\n- Closed on the fifth Thursday of the month\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6045 Riverdale Road\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30349\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.589967, \"longitude\": -84.42758560000001}, \"phones\": [{\"number\": \"(770) 731-0839\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.218499"
+}

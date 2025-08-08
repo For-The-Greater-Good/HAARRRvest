@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Flatbush Community Fund Food Pantry\", \"alternate_name\": \"\", \"description\": \"Registration required to recieve food assitance. at https://market.metcouncil.org/s/login/SelfRegister?language=en_US you will get appointment to receive food\\n\", \"email\": \"\", \"url\": \"https://fcfund.org/services/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1968 Flatbush Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11234\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.62248964056531, \"longitude\": -73.93578407724442}, \"phones\": [{\"number\": \"(718) 650-3545\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.772159"
+}

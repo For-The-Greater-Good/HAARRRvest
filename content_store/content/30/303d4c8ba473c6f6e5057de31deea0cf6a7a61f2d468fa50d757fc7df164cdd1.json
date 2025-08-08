@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"THE OUTREACH CLINIC\", \"alternate_name\": \"\", \"description\": \"Health Care\\n\\nContact: Allison Hedrick\\n\\nNotes: For eligibility: http://theoutreachclinic.com/for-patients/to-be-eligible/\", \"email\": \"\", \"url\": \"theoutreachclinic.com\", \"status\": \"active\", \"address\": {\"address_1\": \"517 North Parsons Avenue\", \"address_2\": null, \"city\": \"Limona Improvement\", \"state_province\": \"FL\", \"postal_code\": \"33510\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9460576, \"longitude\": -82.28549579999999}, \"phones\": [{\"number\": \"(813) 654-1388\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:18.789700"
+}

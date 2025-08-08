@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"NCEON - Financial Assistance for Food\", \"alternate_name\": \"\", \"description\": \"Provides financial assistance for food once every 30 days\", \"email\": \"\", \"url\": \"https://nceonglenburnie.wixsite.com/nceon-1\", \"status\": \"active\", \"address\": {\"address_1\": \"304 5th Avenue Southeast\", \"address_2\": null, \"city\": \"Glen Burnie\", \"state_province\": \"MD\", \"postal_code\": \"21061\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1573299, \"longitude\": -76.62422330000001}, \"phones\": [{\"number\": \"(410) 766-1826\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:26.538975"
+}

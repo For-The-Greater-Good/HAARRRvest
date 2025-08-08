@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mercy Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.mercycenterbronx.org\", \"status\": \"active\", \"address\": {\"address_1\": \"377 E 145th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10454\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.81482871056796, \"longitude\": -73.91994953862219}, \"phones\": [{\"number\": \"(718) 993-2789\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Members Only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.868996"
+}

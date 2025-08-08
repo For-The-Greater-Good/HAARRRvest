@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Boston Public Market, Dewey Square\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://bostonpublicmarket.org/blog/6658/seasonal-farmers-markets-are-back-for-the-season/\", \"status\": \"active\", \"address\": {\"address_1\": \"600 Atlantic Avenue\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MA\", \"postal_code\": \"02210\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3527569, \"longitude\": -71.0533982}, \"phones\": [{\"number\": \"(617) 973-4909\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Outdoor distribution\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.069116"
+}

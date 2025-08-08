@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cast Your Cares\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.castyourcares.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2438 Kensington Avenue\", \"address_2\": \"\", \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19125\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.987082, \"longitude\": -75.1307997}, \"phones\": [{\"number\": \"(215) 634-7445\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Accepts Walk-ins & Appointments\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.552966"
+}

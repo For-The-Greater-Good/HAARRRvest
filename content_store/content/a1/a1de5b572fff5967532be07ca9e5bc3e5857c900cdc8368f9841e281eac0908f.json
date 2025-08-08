@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1537, \"name\": \"Jubilee Food Pantry\", \"nickname\": \"Jubilee FP\", \"address\": \"10516 Frazeysburg Rd\", \"city\": \"DRESDEN\", \"state\": \"OH\", \"zip\": \"43821\", \"phone\": \"740-319-9274\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 880.94, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2300, \"name\": \"Pantry\", \"address\": \"10516 Frazeysburg Rd\", \"city\": \"DRESDEN\", \"state\": \"OH\", \"zip\": \"43821\", \"latitude\": 40.1073013, \"longitude\": -82.0200621, \"event_details\": \"\", \"estimated_distance\": 880.94, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359502, \"event_id\": 2300, \"capacity\": 6, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"1:30 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:35.897383"
+}

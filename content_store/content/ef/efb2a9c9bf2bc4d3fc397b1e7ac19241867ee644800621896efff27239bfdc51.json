@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"LSS Guernsey Mobile Pantry\", \"alternate_name\": \"\", \"description\": \"Distribution Model: Drive Thru\", \"email\": \"\", \"url\": \"https://lssnetworkofhope.org/foodpantries/services/pantry-locations/#mobile_food_pantries\", \"status\": \"active\", \"address\": {\"address_1\": \"60330 Southgate Road\", \"address_2\": null, \"city\": \"Byesville\", \"state_province\": \"OH\", \"postal_code\": \"43723\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9754851, \"longitude\": -81.5485442}, \"phones\": [{\"number\": \"(614) 443-5130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.025120"
+}

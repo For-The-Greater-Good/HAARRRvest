@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Centro SOL\", \"alternate_name\": \"\", \"description\": \"The Centro Sol has a food pantry that distributes food at 5215 Wright Avenue, MD 21205 in the morning. The start time of the distribution depends on what time the truck arrives. Truck can be arrive at any time between 10 am to 11:30 am\", \"email\": \"\", \"url\": \"www.jhcentrosol.org\", \"status\": \"active\", \"address\": {\"address_1\": \"5215 Wright Avenue\", \"address_2\": \"\", \"city\": \"Armistead Gardens\", \"state_province\": \"MD\", \"postal_code\": \"21205\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3041154, \"longitude\": -76.55160339999999}, \"phones\": [{\"number\": \"(410) 550-1129\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.725511"
+}

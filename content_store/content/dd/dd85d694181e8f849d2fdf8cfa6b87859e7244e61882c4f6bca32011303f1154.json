@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Fortune Society Supervised Release Community Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://fortunesociety.org\", \"status\": \"active\", \"address\": {\"address_1\": \"502 East 163rd Street\", \"address_2\": null, \"city\": \"Morrisania\", \"state_province\": \"NY\", \"postal_code\": \"10451\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8242025, \"longitude\": -73.9099478}, \"phones\": [{\"number\": \"(212) 691-7554\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:01.948094"
+}

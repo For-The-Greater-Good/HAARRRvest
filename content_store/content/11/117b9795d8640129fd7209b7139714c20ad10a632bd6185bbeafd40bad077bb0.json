@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MUNA Social Services - East Flatbush\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.munassinc.org/locations/brooklyn-ny\", \"status\": \"active\", \"address\": {\"address_1\": \"167 East 43rd Street\", \"address_2\": \"\", \"city\": \"Little Caribbean\", \"state_province\": \"NY\", \"postal_code\": \"11203\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6518878, \"longitude\": -73.936981}, \"phones\": [{\"number\": \"(212) 920-6202\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.751290"
+}

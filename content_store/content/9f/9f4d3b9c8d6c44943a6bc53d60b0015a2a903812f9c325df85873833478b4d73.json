@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Clarendon United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"606 North Irving Street\", \"address_2\": null, \"city\": \"Ashton Heights\", \"state_province\": \"VA\", \"postal_code\": \"22201\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.880308, \"longitude\": -77.09718529999999}, \"phones\": [{\"number\": \"(703) 527-8574\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.518863"
+}

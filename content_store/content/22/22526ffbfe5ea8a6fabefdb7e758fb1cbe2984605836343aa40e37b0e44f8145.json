@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church on the Rise Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7512 Newark Road\", \"address_2\": null, \"city\": \"Mount Vernon\", \"state_province\": \"OH\", \"postal_code\": \"43050\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3439815, \"longitude\": -82.4685487}, \"phones\": [{\"number\": \"(740) 397-9022\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.688010"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"NYIT Grizzly Cupboard\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.nyit.edu/campus_life/bear_bytes#cupboard\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": \"\", \"city\": \"Old Westbury\", \"state_province\": \"NY\", \"postal_code\": \"11568\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8111875, \"longitude\": -73.6011875}, \"phones\": [{\"number\": \"(516) 686-7635\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.621417"
+}

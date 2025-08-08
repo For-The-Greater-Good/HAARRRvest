@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mary Elizabeth Lange Center\", \"alternate_name\": \"\", \"description\": \"- Be sure to arrive before 2:30pm.\\n- Resource is meant for women in crisis\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"601 East Chase Street\", \"address_2\": null, \"city\": \"Johnston Square\", \"state_province\": \"MD\", \"postal_code\": \"21202\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3025112, \"longitude\": -76.60825969999999}, \"phones\": [{\"number\": \"(410) 244-8605\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.174886"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Silver Spring Christian Reformed Church\", \"alternate_name\": \"\", \"description\": \"* Starting June 2023, the food pantry distribution will be on second Tuesday, 3:00 PM to 5:00 PM.\", \"email\": \"\", \"url\": \"https://www.sscrc.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"1501 Arcola Ave\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20902\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.045921, \"longitude\": -77.03125}, \"phones\": [{\"number\": \"(301) 284-8401\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Will reschedule in case of holiday closures\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.013159"
+}

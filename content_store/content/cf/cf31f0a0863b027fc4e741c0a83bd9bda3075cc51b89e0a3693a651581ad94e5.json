@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"85752\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in HEALTH ESSENTIAL ASSOCIATION INC\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"607-689-6618\", \"country\": \"US\"}, \"phones\": [{\"number\": \"322 NEW DORP LANE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.598616, \"longitude\": -73.955207}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"HEALTH ESSENTIAL ASSOCIATION INC\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:17:54.314204"
+}

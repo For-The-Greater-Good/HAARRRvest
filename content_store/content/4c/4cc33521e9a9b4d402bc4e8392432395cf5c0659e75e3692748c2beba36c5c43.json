@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cumac MFP - Clifton Center for Family Resources\", \"alternate_name\": \"\", \"description\": \"Get registered to receive food here https://forms.gle/iEFqPnzdeYBefP7B9\", \"email\": \"\", \"url\": \"https://www.cumac.org/mobile-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"246 Clifton Avenue\", \"address_2\": null, \"city\": \"Clifton\", \"state_province\": \"NJ\", \"postal_code\": \"07011\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8762879, \"longitude\": -74.13542249999999}, \"phones\": [{\"number\": \"(973) 742-5518\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration on website required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:56.497021"
+}

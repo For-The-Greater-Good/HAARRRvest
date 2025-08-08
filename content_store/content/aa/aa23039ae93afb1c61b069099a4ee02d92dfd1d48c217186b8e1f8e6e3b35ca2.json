@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Langston Hughes Community Center, Food Pantry\", \"alternate_name\": \"\", \"description\": \"- Tickets are handed out at 12 PM so you are advised to arrive early to secure a slot\", \"email\": \"\", \"url\": \"https://langstonhughescbrc.org/foodbank/\", \"status\": \"active\", \"address\": {\"address_1\": \"5011 Arbutus Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.34252, \"longitude\": -76.67974}, \"phones\": [{\"number\": \"(443) 759-8921\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.936981"
+}

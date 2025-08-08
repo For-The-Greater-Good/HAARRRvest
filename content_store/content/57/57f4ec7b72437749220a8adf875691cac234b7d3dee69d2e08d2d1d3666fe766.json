@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hardy Middle School\", \"alternate_name\": \"\", \"description\": \"Free breakfast & lunch for children 18 and under\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1819 35th Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20007\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9154344, \"longitude\": -77.0682288}, \"phones\": [{\"number\": \"(202) 729-4350\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.675924"
+}

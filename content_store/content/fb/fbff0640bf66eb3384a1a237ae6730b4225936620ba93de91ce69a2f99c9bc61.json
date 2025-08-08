@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Luke \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.svdptrenton.org/districts/ocean-county\", \"status\": \"active\", \"address\": {\"address_1\": null, \"address_2\": null, \"city\": \"\\tToms River \", \"state_province\": null, \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": 39.9537358, \"longitude\": -74.1979458}, \"phones\": [{\"number\": \"(732) 244-3916\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.516160"
+}

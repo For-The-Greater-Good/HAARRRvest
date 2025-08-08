@@ -1,0 +1,5 @@
+{
+  "result": "[\n  {\n    \"id\": \"org_1\",\n    \"name\": \"Pathway's Enrichment Center\",\n    \"description\": \"Pathway's Enrichment Center provides various food assistance programs.\",\n    \"addresses\": [\n      {\n        \"id\": \"loc_1\",\n        \"address_type\": \"physical\",\n        \"address_1\": \"2505 LEAVITT RD\",\n        \"city\": \"LORAIN\",\n        \"state_province\": \"OH\",\n        \"postal_code\": \"44052\",\n        \"country\": \"US\",\n        \"coordinates\": {\n          \"latitude\": 41.447,\n          \"longitude\": -82.20227\n        },\n        \"location_type\": \"physical\",\n        \"metadata\": {\n          \"last_action_date\": \"2024-05-15\"\n        }\n      }\n    ],\n    \"phones\": [\n      {\n        \"number\": \"(440) 282-1109\",\n        \"type\": \"voice\",\n        \"languages\": [\n          {\n            \"name\": \"English\"\n          }\n        ]\n      }\n    ],\n    \"metadata\": {\n      \"last_action_date\": \"2024-05-15\"\n    }\n  }\n]",
+  "job_id": "1754629536.184118",
+  "timestamp": "2025-08-08T05:12:17.769592"
+}

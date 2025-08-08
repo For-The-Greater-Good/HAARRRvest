@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Good Manna Food Pantry\", \"alternate_name\": \"\", \"description\": \"Requirements Needed: ID required for Dekalb and Atlanta, adults, and seniors.\", \"email\": \"\", \"url\": \"http://www.phdmin.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3021 Memorial Drive Southeast\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30317\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.74677911820331, \"longitude\": -84.28721871393212}, \"phones\": [{\"number\": \"(706) 623-3773\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.310312"
+}

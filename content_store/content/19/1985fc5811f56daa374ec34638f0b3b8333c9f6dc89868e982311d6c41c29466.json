@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hearts of Life   \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.heartsoflife.org\", \"status\": \"active\", \"address\": {\"address_1\": \"98 George P Hassett Drive\", \"address_2\": null, \"city\": \"Medford\", \"state_province\": \"MA\", \"postal_code\": \"02155\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.41884750000001, \"longitude\": -71.1052232}, \"phones\": [{\"number\": \"(617) 625-1020\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"18:30\", \"closes_at\": \"21:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.263109"
+}

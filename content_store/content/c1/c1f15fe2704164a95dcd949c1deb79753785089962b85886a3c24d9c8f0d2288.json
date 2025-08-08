@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"COMO Drop In Center - Women's house\", \"alternate_name\": \"\", \"description\": \"* Serves Female Clients only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"29 East Como Avenue\", \"address_2\": null, \"city\": \"Clintonville\", \"state_province\": \"OH\", \"postal_code\": \"43202\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0282682, \"longitude\": -83.0140102}, \"phones\": [{\"number\": \"(614) 600-6980\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"For women and children only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.403847"
+}

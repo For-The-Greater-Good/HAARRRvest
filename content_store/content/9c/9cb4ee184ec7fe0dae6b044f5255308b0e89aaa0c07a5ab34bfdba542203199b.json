@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4251, \"name\": \"Christ Memorial Church\", \"nickname\": \"Christ Memorial\", \"address\": \"156 PO BOX 2620 Robertsville Ave\", \"city\": \"Robertsville\", \"state\": \"OH\", \"zip\": \"44670\", \"phone\": \"330-862-2004\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 922.73, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7673, \"name\": \"Pantry\", \"address\": \"2620 Robertsville Ave\", \"city\": \"Roberstville\", \"state\": \"OH\", \"zip\": \"44670\", \"latitude\": 40.7641889, \"longitude\": -81.1893802, \"event_details\": \"Regular Hours - 3rd Thursdays form 4:30-6pm\", \"estimated_distance\": 922.56, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359833, \"event_id\": 7673, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4:30 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:41.192878"
+}

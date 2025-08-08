@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Franklin County Job and Family Services\", \"alternate_name\": \"\", \"description\": \"Families need to complete the 2024-25 school meal & summer EBT application to receive summer benefits ($120 per eligible child)- name spelling, address, etc. all need to be up to date and accurate! Summer EBT Outreach Toolkit\\\" https://sebt.ohio.gov/apply/\", \"email\": \"\", \"url\": \"http://www.benefits.ohio.gov/\", \"status\": \"active\", \"address\": {\"address_1\": \"1055 Mount Vernon Avenue\", \"address_2\": null, \"city\": \"King-Lincoln Bronzeville\", \"state_province\": \"OH\", \"postal_code\": \"43203\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9711247, \"longitude\": -82.9737615}, \"phones\": [{\"number\": \"(844) 640-6446\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"SNAP assistance available\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Assists clients with SNAP applications, Social Security, Medicaid and Medicare, and other safety net benefits from the city, state, and federal government\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.712134"
+}

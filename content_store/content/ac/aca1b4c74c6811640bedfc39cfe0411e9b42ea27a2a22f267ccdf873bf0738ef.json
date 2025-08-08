@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"82057\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in CORNERSTONE SEVENTH DAY ADVENTIST CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"917-915-6769\", \"country\": \"US\"}, \"phones\": [{\"number\": \"138 PENNSYLVANIA AVE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.674513, \"longitude\": -73.89694}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"CORNERSTONE SEVENTH DAY ADVENTIST CHURCH\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:06:43.727880"
+}

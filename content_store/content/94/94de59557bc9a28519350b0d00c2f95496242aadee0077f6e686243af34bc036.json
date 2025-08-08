@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mitchell County Food Bank And Help Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"238 Mill Street Southeast\", \"address_2\": null, \"city\": \"Pelham\", \"state_province\": \"GA\", \"postal_code\": \"31779\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.1209205, \"longitude\": -84.14759459999999}, \"phones\": [{\"number\": \"(229) 319-1589\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:45\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:14.322613"
+}

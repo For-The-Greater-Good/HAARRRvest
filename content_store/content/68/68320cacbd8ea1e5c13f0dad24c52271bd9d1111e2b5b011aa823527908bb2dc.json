@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dar Al Hijrah\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://hijrah.org/family-services/\", \"status\": \"active\", \"address\": {\"address_1\": \"3159 Row Street\", \"address_2\": null, \"city\": \"Falls Church\", \"state_province\": \"VA\", \"postal_code\": \"22044\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8614148, \"longitude\": -77.14662890000001}, \"phones\": [{\"number\": \"(703) 531-2905\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.864925"
+}

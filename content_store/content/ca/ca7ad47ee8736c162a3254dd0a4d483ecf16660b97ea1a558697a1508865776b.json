@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Beacon Evangelical Free Church\", \"alternate_name\": \"\", \"description\": \"Serves Galloway city only\", \"email\": \"\", \"url\": \"https://www.beaconefc.org/hope-chest\", \"status\": \"active\", \"address\": {\"address_1\": \"420 6th Avenue\", \"address_2\": null, \"city\": \"Galloway\", \"state_province\": \"NJ\", \"postal_code\": \"08205\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4637339, \"longitude\": -74.5016557}, \"phones\": [{\"number\": \"(609) 748-0001\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:30\", \"closes_at\": \"23:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:58.592951"
+}

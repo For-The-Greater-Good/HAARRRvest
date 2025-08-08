@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"City of Greenbelt Food Pantry\", \"alternate_name\": \"\", \"description\": \"* The location August \\u2013 June is 15 Crescent Road, Greenbelt, MD 20770 in the parking lot near the circle.\\n* In July the distribution will be in the lower parking lot of 25 Crescent Road near the pool.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"25 Crescent Rd\", \"address_2\": null, \"city\": \"Greenbelt\", \"state_province\": \"MD\", \"postal_code\": \"20770\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.000501, \"longitude\": -76.877449}, \"phones\": [{\"number\": \"(301) 219-6650\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.614089"
+}

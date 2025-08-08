@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1015, \"name\": \"Hudson Community Service Association\", \"nickname\": \"Hudson Community Service Association\", \"address\": \"7855 Stow Rd\", \"city\": \"Hudson\", \"state\": \"OH\", \"zip\": \"44236\", \"phone\": \"330-671-9457\", \"latitude\": 41.27068, \"longitude\": -81.41033, \"estimated_distance\": 910.63, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1475, \"name\": \"Pantry\", \"address\": \"7855 Stow Rd\", \"city\": \"Hudson\", \"state\": \"OH\", \"zip\": \"44236\", \"latitude\": 41.2718738, \"longitude\": -81.41094257, \"event_details\": \"Regular Hours - 4th Saturday from 12-2pm | In May, November, and December, it will be the 3rd Saturday of the month | The Hudson Community Service Association Food Pantry provides assistance for food insecurity to those who live in the Hudson City School District | If you are unsure that you reside in our designated service area, please contact us at 234-380-7402\", \"estimated_distance\": 910.63, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360774, \"event_id\": 1475, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:34.896642"
+}

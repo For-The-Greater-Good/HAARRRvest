@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Greenpoint Hunger Program\", \"alternate_name\": \"\", \"description\": \"* ID is required from picking up food from the food pantry\\n* No requirements for the grab-and-go meals\", \"email\": \"\", \"url\": \"www.greenpointhungerprogram.org\", \"status\": \"active\", \"address\": {\"address_1\": \"136 MILTON STREET\", \"address_2\": \"The Greenpoint Reformed Church\", \"city\": \"BROOKLYN\", \"state_province\": \"NY\", \"postal_code\": \"11222\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.72921, \"longitude\": -73.954971}, \"phones\": [{\"number\": \"(718) 383-5941\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.918974"
+}

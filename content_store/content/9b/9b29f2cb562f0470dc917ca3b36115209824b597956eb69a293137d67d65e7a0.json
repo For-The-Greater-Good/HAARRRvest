@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SOUTHVIEW REC CENTER\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://hopestreetfoodpantry.com\", \"status\": \"active\", \"address\": {\"address_1\": \"1720 Vilma Street\", \"address_2\": null, \"city\": \"Capitol Drive\", \"state_province\": \"NC\", \"postal_code\": \"28208\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2113887, \"longitude\": -80.91686639999999}, \"phones\": [{\"number\": \"(980) 314-1105\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"14:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must have telephone number\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.741792"
+}

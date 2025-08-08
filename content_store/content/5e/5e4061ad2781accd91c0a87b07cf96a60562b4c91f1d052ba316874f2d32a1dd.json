@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"87115\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in BROOKLYN FAITH SDA CHURCH\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"SK\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"718-342-6712\", \"country\": \"US\"}, \"phones\": [{\"number\": \"5518 CHURCH AVENUE\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.652273, \"longitude\": -73.924878}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"BROOKLYN FAITH SDA CHURCH\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:05:29.241902"
+}

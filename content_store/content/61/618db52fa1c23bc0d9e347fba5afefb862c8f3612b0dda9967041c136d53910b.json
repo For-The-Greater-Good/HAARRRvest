@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mary of the Assumption Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4610 Largo Rd.\", \"address_2\": null, \"city\": \"Upper Marlboro\", \"state_province\": \"MD\", \"postal_code\": \"20772\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.825275, \"longitude\": -76.749704}, \"phones\": [{\"number\": \"(301) 627-3255\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"13:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available. Call to inquire.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.068301"
+}

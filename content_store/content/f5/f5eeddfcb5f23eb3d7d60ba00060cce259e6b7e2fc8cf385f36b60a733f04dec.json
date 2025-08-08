@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SAYREVILLE CARE & SHARE FOOD BANK\", \"alternate_name\": \"\", \"description\": \"Open to Sayreville residents only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"Senior Center\", \"address_2\": \"423 Main Street\", \"city\": \"Sayreville\", \"state_province\": \"NJ\", \"postal_code\": \"08872\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4714113, \"longitude\": -74.3509811}, \"phones\": [{\"number\": \"(732) 721-8053\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Adult diapers available\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.312875"
+}

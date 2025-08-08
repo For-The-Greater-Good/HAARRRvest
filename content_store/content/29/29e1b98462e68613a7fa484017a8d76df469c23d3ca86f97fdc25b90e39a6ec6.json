@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cornerstone Assembly of God\", \"alternate_name\": \"\", \"description\": \"Client can come 1x per month; picture ID and proof of residency required.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5004 McEver Road\", \"address_2\": null, \"city\": \"Oakwood\", \"state_province\": \"GA\", \"postal_code\": \"30566\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.23555899999999, \"longitude\": -83.89676299999999}, \"phones\": [{\"number\": \"770-503-1111 / 678-362-7328\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.230930"
+}

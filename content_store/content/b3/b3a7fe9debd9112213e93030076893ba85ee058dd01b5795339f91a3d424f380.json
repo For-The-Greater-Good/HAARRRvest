@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jersey City Episcopal CDC\", \"alternate_name\": \"\", \"description\": \"Food pantry in Hudson County, NJ. 07306\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"68 Storm Avenue\", \"address_2\": \"\", \"city\": \"Jersey City\", \"state_province\": \"NJ\", \"postal_code\": \"\", \"country\": \"US\"}, \"phones\": [], \"location\": {\"latitude\": 40.650247644043, \"longitude\": -74.139104987017}, \"hours_notes\": \"NJ\", \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Food Pantry\"}, {\"attribute_key\": \"COUNTY\", \"attribute_value\": \"Hudson\"}]}",
+  "metadata": {
+    "scraper_id": "hccc_food_pantry",
+    "source": "hccc_food_pantry"
+  },
+  "timestamp": "2025-08-08T05:06:20.553980"
+}

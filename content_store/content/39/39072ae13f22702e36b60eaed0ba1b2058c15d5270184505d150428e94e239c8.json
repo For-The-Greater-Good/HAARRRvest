@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sylvan Beach Foundation\", \"alternate_name\": \"\", \"description\": \"Requirements: Call first. By appointment only. For at risk workers\\nHours of Operation: 7 days 24 hours\\nService Provided: Residential Program\", \"email\": \"\", \"url\": \"file:///C:/Users/dipen/Desktop/Baltimore_City.pdf\", \"status\": \"active\", \"address\": {\"address_1\": \"7 West Preston Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MD\", \"postal_code\": \"21201\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3042845, \"longitude\": -76.6168679}, \"phones\": [{\"number\": \"(410) 685-5752\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"\", \"closes_at\": \"\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.726199"
+}

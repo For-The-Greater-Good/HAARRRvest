@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project FIND @ Clinton Older Adult Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.projectfind.org/clinton\", \"status\": \"active\", \"address\": {\"address_1\": \"530 W 55th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10019\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7682945, \"longitude\": -73.9909152}, \"phones\": [{\"number\": \"(212) 757-2026\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:45\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must show proof of age over 60 yrs old\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.320839"
+}

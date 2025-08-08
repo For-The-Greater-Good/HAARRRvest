@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Gateway Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.gatewaycap.org/foodpantry\", \"status\": \"active\", \"address\": {\"address_1\": \"65 Manheim Avenue\", \"address_2\": null, \"city\": \"Bridgeton\", \"state_province\": \"NJ\", \"postal_code\": \"08302\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4314217, \"longitude\": -75.217914}, \"phones\": [{\"number\": \"(856) 455-1589\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Completed application\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.844538"
+}

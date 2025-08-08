@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salt and Sea Mission Church, Inc.\", \"alternate_name\": \"\", \"description\": \"- Tickets are distributed at 10am. this might change depending on how fast the line starts forming, so you are advised to arrive early.\", \"email\": \"\", \"url\": \"https://www.coalitionforthehomeless.org/resources/salt-and-sea-mission/\", \"status\": \"active\", \"address\": {\"address_1\": \"2417 Stillwell Avenue\", \"address_2\": null, \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11223\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5884918, \"longitude\": -73.9834047}, \"phones\": [{\"number\": \"(917) 873-9261\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"New clients are asked to come at 10 am\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"1 person per household only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.356694"
+}

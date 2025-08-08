@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christian Faith Center of Creedmoor\", \"alternate_name\": \"\", \"description\": \"Go in person to fill out a form and apply for pantry, and they will give an appointment for pick up \", \"email\": \"\", \"url\": \"https://cfcnc.us/\", \"status\": \"active\", \"address\": {\"address_1\": \"101 Peachtree Street\", \"address_2\": null, \"city\": \"Creedmoor\", \"state_province\": \"NC\", \"postal_code\": \"27522\", \"country\": \"US\"}, \"location\": {\"latitude\": 36.1159205, \"longitude\": -78.6784096}, \"phones\": [{\"number\": \"(919) 528-1581\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"01:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:18.038982"
+}

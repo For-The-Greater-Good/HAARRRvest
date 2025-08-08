@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity Reform Church\", \"alternate_name\": \"\", \"description\": \"the entrance is from manning ave side.\\ndistribute food to first 50 peoples\", \"email\": \"\", \"url\": \"https://sjnp.org/society-of-saint-vincent-de-paul/\", \"status\": \"active\", \"address\": {\"address_1\": \"401 Greenbrook Road\", \"address_2\": null, \"city\": \"Dunellen\", \"state_province\": \"NJ\", \"postal_code\": \"08812\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.58551719999999, \"longitude\": -74.5071098}, \"phones\": [{\"number\": \"(908) 756-3383\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.146207"
+}

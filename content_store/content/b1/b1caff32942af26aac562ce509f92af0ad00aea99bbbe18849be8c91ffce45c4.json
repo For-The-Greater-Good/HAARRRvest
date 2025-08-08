@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Universal Church (Unisocial)\", \"alternate_name\": \"\", \"description\": \"Every Friday - Pre registration to get a ticket \\ud83c\\udf9f at 1pm ( limited ticket)\\n\\nChildren not allowed to get the ticket and or food, it needs to be an adult.\", \"email\": \"\", \"url\": \"https://www.facebook.com/TheUniversalChurchNewark.PT/\", \"status\": \"active\", \"address\": {\"address_1\": \"51 St. Francis St.\", \"address_2\": null, \"city\": \"Newark\", \"state_province\": \"NJ\", \"postal_code\": \"07105\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.72770790000001, \"longitude\": -74.14659}, \"phones\": [{\"number\": \"(201) 757-7665\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Check their social media for updates\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.749844"
+}

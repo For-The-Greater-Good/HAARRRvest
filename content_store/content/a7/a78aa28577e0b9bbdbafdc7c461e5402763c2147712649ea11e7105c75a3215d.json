@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3948, \"name\": \"Bethel Ridge Food Pantry\", \"nickname\": \"Bethel Ridge\", \"address\": \"3342 Glade Road\", \"city\": \"JACKSON\", \"state\": \"OH\", \"zip\": \"45640\", \"phone\": \"740-988-2895\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 855.77, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7078, \"name\": \"Pantry\", \"address\": \"2840 Whaleytown Rd.\", \"city\": \"JACKSON\", \"state\": \"OH\", \"zip\": \"45640\", \"latitude\": 39.06084519, \"longitude\": -82.76747558, \"event_details\": \"In light of COVID-19, pantry operations may have changed. Please call first. Phone Number: (740) 988-2895\", \"estimated_distance\": 849.17, \"exception_note\": \"Serving Scioto & Liberty Twps plus any emergency situation\", \"event_dates\": [{\"id\": 357514, \"event_id\": 7078, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:40.355065"
+}

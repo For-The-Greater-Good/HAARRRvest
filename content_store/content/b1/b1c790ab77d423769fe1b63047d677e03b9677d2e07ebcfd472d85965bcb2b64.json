@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 876, \"name\": \"LSS Northern Counties\", \"nickname\": \"LSS Northern Counties\", \"address\": \"\", \"city\": \"\", \"state\": \"\", \"zip\": \"\", \"phone\": \"\", \"latitude\": 40.11099, \"longitude\": -83.02984, \"estimated_distance\": 827.19, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1276, \"name\": \"Trinity Lutheran Produce Market\", \"address\": \"311 E 6th St.\", \"city\": \"Marysville\", \"state\": \"OH\", \"zip\": \"43040\", \"latitude\": 40.10721981, \"longitude\": -83.03361802, \"event_details\": \"937-642-1616\", \"estimated_distance\": 827.19, \"exception_note\": \"\", \"event_dates\": [{\"id\": 368100, \"event_id\": 1276, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}, {\"id\": 1277, \"name\": \"St.Paul Lutheran Produce Market\", \"address\": \"6989 Waldo-Delaware Rd\", \"city\": \"Waldo\", \"state\": \"OH\", \"zip\": \"43356\", \"latitude\": 40.10721981, \"longitude\": -83.03361802, \"event_details\": \"Phone number is 740-726-2770\", \"estimated_distance\": 827.19, \"exception_note\": \"\", \"event_dates\": [{\"id\": 368029, \"event_id\": 1277, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-09-05\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:33.878823"
+}

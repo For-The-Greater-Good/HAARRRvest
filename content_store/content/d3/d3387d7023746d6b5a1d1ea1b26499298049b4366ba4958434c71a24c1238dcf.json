@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mano-a-Mano\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3850 Portland Road Northeast\", \"address_2\": null, \"city\": \"Northgate\", \"state_province\": \"OR\", \"postal_code\": \"97301\", \"country\": \"US\"}, \"location\": {\"latitude\": 44.9753255, \"longitude\": -123.0004174}, \"phones\": [{\"number\": \"(503) 363-1895\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:45\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.376066"
+}

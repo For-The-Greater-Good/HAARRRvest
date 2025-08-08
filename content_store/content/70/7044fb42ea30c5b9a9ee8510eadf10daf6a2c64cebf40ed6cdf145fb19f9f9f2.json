@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Interfaith Community Pantry\", \"alternate_name\": \"\", \"description\": \"should be referral from  Allegany department of social services address  1 Frederick St, Cumberland, MD 21502, United States.301-784-7000\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"301 Cumberland Street\", \"address_2\": null, \"city\": \"Cumberland\", \"state_province\": \"MD\", \"postal_code\": \"21502\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6537993, \"longitude\": -78.7699796}, \"phones\": [{\"number\": \"(301) 777-7882\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"An eligibility assessment is completed by a caseworker.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.174254"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ST. MARY'S PARISH FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"Food pantry is in the basement of church\", \"email\": \"\", \"url\": \"https://stmarysparishjc.com/our-ministries/\", \"status\": \"active\", \"address\": {\"address_1\": \"254 2nd Street & Erie\", \"address_2\": null, \"city\": \"Jersey City\", \"state_province\": \"NJ\", \"postal_code\": \"07302\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.72086, \"longitude\": -74.04444}, \"phones\": [{\"number\": \"(201) 434-8500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"13:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.793745"
+}

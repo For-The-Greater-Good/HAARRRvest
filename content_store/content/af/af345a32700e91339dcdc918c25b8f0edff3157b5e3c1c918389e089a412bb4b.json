@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North East Park Baptist Church -- St. Petersburg\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3737 1st Street Northeast\", \"address_2\": null, \"city\": \"North East Park\", \"state_province\": \"FL\", \"postal_code\": \"33704\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8064958, \"longitude\": -82.63401429999999}, \"phones\": [{\"number\": \"(727) 896-3178\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.060709"
+}

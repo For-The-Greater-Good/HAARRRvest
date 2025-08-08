@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mt. Sinai Gospel Church\", \"alternate_name\": \"\", \"description\": \"- Gloves and masks are required.\", \"email\": \"\", \"url\": \"http://www.mtsinaifullgospelchurch.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"27-53 Prescott Street\", \"address_2\": null, \"city\": \"Bergen-Lafayette\", \"state_province\": \"NJ\", \"postal_code\": \"07304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7166362, \"longitude\": -74.0683299}, \"phones\": [{\"number\": \"(201) 350-2366\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.753461"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Davidson County Community Action, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.davidsoncommunityaction.com/emergency-food-assistance/\", \"status\": \"active\", \"address\": {\"address_1\": \"911 South Talbert Boulevard\", \"address_2\": null, \"city\": \"Lexington\", \"state_province\": \"NC\", \"postal_code\": \"27292\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.8139641, \"longitude\": -80.25961869999999}, \"phones\": [{\"number\": \"(336) 249-0234\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Fill out the form on their website for assistance\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Inquire about additional food available through TEFAP program; subject to eligibility\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:13.516840"
+}

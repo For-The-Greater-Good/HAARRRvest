@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3981, \"name\": \"Faith Covenant Church\", \"nickname\": \"Faith Covenant Church\", \"address\": \"3607 DEMPSEY RD\", \"city\": \"WESTERVILLE\", \"state\": \"OH\", \"zip\": \"43081\", \"phone\": \"\", \"latitude\": 40.09469, \"longitude\": -82.91285, \"estimated_distance\": 833.54, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7129, \"name\": \"Community Meal\", \"address\": \"3607 DEMPSEY RD\", \"city\": \"WESTERVILLE\", \"state\": \"OH\", \"zip\": \"43081\", \"latitude\": 40.094991, \"longitude\": -82.91485, \"event_details\": \"\", \"estimated_distance\": 833.54, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358544, \"event_id\": 7129, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:40.618300"
+}

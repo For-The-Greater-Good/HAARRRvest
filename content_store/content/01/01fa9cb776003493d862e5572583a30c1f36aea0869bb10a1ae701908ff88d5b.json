@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Joel E. Perlmutter Memorial Food Pantry\", \"alternate_name\": \"\", \"description\": \"Please call first and check their website to make an appointment/reservation.\\n\\nhttps://www.facebook.com/JEPfoodpantry/\", \"email\": \"\", \"url\": \"https://inspire-nj.org/about-us/the-joel-e-perlmutter-memorial-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"1330 New Jersey 70\", \"address_2\": null, \"city\": \"Cedar Glen Lakes\", \"state_province\": \"NJ\", \"postal_code\": \"08759\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9578807, \"longitude\": -74.3989272}, \"phones\": [{\"number\": \"(732) 849-5640\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:45\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"04:00\", \"closes_at\": \"03:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.677372"
+}

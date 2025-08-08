@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities\", \"alternate_name\": \"\", \"description\": \"Requires to visit the website for more information.\", \"email\": \"\", \"url\": \"https://www.catholiccharitiestrenton.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"383 West State Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"NJ\", \"postal_code\": \"08618\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2244989, \"longitude\": -74.7777428}, \"phones\": [{\"number\": \"(800) 360-7711\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.284751"
+}

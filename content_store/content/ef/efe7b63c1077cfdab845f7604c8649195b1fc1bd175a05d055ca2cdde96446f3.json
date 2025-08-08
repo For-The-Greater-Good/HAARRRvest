@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Soul Haven\", \"alternate_name\": \"\", \"description\": \"Contact: Ethel Newark\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"119 East Antietam Street\", \"address_2\": null, \"city\": \"Hagerstown\", \"state_province\": \"MD\", \"postal_code\": \"21740\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6391028, \"longitude\": -77.7183865}, \"phones\": [{\"number\": \"(301) 733-6676\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.897035"
+}

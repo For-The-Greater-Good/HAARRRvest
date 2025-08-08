@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Each One Teach One\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2805 Metropolitan Parkway Southwest\", \"address_2\": null, \"city\": \"Hammond Park\", \"state_province\": \"GA\", \"postal_code\": \"30315\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.67862849999999, \"longitude\": -84.40871729999999}, \"phones\": [{\"number\": \"(470) 352-5986\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Non-perishable food only\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.359589"
+}

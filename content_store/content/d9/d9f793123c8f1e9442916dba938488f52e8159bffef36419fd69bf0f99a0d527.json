@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Avenel \", \"alternate_name\": \"\", \"description\": \"Emergency food distribution is available. If it is an emergency you may call the church office for immediate assistance. Food donations and toiletries are accepted.\", \"email\": \"\", \"url\": \"http://avenelpresbyterianchurch.org\", \"status\": \"active\", \"address\": {\"address_1\": \"621 E. Woodbridge Ave.\", \"address_2\": \"\", \"city\": \"Avenel\", \"state_province\": \"NJ\", \"postal_code\": \"07001\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.580332, \"longitude\": -74.282188}, \"phones\": [{\"number\": \"(732) 634-1631\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Food donations are accepted\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Supplemental governmental help proof is required (Disability, WIC, or Social Security)\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.678249"
+}

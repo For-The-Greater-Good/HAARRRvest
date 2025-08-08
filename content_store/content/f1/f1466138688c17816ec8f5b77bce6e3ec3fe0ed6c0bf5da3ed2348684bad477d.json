@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://annapolis.salvationarmypotomac.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"351 Hilltop Lane\", \"address_2\": null, \"city\": \"Annapolis\", \"state_province\": \"MD\", \"postal_code\": \"21403\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9618405, \"longitude\": -76.5035589}, \"phones\": [{\"number\": \"(410) 263-4091\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.529644"
+}

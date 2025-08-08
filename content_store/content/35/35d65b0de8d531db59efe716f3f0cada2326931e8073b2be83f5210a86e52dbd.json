@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Freedom Community Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9325 Mace Street\", \"address_2\": null, \"city\": \"Manassas Park\", \"state_province\": \"VA\", \"postal_code\": \"20111\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.781579, \"longitude\": -77.478654}, \"phones\": [{\"number\": \"(571) 409-4892\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.011984"
+}

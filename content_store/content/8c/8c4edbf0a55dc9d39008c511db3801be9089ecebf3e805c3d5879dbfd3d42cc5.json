@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Germantown Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"366 Palmer Street\", \"address_2\": null, \"city\": \"Quincy\", \"state_province\": \"MA\", \"postal_code\": \"02169\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.25410309999999, \"longitude\": -70.96609409999999}, \"phones\": [{\"number\": \"(617) 376-1384\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.988410"
+}

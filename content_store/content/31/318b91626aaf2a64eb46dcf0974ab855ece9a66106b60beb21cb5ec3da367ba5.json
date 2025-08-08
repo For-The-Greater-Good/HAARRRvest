@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of the Covenant Orthodox\", \"alternate_name\": \"\", \"description\": \"* Must attend the church service on Sundays at 10:40am to participate in the food pantry.\", \"email\": \"\", \"url\": \"http://www.churchofthecovenant.net\", \"status\": \"active\", \"address\": {\"address_1\": \"319 Blau Road\", \"address_2\": \"\", \"city\": \"Hackettstown\", \"state_province\": \"NJ \", \"postal_code\": \"07840\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.853867, \"longitude\": -74.842856}, \"phones\": [{\"number\": \"(908) 850-8910\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"15:40\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Distributes food after church services. Must participate to receive food.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.177584"
+}

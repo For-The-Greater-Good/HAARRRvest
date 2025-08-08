@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Immanuel First Spanish United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.umdata.org/ChurchProfile.aspx?ChurchID=037268\", \"status\": \"active\", \"address\": {\"address_1\": \"424 Dean St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11217\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.682395, \"longitude\": -73.977332}, \"phones\": [{\"number\": \"(718) 622-8296\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.857335"
+}

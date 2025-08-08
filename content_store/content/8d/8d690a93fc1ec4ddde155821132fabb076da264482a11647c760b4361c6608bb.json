@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Woodruff School Summer Program\", \"alternate_name\": \"\", \"description\": \"Start date\\t7/7/2025\\nEnd date\\t8/6/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1385 New Jersey 77\", \"address_2\": null, \"city\": \"Seabrook\", \"state_province\": \"NJ\", \"postal_code\": \"08302\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5052499, \"longitude\": -75.2198311}, \"phones\": [{\"number\": \"(908) 355-3663\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"00:30\", \"closes_at\": \"01:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"00:30\", \"closes_at\": \"01:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"00:30\", \"closes_at\": \"01:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:53.062860"
+}

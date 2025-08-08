@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Francis de Sales\", \"alternate_name\": \"\", \"description\": \"Register on : https://www.saintfrancisdesaleslodinj.org/ \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"125 Union Street\", \"address_2\": null, \"city\": \"Lodi\", \"state_province\": \"NJ\", \"postal_code\": \"07644\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8751002, \"longitude\": -74.08042879999999}, \"phones\": [{\"number\": \"(973) 779-4330\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.036890"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Paul's Episcopal Church\", \"alternate_name\": \"\", \"description\": \"Tuesday/12:00pm - Curbside Pick Up & Walk Ups\\n\\nFood Distribution Event (pop-up, mobile distributions, etc.)\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"113 Engle Street\", \"address_2\": null, \"city\": \"Englewood\", \"state_province\": \"NJ\", \"postal_code\": \"07631\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8964222, \"longitude\": -73.97030149999999}, \"phones\": [{\"number\": \"(201) 315-5618\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.062532"
+}

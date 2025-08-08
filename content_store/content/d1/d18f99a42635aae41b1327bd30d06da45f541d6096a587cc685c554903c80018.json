@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Compassion In Action Food Pantry\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://www.eaglerock.org/cia.html\", \"status\": \"active\", \"address\": {\"address_1\": \"6810 Blacklick-Eastern Road Northwest\", \"address_2\": null, \"city\": \"Pickerington\", \"state_province\": \"OH\", \"postal_code\": \"43147\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9301362, \"longitude\": -82.7130055}, \"phones\": [{\"number\": \"(614) 833-0515\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.456387"
+}

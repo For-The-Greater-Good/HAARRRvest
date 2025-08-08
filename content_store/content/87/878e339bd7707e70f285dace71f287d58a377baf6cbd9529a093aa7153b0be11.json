@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul's United Church of Christ\", \"alternate_name\": \"\", \"description\": \"Call 732-828-0020 between 9am to 12pm Monday thru Friday to make an appointment.\", \"email\": \"\", \"url\": \"https://stpaulsmilltownnj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"62 South Main Street\", \"address_2\": null, \"city\": \"Milltown\", \"state_province\": \"NJ\", \"postal_code\": \"08850\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4492573, \"longitude\": -74.43499899999999}, \"phones\": [{\"number\": \"(732) 828-0020\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.325267"
+}

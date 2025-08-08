@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Requirements: Only a simple form with a few personal details is needed to receive food.\\n\\nIf the food pantry will be closed, there will be an announcement made outside the pantry 2 weeks before the scheduled closure.\", \"email\": \"\", \"url\": \"https://www.gcfcconnect.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"4215 Wendell Drive Southwest\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30336\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7690423, \"longitude\": -84.52459449999999}, \"phones\": [{\"number\": \"(770) 841-2533\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.294838"
+}

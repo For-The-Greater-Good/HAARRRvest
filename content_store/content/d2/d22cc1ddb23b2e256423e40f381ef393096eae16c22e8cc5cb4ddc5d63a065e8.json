@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Faith Tabernacle\", \"alternate_name\": \"\", \"description\": \"\\nTakes place at Faith Tabernacle Church; main entrance is located on the back parking lot.\", \"email\": \"\", \"url\": \"https://www.facebook.com/fishesandloavespantry\", \"status\": \"active\", \"address\": {\"address_1\": \"2422 West Patapsco Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21230\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2528198, \"longitude\": -76.6504171}, \"phones\": [{\"number\": \"(410) 737-8282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.385888"
+}

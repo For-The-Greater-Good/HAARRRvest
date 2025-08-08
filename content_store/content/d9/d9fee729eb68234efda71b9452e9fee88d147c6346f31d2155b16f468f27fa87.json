@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"All Saints Church Episcopal Ministry\", \"alternate_name\": \"\", \"description\": \"Call +1 (718) 698-1338 in advance to confirm availability of food.\", \"email\": \"\", \"url\": \"https://www.allsaintswillowbrook.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2329 Victory Blvd\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10314\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6116815, \"longitude\": -74.1414923}, \"phones\": [{\"number\": \"(718) 698-1338\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Non-perishable food only\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.603034"
+}

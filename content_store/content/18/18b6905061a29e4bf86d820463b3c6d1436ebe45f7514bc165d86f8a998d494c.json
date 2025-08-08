@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2817, \"name\": \"Midview Local Schools\", \"nickname\": \"Midview Local Schools\", \"address\": \"12865 GRAFTON RD\", \"city\": \"GRAFTON\", \"state\": \"OH\", \"zip\": \"44044\", \"phone\": \"440.748.2122\", \"latitude\": 41.29755, \"longitude\": -82.06367, \"estimated_distance\": 876.58, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4475, \"name\": \"Midview Middle School Mobile Pantry\", \"address\": \"12865 GRAFTON RD\", \"city\": \"GRAFTON\", \"state\": \"OH\", \"zip\": \"44044\", \"latitude\": 41.29755373, \"longitude\": -82.06367723, \"event_details\": \"Contact Midview Middle School with questions at 440-748-2122. Serving Midview School District\", \"estimated_distance\": 876.58, \"exception_note\": \"Serving the Midview School District\", \"event_dates\": [{\"id\": 356273, \"event_id\": 4475, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"3 PM\", \"end_time\": \"4:30 PM\", \"date\": \"2025-08-20\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:37.179887"
+}

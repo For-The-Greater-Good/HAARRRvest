@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Centro Restauracion Pacto Eterno\", \"alternate_name\": \"\", \"description\": \"Fresh produce on Fridays\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1621 66th Avenue Terrace East\", \"address_2\": null, \"city\": \"Sarasota\", \"state_province\": \"FL\", \"postal_code\": \"34243\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.4230076, \"longitude\": -82.5444899}, \"phones\": [{\"number\": \"(941) 242-2515\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.302789"
+}

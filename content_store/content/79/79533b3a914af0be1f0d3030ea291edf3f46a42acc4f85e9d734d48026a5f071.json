@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Arlington\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://fpcakearny.org/ministries/ \", \"status\": \"active\", \"address\": {\"address_1\": \"663 Kearny Avenue\", \"address_2\": null, \"city\": \"Kearny\", \"state_province\": \"NJ\", \"postal_code\": \"07032\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7745987, \"longitude\": -74.1436839}, \"phones\": [{\"number\": \"(201) 991-3513\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Kearny residents only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.716785"
+}

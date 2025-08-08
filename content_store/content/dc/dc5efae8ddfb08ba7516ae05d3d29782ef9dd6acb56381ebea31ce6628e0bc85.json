@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Joseph Social Service Center\", \"alternate_name\": \"\", \"description\": \"Serves Elizabeth residents only.. PLEASE DIRECT ALL CALLS TO REGISTER FOR THE FOOD PANTRY PROGRAM OR PRESCRIPTION \\nASSISTANCE TO: 908-354-5456\", \"email\": \"\", \"url\": \"https://www.sjeliz.org/food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"118 Division Street\", \"address_2\": \"\", \"city\": \"Elizabeth\", \"state_province\": \"NJ\", \"postal_code\": \"07201\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6612068, \"longitude\": -74.200025}, \"phones\": [{\"number\": \"(908) 354-5456\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"05:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.142566"
+}

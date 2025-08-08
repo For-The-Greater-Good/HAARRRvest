@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mary Ann Brett Food Pantry at St. Teresa of Calcutta Church\", \"alternate_name\": \"\", \"description\": \"Open to Residents of Dorchester or Boston\\n\\nPlease call to verify availability on the week of Easter.\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"73 Roseclair Street\", \"address_2\": null, \"city\": \"Dorchester\", \"state_province\": \"MA\", \"postal_code\": \"02125\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3209407, \"longitude\": -71.0579047}, \"phones\": [{\"number\": \"(617) 436-2190\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.118287"
+}

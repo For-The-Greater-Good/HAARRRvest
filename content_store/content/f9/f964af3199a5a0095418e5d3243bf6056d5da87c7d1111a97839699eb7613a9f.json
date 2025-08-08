@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Harbor Baptist\", \"alternate_name\": \"\", \"description\": \"The pantry dont operate during the holiday week\", \"email\": \"\", \"url\": \"https://harborbaptistchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5801 Old Concord Road\", \"address_2\": null, \"city\": \"Eastway\", \"state_province\": \"NC\", \"postal_code\": \"28213\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2633442, \"longitude\": -80.76894039999999}, \"phones\": [{\"number\": \"(704) 596-2992\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Those in need should contact the food pantry to fill out the appropriate paperwork needed to receive food provided by the federal and state.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.870694"
+}

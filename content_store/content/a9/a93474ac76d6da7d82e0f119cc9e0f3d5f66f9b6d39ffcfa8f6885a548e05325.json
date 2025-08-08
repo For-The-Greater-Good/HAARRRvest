@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"YMCA of Montclair \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"montclairymca.org\", \"status\": \"active\", \"address\": {\"address_1\": \"25 Park Street\", \"address_2\": null, \"city\": \"Montclair\", \"state_province\": \"NJ\", \"postal_code\": \"07042\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8154516, \"longitude\": -74.2180243}, \"phones\": [{\"number\": \"(973) 744-3400\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.702353"
+}

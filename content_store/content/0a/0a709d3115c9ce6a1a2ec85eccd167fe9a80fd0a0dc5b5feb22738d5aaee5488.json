@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 455, \"name\": \"Minerva Methodist Church Direct Distribution\", \"nickname\": \"Minerva Methodist Church Direct Distribution\", \"address\": \"204 N Main St\", \"city\": \"Minerva\", \"state\": \"OH\", \"zip\": \"44657\", \"phone\": \"330-868-4940\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 927.09, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 626, \"name\": \"Pantry\", \"address\": \"204 N Main St\", \"city\": \"Minerva\", \"state\": \"OH\", \"zip\": \"44657\", \"latitude\": 40.7293843, \"longitude\": -81.1046978, \"event_details\": \"Regular Hours - 2nd Thursday starting at 9am\", \"estimated_distance\": 927.09, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359120, \"event_id\": 626, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-14\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:31.964566"
+}

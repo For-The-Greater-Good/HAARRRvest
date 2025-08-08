@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Shore Acres Recreation\", \"alternate_name\": \"\", \"description\": \"BreakSpot Meals\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4230 Shore Acres Boulevard Northeast\", \"address_2\": null, \"city\": \"Shore Acres\", \"state_province\": \"FL\", \"postal_code\": \"33703\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.81079, \"longitude\": -82.6094675}, \"phones\": [{\"number\": \"(727) 893-7758\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.327849"
+}

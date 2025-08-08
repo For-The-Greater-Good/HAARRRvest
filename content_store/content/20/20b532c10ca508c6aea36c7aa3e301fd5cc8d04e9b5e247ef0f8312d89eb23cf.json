@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Joseph Church - SVDP Pantry\", \"alternate_name\": \"\", \"description\": \"Serve residents of Keyport, Matawan, and Aberdeen. Call (732-290-1878) for food delivery.\", \"email\": \"\", \"url\": \"https://www.fatimakeyport.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"376 Maple Place\", \"address_2\": null, \"city\": \"Keyport\", \"state_province\": \"NJ\", \"postal_code\": \"07735\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4265091, \"longitude\": -74.21249619999999}, \"phones\": [{\"number\": \"(732) 290-1878\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of lower income required, such as your EBT card\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.464001"
+}

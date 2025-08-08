@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CHOSEN CDC Food Services\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"www.chosencdc.org\", \"status\": \"active\", \"address\": {\"address_1\": \"200 Old Post Road\", \"address_2\": null, \"city\": \"Aberdeen\", \"state_province\": \"MD\", \"postal_code\": \"21001\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.5104554, \"longitude\": -76.1562082}, \"phones\": [{\"number\": \"(410) 939-1294\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.454354"
+}

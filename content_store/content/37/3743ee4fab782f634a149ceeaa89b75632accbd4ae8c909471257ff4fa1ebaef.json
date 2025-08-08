@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary Assembly Of GOD\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://calvarysi.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"4055 Richmond Avenue\", \"address_2\": \"\", \"city\": \"Staten Island\", \"state_province\": \"NY\", \"postal_code\": \"10312\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.539848, \"longitude\": -74.160332}, \"phones\": [{\"number\": \"(718) 356-4555\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.459401"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Church Foggy Bottom Food Pantry\", \"alternate_name\": \"\", \"description\": \"Bring photo ID showing current DC address and proof of need (food stamps, SSI, Medicaid, Medicare, SSDI, unemployment etc.) OR proof of income (showing that income is below federal poverty level for family size).\\n\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1920 G Street Northwest\", \"address_2\": null, \"city\": \"Northwest Washington\", \"state_province\": \"DC\", \"postal_code\": \"20006\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8980782, \"longitude\": -77.0446455}, \"phones\": [{\"number\": \"(202) 331-1495\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.536958"
+}

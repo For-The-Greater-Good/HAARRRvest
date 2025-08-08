@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Gabriel Baptist Church\", \"alternate_name\": \"\", \"description\": \"Contact: Rev. Dykes\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1041 Wilmington Avenue\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2733918, \"longitude\": -76.6643615}, \"phones\": [{\"number\": \"(410) 840-3363\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.236262"
+}

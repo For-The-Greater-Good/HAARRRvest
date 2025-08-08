@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pope Francis Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://camdendiocese.org/parish-of-holy-cross-opens-pope-francis-food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"64 North St\", \"address_2\": \"\", \"city\": \"Bridgeton\", \"state_province\": \"NJ\", \"postal_code\": \"08302\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.43821, \"longitude\": -75.23045}, \"phones\": [{\"number\": \"(856) 455-2323\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bags will be on the table. Please take one bag per person\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:48.193690"
+}

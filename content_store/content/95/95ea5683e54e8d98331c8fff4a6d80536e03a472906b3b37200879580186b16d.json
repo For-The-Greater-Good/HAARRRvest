@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Clear Spring Area Food Pantry\", \"alternate_name\": \"\", \"description\": \"The clients should be a resident of Clear Spring Area Food District and should have a paper from Community Action Council.\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"30 South Martin Street\", \"address_2\": null, \"city\": \"Clear Spring\", \"state_province\": \"MD\", \"postal_code\": \"21722\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.66498, \"longitude\": -77.90916}, \"phones\": [{\"number\": \"(301) 331-2739\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.873242"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"House of Love Soup Kitchen\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"589 Central Avenue\", \"address_2\": \"95\", \"city\": \"Fairmount\", \"state_province\": \"NJ\", \"postal_code\": \"07107\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7500391, \"longitude\": -74.1992029}, \"phones\": [{\"number\": \"(862) 899-3216\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:59.560589"
+}

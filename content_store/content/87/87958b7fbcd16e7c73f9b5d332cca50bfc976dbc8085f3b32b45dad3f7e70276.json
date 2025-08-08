@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church East Elmhurst\", \"alternate_name\": \"\", \"description\": \"We recommend that people call on Fridays (718-446-0200) between 10am and 3pm to ensure that we will be open.\", \"email\": \"\", \"url\": \"https://firstbaptistchurchnyc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"100-10 Astoria Boulevard\", \"address_2\": null, \"city\": \"East Elmhurst\", \"state_province\": \"NY\", \"postal_code\": \"11369\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7614838, \"longitude\": -73.8688751}, \"phones\": [{\"number\": \"(718) 507-5457\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Adult diapers available\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client Service hours\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.923958"
+}

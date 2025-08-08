@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lord's Pantry\", \"alternate_name\": \"\", \"description\": \"Serves Warren County.\", \"email\": \"\", \"url\": \"https://www.facebook.com/LordsPantryTUMC/\", \"status\": \"active\", \"address\": {\"address_1\": \"213 Main Street\", \"address_2\": \"\", \"city\": \"Hackettstown\", \"state_province\": \"NJ\", \"postal_code\": \"07840\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8525223, \"longitude\": -74.82709}, \"phones\": [{\"number\": \"(908) 852-3020\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.198611"
+}

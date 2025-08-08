@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Hearts to Nourish Hope, Inc.\", \"alternate_name\": \"\", \"description\": \"Must bring smartphone to scan a QR code on the location.\", \"email\": \"\", \"url\": \"https://www.heartstonourishhope.org/food\", \"status\": \"active\", \"address\": {\"address_1\": \"640 Georgia 138\", \"address_2\": null, \"city\": \"Riverdale\", \"state_province\": \"GA\", \"postal_code\": \"30274\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.5469059, \"longitude\": -84.4116047}, \"phones\": [{\"number\": \"(770) 997-4511\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Acquire QR code scan\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.597116"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ST IGNATIUS CATHOLIC CHURCH\", \"alternate_name\": \"\", \"description\": \"Must be resident of Tarpon Springs. \\nCommunity Life center is along hall on Huey Street.\", \"email\": \"\", \"url\": \"https://www.st.ignatius.net/foodpantry\", \"status\": \"active\", \"address\": {\"address_1\": \"715 East Orange Street\", \"address_2\": null, \"city\": \"Tarpon Springs\", \"state_province\": \"FL\", \"postal_code\": \"34689\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.1467672, \"longitude\": -82.74504429999999}, \"phones\": [{\"number\": \"(727) 937-4050\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:21.775540"
+}

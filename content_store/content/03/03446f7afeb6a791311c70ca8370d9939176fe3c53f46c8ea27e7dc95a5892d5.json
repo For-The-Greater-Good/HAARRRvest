@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Well of Hope\", \"alternate_name\": \"\", \"description\": \"Lake county 34714, 34711, 34716, 34715\\nPolk county 33897, 33887, 33884 \\nOrange county 34787\\nOsceola county 34747, 33896, 33848 \", \"email\": \"\", \"url\": \"http://wellofhope-thriftstore.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"16605 Sunrise Lakes Boulevard\", \"address_2\": null, \"city\": \"Clermont\", \"state_province\": \"FL\", \"postal_code\": \"34714\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.3678161, \"longitude\": -81.6804192}, \"phones\": [{\"number\": \"(352) 241-4377\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.251866"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Russell County Food Pantry\", \"alternate_name\": \"\", \"description\": \"Contact Person: Cathy Berry\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"15 North Front Street\", \"address_2\": null, \"city\": \"Russell\", \"state_province\": \"KS\", \"postal_code\": \"67665\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8859539, \"longitude\": -98.85421649999999}, \"phones\": [{\"number\": \"(785) 483-4113\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:45\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:20.403143"
+}

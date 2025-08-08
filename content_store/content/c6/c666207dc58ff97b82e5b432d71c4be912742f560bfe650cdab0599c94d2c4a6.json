@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4635, \"name\": \"First Congregational Church of Twinsburg,UCC\", \"nickname\": \"First Congregational Church of Twinsburg,UCC\", \"address\": \"9050 Church St\", \"city\": \"Twinsburg\", \"state\": \"OH\", \"zip\": \"44087\", \"phone\": \"330-425-2181\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 909.05, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8570, \"name\": \"Meal\", \"address\": \"9050 Church St\", \"city\": \"Twinsburg\", \"state\": \"OH\", \"zip\": \"44087\", \"latitude\": 41.3120375, \"longitude\": -81.4419159, \"event_details\": \"Regular Hours - 4th Sunday from 4-5:30pm\", \"estimated_distance\": 909.05, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360104, \"event_id\": 8570, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5:30 PM\", \"date\": \"2025-08-24\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:41.804727"
+}

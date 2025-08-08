@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Chews United Methodist Church\", \"alternate_name\": \"\", \"description\": \"* Must have an NJ license as ID\\n* Must remain in the car the entire time.\\n* Advised to arrive early as the line starts forming in the early hours of the morning. As early as 5:30am\", \"email\": \"\", \"url\": \"https://www.chewsumc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"319 Black Horse Pike\", \"address_2\": null, \"city\": \"Glendora\", \"state_province\": \"NJ\", \"postal_code\": \"08029\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8370037, \"longitude\": -75.06855949999999}, \"phones\": [{\"number\": \"(856) 939-1007\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.916623"
+}

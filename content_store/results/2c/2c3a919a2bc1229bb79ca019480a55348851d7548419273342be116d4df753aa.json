@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organization\": {\n    \"name\": \"SF-Marin Food Bank\",\n    \"description\": \"A food bank serving the San Francisco and Marin counties.\",\n    \"website\": \"https://foodlocator.sfmfoodbank.org\",\n    \"country\": \"US\"\n  },\n  \"locations\": [\n    {\n      \"metadata\": {\n        \"scraper_id\": \"sfmarin_food_bank_ca\",\n        \"last_action_date\": \"2023-10-27\"\n      },\n      \"address\": {\n        \"location_type\": \"physical\",\n        \"address_type\": \"physical\"\n      },\n      \"services\": [\n        {\n          \"metadata\": {\n            \"scraper_id\": \"sfmarin_food_bank_ca\",\n            \"last_action_date\": \"2023-10-27\"\n          },\n          \"service_type\": \"Food Distribution\",\n          \"status\": \"active\"\n        }\n      ]\n    }\n  ]\n}",
+  "job_id": "1754629522.719349",
+  "timestamp": "2025-08-08T05:07:47.079176"
+}

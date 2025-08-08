@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"PASADENA COMMUNITY CHURCH\", \"alternate_name\": \"\", \"description\": \"USDA Distribution Site\", \"email\": \"\", \"url\": \"https://www.pasadenacommunitychurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"227 70th Street South\", \"address_2\": null, \"city\": \"Pasadena On The Gulf\", \"state_province\": \"FL\", \"postal_code\": \"33707\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7678831, \"longitude\": -82.7356423}, \"phones\": [{\"number\": \"(727) 381-2499\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.028386"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church on the Rock East\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.cotreast.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"183 North Broadway\", \"address_2\": null, \"city\": \"Pennsville\", \"state_province\": \"NJ\", \"postal_code\": \"08070\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.6646862, \"longitude\": -75.5102217}, \"phones\": [{\"number\": \"(302) 650-3253\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.827319"
+}

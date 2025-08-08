@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Butler St CME Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3120 South Martin Street\", \"address_2\": null, \"city\": \"East Point\", \"state_province\": \"GA\", \"postal_code\": \"30344\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6714424, \"longitude\": -84.429001}, \"phones\": [{\"number\": \"(678) 705-5698\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Temporarily closed\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.347772"
+}

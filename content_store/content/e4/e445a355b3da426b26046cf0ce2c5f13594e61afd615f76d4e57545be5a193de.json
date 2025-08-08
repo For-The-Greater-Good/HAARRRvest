@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Kitchen\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"7509 N east 47th avenue\", \"status\": \"active\", \"address\": {\"address_1\": \"7509  Northeast 47th Avenue\", \"address_2\": null, \"city\": \"Vancouver\", \"state_province\": \"WA\", \"postal_code\": \"98661\", \"country\": \"US\"}, \"location\": {\"latitude\": 45.66962860961134, \"longitude\": -122.6231468594422}, \"phones\": [{\"number\": \"(360) 693-0939\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.413787"
+}

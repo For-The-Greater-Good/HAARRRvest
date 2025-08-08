@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Augustine Church\", \"alternate_name\": \"\", \"description\": \"Quantity of food depends on registered household size.\\n\", \"email\": \"\", \"url\": \"https://sasfx.org/ministries/st-vincent-de-paul-food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"47 Sterling Pl\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11217\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6784512, \"longitude\": -73.9765347}, \"phones\": [{\"number\": \"(347) 637-0304\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers fresh produce upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.845647"
+}

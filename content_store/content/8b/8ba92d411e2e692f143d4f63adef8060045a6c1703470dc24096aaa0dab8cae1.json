@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mt. Tabor Baptist\", \"alternate_name\": \"\", \"description\": \"How do I get a Food Bank Card? On your first visit we will put your name in our system. After your second visit we will get you a temporary card. After your third visit we will get you a Food Bank Card.\\n4.How do I qualify for USDA food? One of our staff will have USDA forms for you to complete. There are a number of ways to qualify for this additional food program. You must have a food bank card showing your are USDA qualified to receive this food.\", \"email\": \"\", \"url\": \"http://mymtbc.com\", \"status\": \"active\", \"address\": {\"address_1\": \"3504 Mount Tabor Road\", \"address_2\": null, \"city\": \"Lakeland\", \"state_province\": \"FL\", \"postal_code\": \"33810\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0983887, \"longitude\": -82.01734}, \"phones\": [{\"number\": \"(863) 858-3608\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"11:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.417101"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Teresa of Avila Community Services\", \"alternate_name\": \"\", \"description\": \"By the Convent Building\\n\", \"email\": \"\", \"url\": \"http://www.stasap.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"129-04 109th Avenue\", \"address_2\": null, \"city\": \"Jamaica\", \"state_province\": \"NY\", \"postal_code\": \"11420\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6842472, \"longitude\": -73.8134864}, \"phones\": [{\"number\": \"(718) 529-3587\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:05.270469"
+}

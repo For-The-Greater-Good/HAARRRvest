@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Guild Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.theguild.works/\", \"status\": \"active\", \"address\": {\"address_1\": \"260 Washington Street\", \"address_2\": null, \"city\": \"Dorchester\", \"state_province\": \"MA\", \"postal_code\": \"02121\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3016073, \"longitude\": -71.0766117}, \"phones\": [{\"number\": \"(877) 797-7938\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Walk-ins accepted\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:00.978483"
+}

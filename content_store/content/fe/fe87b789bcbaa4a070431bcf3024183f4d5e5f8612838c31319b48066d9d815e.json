@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MUST Cherokee Client Services\", \"alternate_name\": \"\", \"description\": \"The MUST Ministries Client Services in Cherokee County offer food, housing programs, workforce development and clothing, as well as Breads & Sweets. \", \"email\": \"\", \"url\": \"https://www.mustministries.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"111 Brown Industrial Parkway\", \"address_2\": null, \"city\": \"Canton\", \"state_province\": \"GA\", \"postal_code\": \"30114\", \"country\": \"US\"}, \"location\": {\"latitude\": 34.23742323423361, \"longitude\": -84.47005498990761}, \"phones\": [{\"number\": \"(770) 479-5397\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.237245"
+}

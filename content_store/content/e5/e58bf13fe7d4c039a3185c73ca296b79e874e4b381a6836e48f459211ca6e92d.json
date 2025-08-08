@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mission Hill Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://missionhill.org/about/#locations\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33617\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0403719, \"longitude\": -82.3940424}, \"phones\": [{\"number\": \"(813) 988-1138\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.177282"
+}

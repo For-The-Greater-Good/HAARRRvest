@@ -1,0 +1,5 @@
+{
+  "result": "[\n  {\n    \"organization\": {\n      \"name\": \"Second Harvest of Silicon Valley\",\n      \"description\": \"Second Harvest of Silicon Valley is a food bank serving Santa Clara and San Mateo counties.\"\n    },\n    \"locations\": [\n      {\n        \"metadata\": {\n          \"scraper_id\": \"second_harvest_of_silicon_valley_ca\",\n          \"last_action_date\": \"2023-10-27\"\n        },\n        \"address\": {\n          \"state_province\": \"CA\",\n          \"country\": \"US\",\n          \"address_type\": \"physical\"\n        },\n        \"services\": [\n          {\n            \"metadata\": {\n              \"service_id\": \"svc_1\",\n              \"last_action_date\": \"2023-10-27\"\n            },\n            \"status\": \"active\",\n            \"location_type\": \"physical\"\n          }\n        ]\n      }\n    ]\n  }\n]",
+  "job_id": "1754629530.433328",
+  "timestamp": "2025-08-08T05:10:20.369525"
+}

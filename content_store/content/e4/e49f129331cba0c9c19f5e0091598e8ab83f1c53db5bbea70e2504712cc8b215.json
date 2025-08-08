@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Secaucus Food Pantry - Metro Way \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://secaucusnj.gov/departments/social-services\", \"status\": \"active\", \"address\": {\"address_1\": \"79 Metro Way\", \"address_2\": null, \"city\": \"Secaucus\", \"state_province\": \"NJ\", \"postal_code\": \"07094\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.77068920000001, \"longitude\": -74.0707444}, \"phones\": [{\"number\": \"(201) 330-2014\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:52.021773"
+}

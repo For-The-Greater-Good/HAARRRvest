@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fairmont Gardens Apartments\", \"alternate_name\": \"\", \"description\": \"4137 Wadsworth Court, off Little River Turnpike at the end of Wadsworth Court. you can receive food at one of our neighborhood sites. Neighborhood sites provide supplementary food. You don\\u2019t need to provide any information (just the number of people in your family) to pick up neighborhood site food. We recommend coming to a neighborhood site 10 minutes early.\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"4100 Wadsworth Ct\", \"address_2\": null, \"city\": \"Annandale\", \"state_province\": \"VA\", \"postal_code\": \"22003\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.836461, \"longitude\": -77.203813}, \"phones\": [{\"number\": \"(703) 772-3132\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:45\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:15\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:15\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.490263"
+}

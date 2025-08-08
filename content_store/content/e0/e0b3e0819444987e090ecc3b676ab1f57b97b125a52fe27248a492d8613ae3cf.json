@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Harvest Outreach Ministry\", \"alternate_name\": \"\", \"description\": \"There's also a diaper program. We would need a copy of baby's birth certificate along with a copy of mother's certificate. If father picks up the diapers we would need a copy of his ID.\\n\\n25-40 diapers a week per child are given.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"204-208 21st Ave\", \"address_2\": null, \"city\": \"Paterson\", \"state_province\": \"NJ\", \"postal_code\": \"07501\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.907376, \"longitude\": -74.165374}, \"phones\": [{\"number\": \"(973) 568-4828\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"00:00\", \"closes_at\": \"02:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers available (must bring birth certificate)\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"State ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.257114"
+}

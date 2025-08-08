@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4381, \"name\": \"House Of Healing Ministries\", \"nickname\": \"House of Healing\", \"address\": \"33304 STATE ROUTE 124\", \"city\": \"LANGSVILLE\", \"state\": \"OH\", \"zip\": \"45741\", \"phone\": \"740-416-8527\", \"latitude\": 39.0471, \"longitude\": -82.18186, \"estimated_distance\": 880.58, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8008, \"name\": \"Pantry\", \"address\": \"33304 STATE ROUTE 124\", \"city\": \"LANGSVILLE\", \"state\": \"OH\", \"zip\": \"45741\", \"latitude\": 39.04729517, \"longitude\": -82.1813059, \"event_details\": \"\", \"estimated_distance\": 880.58, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361236, \"event_id\": 8008, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-11\"}, {\"id\": 361237, \"event_id\": 8008, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-25\"}, {\"id\": 368351, \"event_id\": 8008, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"2 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-09-08\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:41.325137"
+}

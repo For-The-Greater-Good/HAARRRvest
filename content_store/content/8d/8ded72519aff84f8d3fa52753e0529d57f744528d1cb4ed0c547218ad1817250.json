@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Academy Charter High School\", \"alternate_name\": \"\", \"description\": \"Coordinator: David\\tBlock\\t7326818888\\nStart: 08/04/2025 End:\\t08/07/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1725 Main Street\", \"address_2\": null, \"city\": \"Lake Como\", \"state_province\": \"NJ\", \"postal_code\": \"07719\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1712426, \"longitude\": -74.0278285}, \"phones\": [{\"number\": \"(732) 681-8377\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"11:45\", \"closes_at\": \"12:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"11:45\", \"closes_at\": \"12:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"11:45\", \"closes_at\": \"12:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"11:45\", \"closes_at\": \"12:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:48.350240"
+}

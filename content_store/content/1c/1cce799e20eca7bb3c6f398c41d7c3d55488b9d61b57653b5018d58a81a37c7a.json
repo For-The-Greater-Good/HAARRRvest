@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Morrisville Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.mpcusa.net\", \"status\": \"active\", \"address\": {\"address_1\": \"771 N Pennsylvania Ave\", \"address_2\": \"\", \"city\": \"Morrisville\", \"state_province\": \"PA\", \"postal_code\": \"19067\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.216124, \"longitude\": -74.786827}, \"phones\": [{\"number\": \"(215) 295-4191\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.265097"
+}

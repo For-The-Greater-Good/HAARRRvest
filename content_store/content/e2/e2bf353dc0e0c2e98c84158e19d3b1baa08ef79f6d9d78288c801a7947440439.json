@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Janie\\u2019s Garden\", \"alternate_name\": \"\", \"description\": \"June 5 to July 28 (Mon-Fri)\\nBreakfast 9:00-9:30 am\\nLunch 12:30-1:00 pm\\n*Site closed July 3-7, 2023\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2350 Central Avenue\", \"address_2\": null, \"city\": \"Newtown\", \"state_province\": \"FL\", \"postal_code\": \"34234\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.3577463, \"longitude\": -82.5425521}, \"phones\": [{\"number\": \"(941) 379-6333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.358232"
+}

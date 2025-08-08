@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MISide (Drive-Up Only) Gleaners mobile pantry\", \"alternate_name\": \"\", \"description\": \"Pet food available, courtesy of Michigan Humane\", \"email\": \"\", \"url\": \"https://pantrynet.org/mobile-distribution-events/\", \"status\": \"active\", \"address\": {\"address_1\": \"3553 Vernor Highway\", \"address_2\": null, \"city\": \"Mexicantown\", \"state_province\": \"MI\", \"postal_code\": \"48216\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3233395, \"longitude\": -83.0877527}, \"phones\": [{\"number\": \"(866) 453-2637\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.637660"
+}

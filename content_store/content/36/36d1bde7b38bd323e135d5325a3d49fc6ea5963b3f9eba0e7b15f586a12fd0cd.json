@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sacred Souls United Church of Christ\", \"alternate_name\": \"\", \"description\": \"If you'd like to make a request for food, please call (980) 301-5863 on or before Wednesday leaving your name and number to schedule your food pick-up.\", \"email\": \"\", \"url\": \"https://www.facebook.com/SacredsSoulsCommunutyChurchUcc/\", \"status\": \"active\", \"address\": {\"address_1\": \"2127 Eastway Drive\", \"address_2\": null, \"city\": \"Windsor Park\", \"state_province\": \"NC\", \"postal_code\": \"28205\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.2269066, \"longitude\": -80.77478479999999}, \"phones\": [{\"number\": \"(980) 301-5863\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:15.386981"
+}

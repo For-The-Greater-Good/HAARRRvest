@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fairgreen Presbyterian Church Feed Your Neighbor\", \"alternate_name\": \"\", \"description\": \" Our Food Pantry services all zip codes\", \"email\": \"\", \"url\": \"https://www.fairgreenoutreach.com/carols-cupboard-food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"3220 West Laskey Road\", \"address_2\": null, \"city\": \"Whitmer-Trilby\", \"state_province\": \"OH\", \"postal_code\": \"43613\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.706656, \"longitude\": -83.622247}, \"phones\": [{\"number\": \"(419) 475-4436\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.121629"
+}

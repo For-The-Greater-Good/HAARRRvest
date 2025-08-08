@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wholesome Wave Georgia\", \"alternate_name\": \"\", \"description\": \"The Georgia SNAP Connection program provides free assistance for SNAP (Food Stamps) and other benefits including: Medicaid, Childcare and Parent Services (CAPS), Temporary Assistance for Needy Families (TANF), and Women, Infants & Children (WIC). Free screenings, enrollments, and renewals. \", \"email\": \"\", \"url\": \"https://www.wholesomewavegeorgia.org/georgiasnapconnection\", \"status\": \"active\", \"address\": {\"address_1\": \"777 Cleveland Avenue Southwest\", \"address_2\": null, \"city\": \"Perkerson\", \"state_province\": \"GA\", \"postal_code\": \"30315\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6817157, \"longitude\": -84.4146943}, \"phones\": [{\"number\": \"(404) 564-9831\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"SNAP assistance available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.117397"
+}

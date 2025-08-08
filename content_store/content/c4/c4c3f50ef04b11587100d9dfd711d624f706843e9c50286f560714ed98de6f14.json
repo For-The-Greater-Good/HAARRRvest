@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"City Green\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"171 Grove Street\", \"address_2\": null, \"city\": \"Clifton\", \"state_province\": \"NJ\", \"postal_code\": \"07013\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8741029, \"longitude\": -74.1718532}, \"phones\": [{\"number\": \"(973) 869-4086\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.076377"
+}

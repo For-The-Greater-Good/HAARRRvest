@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Village Presbyterian Church (Community Food Pantry)\", \"alternate_name\": \"\", \"description\": \"Only serves the following zip codes:\\n* 33612\\n* 33613\\n* 33618\\n* 33624\\n* 33625\\n* 33626\\n* 33635\\n* 33647\\n* 33548\\n* 33549\\n* 33556\\n* 33558\\n* 33559\\n* 34638\\n* 34639\", \"email\": \"\", \"url\": \"http://www.thecommunityfoodpantry.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"13115 South Village Drive\", \"address_2\": null, \"city\": \"Carrollwood Village Phase II\", \"state_province\": \"FL\", \"postal_code\": \"33618\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0657362, \"longitude\": -82.5080553}, \"phones\": [{\"number\": \"(813) 963-2772\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Zip code restrictions\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.557800"
+}

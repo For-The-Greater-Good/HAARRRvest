@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fridges and Family at the People's Kitchen\", \"alternate_name\": \"\", \"description\": \"24/7 fridge is open \", \"email\": \"\", \"url\": \"https://southphillyfridge.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"1149 S. 9th St.\", \"address_2\": null, \"city\": \"Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19147\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.93501352328464, \"longitude\": -75.15867579770212}, \"phones\": [{\"number\": \"(215) 469-1614\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.093788"
+}

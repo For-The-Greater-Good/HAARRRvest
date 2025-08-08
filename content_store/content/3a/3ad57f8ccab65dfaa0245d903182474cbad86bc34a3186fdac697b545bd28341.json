@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mt. Zion Pantry\", \"alternate_name\": \"\", \"description\": \"-\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2000 East Belvedere Avenue\", \"address_2\": null, \"city\": \"Loch Raven\", \"state_province\": \"MD\", \"postal_code\": \"21239\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.356757, \"longitude\": -76.578217}, \"phones\": [{\"number\": \"(410) 426-2309\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.318797"
+}

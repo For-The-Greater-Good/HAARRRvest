@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Upcounty Hub @ Apple Ridge Recreation Area\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.upcountyhub.org\", \"status\": \"active\", \"address\": {\"address_1\": \"10101 Apple Ridge Road\", \"address_2\": null, \"city\": \"Montgomery Village\", \"state_province\": \"MD\", \"postal_code\": \"20886\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1855998, \"longitude\": -77.2082025}, \"phones\": [{\"number\": \"(240) 912-1077\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.810637"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4154, \"name\": \"BGSU Firelands\", \"nickname\": \"BGSU Firelands\", \"address\": \"1 UNIVERSITY DR\", \"city\": \"HURON\", \"state\": \"OH\", \"zip\": \"44839\", \"phone\": \"419-433-5560\", \"latitude\": 41.39945, \"longitude\": -82.59374, \"estimated_distance\": 849.15, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7437, \"name\": \"BGSU Firelands Mobile Pantry\", \"address\": \"1 UNIVERSITY DR\", \"city\": \"HURON\", \"state\": \"OH\", \"zip\": \"44839\", \"latitude\": 41.39945997, \"longitude\": -82.59374132, \"event_details\": \"No more than 3 families will be served per vehicle. Please clean out your trunk so we can safely load your groceries. If your trunk is dirty or full, you will need to load your own vehicle; we do not load passenger or back seats\", \"estimated_distance\": 849.15, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357695, \"event_id\": 7437, \"capacity\": 350, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"4 PM\", \"end_time\": \"5:30 PM\", \"date\": \"2025-08-12\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:40.906012"
+}

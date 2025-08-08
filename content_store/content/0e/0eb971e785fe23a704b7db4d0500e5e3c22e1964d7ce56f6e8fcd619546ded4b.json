@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Our Lady of Consolation Food Pantry\", \"alternate_name\": \"\", \"description\": \"Small boxes of food, for emergency.\", \"email\": \"\", \"url\": \"http://www.ourladyofconsolation.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1235 Badger Court\", \"address_2\": null, \"city\": \"Double Oaks\", \"state_province\": \"NC\", \"postal_code\": \"28206\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.25307799999999, \"longitude\": -80.836957}, \"phones\": [{\"number\": \"(704) 817-8813\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on Observances and Religious Holy Days\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.416316"
+}

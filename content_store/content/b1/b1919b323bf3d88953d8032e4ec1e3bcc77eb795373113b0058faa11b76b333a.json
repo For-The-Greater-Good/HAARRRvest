@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Open Pantry of Greater Lowell\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://theopenpantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"13 Hurd Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MA\", \"postal_code\": \"01852\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6427266, \"longitude\": -71.30823099999999}, \"phones\": [{\"number\": \"(978) 453-6693\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:45\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Provide prepacked bags or boxes of food\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.717545"
+}

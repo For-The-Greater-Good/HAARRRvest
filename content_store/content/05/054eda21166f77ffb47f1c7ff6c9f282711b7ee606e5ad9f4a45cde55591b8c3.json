@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cooperative Counseling Services\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1139 Spruce Drive\", \"address_2\": null, \"city\": \"Mountainside\", \"state_province\": \"NJ\", \"postal_code\": \"07092\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6808991, \"longitude\": -74.3441301}, \"phones\": [{\"number\": \"(908) 731-7099\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.743354"
+}

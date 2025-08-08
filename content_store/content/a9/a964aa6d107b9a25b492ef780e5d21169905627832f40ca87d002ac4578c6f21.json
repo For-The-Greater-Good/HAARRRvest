@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1889, \"name\": \"Sterling United Methodist Church\", \"nickname\": \"Sterling UMC\", \"address\": \"13584 Kauffman Ave\", \"city\": \"Sterling\", \"state\": \"OH\", \"zip\": \"44276\", \"phone\": \"330-939-2751\", \"latitude\": 40.96443, \"longitude\": -81.84564, \"estimated_distance\": 887.8, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2884, \"name\": \"Pantry\", \"address\": \"13584 Kauffman Ave\", \"city\": \"Sterling\", \"state\": \"OH\", \"zip\": \"44276\", \"latitude\": 40.9648724, \"longitude\": -81.8460578, \"event_details\": \"Regular Hours - Last Sunday from 5-6pm | During summer breaks, every Sunday.\", \"estimated_distance\": 887.8, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359324, \"event_id\": 2884, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-31\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:36.284881"
+}

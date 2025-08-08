@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"AfriThrive, Food Pantry\", \"alternate_name\": \"\", \"description\": \"Diaper is available.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9600 Pulaski Drive, Suite 115\", \"address_2\": null, \"city\": \"Middle River\", \"state_province\": \"MD\", \"postal_code\": \"21220\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.35376, \"longitude\": -76.45015}, \"phones\": [{\"number\": \"(240) 706-1517\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Offers job training/assistance\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.931331"
+}

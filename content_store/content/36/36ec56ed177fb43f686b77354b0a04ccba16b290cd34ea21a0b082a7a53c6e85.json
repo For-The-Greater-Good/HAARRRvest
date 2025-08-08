@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Catholic Charities Brooklyn and Queens, Blessed Virgin Mary/St. Mary-Winfield\", \"alternate_name\": \"\", \"description\": \"Only serves residents of the woodside area\\nAny minor woud require an adult due to the id requirement to sign in\", \"email\": \"\", \"url\": \"https://www.ccbq.org/service/food-pantry-network/\", \"status\": \"active\", \"address\": {\"address_1\": \"70-31 48th Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11377\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.738316, \"longitude\": -73.893797}, \"phones\": [{\"number\": \"(718) 672-4849\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.562722"
+}

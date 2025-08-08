@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Dwelling Place of NY\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://thedwellingplaceofny.org/home/\", \"status\": \"active\", \"address\": {\"address_1\": \"409 West 40th Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10018\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.757595, \"longitude\": -73.994232}, \"phones\": [{\"number\": \"(212) 564-5667\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.727844"
+}

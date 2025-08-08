@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Inprem Holistic Community Resource Center by\", \"alternate_name\": \"\", \"description\": \"Eligibility: Anyone.\\n\\nIntake Process: Telephone for appointment.\\n\\nDocuments: Photo ID and proof of address for adults.\\n\\nMon- Fri Closed 1pm to 2 pm for break\", \"email\": \"\", \"url\": \"www.inprem.org\", \"status\": \"active\", \"address\": {\"address_1\": \"5757 Karl Road\", \"address_2\": null, \"city\": \"Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43229\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.08456559999999, \"longitude\": -82.97662129999999}, \"phones\": [{\"number\": \" (614) 516-1812 or (614) 747-9265\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.837561"
+}

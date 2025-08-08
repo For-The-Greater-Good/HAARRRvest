@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army - Citadel \", \"alternate_name\": \"\", \"description\": \"Call in advance to get appointment before visiting pantry The number to call would be 2157225447 ext 3\", \"email\": \"\", \"url\": \"https://easternusa.salvationarmy.org/eastern-pennsylvania/philadelphia-citadel/alleviate-hunger/\", \"status\": \"active\", \"address\": {\"address_1\": \"5830 Rising Sun Avenue\", \"address_2\": null, \"city\": \"Northeast Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19120\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0437362, \"longitude\": -75.1034261}, \"phones\": [{\"number\": \"(215) 722-5447\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.697271"
+}

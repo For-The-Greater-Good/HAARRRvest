@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Beverly Presbyterian Church \", \"alternate_name\": \"\", \"description\": \"* **Drive-through food pantry**\\n* Please use the drive way to the right of the church and follow it to the back of the building. The staff will place the groceries in your car.\", \"email\": \"\", \"url\": \"http://www.bevpres.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"121 Warren Street East\", \"address_2\": null, \"city\": \"Edgewater Park\", \"state_province\": \"NJ\", \"postal_code\": \"08010\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0659403, \"longitude\": -74.9105098}, \"phones\": [{\"number\": \"(609) 387-1117\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:58.460578"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Paul's Evangelical Lutheran Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"832 Park Avenue\", \"address_2\": null, \"city\": \"Collingswood\", \"state_province\": \"NJ\", \"postal_code\": \"08108\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9122494, \"longitude\": -75.0650874}, \"phones\": [{\"number\": \"(856) 854-0860\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:37.606259"
+}

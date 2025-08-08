@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Nutley Family Services\", \"alternate_name\": \"\", \"description\": \"Open to Nutley residents and others\\n\", \"email\": \"\", \"url\": \"http://www.nutleyfamily.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"169 Chestnut Street\", \"address_2\": \"\", \"city\": \"Nutley\", \"state_province\": \"NJ\", \"postal_code\": \"07110\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.817945, \"longitude\": -74.155696}, \"phones\": [{\"number\": \"(973) 667-1884\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Entrance by the Side Door\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Serves New Jersey residents\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.250059"
+}

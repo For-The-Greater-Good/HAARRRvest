@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"BOCA HELPING HANDS / First Baptist Church of Boynton Beach\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.bocahelpinghands.org/hours-and-locations\", \"status\": \"active\", \"address\": {\"address_1\": \"301 North Seacrest Boulevard\", \"address_2\": null, \"city\": \"Boynton Beach\", \"state_province\": \"FL\", \"postal_code\": \"33435\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.5292402, \"longitude\": -80.0649301}, \"phones\": [{\"number\": \"(561) 417-0913\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"05:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.495946"
+}

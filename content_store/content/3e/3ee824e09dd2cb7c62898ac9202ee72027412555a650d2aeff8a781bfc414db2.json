@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"University Lutheran Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.uchcphiladelphia.org/meal-schedule.html\", \"status\": \"active\", \"address\": {\"address_1\": \"37 Chestnut Street\", \"address_2\": null, \"city\": \"Center City East\", \"state_province\": \"PA\", \"postal_code\": \"19106\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9481134, \"longitude\": -75.14197639999999}, \"phones\": [{\"number\": \"(610) 639-4395\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:53.418187"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Mount Pleasant Baptist Church\", \"alternate_name\": \"\", \"description\": \"**Serving residents in all counties in the surrounding Atlanta Area **\", \"email\": \"\", \"url\": \"https://mountpleasantatl.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"17 Meldon Avenue Southeast\", \"address_2\": null, \"city\": \"South Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30315\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7117513, \"longitude\": -84.3833889}, \"phones\": [{\"number\": \"(404) 688-6680\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.438868"
+}

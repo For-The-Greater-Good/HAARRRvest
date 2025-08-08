@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Rutherford Community Food Pantry\", \"alternate_name\": \"\", \"description\": \"Only serves citizens of Rutherford, members of Rutherford and other local religious institutions who are referred by an approved agency.\", \"email\": \"\", \"url\": \"https://www.rutherfordcommunitypantry.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"176 Park Avenue \", \"address_2\": \"Borough Hall Basement Floor \", \"city\": \"Rutherford\", \"state_province\": \"NJ\", \"postal_code\": \"7069\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.828187, \"longitude\": -74.112022}, \"phones\": [{\"number\": \"(201) 460-3000\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.639538"
+}

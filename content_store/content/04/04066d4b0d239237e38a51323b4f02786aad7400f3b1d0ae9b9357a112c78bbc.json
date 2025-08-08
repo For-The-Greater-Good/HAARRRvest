@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Stephens Baptist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"69 South Astor Street\", \"address_2\": null, \"city\": \"Pontiac\", \"state_province\": \"MI\", \"postal_code\": \"48342\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.6369733, \"longitude\": -83.26502649999999}, \"phones\": [{\"number\": \"(248) 335-5873\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:03.336606"
+}

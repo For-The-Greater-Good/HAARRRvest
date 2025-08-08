@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Feed-A-Bull USF Tampa\", \"alternate_name\": \"\", \"description\": \"University Holiday Closures 2023 \\nTuesday, July 4, 2023 Independence Day\\nMonday, September 4, 2023 Labor Day\\nFriday, November 10, 2023 Veteran's Day\\nThursday-Friday, November 23-24 Thanksgiving Break \", \"email\": \"\", \"url\": \"https://www.usf.edu/student-affairs/student-health-services/services/feed-a-bull-food-pantry.aspx\", \"status\": \"active\", \"address\": {\"address_1\": \"4202 East Fowler Avenue\", \"address_2\": \"4202 East Fowler Avenue\", \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33620\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0557611, \"longitude\": -82.41025359999999}, \"phones\": [{\"number\": \"(813) 974-6130\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"18:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"University Students only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.618660"
+}

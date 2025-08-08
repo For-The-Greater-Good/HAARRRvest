@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Saint Joseph's R.C. Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Open to New Jersey residents only.\\n\\nLocated in the Parish Hall building.\", \"email\": \"\", \"url\": \"https://stjoseph-nj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"454 Germantown Road\", \"address_2\": null, \"city\": \"West Milford\", \"state_province\": \"NJ\", \"postal_code\": \"07480\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.043665, \"longitude\": -74.39062}, \"phones\": [{\"number\": \"(973) 697-6100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.135688"
+}

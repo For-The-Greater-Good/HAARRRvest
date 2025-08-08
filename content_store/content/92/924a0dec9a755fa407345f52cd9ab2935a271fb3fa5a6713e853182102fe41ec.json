@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Collins Memorial UMC Food Pantry\", \"alternate_name\": \"\", \"description\": \"* Call 470-301-1092 to schedule an appointment\\n* Only available to individuals living in 30318 zip code. For those living outside 30318, text FINDFOOD and send it to 888-976-2232.\", \"email\": \"\", \"url\": \"https://collinsmemorialumc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"2220 Bolton Road Northwest\", \"address_2\": null, \"city\": \"Bolton\", \"state_province\": \"GA\", \"postal_code\": \"30318\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.8164065, \"longitude\": -84.4658714}, \"phones\": [{\"number\": \"(470) 301-1092\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.165987"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fort Washington Food Pantry\", \"alternate_name\": \"\", \"description\": \"if you live in the greater Fort Washington area (Zip codes 607, 20616, 20640, 20735, 20744, 20745, and 20748.)\", \"email\": \"\", \"url\": \"https://fortwashingtonfoodpantry.net/home\", \"status\": \"active\", \"address\": {\"address_1\": \"9801 Livingston Road\", \"address_2\": null, \"city\": \"Fort Washington\", \"state_province\": \"MD\", \"postal_code\": \"20744\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.755814, \"longitude\": -77.000802}, \"phones\": [{\"number\": \"(301) 567-0089\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Distribution in parking lot\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"May be closed during Jewish holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.630422"
+}

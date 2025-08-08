@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Atlanta Belvedere Seventh-Day Adventist Church\", \"alternate_name\": \"\", \"description\": \"Food Pantry enter the rare building\", \"email\": \"\", \"url\": \"https://www.belvederesdachurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"3567 Covington Highway\", \"address_2\": null, \"city\": \"Decatur\", \"state_province\": \"GA\", \"postal_code\": \"30032\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7649262, \"longitude\": -84.2521101}, \"phones\": [{\"number\": \"(404) 301-5912\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:01.670920"
+}

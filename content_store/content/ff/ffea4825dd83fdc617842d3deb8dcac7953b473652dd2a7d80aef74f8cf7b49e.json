@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First UMC Palmetto\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.fumcpalmetto.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"330 11th Avenue West\", \"address_2\": null, \"city\": \"Palmetto\", \"state_province\": \"FL\", \"postal_code\": \"34221\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.5136549, \"longitude\": -82.5768059}, \"phones\": [{\"number\": \"(941) 722-1812\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.389707"
+}

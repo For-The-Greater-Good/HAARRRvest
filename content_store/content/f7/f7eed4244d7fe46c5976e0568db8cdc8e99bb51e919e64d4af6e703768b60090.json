@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Harvest House-Detroit Friendship\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.detroitfriendshiphouse.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"9540 Conant St\", \"address_2\": \"\", \"city\": \"Hamtramck\", \"state_province\": null, \"postal_code\": \"48212\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3984, \"longitude\": -83.049625}, \"phones\": [{\"number\": \"(313) 871-7443\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"18:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:08.985317"
+}

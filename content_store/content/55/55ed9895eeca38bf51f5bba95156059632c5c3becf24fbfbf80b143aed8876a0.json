@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Regional Day School\", \"alternate_name\": \"\", \"description\": \"Carolyn\\tRoselli\\t7326435843\\nStart: 07/01/2025\\t08/11/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"890 Toms River Road\", \"address_2\": null, \"city\": \"Jackson Township\", \"state_province\": \"NJ\", \"postal_code\": \"08527\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0577058, \"longitude\": -74.35174099999999}, \"phones\": [{\"number\": \"(908) 910-6236\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:45\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:45\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:45\", \"closes_at\": \"13:45\"}, {\"weekday\": \"Monday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:15\", \"closes_at\": \"17:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:50.002544"
+}

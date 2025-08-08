@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Emmaus House Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.emmausharlem.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"310 West 139th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10030\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8191226, \"longitude\": -73.9454193}, \"phones\": [{\"number\": \"(281) 798-6741\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"04:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.743270"
+}

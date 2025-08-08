@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace Community Services\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.gracevanvorst.org/food-pantries\", \"status\": \"active\", \"address\": {\"address_1\": \"39 Erie Street\", \"address_2\": null, \"city\": \"Downtown Jersey City\", \"state_province\": \"NJ\", \"postal_code\": \"07302\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7229064, \"longitude\": -74.044379}, \"phones\": [{\"number\": \"(201) 659-2211\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Toiletries, if available \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.725032"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Temple Salem SDA Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.templesalemsda.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"222 Woodrow Avenue\", \"address_2\": null, \"city\": \"Dorchester Center\", \"state_province\": \"MA\", \"postal_code\": \"02124\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2857132, \"longitude\": -71.0891}, \"phones\": [{\"number\": \"(617) 288-8845\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.774792"
+}

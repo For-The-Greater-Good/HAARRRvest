@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Family Services Network of New York\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://fsnny1.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1420 Bushwick Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11207\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6841204, \"longitude\": -73.9092348}, \"phones\": [{\"number\": \"(718) 455-6010\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.054083"
+}

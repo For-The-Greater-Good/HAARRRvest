@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Joseph House\", \"alternate_name\": \"\", \"description\": \"The Pantry is open from 9 to 11:15 a.m. every Tuesday, Wednesday, and Thursday.\\n\\nWhat you need to bring:\\n\\n* A photo ID\\n* A Social Security card for every member of your household\\n* Proof of your income\\n* Due to increased demand, only residents of Wicomico County can receive food from the Food Pantry. \\n\\nEach eligible household can receive food one time per month.\", \"email\": \"\", \"url\": \"https://thejosephhouse.org/if-you-need-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"812 Boundary Street\", \"address_2\": null, \"city\": \"Salisbury\", \"state_province\": \"MD\", \"postal_code\": \"21801\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.3738261, \"longitude\": -75.6103916}, \"phones\": [{\"number\": \"(410) 749-4239\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:15\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:15\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:15\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Security Card Required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.874398"
+}

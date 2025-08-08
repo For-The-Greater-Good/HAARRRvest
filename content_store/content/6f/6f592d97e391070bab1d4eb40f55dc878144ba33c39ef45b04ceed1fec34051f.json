@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Liberty House Food Pantry\", \"alternate_name\": \"\", \"description\": \"Reach out because food is scarce especially if its an emergency - 12672571673\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1701 North Woodstock Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19121\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9803366, \"longitude\": -75.1678366}, \"phones\": [{\"number\": \"(267) 257-1673\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.017109"
+}

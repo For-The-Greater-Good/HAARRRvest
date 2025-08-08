@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Salvation Army Manhattan Citadel\", \"alternate_name\": \"\", \"description\": \"appointmednta can be made nay day of the week from 9am\", \"email\": \"\", \"url\": \"https://www.salvationarmyusa.org/usn/cure-hunger/\", \"status\": \"active\", \"address\": {\"address_1\": \"175 East 125th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10035\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8042052, \"longitude\": -73.9358003}, \"phones\": [{\"number\": \"(212) 860-3200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.990253"
+}

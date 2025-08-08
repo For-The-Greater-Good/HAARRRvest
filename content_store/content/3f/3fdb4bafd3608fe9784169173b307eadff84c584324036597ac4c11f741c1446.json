@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Limestone Valley Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.facebook.com/LVFP1/\", \"status\": \"active\", \"address\": {\"address_1\": \"6945 Elm Street\", \"address_2\": null, \"city\": \"Roseville\", \"state_province\": \"OH\", \"postal_code\": \"43777\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8510877, \"longitude\": -82.12201499999999}, \"phones\": [{\"number\": \"(740) 684-1233\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:27.988817"
+}

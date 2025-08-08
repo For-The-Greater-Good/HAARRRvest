@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Garfield House of Mercy\", \"alternate_name\": \"\", \"description\": \"Tickets are available at 4PM\", \"email\": \"\", \"url\": \"https://www.garfieldcasademisericordia.com/copy-of-about-us\", \"status\": \"active\", \"address\": {\"address_1\": \"111 Midland Ave\", \"address_2\": null, \"city\": \"Garfield\", \"state_province\": \"NJ\", \"postal_code\": \"07026\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.880417, \"longitude\": -74.101295}, \"phones\": [{\"number\": \"(973) 219-0975\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Outdoor distribution\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:53.079630"
+}

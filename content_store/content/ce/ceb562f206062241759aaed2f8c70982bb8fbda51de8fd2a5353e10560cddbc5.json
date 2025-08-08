@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Weymouth Food Pantry\", \"alternate_name\": \"\", \"description\": \"Give calendars to the clients \\n\\n17 Church Street Weymouth, MA\\nTuesday mornings 10-11am \\n\\n241 Broad Street Weymouth, MA\\nThursday mornings 10-11am \\n\\n25 Columbian Street Weymouth, MA\\nSaturday mornings 10-11am \", \"email\": \"\", \"url\": \"https://www.weymouthfoodpantry.org/the-food-pantry-garden\", \"status\": \"active\", \"address\": {\"address_1\": \"241 Broad Street\", \"address_2\": null, \"city\": \"Weymouth\", \"state_province\": \"MA\", \"postal_code\": \"02188\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2165419, \"longitude\": -70.95472269999999}, \"phones\": [{\"number\": \"(781) 331-7682\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.942368"
+}

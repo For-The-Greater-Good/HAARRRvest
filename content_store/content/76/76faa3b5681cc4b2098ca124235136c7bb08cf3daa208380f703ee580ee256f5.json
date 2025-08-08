@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1793, \"name\": \"Westbrook Park United Methodist Church\", \"nickname\": \"Westbrook Park UMC\", \"address\": \"2521 12th St NW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44708\", \"phone\": \"330-456-4797\", \"latitude\": 40.81015, \"longitude\": -81.40186, \"estimated_distance\": 911.25, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 2720, \"name\": \"Pantry\", \"address\": \"2521 12th St NW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44708\", \"latitude\": 40.7899236, \"longitude\": -81.4034407, \"event_details\": \"Regular Hours - 3rd Tuesday from 5-6:30pm\", \"estimated_distance\": 911.25, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359230, \"event_id\": 2720, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:36.241301"
+}

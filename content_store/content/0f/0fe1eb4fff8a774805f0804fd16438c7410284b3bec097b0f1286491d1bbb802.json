@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"LifeStyles of Maryland\", \"alternate_name\": \"\", \"description\": \"Charles County Residents \", \"email\": \"\", \"url\": \"https://charlescountyfoodconnection.org/event/lifestyles-of-maryland-food-pantry/2023-08-28/\", \"status\": \"active\", \"address\": {\"address_1\": \"101 Catalpa Drive, Suite 103, PO Box 1794\", \"address_2\": null, \"city\": \"La Plata\", \"state_province\": \"MD\", \"postal_code\": \"20646\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.52468, \"longitude\": -76.97363}, \"phones\": [{\"number\": \"(301) 609-9900\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Helps with income, rent, utility and food stamps\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.807836"
+}

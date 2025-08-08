@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"West Trenton Soup Kitchen @ Trinity Cathedral Church\", \"alternate_name\": \"\", \"description\": \"Serves Mercer County.\", \"email\": \"\", \"url\": \"https://trentonsoupkitchen.org/meal-service/\", \"status\": \"active\", \"address\": {\"address_1\": \"801 West State Street\", \"address_2\": null, \"city\": \"Berkeley Square and Parkside\", \"state_province\": \"NJ\", \"postal_code\": \"08618\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2295312, \"longitude\": -74.7870509}, \"phones\": [{\"number\": \"(609) 697-6185\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.906308"
+}

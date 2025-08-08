@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wesleyan Jerusalem Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3435 96th Street\", \"address_2\": null, \"city\": \"Corona\", \"state_province\": \"NY\", \"postal_code\": \"11368\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7551519, \"longitude\": -73.8718878}, \"phones\": [{\"number\": \"(718) 651-3082\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:47.693820"
+}

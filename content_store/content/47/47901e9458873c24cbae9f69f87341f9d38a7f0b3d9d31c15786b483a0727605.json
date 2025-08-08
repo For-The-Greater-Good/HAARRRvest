@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Creative Performing Arts Center of Philadelphia\", \"alternate_name\": \"\", \"description\": \"1600 \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1600 Wadsworth Avenue\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19150\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0804153, \"longitude\": -75.1719576}, \"phones\": [{\"number\": \"(215) 626-1314\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Line starts at 10am in the morning\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.797135"
+}

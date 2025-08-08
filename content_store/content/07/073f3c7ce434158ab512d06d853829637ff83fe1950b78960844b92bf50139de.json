@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Brooklyn Angels - Mobile Soup Kitchen (Bushwick)\", \"alternate_name\": \"\", \"description\": \"The truck is parked in front of Most Holy Trinity Church.\", \"email\": \"\", \"url\": \"https://www.northbrooklynangels.org/meals/\", \"status\": \"active\", \"address\": {\"address_1\": \"138 Montrose Avenue\", \"address_2\": null, \"city\": \"Southside\", \"state_province\": \"NY\", \"postal_code\": \"11206\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.707028, \"longitude\": -73.9439957}, \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"17:45\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Mobile soup kitchen truck\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Bulk food distribution is via: Free pop up green markets at meal sites.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.404757"
+}

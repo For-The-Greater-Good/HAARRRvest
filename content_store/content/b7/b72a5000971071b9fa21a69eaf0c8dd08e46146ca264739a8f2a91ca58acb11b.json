@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Redeemer Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.redeemerriverview.org\", \"status\": \"active\", \"address\": {\"address_1\": \"12404 Boyette Road\", \"address_2\": null, \"city\": \"Riverview\", \"state_province\": \"FL\", \"postal_code\": \"33569\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.855481, \"longitude\": -82.28867199999999}, \"phones\": [{\"number\": \"(813) 741-1776\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:19.693401"
+}

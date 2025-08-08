@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"North Central Community Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.pha.phila.gov/\", \"status\": \"active\", \"address\": {\"address_1\": \"1069 West Norris Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19122\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.98292050000001, \"longitude\": -75.1516664}, \"phones\": [{\"number\": \"(267) 988-1035\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:13.505498"
+}

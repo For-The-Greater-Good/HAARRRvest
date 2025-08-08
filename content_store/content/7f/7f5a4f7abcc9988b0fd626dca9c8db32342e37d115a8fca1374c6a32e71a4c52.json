@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pleasant Grove Food\", \"alternate_name\": \"\", \"description\": \"(410) 646-1462\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"214 South Loudon Avenue\", \"address_2\": null, \"city\": \"Irvington\", \"state_province\": \"MD\", \"postal_code\": \"21229\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2829776, \"longitude\": -76.68231519999999}, \"phones\": [{\"number\": \"(410) 646-1462\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.468800"
+}

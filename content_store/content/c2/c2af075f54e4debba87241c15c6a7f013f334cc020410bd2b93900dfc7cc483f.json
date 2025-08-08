@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"NFI Family Resource Center \", \"alternate_name\": \"\", \"description\": \"978-455-0701 (Call Ahead) \", \"email\": \"\", \"url\": \"https://www.nfima.org/services/community-and-home-based/lowell-family-resources-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"27 Prescott Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"MA\", \"postal_code\": \"01852\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.64502530000001, \"longitude\": -71.3079067}, \"phones\": [{\"number\": \"(978) 455-0701\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:54.718565"
+}

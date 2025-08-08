@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bethel Community Church of Pottstown\", \"alternate_name\": \"\", \"description\": \"Except 1st Monday of the month \", \"email\": \"\", \"url\": \"https://www.facebook.com/BCCP575/\", \"status\": \"active\", \"address\": {\"address_1\": \"575 North Keim Street\", \"address_2\": \"\", \"city\": \"Pottstown\", \"state_province\": \"PA\", \"postal_code\": \"19464\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.249974, \"longitude\": -75.62258179999999}, \"phones\": [{\"number\": \"(610) 326-1700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}, {\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.125382"
+}

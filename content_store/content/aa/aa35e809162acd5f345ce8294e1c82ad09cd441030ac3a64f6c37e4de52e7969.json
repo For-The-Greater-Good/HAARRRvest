@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Wayne State University Food Pantry - The W\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://thew.wayne.edu/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"703 West Kirby Street\", \"address_2\": null, \"city\": \"Wayne State\", \"state_province\": \"MI\", \"postal_code\": \"48202\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3579657, \"longitude\": -83.0730047}, \"phones\": [{\"number\": \"(313) 577-2743\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"01:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:03.268119"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Willow Praise Church\", \"alternate_name\": \"\", \"description\": \"- They have emergency food available between 10am to 7pm\\n- For the months of November and Decembe due to it being a holiday season, their food pantry will be open on the 3rd Saturday of the month.\", \"email\": \"\", \"url\": \"https://willowpraise.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"32901 Vine Street\", \"address_2\": null, \"city\": \"Willowick\", \"state_province\": \"OH\", \"postal_code\": \"44095\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.6435302, \"longitude\": -81.45430089999999}, \"phones\": [{\"number\": \"(440) 944-5683\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Thrift Shop\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Driver's License\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.270462"
+}

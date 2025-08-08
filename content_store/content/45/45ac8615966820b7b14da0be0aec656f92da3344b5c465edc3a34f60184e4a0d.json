@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dallas Emergency Food Corp\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.dallasfoodbank.com/contact\", \"status\": \"active\", \"address\": {\"address_1\": \"322 Main Street\", \"address_2\": null, \"city\": \"Dallas\", \"state_province\": \"OR\", \"postal_code\": \"97338\", \"country\": \"US\"}, \"location\": {\"latitude\": 44.9272555, \"longitude\": -123.3136237}, \"phones\": [{\"number\": \"(503) 623-3578\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.131230"
+}

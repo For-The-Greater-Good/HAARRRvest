@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sharing Table\", \"alternate_name\": \"\", \"description\": \"Free lunch served and free grocery bags distributed every Saturday from 11:30am to 1:00pm at Prince of Peace Catholic Church\", \"email\": \"\", \"url\": \"https://www.sharingtable.org\", \"status\": \"active\", \"address\": {\"address_1\": \"Prince of Peace Catholic Church \", \"address_2\": \"2600 Willoughby Beach Road\", \"city\": \"Edgewood\", \"state_province\": \"MD\", \"postal_code\": \"21040\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.4277536, \"longitude\": -76.2845227}, \"phones\": [{\"number\": \"(410) 575-3858\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.761569"
+}

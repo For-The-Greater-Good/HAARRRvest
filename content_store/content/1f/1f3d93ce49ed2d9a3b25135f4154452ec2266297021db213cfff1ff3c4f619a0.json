@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"University District Food Bank\", \"alternate_name\": \"\", \"description\": \"We serve residents of zip codes 98102, 98103, 98105, 98112, 98115, and 98125.\", \"email\": \"\", \"url\": \"https://www.udistrictfoodbank.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5017 Roosevelt Way Northeast\", \"address_2\": null, \"city\": \"Northeast Seattle\", \"state_province\": \"WA\", \"postal_code\": \"98105\", \"country\": \"US\"}, \"location\": {\"latitude\": 47.6655387, \"longitude\": -122.3178395}, \"phones\": [{\"number\": \"(206) 523-7060\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"08:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Wear Facemask\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.673334"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Food Bank Network of Somerset County - Bound Brook Pantry\", \"alternate_name\": \"\", \"description\": \"Only open to Sormet County residents \", \"email\": \"\", \"url\": \"https://www.somersetfoodbank.org/need-help/\", \"status\": \"active\", \"address\": {\"address_1\": \"108 West Union Avenue\", \"address_2\": null, \"city\": \"Bound Brook\", \"state_province\": \"NJ\", \"postal_code\": \"08805\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5667406, \"longitude\": -74.5367472}, \"phones\": [{\"number\": \"(732) 560-1813\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.616346"
+}

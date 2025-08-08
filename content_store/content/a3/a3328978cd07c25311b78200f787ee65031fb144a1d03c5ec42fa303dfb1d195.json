@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Edgemere Bible Church\", \"alternate_name\": \"\", \"description\": \"By appointment only.\\n\\nPlease contact Pastor Gary Holbrook.\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3011 Ross Avenue\", \"address_2\": null, \"city\": \"Sparrows Point\", \"state_province\": \"MD\", \"postal_code\": \"21219\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2407698, \"longitude\": -76.4493916}, \"phones\": [{\"number\": \"(410) 477-4149\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.441016"
+}

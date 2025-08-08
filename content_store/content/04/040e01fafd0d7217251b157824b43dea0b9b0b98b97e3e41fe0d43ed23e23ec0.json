@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Annunciation Food Cupboard\", \"alternate_name\": \"\", \"description\": \"Must live in 19118, 19119, 19138, or 19150\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"324 Carpenter Lane\", \"address_2\": null, \"city\": \"Northwest Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19119\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.049395, \"longitude\": -75.1923518}, \"phones\": [{\"number\": \"(267) 230-2676\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.802889"
+}

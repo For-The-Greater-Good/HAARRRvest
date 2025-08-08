@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Peter's Haven\", \"alternate_name\": \"\", \"description\": \"Serves Clifton  County only\", \"email\": \"\", \"url\": \"https://www.saintpetershaven.org/contact-us-1\", \"status\": \"active\", \"address\": {\"address_1\": \"380 Clifton Avenue\", \"address_2\": \"\", \"city\": \"Clifton\", \"state_province\": \"NJ\", \"postal_code\": \"07011\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.875229, \"longitude\": -74.14193379999999}, \"phones\": [{\"number\": \"(973) 546-3406\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required for all members of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.982622"
+}

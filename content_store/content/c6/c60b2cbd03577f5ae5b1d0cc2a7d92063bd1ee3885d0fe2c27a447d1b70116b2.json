@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Michael's Parish - Food Pantry\", \"alternate_name\": \"\", \"description\": \"Requires to call for hours. Serves those in need within zip code 07104.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"172 Broadway\", \"address_2\": null, \"city\": \"Mount Pleasant/Lower Broadway\", \"state_province\": \"NJ\", \"postal_code\": \"07104\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7564015, \"longitude\": -74.1703739}, \"phones\": [{\"number\": \"(973) 484-7100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:39.285043"
+}

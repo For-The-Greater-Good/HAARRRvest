@@ -1,0 +1,5 @@
+{
+  "result": "{\n  \"organizations\": [\n    {\n      \"id\": \"org_1\",\n      \"name\": \"Ward Memorial AME Church\",\n      \"description\": \"Ward Memorial AME Church is a religious institution located in Washington D.C. that may offer food pantry services.\",\n      \"locations\": [\n        {\n          \"id\": \"loc_1\",\n          \"name\": \"Ward Memorial AME Church\",\n          \"address\": {\n            \"street\": \"241 42nd St NE\",\n            \"street2\": null,\n            \"city\": \"Washington\",\n            \"state_province\": \"DC\",\n            \"postal_code\": \"20019\",\n            \"country\": \"US\",\n            \"address_type\": \"physical\"\n          },\n          \"location_type\": \"physical\",\n          \"metadata\": {\n            \"last_action_date\": \"2023-10-27\"\n          }\n        }\n      ],\n      \"services\": [],\n      \"metadata\": {\n        \"last_action_date\": \"2023-10-27\"\n      }\n    }\n  ],\n  \"services\": [],\n  \"metadata\": {\n    \"last_action_date\": \"2023-10-27\"\n  }\n}",
+  "job_id": "1754629529.379306",
+  "timestamp": "2025-08-08T05:10:05.275678"
+}

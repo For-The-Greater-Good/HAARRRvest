@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Truth Outreach Ministry\", \"alternate_name\": \"\", \"description\": \"Registration between at 9:00 to 11:30am\\nActual Food Distribution starts at 3pm\\nServes Max of 90 people only.\\nhttps://www.facebook.com/TruthOutreachGlobalMinistries/\", \"email\": \"\", \"url\": \"https://truthoutreachministries.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"10711 North 53rd Street\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33617\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0459836, \"longitude\": -82.3952284}, \"phones\": [{\"number\": \"(813) 988-8646\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.569093"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"All Saints Catholic Church\", \"alternate_name\": \"\", \"description\": \"* Big food bank on 3rd Wednesdays\\n* Diapers and baby formula upon availability\", \"email\": \"\", \"url\": \"https://www.allsaintsnj.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"621 DOCK STREET\", \"address_2\": null, \"city\": \"MILLVILLE\", \"state_province\": \"NJ\", \"postal_code\": \"08332\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.402719, \"longitude\": -75.041545}, \"phones\": [{\"number\": \"(856) 825-0021\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:46.887395"
+}

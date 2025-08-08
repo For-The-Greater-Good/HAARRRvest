@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Salvation Army Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/SalArmyCM\\n- Gas and electricity bills are required to set up a appointment\\n\", \"email\": \"\", \"url\": \"https://sa-md.org/centralmaryland/contact-us-1\", \"status\": \"active\", \"address\": {\"address_1\": \"814 Light Street\", \"address_2\": null, \"city\": \"Federal Hill-Montgomery\", \"state_province\": \"MD\", \"postal_code\": \"21230\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2792439, \"longitude\": -76.6132008}, \"phones\": [{\"number\": \"(410) 783-2920\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.367740"
+}

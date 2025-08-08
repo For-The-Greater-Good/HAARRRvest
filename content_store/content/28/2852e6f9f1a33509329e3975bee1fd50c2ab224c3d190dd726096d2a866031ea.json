@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christian Care at A Church of Living Hope\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1271 East Maple Avenue\", \"address_2\": null, \"city\": \"Langhorne\", \"state_province\": \"PA\", \"postal_code\": \"19047\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1784699, \"longitude\": -74.90267039999999}, \"phones\": [{\"number\": \"(215) 757-8782\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.563860"
+}

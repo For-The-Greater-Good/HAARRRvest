@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bmore Community Food (Comida comunitaria Bmore)\", \"alternate_name\": \"\", \"description\": \"* Will be asked if clients can provide $10 donation.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"300 West 24th Street\", \"address_2\": null, \"city\": \"Remington\", \"state_province\": \"MD\", \"postal_code\": \"21211\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3165187, \"longitude\": -76.62056199999999}, \"phones\": [{\"number\": \"(443) 835-7230\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.946179"
+}

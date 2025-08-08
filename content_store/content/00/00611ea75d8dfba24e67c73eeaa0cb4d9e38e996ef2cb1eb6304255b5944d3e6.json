@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Upcounty Hub @ Germantown Elementary School\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.theupcountyhub.org/distribution-calendar\", \"status\": \"active\", \"address\": {\"address_1\": \"19110 Liberty Mill Road\", \"address_2\": null, \"city\": \"Germantown\", \"state_province\": \"MD\", \"postal_code\": \"20874\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.169872, \"longitude\": -77.276388}, \"phones\": [{\"number\": \"(240) 912-1077\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"18:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.832419"
+}

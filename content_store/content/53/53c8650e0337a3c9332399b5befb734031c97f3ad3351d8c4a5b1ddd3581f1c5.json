@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4168, \"name\": \"Tarrant Area Foodbank\", \"nickname\": \"Tarrant Area Foodbank\", \"address\": \"2525 CULLEN ST\", \"city\": \"FORT WORTH\", \"state\": \"TX\", \"zip\": \"76107\", \"phone\": \"817-857-7100\", \"latitude\": 32.76137, \"longitude\": -97.35254, \"estimated_distance\": 495.92, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 7560, \"name\": \"Herman Clark\", \"address\": \"5201 Ca Roberson Blvd\", \"city\": \"FORT WORTH\", \"state\": \"TX\", \"zip\": \"76119\", \"latitude\": 32.6805, \"longitude\": -97.26498, \"event_details\": \"\", \"estimated_distance\": 502.16, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358096, \"event_id\": 7560, \"capacity\": 1200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-13\"}, {\"id\": 358097, \"event_id\": 7560, \"capacity\": 1200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-20\"}, {\"id\": 358098, \"event_id\": 7560, \"capacity\": 1200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-27\"}, {\"id\": 365266, \"event_id\": 7560, \"capacity\": 1200, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:41.092241"
+}

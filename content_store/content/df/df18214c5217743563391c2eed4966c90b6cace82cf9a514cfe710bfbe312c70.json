@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Chrisma Charities\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"12805 Georgia Avenue\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20906\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.065787, \"longitude\": -77.056845}, \"phones\": [{\"number\": \"(202) 427-2816\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"12:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Customers must sign a TEFAP form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.046164"
+}

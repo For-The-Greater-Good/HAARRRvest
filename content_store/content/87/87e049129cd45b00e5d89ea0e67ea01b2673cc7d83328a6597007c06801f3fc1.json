@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"United Communities Against Poverty (UCAP)\", \"alternate_name\": \"\", \"description\": \"Must be PG County Resident. \\n\\nBirth Certificate for all members of the household and MD ID for 18 years old and older.\\n\\nLease or piece of mail that shows their name or the address.\\n\\nDiapers available only on Tuesdays and by appointment.\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1400 Doewood Lane\", \"address_2\": null, \"city\": \"Capitol Heights\", \"state_province\": \"MD\", \"postal_code\": \"20743\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.91025570000001, \"longitude\": -76.92671899999999}, \"phones\": [{\"number\": \"(301) 322-5700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.624526"
+}

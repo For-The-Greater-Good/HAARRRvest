@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Peter's Pantry \", \"alternate_name\": \"\", \"description\": \"* Serves Perth Amboy Residents only\\n* Must show proof of residence within Perth Amboy, NJ\\n* Must bring 4 reusable bags\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"183 Rector St.\", \"address_2\": null, \"city\": \"Perth Amboy\", \"state_province\": \"NJ\", \"postal_code\": \"08861\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.503888, \"longitude\": -74.266098}, \"phones\": [{\"number\": \"(732) 826-1594\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must bring own bags/cart\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:55.050498"
+}

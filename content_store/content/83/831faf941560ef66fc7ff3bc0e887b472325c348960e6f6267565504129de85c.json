@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sconiers Homeless Preventive Organization - Food Pantry\", \"alternate_name\": \"\", \"description\": \"- Call before 10 AM to confirm\\n- This is office you need to call them so they will apoint you to the nearby food pantry.\\n- There is no food distribution at this location.\\n- Don't go at this location.\", \"email\": \"\", \"url\": \"https://www.shpoinc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"848 Pegg Road\", \"address_2\": null, \"city\": \"Atlanta\", \"state_province\": \"GA\", \"postal_code\": \"30315\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.6890554, \"longitude\": -84.416759}, \"phones\": [{\"number\": \"(404) 454-3554\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Christmas basket and Thanksgiving basket provided\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.064084"
+}

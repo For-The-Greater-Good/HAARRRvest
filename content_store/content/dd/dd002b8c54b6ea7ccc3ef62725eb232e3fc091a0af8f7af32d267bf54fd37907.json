@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MissionBenedict\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"925 South Main Street\", \"address_2\": null, \"city\": \"Mount Angel\", \"state_province\": \"OR\", \"postal_code\": \"97362\", \"country\": \"US\"}, \"location\": {\"latitude\": 45.06157679999999, \"longitude\": -122.8039996}, \"phones\": [{\"number\": \"(503) 845-2468\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"20:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.234387"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fulton County DFCS - SNAP local office\", \"alternate_name\": \"\", \"description\": \"\\nIf you need help completing your application or have questions about Food Stamps, Medicaid, TANF or Childcare, please contact the Customer Contact Center at: 1-877-423-4746. \\n\\nOur services, including interpreters, are free. If you are deaf, hard-of-hearing, deaf-blind or have difficulty speaking, you can call us at the number above by dialing 711 (Georgia Relay).\", \"email\": \"\", \"url\": \"https://dfcs.georgia.gov/locations/fulton-sw-county\", \"status\": \"active\", \"address\": {\"address_1\": \"515 Fairburn Road Southwest\", \"address_2\": null, \"city\": \"Fairburn Mays\", \"state_province\": \"GA\", \"postal_code\": \"30331\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7397584, \"longitude\": -84.5107215}, \"phones\": [{\"number\": \"(404) 206-5778\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:21.428554"
+}

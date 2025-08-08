@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"SVDP Food Service Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"Www.Svdpcares.com\", \"status\": \"active\", \"address\": {\"address_1\": \"401 15th Street North\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33705\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7768461, \"longitude\": -82.6534924}, \"phones\": [{\"number\": \"(727) 258-0892\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.886986"
+}

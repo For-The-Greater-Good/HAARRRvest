@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Crispin\\u2019s Food Pantry @ St. Anthony's\", \"alternate_name\": \"\", \"description\": \"- Call ahead +1 (732) 747-0813(ext 108)\", \"email\": \"\", \"url\": \"https://web.stanthonysofredbank.net/food-assistance-st-crispins\", \"status\": \"active\", \"address\": {\"address_1\": \"121 Bridge Avenue\", \"address_2\": null, \"city\": \"Red Bank\", \"state_province\": \"New Jersey\", \"postal_code\": \"07701\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.3464889, \"longitude\": -74.0744956}, \"phones\": [{\"number\": \"(732) 747-0813\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"03:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:30\", \"closes_at\": \"03:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.256853"
+}

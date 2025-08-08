@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Calvary Baptist Church\", \"alternate_name\": \"\", \"description\": \"Requirements: Food vouchers only from DSS. Referral needed to pick up vouchers\\n\\nHours of Operation: Monday \\u2013 Friday Noon \\u2013 3:00 p.m. \", \"email\": \"\", \"url\": \"https://www.calvarybaltimore.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"3911 Garrison Boulevard\", \"address_2\": null, \"city\": \"Callaway-Garrison\", \"state_province\": \"MD\", \"postal_code\": \"21215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.334058, \"longitude\": -76.682996}, \"phones\": [{\"number\": \"(410) 664-2111\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.409183"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3177, \"name\": \"Sandusky Church of God\", \"nickname\": \"Sandusky Church of God\", \"address\": \"1018 W BOGART RD\", \"city\": \"SANDUSKY\", \"state\": \"OH\", \"zip\": \"44870\", \"phone\": \"419-503-3116\", \"latitude\": 41.39619, \"longitude\": -82.69194, \"estimated_distance\": 843.98, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5057, \"name\": \"Pantry\", \"address\": \"1018 W BOGART RD\", \"city\": \"SANDUSKY\", \"state\": \"OH\", \"zip\": \"44870\", \"latitude\": 41.3961628, \"longitude\": -82.6927255, \"event_details\": \"\", \"estimated_distance\": 843.98, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356008, \"event_id\": 5057, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:37.794541"
+}

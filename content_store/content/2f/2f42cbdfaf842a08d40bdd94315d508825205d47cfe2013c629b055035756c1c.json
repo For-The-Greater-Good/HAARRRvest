@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sloatsburg Food Pantry d.b.a. Community Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"www.sloatsburgfoodpantry.org\", \"status\": \"active\", \"address\": {\"address_1\": \"81 Washington Ave\", \"address_2\": \"\", \"city\": \"Suffern\", \"state_province\": \"NY\", \"postal_code\": \"10901\", \"country\": \"US\"}, \"location\": {\"latitude\": 41.112034, \"longitude\": -74.150192}, \"phones\": [{\"number\": \"(201) 394-0627\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.537673"
+}

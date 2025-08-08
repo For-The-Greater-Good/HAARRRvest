@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First United Methodist Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"840 Trenton Road\", \"address_2\": null, \"city\": \"Fairless Hills\", \"state_province\": \"PA\", \"postal_code\": \"19030\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1839168, \"longitude\": -74.83670870000002}, \"phones\": [{\"number\": \"(215) 946-5800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:17.724410"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"84451\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in FOOD BANK FOR NEW YORK CITY\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"212-566-7855\", \"country\": \"US\"}, \"phones\": [{\"number\": \"252 WEST 116TH STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.706329, \"longitude\": -74.013415}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"FOOD BANK FOR NEW YORK CITY\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:15:10.338925"
+}

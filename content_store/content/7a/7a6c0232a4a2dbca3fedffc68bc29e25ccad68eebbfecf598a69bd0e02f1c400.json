@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Long Valley Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"- Only open to residents of long valley\", \"email\": \"\", \"url\": \"http://lvpc.net/\", \"status\": \"active\", \"address\": {\"address_1\": \"39 Bartley Road\", \"address_2\": \"\", \"city\": \"Long Valley\", \"state_province\": \"NJ\", \"postal_code\": \"07853\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7889618, \"longitude\": -74.75505749999999}, \"phones\": [{\"number\": \"(908) 876-3471\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.275205"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Family Services Initiative (FSI Connect)\", \"alternate_name\": \"\", \"description\": \"- no food pantry at this location.\", \"email\": \"\", \"url\": \"http://www.pemhs.org\", \"status\": \"active\", \"address\": {\"address_1\": \"11254 58th Street\", \"address_2\": null, \"city\": \"Pinellas Park\", \"state_province\": \"FL\", \"postal_code\": \"33782\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.8739751, \"longitude\": -82.71285739999999}, \"phones\": [{\"number\": \"(727) 545-6477\", \"type\": \"voice\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Must be pregnant or have a child below 8 months during registration\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Must be income-eligible\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social security cards or Birth certificates for every member of the household\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Pregnant or atleast one(1) minor in the home\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:01.870273"
+}

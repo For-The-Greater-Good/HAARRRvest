@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace & Mercy Food Pantry Church of Christ\", \"alternate_name\": \"\", \"description\": \"If you have any emergency needs you can call us between 8AM to 4PM, Monday through Friday to make special arrangements.\\n\\nPeople start lining up around 12pm . \", \"email\": \"\", \"url\": \"https://gracemercyfoodpantry.org/#about\", \"status\": \"active\", \"address\": {\"address_1\": \"301 38th Street North\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33713\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7748973, \"longitude\": -82.6845841}, \"phones\": [{\"number\": \"(727) 486-1768\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Number of household members\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.813138"
+}

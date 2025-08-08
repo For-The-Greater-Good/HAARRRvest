@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"New Hope Baptist Church Pantry\", \"alternate_name\": \"\", \"description\": \"Requires to call for hours. Serves Essex County.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"144 Norman Street\", \"address_2\": null, \"city\": \"East Orange\", \"state_province\": \"NJ\", \"postal_code\": \"07017\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7794719, \"longitude\": -74.2050502}, \"phones\": [{\"number\": \"(973) 678-6710\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:39.315686"
+}

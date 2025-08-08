@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"House of David Worship Center\", \"alternate_name\": \"\", \"description\": \"Registration is from 7am to 10:30 and Distribution/ Serving is from 10:30 to 12:30pm only\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"747-749 Hendrix Street\", \"address_2\": null, \"city\": \"East New York\", \"state_province\": \"NY\", \"postal_code\": \"11207\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6631454, \"longitude\": -73.88632369999999}, \"phones\": [{\"number\": \"(718) 649-5982\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.616742"
+}

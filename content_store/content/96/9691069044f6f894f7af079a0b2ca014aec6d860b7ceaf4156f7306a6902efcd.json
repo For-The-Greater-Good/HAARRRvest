@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Intown Collaborative Ministries\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/intowncm/\", \"email\": \"\", \"url\": \"https://intowncares.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"Druid Hills Presbyterian Church Campus\", \"address_2\": \"1026 Ponce De Leon Avenue Northeast\", \"city\": \"Virginia-Highland\", \"state_province\": \"GA\", \"postal_code\": \"30306\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7744402, \"longitude\": -84.35387089999999}, \"phones\": [{\"number\": \"(404) 590-6956\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.732667"
+}

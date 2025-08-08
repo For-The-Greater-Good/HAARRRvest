@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jackson Women of Today - Food Pantry\", \"alternate_name\": \"\", \"description\": \"Exception of the Saturday following of distribution.\", \"email\": \"\", \"url\": \"https://jacksonwomen.tripod.com/id32.html\", \"status\": \"active\", \"address\": {\"address_1\": \"45 Don Connor Boulevard\", \"address_2\": null, \"city\": \"Jackson Township\", \"state_province\": \"NJ\", \"postal_code\": \"08527\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.10972539999999, \"longitude\": -74.3496692}, \"phones\": [{\"number\": \"(732) 928-1311\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"20:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social security cards or Birth certificates for every member of the household\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.866317"
+}

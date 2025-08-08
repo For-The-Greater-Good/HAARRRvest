@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Canton Baptist Church\", \"alternate_name\": \"\", \"description\": \"The Food Bank is open during all published office\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"3302 Toone Street\", \"address_2\": null, \"city\": \"Canton\", \"state_province\": \"MD\", \"postal_code\": \"21224\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.27865389999999, \"longitude\": -76.56889439999999}, \"phones\": [{\"number\": \"(410) 563-1177\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Christmas basket and Thanksgiving basket provided\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.403945"
+}

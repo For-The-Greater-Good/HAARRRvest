@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Keystone Opportunity Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.keystoneopportunity.org\", \"status\": \"active\", \"address\": {\"address_1\": \"104 North Main Street\", \"address_2\": \"\", \"city\": \"Souderton\", \"state_province\": \"PA\", \"postal_code\": \"18964\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.310311, \"longitude\": -75.322861}, \"phones\": [{\"number\": \"(215) 723-5430\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"07:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"07:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"07:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:54.353415"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3615, \"name\": \"Asian Services In Action Inc.\", \"nickname\": \"ASIA Inc\", \"address\": \"370 E Market St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44304\", \"phone\": \"330-535-3263\", \"latitude\": 41.08025, \"longitude\": -81.50605, \"estimated_distance\": 905.59, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6330, \"name\": \"Pantry\", \"address\": \"370 E Market St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44304\", \"latitude\": 41.0802563, \"longitude\": -81.50605645, \"event_details\": \"Regular Hours - Second and Fourth Tuesday from 12-3pm\", \"estimated_distance\": 905.59, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361174, \"event_id\": 6330, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-12\"}, {\"id\": 361175, \"event_id\": 6330, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:38.815383"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2829, \"name\": \"Canal Fulton Community cupboard\", \"nickname\": \"Canal Fulton\", \"address\": \"8101 Manchester Ave NW\", \"city\": \"Canal Fulton\", \"state\": \"OH\", \"zip\": \"44614\", \"phone\": \"330-854-6381\", \"latitude\": 40.90065, \"longitude\": -81.58356, \"estimated_distance\": 901.58, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4489, \"name\": \"Pantry\", \"address\": \"8101 Manchester Ave NW\", \"city\": \"Canal Fulton\", \"state\": \"OH\", \"zip\": \"44614\", \"latitude\": 40.9001524, \"longitude\": -81.5844213, \"event_details\": \"Regular Hours - last Thursday from 9:30-12pm \\n| Call to confirm hours in November and December\", \"estimated_distance\": 901.58, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359042, \"event_id\": 4489, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9:30 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:37.201788"
+}

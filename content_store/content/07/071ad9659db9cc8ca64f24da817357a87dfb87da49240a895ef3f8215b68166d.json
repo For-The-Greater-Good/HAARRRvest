@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Casa del Carmen\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://cssphiladelphia.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4400 North Reese Street\", \"address_2\": \"\", \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19140\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.0187765, \"longitude\": -75.13486449999999}, \"phones\": [{\"number\": \"(267) 331-2500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID or proof of income is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Residents can pick up supplemental food for their household.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Any resident is eligible\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:49.915263"
+}

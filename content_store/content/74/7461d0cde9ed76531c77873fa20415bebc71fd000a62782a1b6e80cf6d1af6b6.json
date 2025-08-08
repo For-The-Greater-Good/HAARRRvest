@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Momentum Project\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.boomhealth.org/solutions/food-and-nutrition\", \"status\": \"active\", \"address\": {\"address_1\": \"226 E 144th St\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10451\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8156186, \"longitude\": -73.925557}, \"phones\": [{\"number\": \"(718) 292-7718\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.094836"
+}

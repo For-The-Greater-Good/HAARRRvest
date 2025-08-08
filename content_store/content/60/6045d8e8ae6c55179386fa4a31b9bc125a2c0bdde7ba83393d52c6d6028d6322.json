@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Centro SOL (Mt. Clare)\", \"alternate_name\": \"\", \"description\": \"Produce boxes are available here for pickup on Fridays at 5:00 pm, while supplies last.\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"351 South Woodyear Street\", \"address_2\": null, \"city\": \"Mount Clare\", \"state_province\": \"MD\", \"postal_code\": \"21223\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.2835717, \"longitude\": -76.6383012}, \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Food can be picked up from a vehicle\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.756038"
+}

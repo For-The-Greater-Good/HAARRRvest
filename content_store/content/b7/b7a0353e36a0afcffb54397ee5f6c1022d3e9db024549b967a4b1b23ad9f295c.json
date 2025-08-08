@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lenox Hill Neighborhood Center\", \"alternate_name\": \"\", \"description\": \"11 a.m. - 4 p.m. starting July 10th, 2025\", \"email\": \"\", \"url\": \"https://www.lenoxhill.org\", \"status\": \"active\", \"address\": {\"address_1\": \"331 East 70th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10021\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.76705219999999, \"longitude\": -73.9578263}, \"phones\": [{\"number\": \"(212) 744-5022\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"21:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:56.238472"
+}

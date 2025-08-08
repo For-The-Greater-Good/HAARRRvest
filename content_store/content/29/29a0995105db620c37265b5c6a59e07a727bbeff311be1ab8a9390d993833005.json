@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": \"FUPC\", \"name\": \"First United Presbyterian Church\", \"address\": \"1740 Sloat Blvd\", \"city\": \"San Francisco\", \"state\": \"CA\", \"zip\": \"94132\", \"phone\": \"\", \"latitude\": 37.73433, \"longitude\": -122.49191, \"hours\": \"10:45 am - 12:00 pm\", \"services\": [\"Food Pantry\"], \"website\": \"https://foodlocator.sfmfoodbank.org/en/site/FUPC\", \"notes\": \"Distribution Day: Saturday | Distribution Time: 10:45 am - 12:00 pm | Enrollment Time: 12:00 pm | Zip Codes Served: 94116, 94122, 94132 | Additional Languages: 375, 376\", \"enrollment_required\": false, \"availability\": \"-245\", \"source\": \"sfmarin_food_bank_ca\", \"food_bank\": \"SF-Marin Food Bank\"}",
+  "metadata": {
+    "scraper_id": "sfmarin_food_bank_ca",
+    "source": "sfmarin_food_bank_ca"
+  },
+  "timestamp": "2025-08-08T05:05:12.503315"
+}

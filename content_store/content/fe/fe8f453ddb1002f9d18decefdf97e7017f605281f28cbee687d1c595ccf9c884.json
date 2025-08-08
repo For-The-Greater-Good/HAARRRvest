@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"My Brother\\u2019s Place\", \"alternate_name\": \"\", \"description\": \"Wellston School District\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"116 South Railroad Avenue\", \"address_2\": \"P.O. Box 508\", \"city\": \"Wellston\", \"state_province\": \"OH\", \"postal_code\": \"45692\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.1167576, \"longitude\": -82.5372477}, \"phones\": [{\"number\": \"(740) 855-4545\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"18:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.163424"
+}

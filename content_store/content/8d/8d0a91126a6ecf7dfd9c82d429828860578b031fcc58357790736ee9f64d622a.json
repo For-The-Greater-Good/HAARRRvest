@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Corinthian Baptist Church - Fishes and Loaves \", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"1912 Adam Clayton Powell Ave\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10026\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.803196, \"longitude\": -73.95311}, \"phones\": [{\"number\": \"(212) 864-5976\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"04:00\", \"closes_at\": \"08:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.661958"
+}

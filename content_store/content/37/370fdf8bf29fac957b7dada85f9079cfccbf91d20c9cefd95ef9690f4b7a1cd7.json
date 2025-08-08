@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Harvest for The Hungry\", \"alternate_name\": \"\", \"description\": \"Serving Lawrence County\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"120 North 5th Street\", \"address_2\": null, \"city\": \"Ironton\", \"state_province\": \"OH\", \"postal_code\": \"45638\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.5371758, \"longitude\": -82.6842897}, \"phones\": [{\"number\": \"(740) 532-9918\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"00:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.133322"
+}

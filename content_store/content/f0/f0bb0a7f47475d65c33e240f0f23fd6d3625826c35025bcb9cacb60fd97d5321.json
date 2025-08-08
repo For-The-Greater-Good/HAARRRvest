@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Horeb SDA Church - Food Pantry\", \"alternate_name\": \"\", \"description\": \"Do not walk away once you receive your ticket.\", \"email\": \"\", \"url\": \"https://horebny.adventistchurch.org/#about\", \"status\": \"active\", \"address\": {\"address_1\": \"520 Kingston Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11225\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6610227, \"longitude\": -73.9431012}, \"phones\": [{\"number\": \"(718) 778-7373\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed the month of January 2023\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:01.833867"
+}

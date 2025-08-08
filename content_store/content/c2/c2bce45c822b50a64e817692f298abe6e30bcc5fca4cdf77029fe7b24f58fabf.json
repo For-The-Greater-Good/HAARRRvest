@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of Jesus Christ DT\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.cjcma.org/outreach\", \"status\": \"active\", \"address\": {\"address_1\": \"2431 5th Avenue North\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33713\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7776208, \"longitude\": -82.666519}, \"phones\": [{\"number\": \"(727) 289-3005\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Sunday\", \"opens_at\": \"16:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:30\", \"closes_at\": \"16:30\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.032408"
+}

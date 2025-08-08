@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"CATHOLIC CHARITIES ST. AUGUSTINE REGIONAL OFFICE\", \"alternate_name\": \"\", \"description\": \"Food receivable: refrigerated, frozen, dry goods.\\nServes directly to individuals.\", \"email\": \"\", \"url\": \"https://www.ccbstaug.org/food-assistance\", \"status\": \"active\", \"address\": {\"address_1\": \"525 Florida 16\", \"address_2\": null, \"city\": \"St. Augustine\", \"state_province\": \"FL\", \"postal_code\": \"32084\", \"country\": \"US\"}, \"location\": {\"latitude\": 29.9153198, \"longitude\": -81.3472563}, \"phones\": [{\"number\": \"(904) 829-6300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers available (must bring birth certificate)\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.495904"
+}

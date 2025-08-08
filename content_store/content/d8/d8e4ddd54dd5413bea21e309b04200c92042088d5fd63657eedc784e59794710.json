@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Morrow First UMC Food Pantry\", \"alternate_name\": \"\", \"description\": \"Clayton County residents only\", \"email\": \"\", \"url\": \"https://www.mfumc.com/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"5985 Jonesboro Road\", \"address_2\": null, \"city\": \"Morrow\", \"state_province\": \"GA\", \"postal_code\": \"30260\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.5914463, \"longitude\": -84.3386464}, \"phones\": [{\"number\": \"(404) 366-5505\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:00.813095"
+}

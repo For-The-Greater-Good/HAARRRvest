@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tewksbury Community Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"tewksburypantry.org \", \"status\": \"active\", \"address\": {\"address_1\": \"999 Whipple Road\", \"address_2\": null, \"city\": \"Tewksbury\", \"state_province\": \"MA\", \"postal_code\": \"01876\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.5953982, \"longitude\": -71.2464095}, \"phones\": [{\"number\": \"(978) 858-2273\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Sunday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:54.668390"
+}

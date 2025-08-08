@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The ARC Food and Farm Fridays\", \"alternate_name\": \"\", \"description\": \"There are more food distributions at the location like non perish and produce groceries please find out when you will arrive\", \"email\": \"\", \"url\": \"https://buildingbridgesdc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"1901 Mississippi Avenue Southeast\", \"address_2\": null, \"city\": \"Southeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20020\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8434383, \"longitude\": -76.97501729999999}, \"phones\": [{\"number\": \"(443) 900-8205\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Fresh produce\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.614269"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"DARIEN UMC\", \"alternate_name\": \"\", \"description\": \"PANTRY: Call for Emergency Services\\nMacintosh County Residents \", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"251 Franklin Street\", \"address_2\": null, \"city\": \"Darien\", \"state_province\": \"GA\", \"postal_code\": \"31305\", \"country\": \"US\"}, \"location\": {\"latitude\": 31.3690995, \"longitude\": -81.4337571}, \"phones\": [{\"number\": \"(912) 266-6300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Requires ID for adults and birth certificates for children in the household\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.058373"
+}

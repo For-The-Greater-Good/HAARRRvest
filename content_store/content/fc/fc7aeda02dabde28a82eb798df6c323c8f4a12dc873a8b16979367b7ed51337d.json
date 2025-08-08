@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Sister Visitor Center\", \"alternate_name\": \"\", \"description\": \"Closed on the First Tuesday of the Month\", \"email\": \"\", \"url\": \"https://cclou.org/sister-visitor-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"2235 West Market Street\", \"address_2\": null, \"city\": \"Louisville\", \"state_province\": \"KY\", \"postal_code\": \"40212\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.258857, \"longitude\": -85.788095}, \"phones\": [{\"number\": \"(502) 966-3821\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.580567"
+}

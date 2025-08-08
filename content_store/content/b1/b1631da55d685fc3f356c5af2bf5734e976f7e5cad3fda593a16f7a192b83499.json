@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"COMMUNITY ENHANCEMENT COLLABORATION, INC. (CEC)\", \"alternate_name\": \"\", \"description\": \"Food receivable: fresh produce, refrigerated,\\nfrozen, dry goods\\n\\nFor diapers and formula visit website\", \"email\": \"\", \"url\": \"https://www.cecwashpark.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5648 Wiley Street\", \"address_2\": null, \"city\": \"Washington Park\", \"state_province\": \"FL\", \"postal_code\": \"33023\", \"country\": \"US\"}, \"location\": {\"latitude\": 25.998548, \"longitude\": -80.199997}, \"phones\": [{\"number\": \"(954) 987-0625\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and pad service\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Baby formula may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:23.798272"
+}

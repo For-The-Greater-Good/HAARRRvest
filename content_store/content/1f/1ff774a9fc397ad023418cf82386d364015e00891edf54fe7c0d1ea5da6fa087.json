@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St Ann's Church\", \"alternate_name\": \"\", \"description\": \"Serves Burlington County\", \"email\": \"\", \"url\": \"https://www.stannschurch.org/Societies\", \"status\": \"active\", \"address\": {\"address_1\": \"22 Trenton Road\", \"address_2\": null, \"city\": \"Browns Mills\", \"state_province\": \"NJ\", \"postal_code\": \"08015\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9721926, \"longitude\": -74.5822553}, \"phones\": [{\"number\": \"(609) 893-3246\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"03:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.390548"
+}

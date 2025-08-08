@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"NahYah Ministries\", \"alternate_name\": \"\", \"description\": \"Only people with appointments are served before 12 noon. \", \"email\": \"\", \"url\": \"https://www.facebook.com/nahyahfoodpantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"431 Southern Boulevard\", \"address_2\": \"\", \"city\": \"Mott Haven\", \"state_province\": \"NY\", \"postal_code\": \"10455\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8095307, \"longitude\": -73.9077366}, \"phones\": [{\"number\": \"(347) 388-5992\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.334674"
+}

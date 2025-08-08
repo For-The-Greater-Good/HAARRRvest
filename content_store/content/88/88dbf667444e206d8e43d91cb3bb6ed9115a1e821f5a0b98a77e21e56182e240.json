@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 206, \"name\": \"Ottawa Food Pantry\", \"nickname\": \"Ottawa\", \"address\": \"137 N PRATT ST\", \"city\": \"OTTAWA\", \"state\": \"OH\", \"zip\": \"45875\", \"phone\": \"419-523-6496\", \"latitude\": 41.01957, \"longitude\": -84.03787, \"estimated_distance\": 772.89, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 274, \"name\": \"Ottawa Food Pantry\", \"address\": \"137 N PRATT ST\", \"city\": \"OTTAWA\", \"state\": \"OH\", \"zip\": \"45875\", \"latitude\": 41.0196302, \"longitude\": -84.0374338, \"event_details\": \"\", \"estimated_distance\": 772.89, \"exception_note\": \"\", \"event_dates\": [{\"id\": 357960, \"event_id\": 274, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-12\"}, {\"id\": 357961, \"event_id\": 274, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"2 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:29.023918"
+}

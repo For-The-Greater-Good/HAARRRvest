@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Coalition Against Rape and Abuse\", \"alternate_name\": \"\", \"description\": \"- This is a confidential location and will therefore require a call ahead before going.\", \"email\": \"\", \"url\": \"http://www.cara-cmc.org/default.htm\", \"status\": \"active\", \"address\": {\"address_1\": \"800 U.S. 9\", \"address_2\": null, \"city\": \"Cape May Court House\", \"state_province\": \"NJ\", \"postal_code\": \"08210\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0694001, \"longitude\": -74.8300373}, \"phones\": [{\"number\": \"(609) 522-6489\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:42.152521"
+}

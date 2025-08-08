@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Lighthouse Christian Fellowship\", \"alternate_name\": \"\", \"description\": \"Emergency food bank for Johnston County.\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2595 Lassiter Road\", \"address_2\": null, \"city\": \"Four Oaks\", \"state_province\": \"NC\", \"postal_code\": \"27524\", \"country\": \"US\"}, \"location\": {\"latitude\": 35.495031, \"longitude\": -78.4953723}, \"phones\": [{\"number\": \"(919) 320-7387\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:11.901304"
+}

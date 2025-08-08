@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First United Methodist Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1 Church Street\", \"address_2\": null, \"city\": \"Cape May Court House\", \"state_province\": \"NJ\", \"postal_code\": \"08210\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0840547, \"longitude\": -74.82348139999999}, \"phones\": [{\"number\": \"(609) 465-7087\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.350529"
+}

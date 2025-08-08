@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mav Friendly Market\", \"alternate_name\": \"\", \"description\": \"Address: Mercy University, Bronx Campus, Room 2221.\\nOnly for students\\nA: Members may visit the Mav Market on any campus during weekly open hours. Upon arrival, our staff members will check you in (or sign you up if you are not already a member!) and tell you your weekly point allocation based on your family size. Each item within the Market has a point value, and you are free to shop for whatever items you need until you have reached your weekly point number. We operate on a trust system, so we do not count points or check bags. We recommend everyone brings their own reusable bag!\", \"email\": \"\", \"url\": \"https://www.mercy.edu/student-support/mav-market\", \"status\": \"active\", \"address\": {\"address_1\": \"1200 Waters Place\", \"address_2\": null, \"city\": \"Pelham Bay\", \"state_province\": \"NY\", \"postal_code\": \"10461\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8521558, \"longitude\": -73.8371086}, \"phones\": [{\"number\": \"(718) 677-8209\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"17:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:56.079160"
+}

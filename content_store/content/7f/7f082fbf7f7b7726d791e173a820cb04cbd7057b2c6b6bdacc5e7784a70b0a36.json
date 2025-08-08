@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": \"MEIP\", \"name\": \"MEI Food Pantry\", \"address\": \"1040 Bush St\", \"city\": \"San Francisco\", \"state\": \"CA\", \"zip\": \"94109\", \"phone\": \"\", \"latitude\": 37.78973, \"longitude\": -122.4145, \"hours\": \"2:30 pm - 3:30 pm\", \"services\": [\"Food Pantry\"], \"website\": \"https://foodlocator.sfmfoodbank.org/en/site/MEIP\", \"notes\": \"Distribution Day: Thursday | Distribution Time: 2:30 pm - 3:30 pm | Enrollment Time: 3:20 pm | Zip Codes Served: 94102, 94109\", \"enrollment_required\": true, \"availability\": \"5\", \"source\": \"sfmarin_food_bank_ca\", \"food_bank\": \"SF-Marin Food Bank\"}",
+  "metadata": {
+    "scraper_id": "sfmarin_food_bank_ca",
+    "source": "sfmarin_food_bank_ca"
+  },
+  "timestamp": "2025-08-08T05:05:11.619152"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"STOCK ISLAND FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"New clients must bring proof of each household member, which can include birth certificates, IDs, report cards, proof of school enrollment, or other. Each visit, clients must bring their own bags.\", \"email\": \"\", \"url\": \"https://www.sosfoundation.org/food-pantries\", \"status\": \"active\", \"address\": {\"address_1\": \"5640 Maloney Avenue\", \"address_2\": null, \"city\": \"Key West\", \"state_province\": \"FL\", \"postal_code\": \"33040\", \"country\": \"US\"}, \"location\": {\"latitude\": 24.5725603, \"longitude\": -81.7368015}, \"phones\": [{\"number\": \"(305) 292-3013\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.620863"
+}

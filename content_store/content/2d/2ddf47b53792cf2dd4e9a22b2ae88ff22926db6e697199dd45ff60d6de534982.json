@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grove Presbyterian Church\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://grovepc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"50 East Bel Air Avenue\", \"address_2\": null, \"city\": \"Aberdeen\", \"state_province\": \"MD\", \"postal_code\": \"21001\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.507361, \"longitude\": -76.159761}, \"phones\": [{\"number\": \"(410) 272-0896\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:33.784500"
+}

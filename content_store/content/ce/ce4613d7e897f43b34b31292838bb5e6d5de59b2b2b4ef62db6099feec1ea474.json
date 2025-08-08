@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Woodbine Free Farmers Market (In Partnership with Hungry Monk)\", \"alternate_name\": \"\", \"description\": \"- They give out tickets just before 8am and give out the food to the people with tickets at 9:30am\", \"email\": \"\", \"url\": \"https://www.woodbine.nyc/mutualaid\", \"status\": \"active\", \"address\": {\"address_1\": \"585 Woodward Avenue\", \"address_2\": null, \"city\": \"Ridgewood\", \"state_province\": \"NY\", \"postal_code\": \"11385\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7064593, \"longitude\": -73.9081391}, \"phones\": [{\"number\": \"(914) 309-2243\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:58.826874"
+}

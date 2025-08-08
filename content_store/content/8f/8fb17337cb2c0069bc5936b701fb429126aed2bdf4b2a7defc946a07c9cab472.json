@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mt. Calvary Star Baptist Church\", \"alternate_name\": \"\", \"description\": \"Call (410) 302-6868 in advance to inform that you are going to reserve a packed grocery.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"6300 Harford Road\", \"address_2\": null, \"city\": \"Westfield\", \"state_province\": \"MD\", \"postal_code\": \"21214\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3602577, \"longitude\": -76.5550998}, \"phones\": [{\"number\": \"(410) 302-6868\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call at least one (1) day in advance to reserve food\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:34.246864"
+}

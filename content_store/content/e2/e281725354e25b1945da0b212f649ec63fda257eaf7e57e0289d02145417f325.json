@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Greater Emanuel Food Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://greateremanueltemple.com/ministries\", \"status\": \"active\", \"address\": {\"address_1\": \"401 Drummond Avenue\", \"address_2\": \"\", \"city\": \"Neptune City\", \"state_province\": \"NJ\", \"postal_code\": \"07753\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.217496, \"longitude\": -74.02879349999999}, \"phones\": [{\"number\": \"(732) 774-1963\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Two photo IDs required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:13.694171"
+}

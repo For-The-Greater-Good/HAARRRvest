@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"La Jornada Queens Museum\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"lajornadany.org\", \"status\": \"active\", \"address\": {\"address_1\": \"126 Flushing Meadows Corona Park Rd\", \"address_2\": \"Queens Musum\", \"city\": \"Corona\", \"state_province\": \"NY\", \"postal_code\": \"11368\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.745884, \"longitude\": -73.84671}, \"phones\": [{\"number\": \"(917) 943-1886\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:30\", \"closes_at\": \"19:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.724189"
+}

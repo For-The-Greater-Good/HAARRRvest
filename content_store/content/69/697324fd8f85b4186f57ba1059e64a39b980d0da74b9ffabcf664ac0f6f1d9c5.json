@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"La Jornada, Esperanza Salud Y Bienestar\", \"alternate_name\": \"\", \"description\": \"Located at 108th & Corona Ave.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"108th Street\", \"address_2\": null, \"city\": \"Corona\", \"state_province\": \"NY\", \"postal_code\": null, \"country\": \"US\"}, \"location\": {\"latitude\": 40.7410992, \"longitude\": -73.8538216}, \"phones\": [{\"number\": \"(347) 942-8661\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:49.747418"
+}

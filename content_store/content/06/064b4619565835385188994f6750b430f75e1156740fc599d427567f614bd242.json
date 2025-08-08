@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Tampa Family Health Center-Fletcher Avenue- SNAP Assistance\", \"alternate_name\": \"\", \"description\": \"Dedicated on-site Patient Resource Specialist to help with Food Stamp applications/recertifications as well as other services. Schedule an appointment with a Financial Counselor in-person.\", \"email\": \"\", \"url\": \"https://tampafamilyhc.com/resources/\", \"status\": \"active\", \"address\": {\"address_1\": \"302 West Fletcher Avenue\", \"address_2\": null, \"city\": \"Tampa\", \"state_province\": \"FL\", \"postal_code\": \"33612\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.0686041, \"longitude\": -82.46165169999999}, \"phones\": [{\"number\": \"(813) 397-5300\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Accepts Walk-ins & Appointments\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:07.416743"
+}

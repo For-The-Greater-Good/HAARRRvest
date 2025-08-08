@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" OLD SAVANNAH CITY MISSION\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2414 Bull Street\", \"address_2\": null, \"city\": \"Midtown\", \"state_province\": \"GA\", \"postal_code\": \"31401\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.0543576, \"longitude\": -81.1009977}, \"phones\": [{\"number\": \"(912) 232-1979\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.545168"
+}

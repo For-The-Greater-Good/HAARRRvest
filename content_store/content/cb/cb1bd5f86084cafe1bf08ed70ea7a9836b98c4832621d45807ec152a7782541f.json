@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ST. PAUL BAPTIST CHURCH\", \"alternate_name\": \"\", \"description\": \"- Must line up to get a ticket (first come, first served basis)\\n- The pantry is in thhe building infront of the church\", \"email\": \"\", \"url\": \"https://www.stpaullive.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"119 Elm Street\", \"address_2\": null, \"city\": \"Montclair\", \"state_province\": \"NJ\", \"postal_code\": \"07042\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8039208, \"longitude\": -74.21807009999999}, \"phones\": [{\"number\": \"(973) 746-8338\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Get a number/ticket\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.537185"
+}

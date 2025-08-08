@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Thurmont Food Bank\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"thurmontfoodbank.com\", \"status\": \"active\", \"address\": {\"address_1\": \"10 Frederick Road\", \"address_2\": null, \"city\": \"Thurmont\", \"state_province\": \"MD\", \"postal_code\": \"21788\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.62105469999999, \"longitude\": -77.41223649999999}, \"phones\": [{\"number\": \"(301) 271-7730\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"20:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.329755"
+}

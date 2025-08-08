@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Renovate Church Food Pantry\", \"alternate_name\": \"\", \"description\": \"Pantry is closed on the 5th Monday of the month\", \"email\": \"\", \"url\": \"renovatedelmar.org\", \"status\": \"active\", \"address\": {\"address_1\": \"800 East East Street\", \"address_2\": null, \"city\": \"Delmar\", \"state_province\": \"MD\", \"postal_code\": \"21875\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.4547671, \"longitude\": -75.56728749999999}, \"phones\": [{\"number\": \"(410) 251-0329\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"21:30\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"22:30\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.951947"
+}

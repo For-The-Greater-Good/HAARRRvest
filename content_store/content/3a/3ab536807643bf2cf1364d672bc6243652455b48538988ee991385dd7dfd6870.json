@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Love Thy Neighbor Food Pantry Inc\", \"alternate_name\": \"\", \"description\": \"Must arrive at 9am to get a number.  then go back at noon to receive the food\", \"email\": \"\", \"url\": \"www.lovethyneighborfoodpantry.us\", \"status\": \"active\", \"address\": {\"address_1\": \"155 Orville Road\", \"address_2\": null, \"city\": \"Essex\", \"state_province\": \"MD\", \"postal_code\": \"21221\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3256224, \"longitude\": -76.4508274}, \"phones\": [{\"number\": \"(443) 915-6449\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.708192"
+}

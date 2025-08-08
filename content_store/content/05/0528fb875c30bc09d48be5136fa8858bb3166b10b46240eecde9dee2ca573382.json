@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"From Jersey With Love\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"115 Dewitt Avenue\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"New Jersey\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.2158872, \"longitude\": -74.0236318}, \"phones\": [{\"number\": \"(732) 481-5223\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"21:30\", \"closes_at\": \"22:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:44.384133"
+}

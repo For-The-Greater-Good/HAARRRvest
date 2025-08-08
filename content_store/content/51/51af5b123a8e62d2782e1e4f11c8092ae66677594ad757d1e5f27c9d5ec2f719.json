@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Pierre Toussaint Food Pantry-St. Mary's Church\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/StMaryChurchnNewark\", \"email\": \"\", \"url\": \"https://www.smcnewark.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"520 Doctor Martin Luther King Junior Boulevard\", \"address_2\": \"\", \"city\": \"Springfield/Belmont\", \"state_province\": \"NJ\", \"postal_code\": \"07102\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7357752, \"longitude\": -74.1797307}, \"phones\": [{\"number\": \"(973) 792-5790\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:52.423483"
+}

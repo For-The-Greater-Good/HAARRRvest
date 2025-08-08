@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church of Valdosta\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"200 West Central Avenue\", \"address_2\": null, \"city\": \"Valdosta\", \"state_province\": \"GA\", \"postal_code\": \"31601\", \"country\": \"US\"}, \"location\": {\"latitude\": 30.831434, \"longitude\": -83.2816165}, \"phones\": [{\"number\": \"(229) 269-0447\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:14.002203"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"AGAPE FAMILY WORSHIP CENTER\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://agapecenter.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"501 E. Hazelwood Ave.\", \"address_2\": null, \"city\": \"Rahway\", \"state_province\": \"NJ\", \"postal_code\": \"07065\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.599253, \"longitude\": -74.272837}, \"phones\": [{\"number\": \"(732) 680-9800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Drive-up Food Pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:49.787285"
+}

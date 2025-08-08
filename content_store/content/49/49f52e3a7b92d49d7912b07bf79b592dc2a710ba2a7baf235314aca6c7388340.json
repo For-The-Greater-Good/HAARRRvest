@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Landmark Baptist Temple\", \"alternate_name\": \"\", \"description\": \"- Starts lining up before 7am\\n- Drive thrus only allowed.\", \"email\": \"\", \"url\": \"https://www.landmarkmin.org/food-bank\", \"status\": \"active\", \"address\": {\"address_1\": \"6021 Williams Road\", \"address_2\": null, \"city\": \"Seffner Community Alliance\", \"state_province\": \"FL\", \"postal_code\": \"33584\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.002071, \"longitude\": -82.318102}, \"phones\": [{\"number\": \"(813) 620-0683\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Drive-Thru Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.754534"
+}

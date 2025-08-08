@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fifth Avenue Presbyterian Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.fapc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"7 West 55th Street\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10019\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7622459, \"longitude\": -73.9754335}, \"phones\": [{\"number\": \"(212) 247-0490\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:01.306822"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"PCMA Food Pantry of Pickerington\", \"alternate_name\": \"\", \"description\": \"Food Pantry serving residents of the Pickerington Local School District (excluding zip code 43068).\\n\\nClients must provide a government issued ID for at least one member of the household (preferably the member who is present at the Food Pantry). A copy of a current utility bill must be provided when there has been a change of address or it\\u2019s the beginning of our new fiscal year (July). If you do not have this information when you come in, we have the right to refuse service.  Paper copies or a picture of the required information on your cell phone are accepted, but we do not keep copies on file.  You must bring required information each time you shop.\\n\\nhttps://www.facebook.com/pcmafoodpantry/?ref=bookmarks\", \"email\": \"\", \"url\": \"https://pickpantry.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"70 Cross Street\", \"address_2\": \"PO Box 914\", \"city\": \"South Columbus\", \"state_province\": \"OH\", \"postal_code\": \"43147\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.8858002, \"longitude\": -82.7556996}, \"phones\": [{\"number\": \"(614) 834-0079\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.879189"
+}

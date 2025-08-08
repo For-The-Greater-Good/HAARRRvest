@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jewish Family Services-Kosher Food Pantry \", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/jcsbaltimore\", \"email\": \"\", \"url\": \"https://jcsbalt.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"5750 Park Heights Avenue\", \"address_2\": null, \"city\": \"Glen\", \"state_province\": \"MD\", \"postal_code\": \"21215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3536466, \"longitude\": -76.68747359999999}, \"phones\": [{\"number\": \"(410) 466-9200\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Referral required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.832088"
+}

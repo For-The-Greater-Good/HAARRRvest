@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"People Loving People\", \"alternate_name\": \"\", \"description\": \"Open to residents of Oysterbay, Bayville, Lucas Valley, and Glencove\", \"email\": \"\", \"url\": \"peoplelovingpeople.net\", \"status\": \"active\", \"address\": {\"address_1\": \"123 Audrey Ave\", \"address_2\": null, \"city\": \"Oyster Bay\", \"state_province\": \"NY\", \"postal_code\": \"11771\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.874924, \"longitude\": -73.532211}, \"phones\": [{\"number\": \"(516) 336-8572\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.521345"
+}

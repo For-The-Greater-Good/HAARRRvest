@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church of Highland Park\", \"alternate_name\": \"\", \"description\": \"Check website/Facebook for update, schedule may vary:\\nWebsite: https://fbchighlandpark.org/events/\\nFacebook: https://www.facebook.com/FirstBaptistHighlandPark\\n\\n\", \"email\": \"\", \"url\": \"fbchighlandpark.org\", \"status\": \"active\", \"address\": {\"address_1\": \"6801 Sheriff Road\", \"address_2\": null, \"city\": \"Landover\", \"state_province\": \"MD\", \"postal_code\": \"20785\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.910259, \"longitude\": -76.889143}, \"phones\": [{\"number\": \"(202) 528-6744\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Schedules varies, check website for details\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.844277"
+}

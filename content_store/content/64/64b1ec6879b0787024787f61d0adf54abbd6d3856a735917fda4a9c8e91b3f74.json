@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Presbyterian Church of Iselin\", \"alternate_name\": \"\", \"description\": \"* Call the Friday before the distribution day to schedule an appointment.\\n* Must bring a proof of address showing that you live in Woodbridge township.\", \"email\": \"\", \"url\": \"1stPresbyterianiselin.org\", \"status\": \"active\", \"address\": {\"address_1\": \"1295 Oak Tree Road\", \"address_2\": \"\", \"city\": \"Iselin\", \"state_province\": \"NJ\", \"postal_code\": \"08830\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.5733152, \"longitude\": -74.32277479999999}, \"phones\": [{\"number\": \"(732) 283-1188\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"03:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:51.805418"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Project Hospitality soup kitchen \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://projecthospitality.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"211 Canal Street\", \"address_2\": null, \"city\": \"Stapleton Heights\", \"state_province\": \"NY\", \"postal_code\": \"10304\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.625148, \"longitude\": -74.07987810000002}, \"phones\": [{\"number\": \"(718) 815-0800\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:06.282865"
+}

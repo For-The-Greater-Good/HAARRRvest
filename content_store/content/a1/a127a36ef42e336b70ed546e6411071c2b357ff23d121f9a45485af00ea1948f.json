@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Self-Service DTA Kiosk at Mass Hire Worcester (limited services available)\", \"alternate_name\": \"\", \"description\": \"**Parking**\\n* Parking not available.\\n\\n**Services**\\n* There is an official Department of Transitional Assistance Kiosk at this location with access to the DTA Connect mobile application and website. [Learn what you can do through DTA Connect.](https://www.mass.gov/guides/how-to-contact-dta)\\n\\n***PLEASE NOTE:***\\nDTA staff will be available every Tuesday and Thursday from 8:45am - 5:00pm.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"340 Main Street\", \"address_2\": \"Ste 400\", \"city\": \"Central Business District\", \"state_province\": \"MA\", \"postal_code\": \"01608\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2653091, \"longitude\": -71.8021009}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:45\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:45\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:45\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:45\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:45\", \"closes_at\": \"20:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:54.473327"
+}

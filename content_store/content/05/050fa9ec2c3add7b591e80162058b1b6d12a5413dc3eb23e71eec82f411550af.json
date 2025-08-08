@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 336, \"name\": \"Roseville Community Food Pantry\", \"nickname\": \"Rosevile FP\", \"address\": \"146 N MAIN ST\", \"city\": \"ROSEVILLE\", \"state\": \"OH\", \"zip\": \"43777\", \"phone\": \"740-453-2743\", \"latitude\": 39.80668, \"longitude\": -82.0722, \"estimated_distance\": 879.88, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 471, \"name\": \"Food Pantry\", \"address\": \"4 N MAIN ST\", \"city\": \"ROSEVILLE\", \"state\": \"OH\", \"zip\": \"43777\", \"latitude\": 39.8040668, \"longitude\": -82.0727101, \"event_details\": \"\", \"estimated_distance\": 879.89, \"exception_note\": \"Only serves the 43777 zip code\", \"event_dates\": [{\"id\": 354965, \"event_id\": 471, \"capacity\": 8, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-12\"}, {\"id\": 362122, \"event_id\": 471, \"capacity\": 8, \"accept_walkin\": 1, \"accept_reservations\": 1, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-09-02\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:30.565006"
+}

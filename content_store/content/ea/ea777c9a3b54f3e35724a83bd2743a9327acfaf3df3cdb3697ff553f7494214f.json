@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"201 Church of Christ\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.201coc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"201 10th Avenue East\", \"address_2\": null, \"city\": \"Bradenton\", \"state_province\": \"FL\", \"postal_code\": \"34208\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.4910965, \"longitude\": -82.5617589}, \"phones\": [{\"number\": \"(941) 748-2040\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.359450"
+}

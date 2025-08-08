@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Asbury Park\", \"alternate_name\": \"\", \"description\": \"Serves: Allenhurst, Asbury Park, Avon by the Sea, Deal, Interlaken, Loch Arbor, Neptune, Oakhurst, Ocean, Ocean Grove, Wanamassa, and Wayside.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"605 Asbury Avenue\", \"address_2\": null, \"city\": \"Asbury Park\", \"state_province\": \"NJ\", \"postal_code\": \"07712\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.22033649999999, \"longitude\": -74.00931299999999}, \"phones\": [{\"number\": \"(732) 775-8698\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Non-perishable food only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.925636"
+}

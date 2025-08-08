@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3136, \"name\": \"Pioneer Christian Food Pantry\", \"nickname\": \"Pioneer FP\", \"address\": \"3606 SLANE RD\", \"city\": \"VAN WERT\", \"state\": \"OH\", \"zip\": \"45891\", \"phone\": \"419-771-0772\", \"latitude\": 40.95322, \"longitude\": -84.49519, \"estimated_distance\": 748.76, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4969, \"name\": \"Pantry\", \"address\": \"3606 SLANE RD\", \"city\": \"VAN WERT\", \"state\": \"OH\", \"zip\": \"45891\", \"latitude\": 40.95209, \"longitude\": -84.4952832, \"event_details\": \"Emergency Boxes Available (Must Be Picked Up)\", \"estimated_distance\": 748.76, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358469, \"event_id\": 4969, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-23\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-08T05:05:37.783773"
+}

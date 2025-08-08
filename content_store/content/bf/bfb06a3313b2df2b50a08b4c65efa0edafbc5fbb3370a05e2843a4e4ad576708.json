@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Phillip\\u2019s Episcopal Church\", \"alternate_name\": \"\", \"description\": \"Eligibility: Residents of 43203 or 43205. Clients can visit the pantry once per month.\\n\\nHours: Closed the first Wednesday of the month.\\n\\nIntake Process: Walk-in.\\n\\nDocuments: Photo ID and proof of address (bill or lease preferred) for adults. ID also for children.\", \"email\": \"\", \"url\": \"https://stphilipscolumbus.org/ministry/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"166 Woodland Avenue\", \"address_2\": null, \"city\": \"Near East Side\", \"state_province\": \"OH\", \"postal_code\": \"43203\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9705836, \"longitude\": -82.9569696}, \"phones\": [{\"number\": \"(614) 253-2771\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:45\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:45\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.763079"
+}

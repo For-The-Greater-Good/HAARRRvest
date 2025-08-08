@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Christian Cultural Center - Brooklyn Pantry\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"cccinfo.org \", \"status\": \"active\", \"address\": {\"address_1\": \"12020 Flatlands Avenue\", \"address_2\": \"\", \"city\": \"Starrett City\", \"state_province\": \"NY\", \"postal_code\": \"11207\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6508713, \"longitude\": -73.8884131}, \"phones\": [{\"number\": \"(718) 306-1021\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Open on holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit every  2 weeks\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:04.318152"
+}

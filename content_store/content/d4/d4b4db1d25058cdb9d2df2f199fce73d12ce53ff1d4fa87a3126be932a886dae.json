@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Southside Community Ministries\", \"alternate_name\": \"\", \"description\": \"Make your appointment by calling 211.Sign up at the door and go back to your car.\\nEntrance to the center is not allowed.\\nYou will be notified when your food is ready to go behind the center to door at 409 Industry Dr, Columbus, OH 43204\\nto pick up your food.\\nWe will call two cars at a time.\\nYou will receive a prepackaged box containing essential food items.\\nWe ask that you load your car and return the cart.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"197 East Gay Street\", \"address_2\": null, \"city\": \"Downtown\", \"state_province\": \"OH\", \"postal_code\": \"43215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9639744, \"longitude\": -82.9954277}, \"phones\": [{\"number\": \"(614) 341-2282\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"16:00\", \"closes_at\": \"18:30\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:26.556378"
+}

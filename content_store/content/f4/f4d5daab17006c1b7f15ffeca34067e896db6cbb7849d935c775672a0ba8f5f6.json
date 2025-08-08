@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ridge Area SDA\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"59 Alice Nelson Street\", \"address_2\": null, \"city\": \"Avon Park\", \"state_province\": \"FL\", \"postal_code\": \"33825\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.5800131, \"longitude\": -81.5014731}, \"phones\": [{\"number\": \"(863) 452-2642\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"16:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.894596"
+}

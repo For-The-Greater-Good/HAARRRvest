@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"The Outreach Connection\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"432 New Jersey 31\", \"address_2\": null, \"city\": \"Washington Township\", \"state_province\": \"NJ\", \"postal_code\": \"07882\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.7242463, \"longitude\": -74.9715845}, \"phones\": [{\"number\": \"(908) 574-2292\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"00:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"21:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:58.045695"
+}

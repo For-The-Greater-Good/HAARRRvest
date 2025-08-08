@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Jesus House Baltimore Food Pantry\", \"alternate_name\": \"\", \"description\": \"For drive-up service, please contact Abby.\", \"email\": \"\", \"url\": \"www.jesushousebaltimore.org\", \"status\": \"active\", \"address\": {\"address_1\": \"7710 Windsor Mill Road\", \"address_2\": null, \"city\": \"Windsor Mill\", \"state_province\": \"MD\", \"postal_code\": \"21244\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3457351, \"longitude\": -76.77192869999999}, \"phones\": [{\"number\": \"(410) 521-4783\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Emergency food available on an as-needed basis.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers and Clothes upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Line starts at 10am in the morning\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.690519"
+}

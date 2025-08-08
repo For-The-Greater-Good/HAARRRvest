@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"MCC Tampa Food Pantry\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/MCCTampaFL\\n\\ncheck the calendar: http://www.mcctampa.com/calendar.html\", \"email\": \"\", \"url\": \"http://www.mcctampa.com/calendar.html\", \"status\": \"active\", \"address\": {\"address_1\": \"408 East Cayuga Street\", \"address_2\": null, \"city\": \"Old Seminole Heights\", \"state_province\": \"FL\", \"postal_code\": \"33603\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.9872081, \"longitude\": -82.4556851}, \"phones\": [{\"number\": \"(813) 239-1951\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.502360"
+}

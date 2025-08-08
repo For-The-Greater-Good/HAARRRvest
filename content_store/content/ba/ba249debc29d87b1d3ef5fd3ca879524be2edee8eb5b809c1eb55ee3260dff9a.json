@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Springfield Christian Church\", \"alternate_name\": \"\", \"description\": \"You must register in person during your first visit. After the initial registration, you'll have to sign up to receive food the following week to ensure they have enough for everyone.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"5407 Backlick Rd\", \"address_2\": null, \"city\": \"Springfield\", \"state_province\": \"VA\", \"postal_code\": \"22151\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.804249, \"longitude\": -77.183469}, \"phones\": [{\"number\": \"(703) 341-7636\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"17:30\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.486686"
+}

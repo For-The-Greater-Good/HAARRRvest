@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dorothy L. Bullock Elementary School\", \"alternate_name\": \"\", \"description\": \"Cathy\\tTorbik\\t8566522700\\nStarts: 07/07/2025\\t07/31/2025\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"370 New Street East\", \"address_2\": null, \"city\": \"Glassboro\", \"state_province\": \"NJ\", \"postal_code\": \"08028\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.7059441, \"longitude\": -75.1001618}, \"phones\": [{\"number\": \"(908) 581-2369\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"13:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"All children under 18 are eligible\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Summer Meal Program\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:50.291172"
+}

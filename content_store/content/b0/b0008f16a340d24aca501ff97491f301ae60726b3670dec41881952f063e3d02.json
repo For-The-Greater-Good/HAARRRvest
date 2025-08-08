@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Mary\\u2019s Food Pantry\", \"alternate_name\": \"\", \"description\": \"Distribution in the white building at parking lot if you don't find please go to parish office and ask \", \"email\": \"\", \"url\": \"https://mmotcp.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"45 Crosswicks Street\", \"address_2\": null, \"city\": \"Bordentown\", \"state_province\": \"NJ\", \"postal_code\": \"08505\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.1465102, \"longitude\": -74.7094252}, \"phones\": [{\"number\": \"(609) 298-4664\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"22:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:39.573430"
+}

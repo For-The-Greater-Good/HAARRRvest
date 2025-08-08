@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Good Shepherd Lutheran Church\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.goodshepherdbayridge.org/food-pantry.html\", \"status\": \"active\", \"address\": {\"address_1\": \"7420 4th Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11209\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.63188072606269, \"longitude\": -74.0253183306889}, \"phones\": [{\"number\": \"(718) 745-8520\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"22:30\", \"closes_at\": \"\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:02.461342"
+}

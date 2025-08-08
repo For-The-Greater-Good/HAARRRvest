@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"First Baptist Church of Deanwood\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"http://thefirstbaptistchurchofdeanwood.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4408 Sheriff Road Northeast\", \"address_2\": null, \"city\": \"Deanwood\", \"state_province\": \"DC\", \"postal_code\": \"20019\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9029225, \"longitude\": -76.9386615}, \"phones\": [{\"number\": \"(202) 396-0534\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clothing may be available\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.451657"
+}

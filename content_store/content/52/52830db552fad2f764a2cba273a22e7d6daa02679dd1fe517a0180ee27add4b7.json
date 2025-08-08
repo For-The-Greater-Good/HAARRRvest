@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trooppy Pantry Inc.\", \"alternate_name\": \"\", \"description\": \" Homebound residents on 3rd Friday of the month 9:00 AM to 1:00 PM (call by Thursday).\\n \\n Diapers every 90 days\\n\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"7331 Bethel Church Road\", \"address_2\": null, \"city\": \"Lizella\", \"state_province\": \"GA\", \"postal_code\": \"31052\", \"country\": \"US\"}, \"location\": {\"latitude\": 32.7817056, \"longitude\": -83.7856929}, \"phones\": [{\"number\": \"(478) 217-5733\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.153101"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Ethos Codman Apartments Caf\\u00e9 (Codman Apartments)\", \"alternate_name\": \"\", \"description\": \"For more information or to register to attend a Community Cafe near you, please call 617-477-6688 or email ethosmeals@ethocare.org\", \"email\": \"\", \"url\": \"https://www.ethocare.org/services/nutrition/community-cafes/\", \"status\": \"active\", \"address\": {\"address_1\": \"784 Washington Street\", \"address_2\": null, \"city\": \"Dorchester\", \"state_province\": \"MA\", \"postal_code\": \"02124\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.2841893, \"longitude\": -71.0713009}, \"phones\": [{\"number\": \"(617) 477-6688\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Meals must be eaten on site.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:45.724341"
+}

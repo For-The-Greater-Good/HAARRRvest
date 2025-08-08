@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Family Life Services\", \"alternate_name\": \"\", \"description\": \"\\n\", \"email\": \"\", \"url\": \"https://www.cflsdc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4860 Fort Totten Drive Northeast\", \"address_2\": null, \"city\": \"Northeast Washington\", \"state_province\": \"DC\", \"postal_code\": \"20011\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9500287, \"longitude\": -77.0072016}, \"phones\": [{\"number\": \"(202) 347-0511\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Help with employment and unemployment benefits matters, Medicaid/health law, SNAP, public assistance, disability, and other issues related to COVID-19. All languages available.\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers available (must bring birth certificate)\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:38.611895"
+}

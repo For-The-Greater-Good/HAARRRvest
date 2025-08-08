@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army-Westland\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"2300 South Venoy Road\", \"address_2\": null, \"city\": \"Norwayne\", \"state_province\": \"MI\", \"postal_code\": \"48186\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.29212440000001, \"longitude\": -83.36416489999999}, \"phones\": [{\"number\": \"(734) 722-3660\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:03.472884"
+}

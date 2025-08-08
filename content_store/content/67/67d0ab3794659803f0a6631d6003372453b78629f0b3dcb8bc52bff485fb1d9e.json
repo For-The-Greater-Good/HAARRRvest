@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace\\u2019s Kitchen\\t\", \"alternate_name\": \"\", \"description\": \"* The current food distribution takes place on the last five (5) days of  each month from 11:30 am to 1:30 pm.\\n\", \"email\": \"\", \"url\": \"https://www.pconj.org/index.php/graces-kitchen/\", \"status\": \"active\", \"address\": {\"address_1\": \"600 Cleveland Avenue\", \"address_2\": null, \"city\": \"Plainfield\", \"state_province\": \"NJ\", \"postal_code\": \"07060\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6162478, \"longitude\": -74.41752509999999}, \"phones\": [{\"number\": \"(908) 756-1520\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}, {\"weekday\": \"Friday\", \"opens_at\": \"15:30\", \"closes_at\": \"17:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:40.883100"
+}

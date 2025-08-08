@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Joseph\\u2019s Coat \", \"alternate_name\": \"\", \"description\": \"Distribute Cloths and Furniture, \\nCall in advance to make an appointment 6148524858\\nID card required\", \"email\": \"\", \"url\": \"https://www.josephscoatcolumbus.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"7500 East Main Street\", \"address_2\": null, \"city\": \"Reynoldsburg\", \"state_province\": \"OH\", \"postal_code\": \"43068\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.955539, \"longitude\": -82.7980841}, \"phones\": [{\"number\": \"(614) 863-1371\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"20:00\", \"closes_at\": \"23:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:29.492765"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"METRO Tampa Bay\", \"alternate_name\": \"\", \"description\": \"Free HIV and HEP C Testing, Primary Care, Pharmacy Services, HIV Education, Prevention (PrEP). Accepts most major insurances and offers sliding fee scale self-pay option, based on income.\", \"email\": \"\", \"url\": \"www.metrotampabay.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4747 U.S. 19\", \"address_2\": null, \"city\": \"New Port Richey\", \"state_province\": \"FL\", \"postal_code\": \"34652\", \"country\": \"US\"}, \"location\": {\"latitude\": 28.2285496, \"longitude\": -82.7327256}, \"phones\": [{\"number\": \"(727) 494-7625\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"21:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:18.369870"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"5th Avenue Church of Christ\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/FifthAvenueChurchofChrist/\", \"email\": \"\", \"url\": \"https://www.5thavenuecofc.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"4200 5th Avenue South\", \"address_2\": null, \"city\": \"St. Petersburg\", \"state_province\": \"FL\", \"postal_code\": \"33711\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.7660312, \"longitude\": -82.6909103}, \"phones\": [{\"number\": \"(813) 325-1112\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:24.839557"
+}

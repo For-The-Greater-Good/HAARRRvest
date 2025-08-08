@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"84002\", \"alternate_name\": \"\", \"description\": \"NYC Emergency Food Assistance Program (EFAP) location in CHURCH OF GOD INC.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"FP\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"(718) 493-3031\", \"country\": \"US\"}, \"phones\": [{\"number\": \"1011 WINTHROP STREET\", \"type\": \"voice\"}], \"location\": {\"latitude\": 40.628885, \"longitude\": -73.947665}, \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"09:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"PROGRAM_TYPE\", \"attribute_value\": \"Emergency Food Assistance Program (EFAP)\"}, {\"attribute_key\": \"BOROUGH\", \"attribute_value\": \"CHURCH OF GOD INC.\"}]}",
+  "metadata": {
+    "scraper_id": "nyc_efap_programs",
+    "source": "nyc_efap_programs"
+  },
+  "timestamp": "2025-08-08T05:08:02.246486"
+}

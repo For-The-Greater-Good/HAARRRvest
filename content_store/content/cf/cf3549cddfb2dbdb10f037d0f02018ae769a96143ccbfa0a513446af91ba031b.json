@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \" Emmanuel Temple Church Food Pantry \", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://etpchurch.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"471 Warren Street\", \"address_2\": null, \"city\": \"Roxbury\", \"state_province\": \"MA\", \"postal_code\": \"02121\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.3153027, \"longitude\": -71.08371439999999}, \"phones\": [{\"number\": \"(617) 442-8500\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"19:00\", \"closes_at\": \"20:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:08:59.300131"
+}

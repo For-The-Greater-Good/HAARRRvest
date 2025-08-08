@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Morrow County Food Pantry\", \"alternate_name\": \"\", \"description\": \"You can submit your application in the following ways:\\nOnline through the ODJFS Online Benefit Application Portal. Select \\u201cApply for Benefits\\u201d. After completing the application, continue with steps 2 through 4.\\nPrint an application (Link located in application forms) and return through:\\nFax your signed application to 419-947-9115.\\nDeliver in person\\nSigned applications can be delivered at MCJFS\\u2019s main location:\\n619 West Marion Rd., Entrance B, Lower Level, Mt. Gilead, Ohio 43338\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"619 West Marion Street\", \"address_2\": null, \"city\": \"Mount Gilead\", \"state_province\": \"OH\", \"postal_code\": \"43338\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.547968, \"longitude\": -82.8491276}, \"phones\": [{\"number\": \"(844) 640-6446\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"A photo ID is required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.162278"
+}

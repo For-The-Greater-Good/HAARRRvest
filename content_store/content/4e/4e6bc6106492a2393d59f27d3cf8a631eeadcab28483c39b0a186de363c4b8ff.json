@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Dodge Rec Center\", \"alternate_name\": \"\", \"description\": \"3-5PM free produce (second Thursday, April-December, Bring ID)\", \"email\": \"\", \"url\": \"https://columbusrecparks.com/wellness/food/mobile-produce-markets/\", \"status\": \"active\", \"address\": {\"address_1\": \"667 Sullivant Avenue\", \"address_2\": null, \"city\": \"Franklinton\", \"state_province\": \"OH\", \"postal_code\": \"43215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9534923, \"longitude\": -83.0149045}, \"phones\": [{\"number\": \"(614) 645-3176\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:00\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:28.900381"
+}

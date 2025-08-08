@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Trinity United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Monthly food box is available for elders proof of income is required \", \"email\": \"\", \"url\": \"https://charlotteharbortrinityumc.com/our-ministries\", \"status\": \"active\", \"address\": {\"address_1\": \"23084 Seneca Avenue\", \"address_2\": null, \"city\": \"Port Charlotte\", \"state_province\": \"FL\", \"postal_code\": \"33980\", \"country\": \"US\"}, \"location\": {\"latitude\": 26.9597632, \"longitude\": -82.07091609999999}, \"phones\": [{\"number\": \"(941) 625-3372\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Bring ID and proof of residence\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of household income required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:30.538003"
+}

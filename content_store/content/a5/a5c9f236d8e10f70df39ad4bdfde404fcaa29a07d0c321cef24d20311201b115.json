@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Stephen's UMC\", \"alternate_name\": \"\", \"description\": \"- The food pantry is for emergencies only.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"9203 Braddock Rd\", \"address_2\": null, \"city\": \"Burke\", \"state_province\": \"VA\", \"postal_code\": \"22015\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.809821, \"longitude\": -77.262819}, \"phones\": [{\"number\": \"(703) 978-8724\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"11:00\", \"closes_at\": \"13:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"21:00\", \"closes_at\": \"01:00\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.221793"
+}

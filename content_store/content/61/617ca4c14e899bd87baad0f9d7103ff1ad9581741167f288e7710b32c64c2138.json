@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Community Presbyterian Church Food Pantry\", \"alternate_name\": \"\", \"description\": \" \\nA three-day supply of food is available once a month for Edison Township residents. Proof of \\nresidence is required (driver\\u2019s license, utility bill, etc.). \", \"email\": \"\", \"url\": \"https://cpcedison.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"75 Glenville Rd\", \"address_2\": null, \"city\": \"Edison\", \"state_province\": \"NJ\", \"postal_code\": \"8817\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.517223, \"longitude\": -74.388062}, \"phones\": [{\"number\": \"(732) 287-1666\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No requirements\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:00.628799"
+}

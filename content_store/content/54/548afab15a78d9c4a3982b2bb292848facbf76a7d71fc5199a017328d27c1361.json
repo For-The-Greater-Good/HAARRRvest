@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Family Success Center\", \"alternate_name\": \"\", \"description\": \"Food pantry in Everyone Welcome!\", \"url\": \"https://careandshare.org/locations/family-success-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"\", \"address_2\": \"\", \"city\": \"\", \"state_province\": \"CO\", \"postal_code\": \"\", \"country\": \"US\"}, \"phones\": [], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"2 p.m.\", \"closes_at\": \"6 p.m.\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"2 p.m.\", \"closes_at\": \"6 p.m.\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"2 p.m.\", \"closes_at\": \"6 p.m.\"}], \"location\": {\"latitude\": 38.810768182767, \"longitude\": -104.770868432136}}",
+  "metadata": {
+    "scraper_id": "care_and_share_food_locator",
+    "source": "care_and_share_food_locator"
+  },
+  "timestamp": "2025-08-08T05:06:51.625652"
+}

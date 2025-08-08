@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"City of Woodhaven Gleaners mobile pantry\", \"alternate_name\": \"\", \"description\": \"Please check their website before going for any schedule changes: https://pantrynet.org/mobile-distribution-events/\", \"email\": \"\", \"url\": \"https://pantrynet.org/mobile-distribution-events/\", \"status\": \"active\", \"address\": {\"address_1\": \"23101 Hall Road\", \"address_2\": null, \"city\": \"Woodhaven\", \"state_province\": \"MI\", \"postal_code\": \"48183\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.1362685, \"longitude\": -83.2454987}, \"phones\": [{\"number\": \"(866) 453-2637\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:00\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Open to all\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:04.191174"
+}

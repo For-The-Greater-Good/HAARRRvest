@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Centro Cristiano Hispano Inc.\", \"alternate_name\": \"\", \"description\": \"Line Up at 7:30am. Clients can visit every 2 weeks. Closed on major holidays.\", \"email\": \"\", \"url\": \"https://cchbrandon.org/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"2014 Providence Road\", \"address_2\": null, \"city\": \"Brandon\", \"state_province\": \"FL\", \"postal_code\": \"33511\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.912185, \"longitude\": -82.3185285}, \"phones\": [{\"number\": \"(813) 417-7494\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: twice a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:25.451879"
+}

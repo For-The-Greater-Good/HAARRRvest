@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bay Ridge Community Development Center Food Program\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://brcdc.org/food-program\", \"status\": \"active\", \"address\": {\"address_1\": \"9818 Fort Hamilton Parkway\", \"address_2\": null, \"city\": \"Fort Hamilton\", \"state_province\": \"NY\", \"postal_code\": \"11209\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6128608, \"longitude\": -74.0313629}, \"phones\": [{\"number\": \"(347) 560-6700\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"16:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Instagram: https://www.instagram.com/bayridgecommunity/\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Needs volunteers\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Non-perishable food only\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"No ID is required.\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Follow social media for announcement: https://www.facebook.com/BayRidgeCommunityDevelopmentCenter\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:48.107603"
+}

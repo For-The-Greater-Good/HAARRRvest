@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mid County United Ministries (MUM)\", \"alternate_name\": \"\", \"description\": \"- They only serve the following zipcodes: 20902, 20906, 20901, 20910, 20912, 20783, 20853, 20895, 20896\\n\", \"email\": \"\", \"url\": \"https://mumhelp.org/mum-programs/food-assistance-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"11002 Veirs Mill Road\", \"address_2\": \" Suite 710 \", \"city\": \"Wheaton\", \"state_province\": \"MD\", \"postal_code\": \"20902\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0350138, \"longitude\": -77.0524089}, \"phones\": [{\"number\": \"(301) 929-8675\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"19:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID must show you reside in this county.\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:43.110269"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"House of Ruth Marylyne\", \"alternate_name\": \"\", \"description\": \"* Offers services only to people experiencing domestic violence \\n* Must fill out a quetsionnaire.\\n* Site is mostly for the hispanic community but they do not turn away anybody\\n* Platicas must be attended before receiving food donations\\n* hotline phone number4108897884\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"3734 Eastern Avenue\", \"address_2\": null, \"city\": \"Highlandtown\", \"state_province\": \"MD\", \"postal_code\": \"21224\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.286882, \"longitude\": -76.5654905}, \"phones\": [{\"number\": \"(410) 732-2176\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Helps with domestic violence, intimate relationships violence, open case order, counselling, therapy, protection order, child support, child abuse, child custody, and divorce\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:32.742343"
+}

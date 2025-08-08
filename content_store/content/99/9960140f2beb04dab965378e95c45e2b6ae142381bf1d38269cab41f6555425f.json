@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Grace Lutheran Church\", \"alternate_name\": \"\", \"description\": \"SOUP KITCHEN: Provides a community meal to anyone in need. Individuals have the option to eat-in or select a to go meal.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"21 Carroll Street\", \"address_2\": null, \"city\": \"Westminster\", \"state_province\": \"MD\", \"postal_code\": \"21157\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.55512, \"longitude\": -76.99056}, \"phones\": [{\"number\": \"(410) 848-7020\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"17:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"23:00\", \"closes_at\": \"00:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:08.141460"
+}

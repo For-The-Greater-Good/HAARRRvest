@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Kindom Cares / White Oak Gardens\", \"alternate_name\": \"\", \"description\": \"\", \"email\": \"\", \"url\": \"https://kingdom.global/kingdom-cares/\", \"status\": \"active\", \"address\": {\"address_1\": \"11600 Lockwood Drive\", \"address_2\": null, \"city\": \"Silver Spring\", \"state_province\": \"MD\", \"postal_code\": \"20904\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.0415773, \"longitude\": -76.98498459999999}, \"phones\": [{\"number\": \"(301) 679-1100\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"09:30\", \"closes_at\": \"\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"21:30\", \"closes_at\": \"\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Mobile pantry\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Distribution in parking lot\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Diapers upon availability\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Client can visit: Once a week \"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:05.765571"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Salvation Army Brightmoor\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.needhelppayingbills.com/html/detroit_food_banks.html\", \"status\": \"active\", \"address\": {\"address_1\": \"20775 Pembroke Avenue\", \"address_2\": null, \"city\": \"Evergreen Lahser 7/8\", \"state_province\": \"MI\", \"postal_code\": \"48219\", \"country\": \"US\"}, \"location\": {\"latitude\": 42.4357031, \"longitude\": -83.24743199999999}, \"phones\": [{\"number\": \"(313) 532-1281\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"12:30\", \"closes_at\": \"20:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"No food distribution - marked unavailable\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:09.375521"
+}

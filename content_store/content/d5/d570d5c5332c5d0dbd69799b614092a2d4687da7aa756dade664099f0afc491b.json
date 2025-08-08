@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ST. MARY'S FOOD PANTRY\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.saintmarysa.org/\", \"status\": \"active\", \"address\": {\"address_1\": \"256 Augusta Street\", \"address_2\": \"\", \"city\": \"South Amboy\", \"state_province\": \"NJ\", \"postal_code\": \"08879\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.4829805, \"longitude\": -74.2832653}, \"phones\": [{\"number\": \"(732) 721-7418\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Photo ID and proof of address is required for adults 18+\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required on site\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:57.514569"
+}

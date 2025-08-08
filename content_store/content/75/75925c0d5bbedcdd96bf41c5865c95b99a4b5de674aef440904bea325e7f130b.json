@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Church of God Feeding the Hungry\", \"alternate_name\": \"\", \"description\": \"Schedule an appointment through Plentiful app. Can visit once every two weeks.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"836 Classon Avenue \", \"address_2\": \"\", \"city\": \"Brooklyn\", \"state_province\": \"NY\", \"postal_code\": \"11238\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.672409, \"longitude\": -73.961182}, \"phones\": [{\"number\": \"(718) 230-5955\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Clients can visit: Once Every 2 weeks\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.716684"
+}

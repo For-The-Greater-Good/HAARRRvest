@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Fishers United Methodist Church -- Come to Me Food Pantry\", \"alternate_name\": \"\", \"description\": \"Opent o Hamilton Co. resident or 46256 or 46055 zip code residency. Clients wil be allowed 2x a month visit.\\n\\nState-issued Photo ID One document showing proof of address (mail, lease, rent receipt) required.\", \"email\": \"\", \"url\": \"https://fishersumc.org/foodpantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"9691 East 116th Street\", \"address_2\": \"(in UMC Fellowship Hall in South side of parking lot)\", \"city\": \"Fishers\", \"state_province\": \"IN\", \"postal_code\": \"46037\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9564979, \"longitude\": -85.9962744}, \"phones\": [{\"number\": \"(317) 849-1805\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"17:00\", \"closes_at\": \"23:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Proof of address required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:16.612866"
+}

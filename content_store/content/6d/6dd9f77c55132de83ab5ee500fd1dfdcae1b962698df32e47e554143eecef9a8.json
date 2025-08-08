@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Mount Ararat Senior Center\", \"alternate_name\": \"\", \"description\": \"Senior's Only\", \"email\": \"\", \"url\": \"https://www1.nyc.gov/site/brooklyncb16/resources/senior-citizen-centers.page\", \"status\": \"active\", \"address\": {\"address_1\": \"1630 Saint Mark's Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"11233\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.67283279999999, \"longitude\": -73.91315639999999}, \"phones\": [{\"number\": \"(718) 922-1304\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Monday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Seniors Only\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.883904"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Bronx Community College -  Loew Hall, Room 125 & 127\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.bcc.cuny.edu/campus-resources/access-resource-center/food-pantry/\", \"status\": \"active\", \"address\": {\"address_1\": \"2155 University Ave\", \"address_2\": null, \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10453\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.8575311, \"longitude\": -73.91287319999999}, \"phones\": [{\"number\": \"(718) 289-5179\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:30\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"16:00\", \"closes_at\": \"20:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Students & staff only\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Student ID required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:03.449446"
+}

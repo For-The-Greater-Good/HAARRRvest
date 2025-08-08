@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Metro Baptist Church\", \"alternate_name\": \"\", \"description\": \"https://www.facebook.com/hkfarmproject\", \"email\": \"\", \"url\": \"https://www.hkfp.org/food-pantry\", \"status\": \"active\", \"address\": {\"address_1\": \"410 West 40th Street\", \"address_2\": \"\", \"city\": \"New York\", \"state_province\": \"NY\", \"postal_code\": \"10018\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.757202, \"longitude\": -73.994324}, \"phones\": [{\"number\": \"(212) 594-4464\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"15:00\", \"closes_at\": \"15:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:10:00.199993"
+}

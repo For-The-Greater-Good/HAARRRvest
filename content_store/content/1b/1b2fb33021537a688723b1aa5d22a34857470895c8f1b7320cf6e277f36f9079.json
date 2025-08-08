@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cohocksink Recreation Center\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"https://www.phila.gov/programs/rebuild/project-sites/cohocksink-recreation-center/\", \"status\": \"active\", \"address\": {\"address_1\": \"2901 Cedar Street\", \"address_2\": null, \"city\": \"North Philadelphia\", \"state_province\": \"PA\", \"postal_code\": \"19134\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9839338, \"longitude\": -75.1127929}, \"phones\": [{\"number\": \"(215) 685-9884\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"14:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Come early, line starts at 6am\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed in extreme temperatures\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:02.782726"
+}

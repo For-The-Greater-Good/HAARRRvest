@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Cecil Memorial United Methodist Church\", \"alternate_name\": \"\", \"description\": \"Call for hours.\", \"email\": \"\", \"url\": \"\", \"status\": \"active\", \"address\": {\"address_1\": \"15 Parole Street\", \"address_2\": null, \"city\": \"Annapolis\", \"state_province\": \"MD\", \"postal_code\": \"21401\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.9799247, \"longitude\": -76.52865229999999}, \"phones\": [{\"number\": \"(410) 266-5651\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"14:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:00\", \"closes_at\": \"14:30\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.582584"
+}

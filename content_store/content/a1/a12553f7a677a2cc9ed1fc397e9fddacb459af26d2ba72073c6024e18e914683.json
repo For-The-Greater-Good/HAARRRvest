@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Franklin UMC Food Pantry\", \"alternate_name\": \"\", \"description\": \"Serving any resident in South AA County.\\n\\nPlease call before going to know the updates regarding the food distribution days as it is varies every month.\", \"email\": \"\", \"url\": \"https://www.facebook.com/profile.php?id=100064497049765&locale=fr_FR\", \"status\": \"active\", \"address\": {\"address_1\": \"5345 Deale Churchton Road\", \"address_2\": null, \"city\": \"Churchton\", \"state_province\": \"MD\", \"postal_code\": \"20733\", \"country\": \"US\"}, \"location\": {\"latitude\": 38.8117971, \"longitude\": -76.5387528}, \"phones\": [{\"number\": \"(443) 699-3904\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"13:00\", \"closes_at\": \"16:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: Inclement weather\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:31.431601"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"ACT Care Foundation, Inc.\", \"alternate_name\": \"\", \"description\": null, \"email\": \"\", \"url\": \"http://www.actcaregroup.com/\", \"status\": \"active\", \"address\": {\"address_1\": \"1698 Victory Boulevard\", \"address_2\": \"\", \"city\": \"Castleton Corners\", \"state_province\": \"NY\", \"postal_code\": \"10314\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6130811, \"longitude\": -74.12024869999999}, \"phones\": [{\"number\": \"(718) 442-7467\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"18:00\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"ID preferred, but not required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Schedule appointment through PLENTIFUL app\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Appointments required\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed on major holidays\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:50.575990"
+}

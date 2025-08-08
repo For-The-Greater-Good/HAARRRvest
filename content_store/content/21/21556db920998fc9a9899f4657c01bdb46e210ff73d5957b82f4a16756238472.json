@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Alta Vista Elementary School\", \"alternate_name\": \"\", \"description\": \"June 5 to July 20 (Mon-Thur; closed Fridays)\\nBreakfast 8:00-8:45 am\\nLunch 11:00 am-12:00 pm\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"1050 South Euclid Avenue\", \"address_2\": null, \"city\": \"Alta Vista\", \"state_province\": \"FL\", \"postal_code\": \"34237\", \"country\": \"US\"}, \"location\": {\"latitude\": 27.3248684, \"longitude\": -82.5191756}, \"phones\": [{\"number\": \"(941) 379-6333\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Thursday\", \"opens_at\": \"19:30\", \"closes_at\": \"22:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Food pantry: Needs to fill out a form\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:22.418668"
+}

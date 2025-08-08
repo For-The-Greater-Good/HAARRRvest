@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Maryland Food Bank at Millbrook Elementary\", \"alternate_name\": \"\", \"description\": \"- If food is needed, please call or text 443-273-1066 (on the second week of the month) and leave message. Accommodates up to 30 families.\\n-The following is a sign up link for September- https://forms.gle/xvh4sWPizsMX3Dst6\", \"email\": \"\", \"url\": \"https://mdfoodbank.org\", \"status\": \"active\", \"address\": {\"address_1\": \"4300 Crest Heights Road\", \"address_2\": null, \"city\": \"Baltimore\", \"state_province\": \"MD\", \"postal_code\": \"21215\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.3603749, \"longitude\": -76.7129084}, \"phones\": [{\"number\": \"(443) 273-1066\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Wednesday\", \"opens_at\": \"20:15\", \"closes_at\": \"21:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Call in advance for services\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Registration required\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Currently a waitlist\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"First come, first serve: open until food runs out\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:35.394841"
+}

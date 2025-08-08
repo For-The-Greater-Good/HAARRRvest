@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"St. Ignatius Of Loyola Outreach\", \"alternate_name\": \"\", \"description\": \"Soup Kitchen phone # 215-878-1875, located at 1030 N. 48th St. 19131\\n\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"636 North 43rd Street\", \"address_2\": null, \"city\": \"Haverford North\", \"state_province\": \"PA\", \"postal_code\": \"19104\", \"country\": \"US\"}, \"location\": {\"latitude\": 39.9639321, \"longitude\": -75.20957179999999}, \"phones\": [{\"number\": \"(215) 386-5065\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"15:00\", \"closes_at\": \"17:00\"}], \"service_attributes\": [{\"attribute_key\": \"INFO\", \"attribute_value\": \"Closed During Year: August\"}, {\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"ID required\"}, {\"attribute_key\": \"OFFERING\", \"attribute_value\": \"Clients can visit: Once a month\"}, {\"attribute_key\": \"INFO\", \"attribute_value\": \"Handicapped Access\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:56.801094"
+}

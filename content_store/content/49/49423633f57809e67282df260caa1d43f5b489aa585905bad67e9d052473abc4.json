@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"Antioch Urban Ministries, Inc\", \"alternate_name\": \"\", \"description\": \"- Go to the rear side of the building to receive food.\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"466 Northside Drive Northwest\", \"address_2\": null, \"city\": \"English Avenue\", \"state_province\": \"GA\", \"postal_code\": \"30318\", \"country\": \"US\"}, \"location\": {\"latitude\": 33.7671923, \"longitude\": -84.40537119999999}, \"phones\": [{\"number\": \"(404) 524-2704\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Tuesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"14:00\", \"closes_at\": \"18:00\"}, {\"weekday\": \"Saturday\", \"opens_at\": \"12:30\", \"closes_at\": \"15:30\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:41.738159"
+}

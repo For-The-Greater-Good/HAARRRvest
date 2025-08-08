@@ -1,0 +1,8 @@
+{
+  "content": "{\"name\": \"WESTFIELD FOOD PANTRY\", \"alternate_name\": \"\", \"description\": \"Requires referral from Social Services\", \"email\": \"\", \"url\": null, \"status\": \"active\", \"address\": {\"address_1\": \"315 1st Street\", \"address_2\": \"\", \"city\": \"Westfield\", \"state_province\": \"NJ\", \"postal_code\": \"07090\", \"country\": \"US\"}, \"location\": {\"latitude\": 40.6473628, \"longitude\": -74.34898729999999}, \"phones\": [{\"number\": \"(908) 232-8137\", \"type\": \"voice\"}], \"regular_schedule\": [{\"weekday\": \"Monday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Tuesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Wednesday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Thursday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}, {\"weekday\": \"Friday\", \"opens_at\": \"13:30\", \"closes_at\": \"15:00\"}], \"service_attributes\": [{\"attribute_key\": \"REQUIREMENT\", \"attribute_value\": \"Social Services referral required\"}]}",
+  "metadata": {
+    "scraper_id": "food_helpline_org",
+    "source": "food_helpline_org"
+  },
+  "timestamp": "2025-08-08T05:09:36.737963"
+}
