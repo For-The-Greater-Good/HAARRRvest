@@ -3,10 +3,10 @@
 <!-- HARVESTER AUTO-GENERATED SECTION START -->
 ## Last Update
 
-- **Date**: 2025-08-06 23:58:07 UTC
-- **Total Records**: 12418
-- **Data Sources**: 24
-- **Date Range**: 2025-07-23 to 2025-08-06
+- **Date**: 2025-08-08 16:00:32 UTC
+- **Total Records**: 2705
+- **Data Sources**: 19
+- **Date Range**: 2025-08-08 to 2025-08-08
 
 ## Data Structure
 
