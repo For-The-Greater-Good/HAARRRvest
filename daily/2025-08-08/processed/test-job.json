@@ -1,0 +1,16 @@
+{
+  "job_id": "test-job",
+  "job": {
+    "id": "test-job",
+    "prompt": "Test prompt",
+    "format": {},
+    "provider_config": {
+      "temperature": 0.5,
+      "max_tokens": 100
+    },
+    "metadata": {},
+    "created_at": "2025-08-08 17:03:57.614898"
+  },
+  "result": "Test response",
+  "error": null
+}
