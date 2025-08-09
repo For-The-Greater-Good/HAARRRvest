@@ -1,12 +1,12 @@
 # Data Statistics
 
-Generated: 2025-08-09 06:45:37 UTC
+Generated: 2025-08-09 06:50:49 UTC
 
 ## Summary
 
-- **Total Records**: 3664
+- **Total Records**: 3875
 - **Sources**: 20
 - **Date Range**: 2025-08-08 to 2025-08-09
 - **Content Store Total**: 955
-- **Content Store Processed**: 742
-- **Content Store Pending**: 213
+- **Content Store Processed**: 953
+- **Content Store Pending**: 2
