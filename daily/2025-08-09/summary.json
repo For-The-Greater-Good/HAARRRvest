@@ -1,11 +1,16 @@
 {
   "date": "2025-08-09",
-  "total_jobs": 50,
+  "total_jobs": 125,
   "scrapers": {
     "unknown": {
       "count": 50,
       "first_job": "2025-08-09T03:43:56.223919",
       "last_job": "2025-08-09T05:56:39.891339"
+    },
+    "food_bank_for_new_york_city_ny": {
+      "count": 75,
+      "first_job": "2025-08-09T06:15:57.263722",
+      "last_job": "2025-08-09T06:16:37.357678"
     }
   },
   "jobs": [
@@ -258,6 +263,381 @@
       "job_id": "test-job",
       "scraper_id": "unknown",
       "timestamp": "2025-08-09T05:56:39.891339"
+    },
+    {
+      "job_id": "1754720153.97114",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:15:57.263722"
+    },
+    {
+      "job_id": "1754720154.960308",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:15:57.742452"
+    },
+    {
+      "job_id": "1754720155.031913",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:15:58.212475"
+    },
+    {
+      "job_id": "1754720156.022646",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:15:58.693857"
+    },
+    {
+      "job_id": "1754720157.085308",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:15:59.555727"
+    },
+    {
+      "job_id": "1754720157.01745",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:00.036947"
+    },
+    {
+      "job_id": "1754720157.010247",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:00.562241"
+    },
+    {
+      "job_id": "1754720157.997747",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:01.057293"
+    },
+    {
+      "job_id": "1754720158.08428",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:01.543566"
+    },
+    {
+      "job_id": "1754720158.986483",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:02.038736"
+    },
+    {
+      "job_id": "1754720160.043366",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:02.527477"
+    },
+    {
+      "job_id": "1754720159.973737",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:03.355576"
+    },
+    {
+      "job_id": "1754720161.105307",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:03.865419"
+    },
+    {
+      "job_id": "1754720162.023742",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:04.733430"
+    },
+    {
+      "job_id": "1754720162.128036",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:05.267154"
+    },
+    {
+      "job_id": "1754720163.103776",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:05.855811"
+    },
+    {
+      "job_id": "1754720163.002852",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:06.332984"
+    },
+    {
+      "job_id": "1754720163.999624",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:06.835709"
+    },
+    {
+      "job_id": "1754720165.092302",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:07.844214"
+    },
+    {
+      "job_id": "1754720165.086143",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:08.316326"
+    },
+    {
+      "job_id": "1754720164.104677",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:08.808933"
+    },
+    {
+      "job_id": "1754720166.169719",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:09.314987"
+    },
+    {
+      "job_id": "1754720166.071689",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:09.849932"
+    },
+    {
+      "job_id": "1754720167.129797",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:10.325278"
+    },
+    {
+      "job_id": "1754720168.119716",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:11.431086"
+    },
+    {
+      "job_id": "1754720169.17471",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:11.905083"
+    },
+    {
+      "job_id": "1754720169.099587",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:12.397951"
+    },
+    {
+      "job_id": "1754720161.030698",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:12.886142"
+    },
+    {
+      "job_id": "1754720169.677465",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:13.383689"
+    },
+    {
+      "job_id": "1754720170.176903",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:13.861930"
+    },
+    {
+      "job_id": "1754720170.686486",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:14.363034"
+    },
+    {
+      "job_id": "1754720171.36715",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:14.839115"
+    },
+    {
+      "job_id": "1754720171.902647",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:15.362600"
+    },
+    {
+      "job_id": "1754720172.891001",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:15.921493"
+    },
+    {
+      "job_id": "1754720172.965079",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:16.400863"
+    },
+    {
+      "job_id": "1754720173.973911",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:16.874927"
+    },
+    {
+      "job_id": "1754720174.989083",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:17.690601"
+    },
+    {
+      "job_id": "1754720175.064537",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:18.166580"
+    },
+    {
+      "job_id": "1754720175.057949",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:18.645219"
+    },
+    {
+      "job_id": "1754720175.561864",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:19.154002"
+    },
+    {
+      "job_id": "1754720176.074293",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:19.628425"
+    },
+    {
+      "job_id": "1754720176.579946",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:20.103296"
+    },
+    {
+      "job_id": "1754720177.056282",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:20.598726"
+    },
+    {
+      "job_id": "1754720177.580862",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:21.074222"
+    },
+    {
+      "job_id": "1754720178.641198",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:21.577441"
+    },
+    {
+      "job_id": "1754720178.571834",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:22.055289"
+    },
+    {
+      "job_id": "1754720179.139603",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:22.554257"
+    },
+    {
+      "job_id": "1754720179.646054",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:23.081927"
+    },
+    {
+      "job_id": "1754720180.6369",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:23.579782"
+    },
+    {
+      "job_id": "1754720181.641206",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:24.068381"
+    },
+    {
+      "job_id": "1754720181.717971",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:24.552857"
+    },
+    {
+      "job_id": "1754720182.721592",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:25.200584"
+    },
+    {
+      "job_id": "1754720182.792377",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:25.674101"
+    },
+    {
+      "job_id": "1754720183.796724",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:26.583384"
+    },
+    {
+      "job_id": "1754720183.713942",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:27.056782"
+    },
+    {
+      "job_id": "1754720184.790077",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:27.677061"
+    },
+    {
+      "job_id": "1754720185.873131",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:28.182458"
+    },
+    {
+      "job_id": "1754720185.781083",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:28.661417"
+    },
+    {
+      "job_id": "1754720186.839417",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:29.590891"
+    },
+    {
+      "job_id": "1754720186.909646",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:30.064486"
+    },
+    {
+      "job_id": "1754720187.909778",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:30.589992"
+    },
+    {
+      "job_id": "1754720187.409623",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:31.098856"
+    },
+    {
+      "job_id": "1754720187.915948",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:31.561759"
+    },
+    {
+      "job_id": "1754720188.410802",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:32.033288"
+    },
+    {
+      "job_id": "1754720188.933334",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:32.567665"
+    },
+    {
+      "job_id": "1754720189.410731",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:33.043278"
+    },
+    {
+      "job_id": "1754720189.914392",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:33.515691"
+    },
+    {
+      "job_id": "1754720190.402592",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:34.021669"
+    },
+    {
+      "job_id": "1754720190.92376",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:34.490789"
+    },
+    {
+      "job_id": "1754720191.899193",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:34.978826"
+    },
+    {
+      "job_id": "1754720191.989234",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:35.458683"
+    },
+    {
+      "job_id": "1754720191.995515",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:35.925672"
+    },
+    {
+      "job_id": "1754720192.536079",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:36.399729"
+    },
+    {
+      "job_id": "1754720193.4569",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:36.881865"
+    },
+    {
+      "job_id": "1754720193.450735",
+      "scraper_id": "food_bank_for_new_york_city_ny",
+      "timestamp": "2025-08-09T06:16:37.357678"
     }
   ]
 }
