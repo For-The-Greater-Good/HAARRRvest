@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4535, \"name\": \"Orrville Loaves & Fishes\", \"nickname\": \"Orrville Loaves & Fishes\", \"address\": \"925 N Elm St\", \"city\": \"Orrville\", \"state\": \"OH\", \"zip\": \"44667\", \"phone\": \"330-682-3686\", \"latitude\": 40.85111, \"longitude\": -81.77433, \"estimated_distance\": 891.66, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8334, \"name\": \"Pantry\", \"address\": \"925 N Elm St\", \"city\": \"Orrville\", \"state\": \"OH\", \"zip\": \"44667\", \"latitude\": 40.8485286, \"longitude\": -81.7744045, \"event_details\": \"Regular Hours - Last Monday from 5:30-7pm\", \"estimated_distance\": 891.66, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360003, \"event_id\": 8334, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7 PM\", \"date\": \"2025-08-25\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:01.612476"
+}

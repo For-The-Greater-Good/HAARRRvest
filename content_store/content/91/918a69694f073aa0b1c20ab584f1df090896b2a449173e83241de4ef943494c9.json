@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 447, \"name\": \"Sardis Manna\", \"nickname\": \"Sardis Manna\", \"address\": \"37240 5TH AVE\", \"city\": \"SARDIS\", \"state\": \"OH\", \"zip\": \"43946\", \"phone\": \"740-483-1734\", \"latitude\": 39.62268, \"longitude\": -80.91141, \"estimated_distance\": 943.01, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 617, \"name\": \"Sardis Manna Food Pantry\", \"address\": \"37240 5TH AVE\", \"city\": \"SARDIS\", \"state\": \"OH\", \"zip\": \"43946\", \"latitude\": 39.62266755, \"longitude\": -80.910236, \"event_details\": \"\", \"estimated_distance\": 943.01, \"exception_note\": \"Monroe Co., Riverfront\", \"event_dates\": [{\"id\": 354341, \"event_id\": 617, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-08-27\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:58.197841"
+}

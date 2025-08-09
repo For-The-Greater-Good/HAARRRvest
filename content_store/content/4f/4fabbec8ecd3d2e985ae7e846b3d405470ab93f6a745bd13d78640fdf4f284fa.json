@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2967, \"name\": \"St.Paul United Methodist Church Pantry\", \"nickname\": \"St.Paul UMC Pantry\", \"address\": \"746 CHERRY ST\", \"city\": \"GALION\", \"state\": \"OH\", \"zip\": \"44833\", \"phone\": \"419-566-1786\", \"latitude\": 40.73245, \"longitude\": -82.80096, \"estimated_distance\": 837.7, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4686, \"name\": \"Pantry\", \"address\": \"746 CHERRY ST\", \"city\": \"GALION\", \"state\": \"OH\", \"zip\": \"44833\", \"latitude\": 40.7324864, \"longitude\": -82.8024511, \"event_details\": \"\", \"estimated_distance\": 837.7, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355989, \"event_id\": 4686, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:59.888375"
+}

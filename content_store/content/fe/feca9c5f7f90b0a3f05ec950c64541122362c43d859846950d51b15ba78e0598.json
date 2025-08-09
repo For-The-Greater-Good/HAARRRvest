@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 359, \"name\": \"Shadyside Fellowship Pantry\", \"nickname\": \"Shadyside Pantry\", \"address\": \"3838 LINCOLN AVE\", \"city\": \"SHADYSIDE\", \"state\": \"OH\", \"zip\": \"43947\", \"phone\": \"740-338-8278\", \"latitude\": 39.97195, \"longitude\": -80.74587, \"estimated_distance\": 949.27, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 508, \"name\": \"Shadyside Food Pantry\", \"address\": \"3838 LINCOLN AVE\", \"city\": \"SHADYSIDE\", \"state\": \"OH\", \"zip\": \"43947\", \"latitude\": 39.97188927, \"longitude\": -80.74599822, \"event_details\": \"\", \"estimated_distance\": 949.27, \"exception_note\": \"Shadyside School District\", \"event_dates\": [{\"id\": 360819, \"event_id\": 508, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-21\"}, {\"id\": 360820, \"event_id\": 508, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-21\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:57.986079"
+}

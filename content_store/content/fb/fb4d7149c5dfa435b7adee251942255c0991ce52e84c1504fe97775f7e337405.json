@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3604, \"name\": \"Original Church of God\", \"nickname\": \"Original Church of God\", \"address\": \"512 EDWARD AVE\", \"city\": \"ELYRIA\", \"state\": \"OH\", \"zip\": \"44035\", \"phone\": \"440-458-6001\", \"latitude\": 41.34365, \"longitude\": -82.10281, \"estimated_distance\": 874.6, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6317, \"name\": \"Original Church Hot Meal\", \"address\": \"512 EDWARD AVE\", \"city\": \"ELYRIA\", \"state\": \"OH\", \"zip\": \"44035\", \"latitude\": 41.34353719, \"longitude\": -82.10317401, \"event_details\": \"Call site to verify hours of operation\", \"estimated_distance\": 874.6, \"exception_note\": \"\", \"event_dates\": [{\"id\": 356654, \"event_id\": 6317, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-14\"}, {\"id\": 363811, \"event_id\": 6317, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:00.343242"
+}

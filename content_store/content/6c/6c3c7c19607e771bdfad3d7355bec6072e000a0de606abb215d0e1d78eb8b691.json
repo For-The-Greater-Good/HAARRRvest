@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1099, \"name\": \"Grace United Church of Christ - Canton\", \"nickname\": \"Grace UCC Canton\", \"address\": \"2300 Cleveland Ave NW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44709\", \"phone\": \"330-454-9748\", \"latitude\": 40.82316, \"longitude\": -81.38322, \"estimated_distance\": 912.25, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1585, \"name\": \"Pantry\", \"address\": \"2300 Cleveland Ave NW\", \"city\": \"Canton\", \"state\": \"OH\", \"zip\": \"44709\", \"latitude\": 40.8234686, \"longitude\": -81.3833489, \"event_details\": \"Regular Hours - 2nd Saturday from 10-12pm\", \"estimated_distance\": 912.25, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359092, \"event_id\": 1585, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-09\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:59.075621"
+}

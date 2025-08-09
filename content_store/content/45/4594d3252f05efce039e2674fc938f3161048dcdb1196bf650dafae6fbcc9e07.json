@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 1300, \"name\": \"Woodsfield Manna, SOMA\", \"nickname\": \"SOMA\", \"address\": \"303 S MAIN ST\", \"city\": \"WOODSFIELD\", \"state\": \"OH\", \"zip\": \"43793\", \"phone\": \"740-472-0365\", \"latitude\": 39.75766, \"longitude\": -81.11874, \"estimated_distance\": 930.94, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1890, \"name\": \"Pantry\", \"address\": \"303 S MAIN ST\", \"city\": \"WOODSFIELD\", \"state\": \"OH\", \"zip\": \"43793\", \"latitude\": 39.75899112, \"longitude\": -81.11799853, \"event_details\": \"\", \"estimated_distance\": 930.94, \"exception_note\": \"\", \"event_dates\": [{\"id\": 354347, \"event_id\": 1890, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-13\"}, {\"id\": 354348, \"event_id\": 1890, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-20\"}, {\"id\": 354349, \"event_id\": 1890, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-27\"}, {\"id\": 361529, \"event_id\": 1890, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:59.185126"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 583, \"name\": \"ST AUGUSTINE & GABRIEL/ST.VINCENT DEPAUL\", \"nickname\": \"ST AUGUSTINE & GABRIEL/ST.VINCENT DEPAUL\", \"address\": \"1550 E HUDSON ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43211\", \"phone\": \"614-975-8537\", \"latitude\": 40.01379, \"longitude\": -82.96845, \"estimated_distance\": 831.09, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 782, \"name\": \"Gus and Gabe Pantry\", \"address\": \"1550 E HUDSON ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43211\", \"latitude\": 40.01379892, \"longitude\": -82.9684542, \"event_details\": \"\", \"estimated_distance\": 831.09, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355349, \"event_id\": 782, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10:30 AM\", \"end_time\": \"12:30 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:58.518964"
+}

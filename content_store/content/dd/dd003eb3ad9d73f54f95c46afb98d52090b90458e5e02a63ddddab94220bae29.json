@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 120, \"name\": \"Delaware City Vineyard\", \"nickname\": \"FEED Food Pantry\", \"address\": \"32 Troy Rd STE 3\", \"city\": \"DELAWARE\", \"state\": \"OH\", \"zip\": \"43015\", \"phone\": \"740-362-6383\", \"latitude\": 40.28575, \"longitude\": -83.06873, \"estimated_distance\": 824.66, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 176, \"name\": \"Pantry\", \"address\": \"32 Troy Rd STE 3\", \"city\": \"DELAWARE\", \"state\": \"OH\", \"zip\": \"43015\", \"latitude\": 40.2861106, \"longitude\": -83.0680595, \"event_details\": \"More information can be found at delawarecityvineyard.org\", \"estimated_distance\": 824.66, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361063, \"event_id\": 176, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-11\"}, {\"id\": 361064, \"event_id\": 176, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-25\"}, {\"id\": 368183, \"event_id\": 176, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-09-08\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:57.668367"
+}

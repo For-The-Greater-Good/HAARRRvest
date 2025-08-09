@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3754, \"name\": \"John Knox Presbyterian Church\", \"nickname\": \"John Knox\", \"address\": \"5155 Eastlake St NW\", \"city\": \"North Canton\", \"state\": \"OH\", \"zip\": \"44720\", \"phone\": \"330-494-9479\", \"latitude\": 40.87047, \"longitude\": -81.44337, \"estimated_distance\": 909.0, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6726, \"name\": \"Pantry\", \"address\": \"5155 Eastlake St NW\", \"city\": \"North Canton\", \"state\": \"OH\", \"zip\": \"44720\", \"latitude\": 40.87139739, \"longitude\": -81.44384045, \"event_details\": \"Regular Hours - 3rd Saturday from 9-12pm\", \"estimated_distance\": 909.0, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359503, \"event_id\": 6726, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:00.725709"
+}

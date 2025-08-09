@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3879, \"name\": \"Freeport Food Pantry\", \"nickname\": \"Freeport Food Pantry\", \"address\": \"79030 FREEPORT TIPPECANOE RD\", \"city\": \"TIPPECANOE\", \"state\": \"OH\", \"zip\": \"44699\", \"phone\": \"\", \"latitude\": 40.24247, \"longitude\": -81.25006, \"estimated_distance\": 921.01, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6914, \"name\": \"Pantry\", \"address\": \"79030 FREEPORT TIPPECANOE RD\", \"city\": \"TIPPECANOE\", \"state\": \"OH\", \"zip\": \"44699\", \"latitude\": 40.2427768, \"longitude\": -81.2514908, \"event_details\": \"\", \"estimated_distance\": 921.01, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358617, \"event_id\": 6914, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-19\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:00.998595"
+}

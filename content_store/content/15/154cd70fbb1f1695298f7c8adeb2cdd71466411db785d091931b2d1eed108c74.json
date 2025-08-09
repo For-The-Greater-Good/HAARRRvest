@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4427, \"name\": \"Queen of Heaven Church Labre Program\", \"nickname\": \"Queen of Heaven\", \"address\": \"55 N. Broad St.\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44305\", \"phone\": \"330-327-0301\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 906.5, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8086, \"name\": \"Meal\", \"address\": \"800 E Market St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44305\", \"latitude\": 41.0745173, \"longitude\": -81.4935347, \"event_details\": \"Regular Hours - Thursdays from 4-5pm\", \"estimated_distance\": 906.25, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360168, \"event_id\": 8086, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-14\"}, {\"id\": 360169, \"event_id\": 8086, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-21\"}, {\"id\": 360170, \"event_id\": 8086, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-08-28\"}, {\"id\": 367335, \"event_id\": 8086, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"5 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 25, \"service_category_name\": \"Meal\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:01.545440"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 751, \"name\": \"Life Link Food Pantry\", \"nickname\": \"Life Link Food Pantry\", \"address\": \"248 OLNEY AVE\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"phone\": \"740-789-0703\", \"latitude\": 40.58591, \"longitude\": -83.13766, \"estimated_distance\": 820.23, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 1058, \"name\": \"Pantry\", \"address\": \"248 OLNEY AVE\", \"city\": \"MARION\", \"state\": \"OH\", \"zip\": \"43302\", \"latitude\": 40.58542785, \"longitude\": -83.13754494, \"event_details\": \"By appointment Only. Please call 740-789-0703 and leave a message with the requested information. You will receive a call back to schedule an appointment.\", \"estimated_distance\": 820.23, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361036, \"event_id\": 1058, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"6:45 PM\", \"date\": \"2025-08-13\"}, {\"id\": 361037, \"event_id\": 1058, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"6:45 PM\", \"date\": \"2025-08-27\"}, {\"id\": 361038, \"event_id\": 1058, \"capacity\": 100, \"accept_walkin\": 0, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"12:45 PM\", \"date\": \"2025-08-24\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:58.759200"
+}

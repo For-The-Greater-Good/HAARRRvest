@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 284, \"name\": \"Eagle Ministries Chapel, Inc.\", \"nickname\": \"Eagle Ministries\", \"address\": \"830 Rood Dr\", \"city\": \"Coventry Township\", \"state\": \"OH\", \"zip\": \"44319\", \"phone\": \"330-753-5700\", \"latitude\": 41.01597, \"longitude\": -81.55551, \"estimated_distance\": 903.08, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 401, \"name\": \"Pantry\", \"address\": \"830 Rood Dr\", \"city\": \"Coventry Township\", \"state\": \"OH\", \"zip\": \"44319\", \"latitude\": 41.01615429, \"longitude\": -81.55440607, \"event_details\": \"Regular Hours - 1st and 3rd Thursday from 5-6:30pm\", \"estimated_distance\": 903.08, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358895, \"event_id\": 401, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-08-21\"}, {\"id\": 366057, \"event_id\": 401, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5 PM\", \"end_time\": \"6:30 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:57.812755"
+}

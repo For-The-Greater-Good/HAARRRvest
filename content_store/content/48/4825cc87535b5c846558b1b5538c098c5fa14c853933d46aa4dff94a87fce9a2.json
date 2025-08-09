@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3396, \"name\": \"Zion Christian Assembly\", \"nickname\": \"Zion Christian Assembly\", \"address\": \"6930 Motts Place Rd.\", \"city\": \"CANAL WINCHESTER\", \"state\": \"OH\", \"zip\": \"43110\", \"phone\": \"614-537-1785\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 839.71, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5498, \"name\": \"Pantry\", \"address\": \"6930 Motts Place Rd.\", \"city\": \"CANAL WINCHESTER\", \"state\": \"OH\", \"zip\": \"43110\", \"latitude\": 39.90735617, \"longitude\": -82.8168606, \"event_details\": \"Only 211 reservations are accepted.  Please call  2-1-1 to set up an appointment.\", \"estimated_distance\": 839.71, \"exception_note\": \"\", \"event_dates\": [{\"id\": 362845, \"event_id\": 5498, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"8 AM\", \"end_time\": \"10 AM\", \"date\": \"2025-09-06\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:00.011226"
+}

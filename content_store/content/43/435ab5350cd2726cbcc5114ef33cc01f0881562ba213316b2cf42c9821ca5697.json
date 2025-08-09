@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3662, \"name\": \"Rooted In Christ Community Church\", \"nickname\": \"Rooted In Christ\", \"address\": \"916 Patterson Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"phone\": \"330-376-7533\", \"latitude\": 41.11041, \"longitude\": -81.5024, \"estimated_distance\": 905.78, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6533, \"name\": \"Pantry\", \"address\": \"916 Patterson Ave\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44310\", \"latitude\": 41.11041431, \"longitude\": -81.5024061, \"event_details\": \"Regular Hours - 4th Friday from 4-6pm | Residents of 44310 zip code | Please call 330-376-7533 for an appointment one week prior to distribution\", \"estimated_distance\": 905.78, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360180, \"event_id\": 6533, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"4 PM\", \"end_time\": \"6 PM\", \"date\": \"2025-08-22\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:00.457732"
+}

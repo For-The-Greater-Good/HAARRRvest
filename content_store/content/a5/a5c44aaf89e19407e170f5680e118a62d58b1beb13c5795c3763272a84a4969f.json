@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3823, \"name\": \"Bradfield Community Center\", \"nickname\": \"Bradfield Community Center\", \"address\": \"550 S COLLETT ST\", \"city\": \"LIMA\", \"state\": \"OH\", \"zip\": \"45805\", \"phone\": \"4192287766\", \"latitude\": 40.73413, \"longitude\": -84.11955, \"estimated_distance\": 768.34, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6820, \"name\": \"Pantry\", \"address\": \"550 S COLLETT ST\", \"city\": \"LIMA\", \"state\": \"OH\", \"zip\": \"45805\", \"latitude\": 40.73413919, \"longitude\": -84.11955537, \"event_details\": \"\", \"estimated_distance\": 768.34, \"exception_note\": \"\", \"event_dates\": [{\"id\": 358143, \"event_id\": 6820, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-14\"}, {\"id\": 358144, \"event_id\": 6820, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-21\"}, {\"id\": 358145, \"event_id\": 6820, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-28\"}, {\"id\": 365312, \"event_id\": 6820, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:00.955630"
+}

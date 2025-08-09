@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 106, \"name\": \"St John's Food Pantry\", \"nickname\": \"St John's Food Pantry\", \"address\": \"640 S OHIO AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43205\", \"phone\": \"614-252-5926 X108\", \"latitude\": 39.95189, \"longitude\": -82.97092, \"estimated_distance\": 831.26, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 161, \"name\": \"Pantry\", \"address\": \"640 S OHIO AVE\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43205\", \"latitude\": 39.95200858, \"longitude\": -82.97122201, \"event_details\": \"\", \"estimated_distance\": 831.26, \"exception_note\": \"\", \"event_dates\": [{\"id\": 355807, \"event_id\": 161, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-14\"}, {\"id\": 355808, \"event_id\": 161, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-21\"}, {\"id\": 355809, \"event_id\": 161, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-08-28\"}, {\"id\": 362952, \"event_id\": 161, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"10:30 AM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:57.644287"
+}

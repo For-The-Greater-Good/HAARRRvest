@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 5021, \"name\": \"Christ Woodland UMC\", \"nickname\": \"Christ Woodland UMC\", \"address\": \"444 N. HawkinsAve\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44313\", \"phone\": \"(330)836-9777\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 902.26, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 9341, \"name\": \"Pantry\", \"address\": \"444 N. HawkinsAve\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44313\", \"latitude\": 41.12283769, \"longitude\": -81.56981913, \"event_details\": \"Regular Hours - Wednesdays from 10 am - 1 pm\", \"estimated_distance\": 902.26, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361109, \"event_id\": 9341, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-13\"}, {\"id\": 361110, \"event_id\": 9341, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-20\"}, {\"id\": 361111, \"event_id\": 9341, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-27\"}, {\"id\": 368226, \"event_id\": 9341, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:02.117670"
+}

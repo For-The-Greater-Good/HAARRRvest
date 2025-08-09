@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3587, \"name\": \"BeTheChurch Ministry Inc.\", \"nickname\": \"BeTheChurch Ministry\", \"address\": \"1250 Edison St NW\", \"city\": \"Hartville\", \"state\": \"OH\", \"zip\": \"44632\", \"phone\": \"330-696-2763\", \"latitude\": 41.02054, \"longitude\": -81.58469, \"estimated_distance\": 901.48, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6261, \"name\": \"Pantry\", \"address\": \"1250 Edison St NW\", \"city\": \"Hartville\", \"state\": \"OH\", \"zip\": \"44632\", \"latitude\": 41.01932093, \"longitude\": -81.58487592, \"event_details\": \"Regular Hours - Thursdays from 5:30-7:30pm\", \"estimated_distance\": 901.48, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359803, \"event_id\": 6261, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7:30 PM\", \"date\": \"2025-08-14\"}, {\"id\": 359804, \"event_id\": 6261, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7:30 PM\", \"date\": \"2025-08-21\"}, {\"id\": 359805, \"event_id\": 6261, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7:30 PM\", \"date\": \"2025-08-28\"}, {\"id\": 366969, \"event_id\": 6261, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"5:30 PM\", \"end_time\": \"7:30 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:00.286177"
+}

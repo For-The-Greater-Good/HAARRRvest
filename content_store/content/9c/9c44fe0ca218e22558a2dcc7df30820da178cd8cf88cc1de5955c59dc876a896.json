@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4708, \"name\": \"TOSM\", \"nickname\": \"TOSM wk 2\", \"address\": \"209 2nd St SW\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"phone\": \"\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 904.87, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8695, \"name\": \"Pantry\", \"address\": \"209 2nd St SW\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"latitude\": 40.7937415, \"longitude\": -81.5245496, \"event_details\": \"Regular Hours - 1st and 2nd Wednesdays from 10-11am | Parking lot across from St. James\", \"estimated_distance\": 904.87, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360487, \"event_id\": 8695, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-13\"}, {\"id\": 367616, \"event_id\": 8695, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:01.981328"
+}

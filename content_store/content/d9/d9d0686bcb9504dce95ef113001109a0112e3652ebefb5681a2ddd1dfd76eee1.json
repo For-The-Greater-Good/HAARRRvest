@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 5025, \"name\": \"Mt Sterling UMC\", \"nickname\": \"Mt Sterling UMC\", \"address\": \"8185 Hopewell National Rd\", \"city\": \"ZANESVILLE\", \"state\": \"OH\", \"zip\": \"43701\", \"phone\": \"7404548674\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 875.09, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 9348, \"name\": \"Pantry\", \"address\": \"8185 Hopewell National Rd\", \"city\": \"ZANESVILLE\", \"state\": \"OH\", \"zip\": \"43701\", \"latitude\": 39.9568361, \"longitude\": -82.1453824, \"event_details\": \"\", \"estimated_distance\": 875.09, \"exception_note\": \"\", \"event_dates\": [{\"id\": 361191, \"event_id\": 9348, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-14\"}, {\"id\": 361192, \"event_id\": 9348, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 1, \"start_time\": \"1 PM\", \"end_time\": \"3 PM\", \"date\": \"2025-08-28\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:02.128027"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2966, \"name\": \"Lagrange Lions Community Foundation\", \"nickname\": \"Lagrange Lions Community Foundation\", \"address\": \"240 GLENDALE ST\", \"city\": \"LAGRANGE\", \"state\": \"OH\", \"zip\": \"44050\", \"phone\": \"440-785-1996\", \"latitude\": 41.23571, \"longitude\": -82.12262, \"estimated_distance\": 873.45, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4685, \"name\": \"Pantry\", \"address\": \"240 GLENDALE ST\", \"city\": \"LAGRANGE\", \"state\": \"OH\", \"zip\": \"44050\", \"latitude\": 41.23589064, \"longitude\": -82.12201111, \"event_details\": \"Serving Keystone School District\", \"estimated_distance\": 873.45, \"exception_note\": \"\", \"event_dates\": [{\"id\": 363321, \"event_id\": 4685, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-09-06\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:59.881153"
+}

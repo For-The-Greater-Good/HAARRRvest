@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 4598, \"name\": \"Believer's Assembly Church\", \"nickname\": \"Believer's Assembly Church\", \"address\": \"131 Church St N\", \"city\": \"Beach City\", \"state\": \"OH\", \"zip\": \"44608\", \"phone\": \"330-756-2900\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 902.29, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 8505, \"name\": \"Pantry\", \"address\": \"131 Church St N\", \"city\": \"Beach City\", \"state\": \"OH\", \"zip\": \"44608\", \"latitude\": 40.654802, \"longitude\": -81.5788, \"event_details\": \"Regular Hours - 2nd to the last Saturday from 10-12pm\", \"estimated_distance\": 902.29, \"exception_note\": \"\", \"event_dates\": [{\"id\": 359807, \"event_id\": 8505, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"12 PM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:01.785611"
+}

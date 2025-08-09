@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 707, \"name\": \"Church Triumphant\", \"nickname\": \"Church Triumphant\", \"address\": \"1001 Vera Place\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43204\", \"phone\": \"123\", \"latitude\": 39.95998, \"longitude\": -83.01801, \"estimated_distance\": 828.74, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 985, \"name\": \"Pantry\", \"address\": \"1001 VERA PL\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43204\", \"latitude\": 39.9749912, \"longitude\": -83.086659, \"event_details\": \"\", \"estimated_distance\": 825.01, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360538, \"event_id\": 985, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-12\"}, {\"id\": 360539, \"event_id\": 985, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-26\"}, {\"id\": 367666, \"event_id\": 985, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-09-09\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:58.709789"
+}

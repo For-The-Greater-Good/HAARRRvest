@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 478, \"name\": \"Second Harvest Food Bank of NCO- LORAIN CO\", \"nickname\": \"Second Harvest - NCO\", \"address\": \"5510 BAUMHART RD\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44053\", \"phone\": \"440.960.2265\", \"latitude\": 41.42306, \"longitude\": -82.28148, \"estimated_distance\": 865.5, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 5564, \"name\": \"Black River Landing\", \"address\": \"421 BLACK RIVER RD\", \"city\": \"LORAIN\", \"state\": \"OH\", \"zip\": \"44052\", \"latitude\": 41.45939565, \"longitude\": -82.16833489, \"event_details\": \"No more than 2 families will be served per vehicle. Please clean out your trunk so we can safely load your groceries. If your trunk is dirty or full, you will need to load your own vehicle; we do not load passenger or back seats.\\n By providing your name, address, and other household information during FreshTrak registration and/or on-site at Second Harvest distributions, you are self-declaring that you are income-eligible to receive food service.\", \"estimated_distance\": 871.45, \"exception_note\": \"\", \"event_dates\": [], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:58.291735"
+}

@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2752, \"name\": \"Hope Center @ Magnetic Springs\", \"nickname\": \"Magnetic Springs\", \"address\": \"30 Magnetic St Magnetic Springs OH\", \"city\": \"MARYSVILLE\", \"state\": \"OH\", \"zip\": \"43040\", \"phone\": \"937-303-4209\", \"latitude\": 0.0, \"longitude\": 0.0, \"estimated_distance\": 814.18, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4373, \"name\": \"Mobile Market\", \"address\": \"30 Magnetic St Magnetic Springs OH\", \"city\": \"MARYSVILLE\", \"state\": \"OH\", \"zip\": \"43040\", \"latitude\": 40.35502376, \"longitude\": -83.26197964, \"event_details\": \"\", \"estimated_distance\": 814.18, \"exception_note\": \"\", \"event_dates\": [{\"id\": 363019, \"event_id\": 4373, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"11 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-09-03\"}], \"service_category\": {\"id\": 20, \"service_category_name\": \"Produce\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:59.801903"
+}

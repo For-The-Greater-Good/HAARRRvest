@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3507, \"name\": \"SAM Center\", \"nickname\": \"SAM'S\", \"address\": \"413 Lincoln Way E\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"phone\": \"330-956-6162\", \"latitude\": 40.79786, \"longitude\": -81.51789, \"estimated_distance\": 905.23, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6118, \"name\": \"Pantry\", \"address\": \"413 Lincoln Way E\", \"city\": \"Massillon\", \"state\": \"OH\", \"zip\": \"44646\", \"latitude\": 40.7979351, \"longitude\": -81.5176572, \"event_details\": \"Regular Hours - 2nd Wednesday from 9-11am\", \"estimated_distance\": 905.23, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360751, \"event_id\": 6118, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-11\"}, {\"id\": 367874, \"event_id\": 6118, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"9 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-09-08\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:00.095915"
+}

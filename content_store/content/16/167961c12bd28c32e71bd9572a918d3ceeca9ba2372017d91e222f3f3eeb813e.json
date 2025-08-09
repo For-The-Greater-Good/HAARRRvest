@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 2771, \"name\": \"St.Patrick Helping Hands\", \"nickname\": \"St.Patrick Helping Hands\", \"address\": \"512 N MAIN ST\", \"city\": \"WELLINGTON\", \"state\": \"OH\", \"zip\": \"44090\", \"phone\": \"440-647-4375 ext. 53\", \"latitude\": 41.17495, \"longitude\": -82.21726, \"estimated_distance\": 868.54, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 4418, \"name\": \"Pantry\", \"address\": \"510 N MAIN ST\", \"city\": \"WELLINGTON\", \"state\": \"OH\", \"zip\": \"44090\", \"latitude\": 41.17448552, \"longitude\": -82.21728167, \"event_details\": \"Service dates are the 3rd Saturday and the Tuesday following the 3rd Saturday.\", \"estimated_distance\": 868.4, \"exception_note\": \"Serving residents with a 44090 zip code. Please call the site to verify days and hours of operations 440-647-4375.\", \"event_dates\": [{\"id\": 356210, \"event_id\": 4418, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"1 PM\", \"date\": \"2025-08-16\"}, {\"id\": 356211, \"event_id\": 4418, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"6 PM\", \"end_time\": \"8 PM\", \"date\": \"2025-08-26\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:59.814822"
+}

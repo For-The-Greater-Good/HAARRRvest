@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 708, \"name\": \"Franklin Station Food Pantry\", \"nickname\": \"Franklin Station Food Pantry\", \"address\": \"524 W BROAD ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43215\", \"phone\": \"614-622-1020 Ext.5123\", \"latitude\": 39.96048, \"longitude\": -83.01542, \"estimated_distance\": 828.93, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 987, \"name\": \"Pantry\", \"address\": \"524 W BROAD ST\", \"city\": \"COLUMBUS\", \"state\": \"OH\", \"zip\": \"43215\", \"latitude\": 39.96062234, \"longitude\": -83.01438026, \"event_details\": \"\", \"estimated_distance\": 828.93, \"exception_note\": \"Residents Only\", \"event_dates\": [{\"id\": 354725, \"event_id\": 987, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-14\"}, {\"id\": 354726, \"event_id\": 987, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-21\"}, {\"id\": 354727, \"event_id\": 987, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-08-28\"}, {\"id\": 361887, \"event_id\": 987, \"capacity\": 10, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"12 PM\", \"end_time\": \"4 PM\", \"date\": \"2025-09-04\"}], \"service_category\": {\"id\": 10, \"service_category_name\": \"Choice Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:36:58.714312"
+}

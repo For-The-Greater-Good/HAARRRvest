@@ -1,0 +1,8 @@
+{
+  "content": "{\"id\": 3585, \"name\": \"Forever R Children/Pantry\", \"nickname\": \"Forever R Children/Pantry\", \"address\": \"896 WICKET DR\", \"city\": \"AKRON\", \"state\": \"OH\", \"zip\": \"44307\", \"phone\": \"330-714-0259\", \"latitude\": 41.06932, \"longitude\": -81.53566, \"estimated_distance\": 904.05, \"source\": \"freshtrak_api\", \"events\": [{\"id\": 6246, \"name\": \"Pantry\", \"address\": \"69 S Balch St\", \"city\": \"Akron\", \"state\": \"OH\", \"zip\": \"44307\", \"latitude\": 41.0905646, \"longitude\": -81.5342381, \"event_details\": \"Regular Hours - 3rd Saturday from 10-2pm on 69 S Balch St | 3rd Saturday on the corner of Copley Rd and Nome from 12-1pm\", \"estimated_distance\": 904.12, \"exception_note\": \"\", \"event_dates\": [{\"id\": 360114, \"event_id\": 6246, \"capacity\": 100, \"accept_walkin\": 1, \"accept_reservations\": 0, \"accept_interest\": 0, \"start_time\": \"10 AM\", \"end_time\": \"11 AM\", \"date\": \"2025-08-16\"}], \"service_category\": {\"id\": 15, \"service_category_name\": \"Prepack Pantry\"}}]}",
+  "metadata": {
+    "scraper_id": "freshtrak",
+    "source": "freshtrak"
+  },
+  "timestamp": "2025-08-09T06:37:00.276020"
+}
