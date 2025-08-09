@@ -1,11 +1,11 @@
 {
   "date": "2025-08-09",
-  "total_jobs": 37,
+  "total_jobs": 50,
   "scrapers": {
     "unknown": {
-      "count": 37,
+      "count": 50,
       "first_job": "2025-08-09T03:43:56.223919",
-      "last_job": "2025-08-09T05:51:47.716105"
+      "last_job": "2025-08-09T05:56:39.891339"
     }
   },
   "jobs": [
@@ -193,6 +193,71 @@
       "job_id": "test-job",
       "scraper_id": "unknown",
       "timestamp": "2025-08-09T05:51:47.716105"
+    },
+    {
+      "job_id": "1754718988.742234",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:29.798921"
+    },
+    {
+      "job_id": "1754718989.074416",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:30.379371"
+    },
+    {
+      "job_id": "1754718989.316963",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:30.838136"
+    },
+    {
+      "job_id": "1754718989.317938",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:31.562537"
+    },
+    {
+      "job_id": "1754718989.319611",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:31.976634"
+    },
+    {
+      "job_id": "1754718989.318748",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:32.439950"
+    },
+    {
+      "job_id": "1754718989.561903",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:32.968576"
+    },
+    {
+      "job_id": "1754718989.563017",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:33.489175"
+    },
+    {
+      "job_id": "1754718989.563872",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:34.014672"
+    },
+    {
+      "job_id": "ee22b6ec-303f-4b1c-860e-743836192aea",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:38.450100"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:38.905486"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:39.433437"
+    },
+    {
+      "job_id": "test-job",
+      "scraper_id": "unknown",
+      "timestamp": "2025-08-09T05:56:39.891339"
     }
   ]
 }
