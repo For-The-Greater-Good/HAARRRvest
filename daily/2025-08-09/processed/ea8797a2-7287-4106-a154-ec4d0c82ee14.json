@@ -1,0 +1,22 @@
+{
+  "job_id": "ea8797a2-7287-4106-a154-ec4d0c82ee14",
+  "job": {
+    "id": "ea8797a2-7287-4106-a154-ec4d0c82ee14",
+    "prompt": "Test prompt",
+    "format": {
+      "type": "object",
+      "properties": {
+        "text": {
+          "type": "string"
+        }
+      }
+    },
+    "provider_config": {
+      "temperature": 0.7
+    },
+    "metadata": {},
+    "created_at": "2025-08-09 06:27:06.519448+00:00"
+  },
+  "result": "Test response",
+  "error": null
+}
